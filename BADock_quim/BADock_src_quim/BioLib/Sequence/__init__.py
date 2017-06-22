@@ -1,1 +1,0 @@
-from FastaParser import *
