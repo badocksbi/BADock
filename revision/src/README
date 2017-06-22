@@ -1,0 +1,131 @@
+
+##############################
+# BADOCK: QUIM PART - README #
+##############################
+
+Original content from Manu: /home/manuel/Binding_Mechanisms-affinity_Docking/
+
+
+
+REVIEWER 2 - QUESTION 2
+-----------------------
+
+1. Check that you have access to the folder "BADock/workspace/Binding_Mechanisms_Docking/benchmark5_jobs"
+
+2. Execute the script:
+
+   (execute it from "BADock_src_quim" because you need to import the library BioLib)
+
+   -i --> path to the file "DBM5.txt" (it is saved in "db" folder)
+   -j --> path to the folder "benchmark5_jobs"
+
+   $> python BADock/src/Binding_Mechanism_Docking/analyze_scores.py -i BADock/db/DockingBenchmark5/DBM5.txt -j BADock/workspace/Binding_Mechanisms_Docking/benchmark5_jobs -v
+
+4. Output:
+
+   - It will print the number of decoys for each class and the total number in the screen
+   - scores_locations_E+OX_std_PROOF.txt (If then we execute the script print_score_results.py using this file as input, it would calculate the percentage of each class of decoys. Anyway, it is not necessary)
+
+
+
+REVIEWER 1 - QUESTION 6
+-----------------------
+
+1. Check that you have access to the folder BADock/workspace/Binding_Affinity_Docking/ba_jobs
+
+2. Change the paths and parameters of the script "affinity_analysis_R1Q6.py"
+
+   (if you execute the script from "BADock_src_quim", you do not need to change line 21, 27 and 74)
+
+   - Line 20: Introduce the path of the folder "ba_jobs"
+   - Line 21: Introduce the path to the folder "BADock_src_quim/db"
+   - Line 27: Introduce the path were we want to save the resulting images (without '/' at the end)
+   - Line 28: Introduce the distance threshold to the regression line that we use to select the best scores
+   - Line 74: Introduce the path to the file "scores_native.txt" which is inside "BADock_src_quim/db"
+
+3. Execute the script:
+
+   $> python affinity_analysis_R1Q6.py
+
+4. Outputs:
+
+   - BA_ES3DC_Docking_scatter_filt.eps 										--> Figure_R1-Q6-1.eps
+   - BA_ES3DC_Docking_scores_vs_dG_(distance_threshold).eps 				--> Figure_R1-Q6-(2/4/6).eps
+   - BA_ES3DC_Docking_scatter_filt_points_removed_(distance_threshold).eps 	--> Figure_R1-Q6-(3/5/7).eps
+
+   - BA_ES3DC_Docking_scores_vs_dG_points_removed_(distance_threshold).eps 	--> Scatter plot scores vs. dGexp where the points that do not meet the threshold are removed
+   - BA_ES3DC_Docking.eps 													--> Density plot without selecting the best scores
+   - BA_ES3DC_Docking_density_points_removed_(distance_threshold).eps 		--> Density plot selecting the best scores using a given distance threshold
+
+
+
+REVIEWER 3 - QUESTION 3 / QUESTION 11
+-------------------------------------
+
+1. Change the paths of the script "CCharPPI_affinityparse_R3.py"
+
+   (if you execute the script from "BADock_src_quim", you do not need to change line 20 and 22)
+
+   - Line 20: Introduce the path to the folder "BADock_src_quim/db"
+   - Line 22: Introduce the path were we want to save the resulting files (without '/' at the end)
+   - Line 144: Introduce the path to the file "CCharPPI_AffinityBenchmark.csv" which is inside "BADock_src_quim/db"
+
+2. Change the paths of the script "affinity_analysis_R3.py"
+
+   (if you execute the script from "BADock_src_quim", you do not need to change line 22, 24 and 81)
+
+   - Line 21: Introduce the path of the folder "ba_jobs"
+   - Line 22: Introduce the path to the folder "BADock_src_quim/db"
+   - Line 24: Introduce the path were we want to save the resulting files (without '/' at the end) (same as the path in step 1)
+   - Line 81: Introduce the path to the file "scores_native.txt" which is inside "BADock_src_quim/db"
+
+3. Change the paths of the script "percent_analysis_R3.py"
+
+   (if you execute the script from "BADock_src_quim", you do not need to change line 11)
+
+   - Line 11: Introduce the path were we want to save the resulting files (without '/' at the end) (same as the path in step 1)
+   - Line 239: Change the path to execute R (i.e. /soft/R/R-3.3.0/bin/Rscript in UPF)
+
+4. Execute the scripts:
+
+   - First execute "CCharPPI_affinityparse_R3", because it will record the PPIs used. 
+     Then, we will be able to use the same PPIs in "affinity_analysis_R3"
+
+     $> python CCharPPI_affinityparse_R3.py
+
+   - Outputs:
+
+   		- dGexp_CCharPPI.pcl
+   		- dGexp_CCharPPI.pcl
+   		- F_predictions_CCharPPI.pcl
+   		- ppis_used.tsv
+   		- predictions_CCharPPI.pcl
+   		- R_dGexp_CCharPPI.pcl
+   		- R_predictions_CCharPPI.pcl
+
+   - Execute "affinity_analysis_R3":
+
+     $> python affinity_analysis_R3.py
+
+   - Outputs:
+
+   		- dGexp.pcl
+   		- F_dGexp.pcl
+   		- F_predictions.pcl
+   		- predictions.pcl
+   		- R_dGexp.pcl
+   		- R_predictions.pcl
+
+   - Execute "percent_analysis_R3.py" to print the resulting tables:
+
+     $> python percent_analysis_R3.py
+
+   - Outputs:
+
+   		- mann_whitney_table.tsv  							--> R3-Q11 table 
+   		- percents_individual_predictions_complete.tsv 		--> R3-Q3 table
+
+
+
+
+
