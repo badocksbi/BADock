@@ -15,7 +15,7 @@ Prediction of protein interactions binding affinity from unbound tertiary struct
 
 #### Binding Affinity Docking
 
-Prediction of binding affinities using all the docking poses from the unbound protein structures <span style="color:red">(not necessary, the results are already in BADock/workspace)</span>.
+Prediction of binding affinities using all the docking poses from the unbound protein structures <span style="color:red">*(not necessary, the results are already in BADock/workspace)*</span>.
 
 * **setup_submitter.py**: Script that permits to perform the docking of the structures and scoring of the obtained poses in the whole dataset.
   * Using the option 'docking', it executes ***setup_docking.py***, which runs Patchdock to obtain the docking poses (decoys), and runs Fiberdock to refine and rescore the decoys. Example:
