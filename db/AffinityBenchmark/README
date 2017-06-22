@@ -1,0 +1,35 @@
+Affinity Benchmark Structures
+
+<FILE NAMING FORMAT>
+
+The file name format of the benchmark structure files consists of 12 characters:
+Characters	
+      1-4: Complex PDB Code*
+	5: '_'
+	6: 'l' if ligand, 'r' if receptor
+	7: '_'
+	8: 'u' if unbound constituent, 'b' if bound constituent
+     9-12: '.pdb' (file extension)
+
+*The Complex PDB Code is the PDB code of the structure from which the bound receptor and ligand are obtained.  In the cases of 
+1NVU (1NVU complex with chain Q:S) and 5NVU (1NVU complex with chain R:S) both cases are obtained from the 1NVU PDB file, thus 
+the creation of the PDB name 5NVU for the purpose of 
+uniqueness was necessary.  5NVU is not a valid PDB code, and is only used in this benchmark.  If at any time 5NVU does become a 
+valid PDB code for the Protein DataBank, the case known as 5NVU shall be renamed.
+
+<PDB_stucture_MAP.out>
+
+This is a map file between PDB code and downloaded Affinity Benchmark Structure files.
+
+For an example, a row for 1a2k case in PDB_structure_MAP.out file is shown as the below.
+
+1a2k    C       1A2K_l_b.pdb    AB      1A2K_r_b.pdb    OG      1QG4    A       1A2K_l_u.pdb    1OUN    AB      1A2K_r_u.pdb
+
+this means,
+
+Chain C of 1a2k maps with 1A2K_l_b.pdb file
+Chain AB of 1a2k maps with 1A2K_r_b.pdb file
+Chain A of 1QG4 maps with 1A2K_l_u.pdb file
+Chain AB of 1OUN maps with 1A2K_r_u.pdb file 
+
+*Each unbound strcuture was superimposed onto the corresponding bound complexe. This fact may cause biased docking results if docking algorithm is sensitive to initial position of receptor/ligand.  Users can avoid the possible biased docking results by randomizing the unbound strcutre positions.

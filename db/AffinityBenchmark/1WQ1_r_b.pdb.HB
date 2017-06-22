@@ -1,0 +1,5132 @@
+USER  MOD reduceV2.21 H: found=0, std=0, add=2598, rem=0, adj=0
+ATOM      1  N   MET G 718     -39.927 -11.297  40.271  1.00 43.84      GAP  N
+ATOM      2  CA  MET G 718     -41.343 -11.535  40.695  1.00 43.91      GAP  C
+ATOM      3  C   MET G 718     -42.245 -11.693  39.467  1.00 43.52      GAP  C
+ATOM      4  O   MET G 718     -41.815 -11.421  38.336  1.00 42.89      GAP  O
+ATOM      5  CB  MET G 718     -41.847 -10.372  41.565  1.00 42.54      GAP  C
+ATOM      6  CG  MET G 718     -41.028 -10.099  42.837  1.00 36.06      GAP  C
+ATOM      7  SD  MET G 718     -41.933  -9.050  44.027  1.00 37.59      GAP  S
+ATOM      8  CE  MET G 718     -41.212  -7.440  43.699  1.00 28.41      GAP  C
+ATOM      9  HA  MET G 718     -41.376 -12.462  41.287  1.00 43.91      GAP  H   new
+ATOM     10 1HB  MET G 718     -41.859  -9.458  40.954  1.00 42.54      GAP  H   new
+ATOM     11 2HB  MET G 718     -42.887 -10.578  41.856  1.00 42.54      GAP  H   new
+ATOM     12 1HG  MET G 718     -40.769 -11.054  43.316  1.00 36.06      GAP  H   new
+ATOM     13 2HG  MET G 718     -40.082  -9.609  42.564  1.00 36.06      GAP  H   new
+ATOM     14 1HE  MET G 718     -41.672  -6.690  44.359  1.00 28.41      GAP  H   new
+ATOM     15 2HE  MET G 718     -40.129  -7.478  43.887  1.00 28.41      GAP  H   new
+ATOM     16 3HE  MET G 718     -41.392  -7.164  42.650  1.00 28.41      GAP  H   new
+ATOM     17  N   PRO G 719     -43.463 -12.228  39.657  1.00 43.56      GAP  N
+ATOM     18  CA  PRO G 719     -44.496 -12.175  38.619  1.00 43.10      GAP  C
+ATOM     19  C   PRO G 719     -44.690 -10.791  38.027  1.00 43.99      GAP  C
+ATOM     20  O   PRO G 719     -44.778  -9.797  38.759  1.00 42.04      GAP  O
+ATOM     21  CB  PRO G 719     -45.742 -12.659  39.347  1.00 42.58      GAP  C
+ATOM     22  CG  PRO G 719     -45.203 -13.696  40.274  1.00 44.63      GAP  C
+ATOM     23  CD  PRO G 719     -43.836 -13.175  40.724  1.00 44.73      GAP  C
+ATOM     24  HA  PRO G 719     -44.231 -12.787  37.744  1.00 43.10      GAP  H   new
+ATOM     25 1HB  PRO G 719     -46.239 -11.843  39.892  1.00 42.58      GAP  H   new
+ATOM     26 2HB  PRO G 719     -46.483 -13.079  38.652  1.00 42.58      GAP  H   new
+ATOM     27 1HG  PRO G 719     -45.873 -13.844  41.134  1.00 44.63      GAP  H   new
+ATOM     28 2HG  PRO G 719     -45.109 -14.668  39.768  1.00 44.63      GAP  H   new
+ATOM     29 1HD  PRO G 719     -43.894 -12.679  41.704  1.00 44.73      GAP  H   new
+ATOM     30 2HD  PRO G 719     -43.103 -13.989  40.818  1.00 44.73      GAP  H   new
+ATOM     31  N   GLU G 720     -44.686 -10.733  36.696  1.00 46.10      GAP  N
+ATOM     32  CA  GLU G 720     -44.908  -9.498  35.944  1.00 46.61      GAP  C
+ATOM     33  C   GLU G 720     -46.126  -8.755  36.482  1.00 48.19      GAP  C
+ATOM     34  O   GLU G 720     -46.137  -7.515  36.552  1.00 48.79      GAP  O
+ATOM     35  CB  GLU G 720     -45.088  -9.822  34.445  1.00 44.15      GAP  C
+ATOM     36  CG  GLU G 720     -46.049  -8.905  33.677  1.00 39.85      GAP  C
+ATOM     37  CD  GLU G 720     -45.676  -8.741  32.215  1.00 39.37      GAP  C
+ATOM     38  OE1 GLU G 720     -45.469  -9.766  31.528  1.00 38.32      GAP  O
+ATOM     39  OE2 GLU G 720     -45.584  -7.581  31.753  1.00 37.54      GAP  O
+ATOM     40  H   GLU G 720     -44.530 -11.532  36.116  1.00 46.10      GAP  H   new
+ATOM     41  HA  GLU G 720     -44.030  -8.846  36.063  1.00 46.61      GAP  H   new
+ATOM     42 1HB  GLU G 720     -44.102  -9.779  33.959  1.00 44.15      GAP  H   new
+ATOM     43 2HB  GLU G 720     -45.447 -10.858  34.353  1.00 44.15      GAP  H   new
+ATOM     44 1HG  GLU G 720     -47.068  -9.313  33.745  1.00 39.85      GAP  H   new
+ATOM     45 2HG  GLU G 720     -46.065  -7.916  34.158  1.00 39.85      GAP  H   new
+ATOM     46  N   GLU G 721     -47.114  -9.524  36.935  1.00 51.03      GAP  N
+ATOM     47  CA  GLU G 721     -48.310  -8.985  37.560  1.00 52.91      GAP  C
+ATOM     48  C   GLU G 721     -47.918  -8.022  38.667  1.00 53.17      GAP  C
+ATOM     49  O   GLU G 721     -48.455  -6.911  38.750  1.00 54.76      GAP  O
+ATOM     50  CB  GLU G 721     -49.158 -10.122  38.138  1.00 55.37      GAP  C
+ATOM     51  CG  GLU G 721     -49.822 -11.009  37.093  1.00 61.88      GAP  C
+ATOM     52  CD  GLU G 721     -49.203 -12.402  37.005  1.00 66.58      GAP  C
+ATOM     53  OE1 GLU G 721     -49.593 -13.282  37.809  1.00 69.83      GAP  O
+ATOM     54  OE2 GLU G 721     -48.331 -12.617  36.130  1.00 65.93      GAP  O
+ATOM     55  H   GLU G 721     -47.103 -10.522  36.878  1.00 51.03      GAP  H   new
+ATOM     56  HA  GLU G 721     -48.901  -8.448  36.803  1.00 52.91      GAP  H   new
+ATOM     57 1HB  GLU G 721     -48.521 -10.748  38.780  1.00 55.37      GAP  H   new
+ATOM     58 2HB  GLU G 721     -49.938  -9.690  38.782  1.00 55.37      GAP  H   new
+ATOM     59 1HG  GLU G 721     -50.892 -11.105  37.329  1.00 61.88      GAP  H   new
+ATOM     60 2HG  GLU G 721     -49.752 -10.521  36.110  1.00 61.88      GAP  H   new
+ATOM     61  N   GLU G 722     -46.864  -8.382  39.396  1.00 52.50      GAP  N
+ATOM     62  CA  GLU G 722     -46.466  -7.664  40.608  1.00 51.75      GAP  C
+ATOM     63  C   GLU G 722     -45.787  -6.320  40.375  1.00 48.22      GAP  C
+ATOM     64  O   GLU G 722     -45.617  -5.539  41.313  1.00 47.33      GAP  O
+ATOM     65  CB  GLU G 722     -45.561  -8.546  41.468  1.00 53.72      GAP  C
+ATOM     66  CG  GLU G 722     -46.207  -9.859  41.853  1.00 58.91      GAP  C
+ATOM     67  CD  GLU G 722     -46.021 -10.192  43.309  1.00 58.11      GAP  C
+ATOM     68  OE1 GLU G 722     -46.771  -9.639  44.144  1.00 58.93      GAP  O
+ATOM     69  OE2 GLU G 722     -45.130 -11.014  43.614  1.00 59.22      GAP  O
+ATOM     70  H   GLU G 722     -46.276  -9.159  39.171  1.00 52.50      GAP  H   new
+ATOM     71  HA  GLU G 722     -47.410  -7.435  41.124  1.00 51.75      GAP  H   new
+ATOM     72 1HB  GLU G 722     -44.629  -8.749  40.920  1.00 53.72      GAP  H   new
+ATOM     73 2HB  GLU G 722     -45.285  -7.998  42.381  1.00 53.72      GAP  H   new
+ATOM     74 1HG  GLU G 722     -47.282  -9.815  41.626  1.00 58.91      GAP  H   new
+ATOM     75 2HG  GLU G 722     -45.781 -10.666  41.239  1.00 58.91      GAP  H   new
+ATOM     76  N   TYR G 723     -45.401  -6.049  39.133  1.00 45.19      GAP  N
+ATOM     77  CA  TYR G 723     -44.770  -4.781  38.797  1.00 41.33      GAP  C
+ATOM     78  C   TYR G 723     -45.761  -3.770  38.242  1.00 40.63      GAP  C
+ATOM     79  O   TYR G 723     -45.423  -2.603  38.069  1.00 40.55      GAP  O
+ATOM     80  CB  TYR G 723     -43.650  -5.004  37.787  1.00 39.80      GAP  C
+ATOM     81  CG  TYR G 723     -42.527  -5.870  38.311  1.00 38.39      GAP  C
+ATOM     82  CD1 TYR G 723     -41.445  -5.303  38.989  1.00 38.73      GAP  C
+ATOM     83  CD2 TYR G 723     -42.530  -7.247  38.112  1.00 35.82      GAP  C
+ATOM     84  CE1 TYR G 723     -40.388  -6.091  39.459  1.00 34.86      GAP  C
+ATOM     85  CE2 TYR G 723     -41.480  -8.043  38.569  1.00 37.95      GAP  C
+ATOM     86  CZ  TYR G 723     -40.412  -7.459  39.244  1.00 37.56      GAP  C
+ATOM     87  OH  TYR G 723     -39.378  -8.246  39.707  1.00 32.38      GAP  O
+ATOM     88  H   TYR G 723     -45.512  -6.676  38.362  1.00 45.19      GAP  H   new
+ATOM     89  HA  TYR G 723     -44.359  -4.368  39.730  1.00 41.33      GAP  H   new
+ATOM     90 1HB  TYR G 723     -44.070  -5.470  36.883  1.00 39.80      GAP  H   new
+ATOM     91 2HB  TYR G 723     -43.240  -4.029  37.486  1.00 39.80      GAP  H   new
+ATOM     92  HD1 TYR G 723     -41.423  -4.216  39.157  1.00 38.73      GAP  H   new
+ATOM     93  HD2 TYR G 723     -43.375  -7.716  37.586  1.00 35.82      GAP  H   new
+ATOM     94  HE1 TYR G 723     -39.546  -5.628  39.994  1.00 34.86      GAP  H   new
+ATOM     95  HE2 TYR G 723     -41.496  -9.129  38.396  1.00 37.95      GAP  H   new
+ATOM     96  HH  TYR G 723     -39.553  -9.201  39.468  1.00 32.38      GAP  H   new
+ATOM     97  N   SER G 724     -47.015  -4.189  38.108  1.00 40.28      GAP  N
+ATOM     98  CA  SER G 724     -48.046  -3.395  37.448  1.00 39.74      GAP  C
+ATOM     99  C   SER G 724     -48.099  -1.942  37.925  1.00 38.42      GAP  C
+ATOM    100  O   SER G 724     -47.938  -1.014  37.117  1.00 40.76      GAP  O
+ATOM    101  CB  SER G 724     -49.412  -4.050  37.647  1.00 40.80      GAP  C
+ATOM    102  OG  SER G 724     -49.706  -4.178  39.028  1.00 46.52      GAP  O
+ATOM    103  H   SER G 724     -47.339  -5.072  38.447  1.00 40.28      GAP  H   new
+ATOM    104  HA  SER G 724     -47.781  -3.367  36.381  1.00 39.74      GAP  H   new
+ATOM    105 1HB  SER G 724     -49.423  -5.041  37.170  1.00 40.80      GAP  H   new
+ATOM    106 2HB  SER G 724     -50.190  -3.447  37.155  1.00 40.80      GAP  H   new
+ATOM    107  HG  SER G 724     -50.602  -4.608  39.140  1.00 46.52      GAP  H   new
+ATOM    108  N   GLU G 725     -48.279  -1.750  39.229  1.00 35.56      GAP  N
+ATOM    109  CA  GLU G 725     -48.334  -0.418  39.836  1.00 35.24      GAP  C
+ATOM    110  C   GLU G 725     -47.116   0.453  39.503  1.00 32.56      GAP  C
+ATOM    111  O   GLU G 725     -47.223   1.688  39.351  1.00 31.33      GAP  O
+ATOM    112  CB  GLU G 725     -48.480  -0.549  41.358  1.00 43.45      GAP  C
+ATOM    113  CG  GLU G 725     -47.268  -1.155  42.095  1.00 55.31      GAP  C
+ATOM    114  CD  GLU G 725     -46.853  -2.530  41.575  1.00 61.61      GAP  C
+ATOM    115  OE1 GLU G 725     -47.652  -3.485  41.700  1.00 64.00      GAP  O
+ATOM    116  OE2 GLU G 725     -45.736  -2.646  41.018  1.00 61.24      GAP  O
+ATOM    117  H   GLU G 725     -48.389  -2.497  39.884  1.00 35.56      GAP  H   new
+ATOM    118  HA  GLU G 725     -49.210   0.090  39.407  1.00 35.24      GAP  H   new
+ATOM    119 1HB  GLU G 725     -48.679   0.449  41.776  1.00 43.45      GAP  H   new
+ATOM    120 2HB  GLU G 725     -49.363  -1.169  41.571  1.00 43.45      GAP  H   new
+ATOM    121 1HG  GLU G 725     -46.415  -0.467  42.005  1.00 55.31      GAP  H   new
+ATOM    122 2HG  GLU G 725     -47.505  -1.235  43.166  1.00 55.31      GAP  H   new
+ATOM    123  N   PHE G 726     -45.972  -0.199  39.344  1.00 28.33      GAP  N
+ATOM    124  CA  PHE G 726     -44.731   0.464  38.967  1.00 29.74      GAP  C
+ATOM    125  C   PHE G 726     -44.716   0.672  37.454  1.00 32.76      GAP  C
+ATOM    126  O   PHE G 726     -44.410   1.775  36.966  1.00 31.08      GAP  O
+ATOM    127  CB  PHE G 726     -43.557  -0.420  39.398  1.00 30.14      GAP  C
+ATOM    128  CG  PHE G 726     -42.198   0.100  39.007  1.00 24.63      GAP  C
+ATOM    129  CD1 PHE G 726     -41.795   1.383  39.356  1.00 23.98      GAP  C
+ATOM    130  CD2 PHE G 726     -41.264  -0.757  38.426  1.00 21.92      GAP  C
+ATOM    131  CE1 PHE G 726     -40.485   1.796  39.142  1.00 21.98      GAP  C
+ATOM    132  CE2 PHE G 726     -39.958  -0.350  38.211  1.00 19.24      GAP  C
+ATOM    133  CZ  PHE G 726     -39.569   0.926  38.572  1.00 22.27      GAP  C
+ATOM    134  H   PHE G 726     -45.880  -1.187  39.471  1.00 28.33      GAP  H   new
+ATOM    135  HA  PHE G 726     -44.648   1.444  39.460  1.00 29.74      GAP  H   new
+ATOM    136 1HB  PHE G 726     -43.588  -0.539  40.491  1.00 30.14      GAP  H   new
+ATOM    137 2HB  PHE G 726     -43.690  -1.421  38.962  1.00 30.14      GAP  H   new
+ATOM    138  HD1 PHE G 726     -42.519   2.078  39.806  1.00 23.98      GAP  H   new
+ATOM    139  HD2 PHE G 726     -41.570  -1.773  38.134  1.00 21.92      GAP  H   new
+ATOM    140  HE1 PHE G 726     -40.176   2.813  39.425  1.00 21.98      GAP  H   new
+ATOM    141  HE2 PHE G 726     -39.233  -1.040  37.755  1.00 19.24      GAP  H   new
+ATOM    142  HZ  PHE G 726     -38.531   1.251  38.407  1.00 22.27      GAP  H   new
+ATOM    143  N   LYS G 727     -45.114  -0.366  36.722  1.00 35.34      GAP  N
+ATOM    144  CA  LYS G 727     -45.140  -0.333  35.265  1.00 39.20      GAP  C
+ATOM    145  C   LYS G 727     -46.001   0.813  34.739  1.00 38.33      GAP  C
+ATOM    146  O   LYS G 727     -45.640   1.483  33.769  1.00 39.09      GAP  O
+ATOM    147  CB  LYS G 727     -45.656  -1.668  34.716  1.00 41.85      GAP  C
+ATOM    148  CG  LYS G 727     -45.270  -1.937  33.269  1.00 46.10      GAP  C
+ATOM    149  CD  LYS G 727     -46.387  -1.570  32.319  1.00 50.55      GAP  C
+ATOM    150  CE  LYS G 727     -46.851  -2.765  31.509  1.00 52.80      GAP  C
+ATOM    151  NZ  LYS G 727     -48.022  -2.391  30.666  1.00 56.50      GAP  N
+ATOM    152  H   LYS G 727     -45.420  -1.233  37.115  1.00 35.34      GAP  H   new
+ATOM    153  HA  LYS G 727     -44.109  -0.166  34.918  1.00 39.20      GAP  H   new
+ATOM    154 1HB  LYS G 727     -45.270  -2.484  35.345  1.00 41.85      GAP  H   new
+ATOM    155 2HB  LYS G 727     -46.753  -1.688  34.801  1.00 41.85      GAP  H   new
+ATOM    156 1HG  LYS G 727     -44.368  -1.361  33.016  1.00 46.10      GAP  H   new
+ATOM    157 2HG  LYS G 727     -45.018  -3.001  33.147  1.00 46.10      GAP  H   new
+ATOM    158 1HD  LYS G 727     -47.234  -1.162  32.889  1.00 50.55      GAP  H   new
+ATOM    159 2HD  LYS G 727     -46.045  -0.776  31.639  1.00 50.55      GAP  H   new
+ATOM    160 1HE  LYS G 727     -46.031  -3.126  30.871  1.00 52.80      GAP  H   new
+ATOM    161 2HE  LYS G 727     -47.123  -3.591  32.182  1.00 52.80      GAP  H   new
+ATOM    162 1HZ  LYS G 727     -48.320  -3.185  30.137  1.00 56.50      GAP  H + new
+ATOM    163 2HZ  LYS G 727     -48.771  -2.083  31.253  1.00 56.50      GAP  H + new
+ATOM    164 3HZ  LYS G 727     -47.762  -1.654  30.042  1.00 56.50      GAP  H + new
+ATOM    165  N   GLU G 728     -47.100   1.092  35.426  1.00 38.71      GAP  N
+ATOM    166  CA  GLU G 728     -47.986   2.153  34.989  1.00 40.04      GAP  C
+ATOM    167  C   GLU G 728     -47.604   3.538  35.499  1.00 36.74      GAP  C
+ATOM    168  O   GLU G 728     -48.242   4.531  35.143  1.00 38.90      GAP  O
+ATOM    169  CB  GLU G 728     -49.428   1.826  35.372  1.00 47.42      GAP  C
+ATOM    170  CG  GLU G 728     -50.473   2.460  34.438  1.00 57.67      GAP  C
+ATOM    171  CD  GLU G 728     -50.064   2.459  32.956  1.00 60.31      GAP  C
+ATOM    172  OE1 GLU G 728     -49.783   1.366  32.403  1.00 59.35      GAP  O
+ATOM    173  OE2 GLU G 728     -50.029   3.558  32.345  1.00 60.22      GAP  O
+ATOM    174  H   GLU G 728     -47.387   0.616  36.257  1.00 38.71      GAP  H   new
+ATOM    175  HA  GLU G 728     -47.884   2.199  33.895  1.00 40.04      GAP  H   new
+ATOM    176 1HB  GLU G 728     -49.561   0.734  35.369  1.00 47.42      GAP  H   new
+ATOM    177 2HB  GLU G 728     -49.612   2.169  36.401  1.00 47.42      GAP  H   new
+ATOM    178 1HG  GLU G 728     -51.424   1.918  34.546  1.00 57.67      GAP  H   new
+ATOM    179 2HG  GLU G 728     -50.655   3.497  34.757  1.00 57.67      GAP  H   new
+ATOM    180  N   LEU G 729     -46.541   3.622  36.291  1.00 34.03      GAP  N
+ATOM    181  CA  LEU G 729     -46.003   4.923  36.679  1.00 29.33      GAP  C
+ATOM    182  C   LEU G 729     -44.875   5.334  35.732  1.00 26.93      GAP  C
+ATOM    183  O   LEU G 729     -44.648   6.524  35.494  1.00 26.18      GAP  O
+ATOM    184  CB  LEU G 729     -45.505   4.890  38.130  1.00 29.19      GAP  C
+ATOM    185  CG  LEU G 729     -45.309   6.256  38.794  1.00 27.16      GAP  C
+ATOM    186  CD1 LEU G 729     -46.657   6.906  39.064  1.00 24.56      GAP  C
+ATOM    187  CD2 LEU G 729     -44.523   6.085  40.073  1.00 23.78      GAP  C
+ATOM    188  H   LEU G 729     -46.050   2.835  36.665  1.00 34.03      GAP  H   new
+ATOM    189  HA  LEU G 729     -46.808   5.670  36.609  1.00 29.33      GAP  H   new
+ATOM    190 1HB  LEU G 729     -46.221   4.310  38.731  1.00 29.19      GAP  H   new
+ATOM    191 2HB  LEU G 729     -44.548   4.348  38.158  1.00 29.19      GAP  H   new
+ATOM    192  HG  LEU G 729     -44.744   6.916  38.119  1.00 27.16      GAP  H   new
+ATOM    193 1HD1 LEU G 729     -46.503   7.885  39.541  1.00 24.56      GAP  H   new
+ATOM    194 2HD1 LEU G 729     -47.196   7.041  38.115  1.00 24.56      GAP  H   new
+ATOM    195 3HD1 LEU G 729     -47.248   6.262  39.732  1.00 24.56      GAP  H   new
+ATOM    196 1HD2 LEU G 729     -44.382   7.066  40.551  1.00 23.78      GAP  H   new
+ATOM    197 2HD2 LEU G 729     -45.073   5.421  40.756  1.00 23.78      GAP  H   new
+ATOM    198 3HD2 LEU G 729     -43.541   5.644  39.845  1.00 23.78      GAP  H   new
+ATOM    199  N   ILE G 730     -44.246   4.343  35.108  1.00 28.18      GAP  N
+ATOM    200  CA  ILE G 730     -43.165   4.582  34.148  1.00 29.41      GAP  C
+ATOM    201  C   ILE G 730     -43.708   5.171  32.850  1.00 32.51      GAP  C
+ATOM    202  O   ILE G 730     -43.031   5.972  32.172  1.00 31.65      GAP  O
+ATOM    203  CB  ILE G 730     -42.414   3.262  33.833  1.00 28.24      GAP  C
+ATOM    204  CG1 ILE G 730     -41.461   2.933  34.977  1.00 30.78      GAP  C
+ATOM    205  CG2 ILE G 730     -41.642   3.356  32.521  1.00 23.21      GAP  C
+ATOM    206  CD1 ILE G 730     -41.249   1.454  35.171  1.00 42.36      GAP  C
+ATOM    207  H   ILE G 730     -44.462   3.377  35.247  1.00 28.18      GAP  H   new
+ATOM    208  HA  ILE G 730     -42.468   5.300  34.604  1.00 29.41      GAP  H   new
+ATOM    209  HB  ILE G 730     -43.159   2.460  33.726  1.00 28.24      GAP  H   new
+ATOM    210 1HG1 ILE G 730     -40.490   3.413  34.785  1.00 30.78      GAP  H   new
+ATOM    211 2HG1 ILE G 730     -41.855   3.365  35.909  1.00 30.78      GAP  H   new
+ATOM    212 1HG2 ILE G 730     -41.124   2.405  32.331  1.00 23.21      GAP  H   new
+ATOM    213 2HG2 ILE G 730     -42.341   3.563  31.697  1.00 23.21      GAP  H   new
+ATOM    214 3HG2 ILE G 730     -40.903   4.169  32.587  1.00 23.21      GAP  H   new
+ATOM    215 1HD1 ILE G 730     -40.554   1.289  36.008  1.00 42.36      GAP  H   new
+ATOM    216 2HD1 ILE G 730     -42.212   0.971  35.394  1.00 42.36      GAP  H   new
+ATOM    217 3HD1 ILE G 730     -40.826   1.020  34.253  1.00 42.36      GAP  H   new
+ATOM    218  N   LEU G 731     -44.924   4.761  32.502  1.00 33.51      GAP  N
+ATOM    219  CA  LEU G 731     -45.462   5.021  31.177  1.00 32.48      GAP  C
+ATOM    220  C   LEU G 731     -46.235   6.322  31.111  1.00 34.38      GAP  C
+ATOM    221  O   LEU G 731     -46.515   6.815  30.013  1.00 34.90      GAP  O
+ATOM    222  CB  LEU G 731     -46.351   3.858  30.738  1.00 25.56      GAP  C
+ATOM    223  CG  LEU G 731     -45.628   2.516  30.625  1.00 23.37      GAP  C
+ATOM    224  CD1 LEU G 731     -46.644   1.410  30.640  1.00 25.51      GAP  C
+ATOM    225  CD2 LEU G 731     -44.787   2.459  29.366  1.00 16.89      GAP  C
+ATOM    226  H   LEU G 731     -45.540   4.258  33.108  1.00 33.51      GAP  H   new
+ATOM    227  HA  LEU G 731     -44.608   5.117  30.490  1.00 32.48      GAP  H   new
+ATOM    228 1HB  LEU G 731     -47.179   3.755  31.455  1.00 25.56      GAP  H   new
+ATOM    229 2HB  LEU G 731     -46.798   4.102  29.763  1.00 25.56      GAP  H   new
+ATOM    230  HG  LEU G 731     -44.947   2.397  31.481  1.00 23.37      GAP  H   new
+ATOM    231 1HD1 LEU G 731     -46.132   0.440  30.559  1.00 25.51      GAP  H   new
+ATOM    232 2HD1 LEU G 731     -47.213   1.447  31.581  1.00 25.51      GAP  H   new
+ATOM    233 3HD1 LEU G 731     -47.333   1.532  29.791  1.00 25.51      GAP  H   new
+ATOM    234 1HD2 LEU G 731     -44.278   1.486  29.308  1.00 16.89      GAP  H   new
+ATOM    235 2HD2 LEU G 731     -45.434   2.587  28.486  1.00 16.89      GAP  H   new
+ATOM    236 3HD2 LEU G 731     -44.037   3.263  29.389  1.00 16.89      GAP  H   new
+ATOM    237  N   GLN G 732     -46.546   6.890  32.277  1.00 36.15      GAP  N
+ATOM    238  CA  GLN G 732     -47.326   8.120  32.355  1.00 42.11      GAP  C
+ATOM    239  C   GLN G 732     -46.804   9.169  31.378  1.00 45.06      GAP  C
+ATOM    240  O   GLN G 732     -45.588   9.393  31.283  1.00 44.48      GAP  O
+ATOM    241  CB  GLN G 732     -47.318   8.671  33.784  1.00 42.02      GAP  C
+ATOM    242  CG  GLN G 732     -48.706   8.953  34.352  1.00 47.40      GAP  C
+ATOM    243  CD  GLN G 732     -49.456   7.692  34.780  1.00 51.44      GAP  C
+ATOM    244  OE1 GLN G 732     -49.926   7.587  35.927  1.00 49.30      GAP  O
+ATOM    245  NE2 GLN G 732     -49.646   6.765  33.842  1.00 55.69      GAP  N
+ATOM    246  H   GLN G 732     -46.272   6.521  33.165  1.00 36.15      GAP  H   new
+ATOM    247  HA  GLN G 732     -48.362   7.880  32.074  1.00 42.11      GAP  H   new
+ATOM    248 1HB  GLN G 732     -46.805   7.952  34.440  1.00 42.02      GAP  H   new
+ATOM    249 2HB  GLN G 732     -46.730   9.601  33.803  1.00 42.02      GAP  H   new
+ATOM    250 1HG  GLN G 732     -48.610   9.625  35.218  1.00 47.40      GAP  H   new
+ATOM    251 2HG  GLN G 732     -49.302   9.486  33.596  1.00 47.40      GAP  H   new
+ATOM    252 1HE2 GLN G 732     -50.184   5.947  34.049  1.00 55.69      GAP  H   new
+ATOM    253 2HE2 GLN G 732     -49.251   6.887  32.931  1.00 55.69      GAP  H   new
+ATOM    254  N   LYS G 733     -47.718   9.751  30.604  1.00 49.93      GAP  N
+ATOM    255  CA  LYS G 733     -47.382  10.536  29.413  1.00 52.79      GAP  C
+ATOM    256  C   LYS G 733     -46.380  11.658  29.665  1.00 48.56      GAP  C
+ATOM    257  O   LYS G 733     -45.458  11.875  28.858  1.00 48.47      GAP  O
+ATOM    258  CB  LYS G 733     -48.657  11.130  28.796  1.00 61.12      GAP  C
+ATOM    259  CG  LYS G 733     -49.711  10.108  28.389  1.00 73.51      GAP  C
+ATOM    260  CD  LYS G 733     -50.870  10.758  27.641  1.00 84.51      GAP  C
+ATOM    261  CE  LYS G 733     -51.872   9.707  27.151  1.00 90.41      GAP  C
+ATOM    262  NZ  LYS G 733     -53.039  10.298  26.413  1.00 94.72      GAP  N
+ATOM    263  H   LYS G 733     -48.700   9.693  30.782  1.00 49.93      GAP  H   new
+ATOM    264  HA  LYS G 733     -46.898   9.831  28.721  1.00 52.79      GAP  H   new
+ATOM    265 1HB  LYS G 733     -49.105  11.828  29.518  1.00 61.12      GAP  H   new
+ATOM    266 2HB  LYS G 733     -48.378  11.719  27.910  1.00 61.12      GAP  H   new
+ATOM    267 1HG  LYS G 733     -49.249   9.338  27.753  1.00 73.51      GAP  H   new
+ATOM    268 2HG  LYS G 733     -50.093   9.598  29.286  1.00 73.51      GAP  H   new
+ATOM    269 1HD  LYS G 733     -51.380  11.475  28.301  1.00 84.51      GAP  H   new
+ATOM    270 2HD  LYS G 733     -50.483  11.328  26.783  1.00 84.51      GAP  H   new
+ATOM    271 1HE  LYS G 733     -51.353   8.995  26.492  1.00 90.41      GAP  H   new
+ATOM    272 2HE  LYS G 733     -52.244   9.135  28.014  1.00 90.41      GAP  H   new
+ATOM    273 1HZ  LYS G 733     -53.654   9.566  26.120  1.00 94.72      GAP  H + new
+ATOM    274 2HZ  LYS G 733     -53.532  10.926  27.016  1.00 94.72      GAP  H + new
+ATOM    275 3HZ  LYS G 733     -52.709  10.796  25.611  1.00 94.72      GAP  H + new
+ATOM    276  N   GLU G 734     -46.533  12.326  30.807  1.00 45.32      GAP  N
+ATOM    277  CA  GLU G 734     -45.701  13.464  31.191  1.00 41.03      GAP  C
+ATOM    278  C   GLU G 734     -44.245  13.048  31.286  1.00 36.57      GAP  C
+ATOM    279  O   GLU G 734     -43.363  13.897  31.401  1.00 34.78      GAP  O
+ATOM    280  CB  GLU G 734     -46.155  14.021  32.543  1.00 43.23      GAP  C
+ATOM    281  CG  GLU G 734     -47.657  14.239  32.662  1.00 50.99      GAP  C
+ATOM    282  CD  GLU G 734     -48.368  13.051  33.276  1.00 53.67      GAP  C
+ATOM    283  OE1 GLU G 734     -48.280  12.882  34.509  1.00 57.92      GAP  O
+ATOM    284  OE2 GLU G 734     -49.025  12.292  32.533  1.00 56.91      GAP  O
+ATOM    285  H   GLU G 734     -47.231  12.094  31.485  1.00 45.32      GAP  H   new
+ATOM    286  HA  GLU G 734     -45.807  14.242  30.420  1.00 41.03      GAP  H   new
+ATOM    287 1HB  GLU G 734     -45.833  13.331  33.337  1.00 43.23      GAP  H   new
+ATOM    288 2HB  GLU G 734     -45.643  14.978  32.722  1.00 43.23      GAP  H   new
+ATOM    289 1HG  GLU G 734     -47.847  15.133  33.274  1.00 50.99      GAP  H   new
+ATOM    290 2HG  GLU G 734     -48.076  14.437  31.664  1.00 50.99      GAP  H   new
+ATOM    291  N   LEU G 735     -44.027  11.735  31.364  1.00 34.64      GAP  N
+ATOM    292  CA  LEU G 735     -42.700  11.133  31.343  1.00 33.41      GAP  C
+ATOM    293  C   LEU G 735     -41.810  11.567  32.510  1.00 34.42      GAP  C
+ATOM    294  O   LEU G 735     -40.566  11.364  32.475  1.00 38.19      GAP  O
+ATOM    295  CB  LEU G 735     -42.014  11.434  30.008  1.00 32.91      GAP  C
+ATOM    296  CG  LEU G 735     -42.095  10.442  28.842  1.00 29.66      GAP  C
+ATOM    297  CD1 LEU G 735     -40.852  10.629  27.988  1.00 26.27      GAP  C
+ATOM    298  CD2 LEU G 735     -42.187   9.005  29.336  1.00 30.35      GAP  C
+ATOM    299  H   LEU G 735     -44.766  11.066  31.443  1.00 34.64      GAP  H   new
+ATOM    300  HA  LEU G 735     -42.845  10.049  31.459  1.00 33.41      GAP  H   new
+ATOM    301 1HB  LEU G 735     -42.417  12.391  29.646  1.00 32.91      GAP  H   new
+ATOM    302 2HB  LEU G 735     -40.947  11.595  30.222  1.00 32.91      GAP  H   new
+ATOM    303  HG  LEU G 735     -43.005  10.637  28.255  1.00 29.66      GAP  H   new
+ATOM    304 1HD1 LEU G 735     -40.880   9.929  27.140  1.00 26.27      GAP  H   new
+ATOM    305 2HD1 LEU G 735     -40.818  11.661  27.610  1.00 26.27      GAP  H   new
+ATOM    306 3HD1 LEU G 735     -39.956  10.432  28.595  1.00 26.27      GAP  H   new
+ATOM    307 1HD2 LEU G 735     -42.243   8.323  28.474  1.00 30.35      GAP  H   new
+ATOM    308 2HD2 LEU G 735     -41.296   8.765  29.935  1.00 30.35      GAP  H   new
+ATOM    309 3HD2 LEU G 735     -43.088   8.887  29.956  1.00 30.35      GAP  H   new
+ATOM    310  N   HIS G 736     -42.451  12.019  33.589  1.00 35.62      GAP  N
+ATOM    311  CA  HIS G 736     -41.771  12.659  34.723  1.00 35.86      GAP  C
+ATOM    312  C   HIS G 736     -40.639  11.808  35.323  1.00 36.16      GAP  C
+ATOM    313  O   HIS G 736     -39.498  12.295  35.492  1.00 34.03      GAP  O
+ATOM    314  CB  HIS G 736     -42.800  13.018  35.815  1.00 38.85      GAP  C
+ATOM    315  CG  HIS G 736     -43.582  14.267  35.536  1.00 41.54      GAP  C
+ATOM    316  ND1 HIS G 736     -44.834  14.507  36.071  1.00 39.10      GAP  N
+ATOM    317  CD2 HIS G 736     -43.237  15.401  34.874  1.00 41.39      GAP  C
+ATOM    318  CE1 HIS G 736     -45.209  15.735  35.775  1.00 39.24      GAP  C
+ATOM    319  NE2 HIS G 736     -44.263  16.300  35.055  1.00 40.87      GAP  N
+ATOM    320  H   HIS G 736     -43.442  11.954  33.702  1.00 35.62      GAP  H   new
+ATOM    321  HA  HIS G 736     -41.296  13.570  34.330  1.00 35.86      GAP  H   new
+ATOM    322 1HB  HIS G 736     -43.501  12.179  35.932  1.00 38.85      GAP  H   new
+ATOM    323 2HB  HIS G 736     -42.274  13.135  36.774  1.00 38.85      GAP  H   new
+ATOM    324  HD1 HIS G 736     -45.372  13.851  36.600  1.00 39.10      GAP  H   new
+ATOM    325  HD2 HIS G 736     -42.313  15.569  34.302  1.00 41.39      GAP  H   new
+ATOM    326  HE1 HIS G 736     -46.154  16.209  36.079  1.00 39.24      GAP  H   new
+ATOM    327  HE2 HIS G 736     -44.286  17.233  34.697  1.00 40.87      GAP  H   new
+ATOM    328  N   VAL G 737     -40.913  10.519  35.519  1.00 32.45      GAP  N
+ATOM    329  CA  VAL G 737     -39.933   9.575  36.053  1.00 30.61      GAP  C
+ATOM    330  C   VAL G 737     -38.689   9.472  35.169  1.00 33.88      GAP  C
+ATOM    331  O   VAL G 737     -37.544   9.599  35.653  1.00 37.60      GAP  O
+ATOM    332  CB  VAL G 737     -40.566   8.180  36.208  1.00 26.16      GAP  C
+ATOM    333  CG1 VAL G 737     -39.519   7.152  36.575  1.00 23.08      GAP  C
+ATOM    334  CG2 VAL G 737     -41.646   8.232  37.260  1.00 25.67      GAP  C
+ATOM    335  H   VAL G 737     -41.802  10.108  35.316  1.00 32.45      GAP  H   new
+ATOM    336  HA  VAL G 737     -39.620   9.957  37.036  1.00 30.61      GAP  H   new
+ATOM    337  HB  VAL G 737     -41.010   7.881  35.247  1.00 26.16      GAP  H   new
+ATOM    338 1HG1 VAL G 737     -39.994   6.165  36.680  1.00 23.08      GAP  H   new
+ATOM    339 2HG1 VAL G 737     -38.755   7.108  35.785  1.00 23.08      GAP  H   new
+ATOM    340 3HG1 VAL G 737     -39.046   7.434  37.527  1.00 23.08      GAP  H   new
+ATOM    341 1HG2 VAL G 737     -42.099   7.236  37.371  1.00 25.67      GAP  H   new
+ATOM    342 2HG2 VAL G 737     -41.209   8.545  38.220  1.00 25.67      GAP  H   new
+ATOM    343 3HG2 VAL G 737     -42.419   8.954  36.957  1.00 25.67      GAP  H   new
+ATOM    344  N   VAL G 738     -38.904   9.303  33.869  1.00 33.52      GAP  N
+ATOM    345  CA  VAL G 738     -37.805   9.128  32.932  1.00 31.36      GAP  C
+ATOM    346  C   VAL G 738     -36.858  10.315  32.958  1.00 29.83      GAP  C
+ATOM    347  O   VAL G 738     -35.661  10.137  32.939  1.00 25.88      GAP  O
+ATOM    348  CB  VAL G 738     -38.336   8.908  31.505  1.00 32.25      GAP  C
+ATOM    349  CG1 VAL G 738     -37.186   8.876  30.499  1.00 31.72      GAP  C
+ATOM    350  CG2 VAL G 738     -39.126   7.606  31.460  1.00 26.78      GAP  C
+ATOM    351  H   VAL G 738     -39.812   9.284  33.450  1.00 33.52      GAP  H   new
+ATOM    352  HA  VAL G 738     -37.244   8.235  33.245  1.00 31.36      GAP  H   new
+ATOM    353  HB  VAL G 738     -38.997   9.744  31.231  1.00 32.25      GAP  H   new
+ATOM    354 1HG1 VAL G 738     -37.588   8.718  29.487  1.00 31.72      GAP  H   new
+ATOM    355 2HG1 VAL G 738     -36.642   9.832  30.532  1.00 31.72      GAP  H   new
+ATOM    356 3HG1 VAL G 738     -36.499   8.055  30.753  1.00 31.72      GAP  H   new
+ATOM    357 1HG2 VAL G 738     -39.508   7.443  30.441  1.00 26.78      GAP  H   new
+ATOM    358 2HG2 VAL G 738     -38.471   6.769  31.743  1.00 26.78      GAP  H   new
+ATOM    359 3HG2 VAL G 738     -39.970   7.664  32.163  1.00 26.78      GAP  H   new
+ATOM    360  N   TYR G 739     -37.404  11.521  33.060  1.00 32.25      GAP  N
+ATOM    361  CA  TYR G 739     -36.565  12.705  33.142  1.00 36.07      GAP  C
+ATOM    362  C   TYR G 739     -35.759  12.645  34.418  1.00 32.79      GAP  C
+ATOM    363  O   TYR G 739     -34.539  12.798  34.385  1.00 35.10      GAP  O
+ATOM    364  CB  TYR G 739     -37.407  13.978  33.115  1.00 49.07      GAP  C
+ATOM    365  CG  TYR G 739     -38.136  14.152  31.815  1.00 67.63      GAP  C
+ATOM    366  CD1 TYR G 739     -37.438  14.364  30.633  1.00 76.24      GAP  C
+ATOM    367  CD2 TYR G 739     -39.509  13.951  31.736  1.00 75.60      GAP  C
+ATOM    368  CE1 TYR G 739     -38.086  14.347  29.402  1.00 84.19      GAP  C
+ATOM    369  CE2 TYR G 739     -40.175  13.949  30.510  1.00 84.69      GAP  C
+ATOM    370  CZ  TYR G 739     -39.460  14.138  29.347  1.00 86.86      GAP  C
+ATOM    371  OH  TYR G 739     -40.115  14.118  28.134  1.00 92.72      GAP  O
+ATOM    372  H   TYR G 739     -38.388  11.698  33.087  1.00 32.25      GAP  H   new
+ATOM    373  HA  TYR G 739     -35.893  12.728  32.272  1.00 36.07      GAP  H   new
+ATOM    374 1HB  TYR G 739     -38.134  13.951  33.940  1.00 49.07      GAP  H   new
+ATOM    375 2HB  TYR G 739     -36.757  14.848  33.287  1.00 49.07      GAP  H   new
+ATOM    376  HD1 TYR G 739     -36.354  14.549  30.671  1.00 76.24      GAP  H   new
+ATOM    377  HD2 TYR G 739     -40.083  13.790  32.660  1.00 75.60      GAP  H   new
+ATOM    378  HE1 TYR G 739     -37.513  14.498  28.475  1.00 84.19      GAP  H   new
+ATOM    379  HE2 TYR G 739     -41.264  13.798  30.472  1.00 84.69      GAP  H   new
+ATOM    380  HH  TYR G 739     -41.090  13.957  28.284  1.00 92.72      GAP  H   new
+ATOM    381  N   ALA G 740     -36.424  12.300  35.517  1.00 29.11      GAP  N
+ATOM    382  CA  ALA G 740     -35.748  12.203  36.803  1.00 23.30      GAP  C
+ATOM    383  C   ALA G 740     -34.586  11.234  36.705  1.00 24.08      GAP  C
+ATOM    384  O   ALA G 740     -33.444  11.605  36.956  1.00 27.51      GAP  O
+ATOM    385  CB  ALA G 740     -36.707  11.747  37.873  1.00 23.31      GAP  C
+ATOM    386  H   ALA G 740     -37.401  12.089  35.541  1.00 29.11      GAP  H   new
+ATOM    387  HA  ALA G 740     -35.368  13.199  37.074  1.00 23.30      GAP  H   new
+ATOM    388 1HB  ALA G 740     -36.179  11.680  38.835  1.00 23.31      GAP  H   new
+ATOM    389 2HB  ALA G 740     -37.533  12.469  37.958  1.00 23.31      GAP  H   new
+ATOM    390 3HB  ALA G 740     -37.111  10.759  37.607  1.00 23.31      GAP  H   new
+ATOM    391  N   LEU G 741     -34.860  10.039  36.196  1.00 24.80      GAP  N
+ATOM    392  CA  LEU G 741     -33.820   9.046  35.965  1.00 25.73      GAP  C
+ATOM    393  C   LEU G 741     -32.677   9.592  35.129  1.00 28.81      GAP  C
+ATOM    394  O   LEU G 741     -31.520   9.413  35.479  1.00 32.73      GAP  O
+ATOM    395  CB  LEU G 741     -34.405   7.819  35.280  1.00 27.57      GAP  C
+ATOM    396  CG  LEU G 741     -35.373   7.006  36.132  1.00 29.00      GAP  C
+ATOM    397  CD1 LEU G 741     -36.173   6.067  35.233  1.00 32.83      GAP  C
+ATOM    398  CD2 LEU G 741     -34.593   6.240  37.192  1.00 25.75      GAP  C
+ATOM    399  H   LEU G 741     -35.779   9.740  35.940  1.00 24.80      GAP  H   new
+ATOM    400  HA  LEU G 741     -33.416   8.770  36.950  1.00 25.73      GAP  H   new
+ATOM    401 1HB  LEU G 741     -34.926   8.141  34.366  1.00 27.57      GAP  H   new
+ATOM    402 2HB  LEU G 741     -33.579   7.165  34.965  1.00 27.57      GAP  H   new
+ATOM    403  HG  LEU G 741     -36.082   7.672  36.646  1.00 29.00      GAP  H   new
+ATOM    404 1HD1 LEU G 741     -36.872   5.479  35.846  1.00 32.83      GAP  H   new
+ATOM    405 2HD1 LEU G 741     -36.738   6.657  34.496  1.00 32.83      GAP  H   new
+ATOM    406 3HD1 LEU G 741     -35.486   5.387  34.708  1.00 32.83      GAP  H   new
+ATOM    407 1HD2 LEU G 741     -35.290   5.653  37.808  1.00 25.75      GAP  H   new
+ATOM    408 2HD2 LEU G 741     -33.877   5.563  36.703  1.00 25.75      GAP  H   new
+ATOM    409 3HD2 LEU G 741     -34.048   6.950  37.832  1.00 25.75      GAP  H   new
+ATOM    410  N   SER G 742     -33.011  10.338  34.080  1.00 30.50      GAP  N
+ATOM    411  CA  SER G 742     -32.005  10.945  33.213  1.00 33.76      GAP  C
+ATOM    412  C   SER G 742     -31.079  11.864  33.985  1.00 37.33      GAP  C
+ATOM    413  O   SER G 742     -29.927  12.040  33.598  1.00 39.33      GAP  O
+ATOM    414  CB  SER G 742     -32.661  11.750  32.095  1.00 36.87      GAP  C
+ATOM    415  OG  SER G 742     -33.653  10.991  31.431  1.00 48.67      GAP  O
+ATOM    416  H   SER G 742     -33.955  10.533  33.814  1.00 30.50      GAP  H   new
+ATOM    417  HA  SER G 742     -31.419  10.117  32.786  1.00 33.76      GAP  H   new
+ATOM    418 1HB  SER G 742     -31.896  12.071  31.373  1.00 36.87      GAP  H   new
+ATOM    419 2HB  SER G 742     -33.112  12.663  32.512  1.00 36.87      GAP  H   new
+ATOM    420  HG  SER G 742     -34.065  11.542  30.705  1.00 48.67      GAP  H   new
+ATOM    421  N   HIS G 743     -31.596  12.488  35.042  1.00 41.07      GAP  N
+ATOM    422  CA  HIS G 743     -30.775  13.351  35.880  1.00 46.56      GAP  C
+ATOM    423  C   HIS G 743     -29.933  12.514  36.829  1.00 46.63      GAP  C
+ATOM    424  O   HIS G 743     -28.770  12.852  37.073  1.00 46.05      GAP  O
+ATOM    425  CB  HIS G 743     -31.632  14.317  36.710  1.00 56.98      GAP  C
+ATOM    426  CG  HIS G 743     -32.729  14.982  35.943  1.00 69.39      GAP  C
+ATOM    427  ND1 HIS G 743     -32.515  15.748  34.819  1.00 75.09      GAP  N
+ATOM    428  CD2 HIS G 743     -34.073  14.984  36.141  1.00 73.01      GAP  C
+ATOM    429  CE1 HIS G 743     -33.668  16.173  34.347  1.00 76.74      GAP  C
+ATOM    430  NE2 HIS G 743     -34.632  15.719  35.120  1.00 78.08      GAP  N
+ATOM    431  H   HIS G 743     -32.551  12.413  35.328  1.00 41.07      GAP  H   new
+ATOM    432  HA  HIS G 743     -30.129  13.936  35.209  1.00 46.56      GAP  H   new
+ATOM    433 1HB  HIS G 743     -32.073  13.765  37.553  1.00 56.98      GAP  H   new
+ATOM    434 2HB  HIS G 743     -30.979  15.091  37.139  1.00 56.98      GAP  H   new
+ATOM    435  HD1 HIS G 743     -31.620  15.951  34.422  1.00 75.09      GAP  H   new
+ATOM    436  HD2 HIS G 743     -34.613  14.491  36.963  1.00 73.01      GAP  H   new
+ATOM    437  HE1 HIS G 743     -33.803  16.803  33.455  1.00 76.74      GAP  H   new
+ATOM    438  HE2 HIS G 743     -35.610  15.881  34.987  1.00 78.08      GAP  H   new
+ATOM    439  N   VAL G 744     -30.491  11.405  37.324  1.00 49.05      GAP  N
+ATOM    440  CA  VAL G 744     -29.839  10.623  38.386  1.00 51.85      GAP  C
+ATOM    441  C   VAL G 744     -28.733   9.683  37.900  1.00 52.65      GAP  C
+ATOM    442  O   VAL G 744     -27.738   9.452  38.609  1.00 52.87      GAP  O
+ATOM    443  CB  VAL G 744     -30.855   9.789  39.234  1.00 48.65      GAP  C
+ATOM    444  CG1 VAL G 744     -32.015  10.651  39.645  1.00 50.17      GAP  C
+ATOM    445  CG2 VAL G 744     -31.326   8.553  38.480  1.00 45.72      GAP  C
+ATOM    446  H   VAL G 744     -31.368  11.036  37.017  1.00 49.05      GAP  H   new
+ATOM    447  HA  VAL G 744     -29.373  11.398  39.012  1.00 51.85      GAP  H   new
+ATOM    448  HB  VAL G 744     -30.342   9.438  40.142  1.00 48.65      GAP  H   new
+ATOM    449 1HG1 VAL G 744     -32.723  10.055  40.240  1.00 50.17      GAP  H   new
+ATOM    450 2HG1 VAL G 744     -31.650  11.495  40.248  1.00 50.17      GAP  H   new
+ATOM    451 3HG1 VAL G 744     -32.523  11.035  38.748  1.00 50.17      GAP  H   new
+ATOM    452 1HG2 VAL G 744     -32.037   7.991  39.104  1.00 45.72      GAP  H   new
+ATOM    453 2HG2 VAL G 744     -31.820   8.859  37.546  1.00 45.72      GAP  H   new
+ATOM    454 3HG2 VAL G 744     -30.462   7.915  38.245  1.00 45.72      GAP  H   new
+ATOM    455  N   CYS G 745     -28.916   9.111  36.717  1.00 53.84      GAP  N
+ATOM    456  CA  CYS G 745     -27.941   8.179  36.172  1.00 58.93      GAP  C
+ATOM    457  C   CYS G 745     -26.697   8.923  35.728  1.00 58.14      GAP  C
+ATOM    458  O   CYS G 745     -26.533  10.125  36.004  1.00 59.23      GAP  O
+ATOM    459  CB  CYS G 745     -28.543   7.425  34.989  1.00 62.22      GAP  C
+ATOM    460  SG  CYS G 745     -30.219   6.861  35.310  1.00 77.60      GAP  S
+ATOM    461  H   CYS G 745     -29.711   9.272  36.132  1.00 53.84      GAP  H   new
+ATOM    462  HA  CYS G 745     -27.665   7.458  36.956  1.00 58.93      GAP  H   new
+ATOM    463 1HB  CYS G 745     -28.543   8.078  34.104  1.00 62.22      GAP  H   new
+ATOM    464 2HB  CYS G 745     -27.908   6.559  34.749  1.00 62.22      GAP  H   new
+ATOM    465  HG  CYS G 745     -30.671   6.229  34.268  1.00 77.60      GAP  H   new
+ATOM    466  N   GLY G 746     -25.798   8.203  35.076  1.00 55.08      GAP  N
+ATOM    467  CA  GLY G 746     -24.621   8.840  34.529  1.00 55.40      GAP  C
+ATOM    468  C   GLY G 746     -23.755   7.773  33.922  1.00 53.91      GAP  C
+ATOM    469  O   GLY G 746     -23.348   7.865  32.761  1.00 55.52      GAP  O
+ATOM    470  H   GLY G 746     -25.860   7.217  34.920  1.00 55.08      GAP  H   new
+ATOM    471 1HA  GLY G 746     -24.904   9.584  33.770  1.00 55.40      GAP  H   new
+ATOM    472 2HA  GLY G 746     -24.073   9.378  35.317  1.00 55.40      GAP  H   new
+ATOM    473  N   GLN G 747     -23.600   6.690  34.671  1.00 52.31      GAP  N
+ATOM    474  CA  GLN G 747     -22.833   5.545  34.214  1.00 52.33      GAP  C
+ATOM    475  C   GLN G 747     -23.791   4.425  33.817  1.00 47.63      GAP  C
+ATOM    476  O   GLN G 747     -23.418   3.518  33.071  1.00 49.50      GAP  O
+ATOM    477  CB  GLN G 747     -21.872   5.091  35.324  1.00 57.47      GAP  C
+ATOM    478  CG  GLN G 747     -20.613   4.372  34.840  1.00 62.90      GAP  C
+ATOM    479  CD  GLN G 747     -20.842   2.891  34.590  1.00 69.74      GAP  C
+ATOM    480  OE1 GLN G 747     -20.287   2.308  33.642  1.00 68.58      GAP  O
+ATOM    481  NE2 GLN G 747     -21.673   2.268  35.428  1.00 75.72      GAP  N
+ATOM    482  H   GLN G 747     -23.991   6.585  35.585  1.00 52.31      GAP  H   new
+ATOM    483  HA  GLN G 747     -22.232   5.818  33.334  1.00 52.33      GAP  H   new
+ATOM    484 1HB  GLN G 747     -21.570   5.973  35.908  1.00 57.47      GAP  H   new
+ATOM    485 2HB  GLN G 747     -22.416   4.423  36.008  1.00 57.47      GAP  H   new
+ATOM    486 1HG  GLN G 747     -20.259   4.846  33.912  1.00 62.90      GAP  H   new
+ATOM    487 2HG  GLN G 747     -19.816   4.494  35.588  1.00 62.90      GAP  H   new
+ATOM    488 1HE2 GLN G 747     -21.870   1.295  35.306  1.00 75.72      GAP  H   new
+ATOM    489 2HE2 GLN G 747     -22.099   2.774  36.178  1.00 75.72      GAP  H   new
+ATOM    490  N   ASP G 748     -25.058   4.566  34.202  1.00 41.73      GAP  N
+ATOM    491  CA  ASP G 748     -26.085   3.597  33.837  1.00 38.02      GAP  C
+ATOM    492  C   ASP G 748     -26.886   4.029  32.607  1.00 37.96      GAP  C
+ATOM    493  O   ASP G 748     -27.786   3.305  32.147  1.00 35.10      GAP  O
+ATOM    494  CB  ASP G 748     -27.029   3.372  35.015  1.00 34.98      GAP  C
+ATOM    495  CG  ASP G 748     -26.370   2.635  36.156  1.00 32.98      GAP  C
+ATOM    496  OD1 ASP G 748     -25.689   1.617  35.915  1.00 36.06      GAP  O
+ATOM    497  OD2 ASP G 748     -26.554   3.067  37.305  1.00 31.41      GAP  O
+ATOM    498  H   ASP G 748     -25.390   5.329  34.757  1.00 41.73      GAP  H   new
+ATOM    499  HA  ASP G 748     -25.571   2.659  33.581  1.00 38.02      GAP  H   new
+ATOM    500 1HB  ASP G 748     -27.397   4.344  35.375  1.00 34.98      GAP  H   new
+ATOM    501 2HB  ASP G 748     -27.906   2.802  34.673  1.00 34.98      GAP  H   new
+ATOM    502  N   ARG G 749     -26.546   5.203  32.079  1.00 38.37      GAP  N
+ATOM    503  CA  ARG G 749     -27.171   5.786  30.890  1.00 34.53      GAP  C
+ATOM    504  C   ARG G 749     -27.442   4.728  29.833  1.00 30.73      GAP  C
+ATOM    505  O   ARG G 749     -28.586   4.373  29.587  1.00 33.82      GAP  O
+ATOM    506  CB  ARG G 749     -26.251   6.863  30.314  1.00 36.52      GAP  C
+ATOM    507  CG  ARG G 749     -26.834   7.680  29.187  1.00 45.68      GAP  C
+ATOM    508  CD  ARG G 749     -25.796   8.660  28.660  1.00 56.95      GAP  C
+ATOM    509  NE  ARG G 749     -25.615   9.803  29.552  1.00 70.65      GAP  N
+ATOM    510  CZ  ARG G 749     -24.439  10.359  29.843  1.00 77.00      GAP  C
+ATOM    511  NH1 ARG G 749     -23.327   9.930  29.257  1.00 76.54      GAP  N
+ATOM    512  NH2 ARG G 749     -24.380  11.383  30.687  1.00 80.57      GAP  N
+ATOM    513  H   ARG G 749     -25.826   5.779  32.466  1.00 38.37      GAP  H   new
+ATOM    514  HA  ARG G 749     -28.134   6.228  31.185  1.00 34.53      GAP  H   new
+ATOM    515 1HB  ARG G 749     -25.961   7.546  31.126  1.00 36.52      GAP  H   new
+ATOM    516 2HB  ARG G 749     -25.330   6.380  29.955  1.00 36.52      GAP  H   new
+ATOM    517 1HG  ARG G 749     -27.168   7.016  28.376  1.00 45.68      GAP  H   new
+ATOM    518 2HG  ARG G 749     -27.721   8.227  29.540  1.00 45.68      GAP  H   new
+ATOM    519 1HD  ARG G 749     -24.835   8.140  28.533  1.00 56.95      GAP  H   new
+ATOM    520 2HD  ARG G 749     -26.103   9.017  27.666  1.00 56.95      GAP  H   new
+ATOM    521  HE  ARG G 749     -26.432  10.196  29.974  1.00 70.65      GAP  H + new
+ATOM    522 1HH1 ARG G 749     -23.368   9.184  28.592  1.00 76.54      GAP  H + new
+ATOM    523 2HH1 ARG G 749     -22.449  10.353  29.481  1.00 76.54      GAP  H + new
+ATOM    524 1HH2 ARG G 749     -25.218  11.736  31.104  1.00 80.57      GAP  H + new
+ATOM    525 2HH2 ARG G 749     -23.498  11.801  30.906  1.00 80.57      GAP  H + new
+ATOM    526  N   THR G 750     -26.376   4.127  29.320  1.00 28.21      GAP  N
+ATOM    527  CA  THR G 750     -26.496   3.077  28.317  1.00 26.30      GAP  C
+ATOM    528  C   THR G 750     -27.434   1.959  28.780  1.00 28.52      GAP  C
+ATOM    529  O   THR G 750     -28.463   1.706  28.152  1.00 30.01      GAP  O
+ATOM    530  CB  THR G 750     -25.121   2.475  27.986  1.00 23.83      GAP  C
+ATOM    531  OG1 THR G 750     -24.204   3.529  27.662  1.00 25.53      GAP  O
+ATOM    532  CG2 THR G 750     -25.228   1.511  26.811  1.00 23.67      GAP  C
+ATOM    533  H   THR G 750     -25.435   4.345  29.578  1.00 28.21      GAP  H   new
+ATOM    534  HA  THR G 750     -26.920   3.544  27.415  1.00 26.30      GAP  H   new
+ATOM    535  HB  THR G 750     -24.756   1.921  28.863  1.00 23.83      GAP  H   new
+ATOM    536  HG1 THR G 750     -23.309   3.138  27.447  1.00 25.53      GAP  H   new
+ATOM    537 1HG2 THR G 750     -24.236   1.091  26.589  1.00 23.67      GAP  H   new
+ATOM    538 2HG2 THR G 750     -25.922   0.696  27.066  1.00 23.67      GAP  H   new
+ATOM    539 3HG2 THR G 750     -25.604   2.049  25.928  1.00 23.67      GAP  H   new
+ATOM    540  N   LEU G 751     -27.127   1.371  29.936  1.00 29.13      GAP  N
+ATOM    541  CA  LEU G 751     -27.895   0.248  30.459  1.00 22.02      GAP  C
+ATOM    542  C   LEU G 751     -29.364   0.615  30.561  1.00 21.30      GAP  C
+ATOM    543  O   LEU G 751     -30.221  -0.125  30.094  1.00 18.07      GAP  O
+ATOM    544  CB  LEU G 751     -27.376  -0.145  31.835  1.00 19.46      GAP  C
+ATOM    545  CG  LEU G 751     -28.213  -1.207  32.542  1.00 24.95      GAP  C
+ATOM    546  CD1 LEU G 751     -28.017  -2.544  31.856  1.00 22.95      GAP  C
+ATOM    547  CD2 LEU G 751     -27.825  -1.280  34.009  1.00 29.69      GAP  C
+ATOM    548  H   LEU G 751     -26.363   1.652  30.517  1.00 29.13      GAP  H   new
+ATOM    549  HA  LEU G 751     -27.782  -0.601  29.769  1.00 22.02      GAP  H   new
+ATOM    550 1HB  LEU G 751     -26.345  -0.515  31.733  1.00 19.46      GAP  H   new
+ATOM    551 2HB  LEU G 751     -27.334   0.753  32.468  1.00 19.46      GAP  H   new
+ATOM    552  HG  LEU G 751     -29.278  -0.940  32.485  1.00 24.95      GAP  H   new
+ATOM    553 1HD1 LEU G 751     -28.620  -3.310  32.365  1.00 22.95      GAP  H   new
+ATOM    554 2HD1 LEU G 751     -28.334  -2.467  30.805  1.00 22.95      GAP  H   new
+ATOM    555 3HD1 LEU G 751     -26.955  -2.826  31.899  1.00 22.95      GAP  H   new
+ATOM    556 1HD2 LEU G 751     -28.432  -2.047  34.512  1.00 29.69      GAP  H   new
+ATOM    557 2HD2 LEU G 751     -26.760  -1.542  34.095  1.00 29.69      GAP  H   new
+ATOM    558 3HD2 LEU G 751     -28.001  -0.304  34.484  1.00 29.69      GAP  H   new
+ATOM    559  N   LEU G 752     -29.634   1.772  31.159  1.00 21.92      GAP  N
+ATOM    560  CA  LEU G 752     -30.996   2.258  31.367  1.00 22.08      GAP  C
+ATOM    561  C   LEU G 752     -31.751   2.400  30.046  1.00 27.61      GAP  C
+ATOM    562  O   LEU G 752     -32.954   2.049  29.955  1.00 28.05      GAP  O
+ATOM    563  CB  LEU G 752     -30.954   3.606  32.083  1.00 14.90      GAP  C
+ATOM    564  CG  LEU G 752     -32.236   4.427  32.057  1.00 12.67      GAP  C
+ATOM    565  CD1 LEU G 752     -33.283   3.716  32.865  1.00  6.66      GAP  C
+ATOM    566  CD2 LEU G 752     -31.978   5.825  32.588  1.00  9.08      GAP  C
+ATOM    567  H   LEU G 752     -28.928   2.388  31.507  1.00 21.92      GAP  H   new
+ATOM    568  HA  LEU G 752     -31.530   1.520  31.984  1.00 22.08      GAP  H   new
+ATOM    569 1HB  LEU G 752     -30.679   3.430  33.133  1.00 14.90      GAP  H   new
+ATOM    570 2HB  LEU G 752     -30.150   4.209  31.636  1.00 14.90      GAP  H   new
+ATOM    571  HG  LEU G 752     -32.596   4.532  31.023  1.00 12.67      GAP  H   new
+ATOM    572 1HD1 LEU G 752     -34.215   4.300  32.854  1.00  6.66      GAP  H   new
+ATOM    573 2HD1 LEU G 752     -33.469   2.722  32.432  1.00  6.66      GAP  H   new
+ATOM    574 3HD1 LEU G 752     -32.933   3.604  33.902  1.00  6.66      GAP  H   new
+ATOM    575 1HD2 LEU G 752     -32.912   6.405  32.563  1.00  9.08      GAP  H   new
+ATOM    576 2HD2 LEU G 752     -31.613   5.763  33.624  1.00  9.08      GAP  H   new
+ATOM    577 3HD2 LEU G 752     -31.222   6.322  31.963  1.00  9.08      GAP  H   new
+ATOM    578  N   ALA G 753     -31.067   2.956  29.045  1.00 29.41      GAP  N
+ATOM    579  CA  ALA G 753     -31.634   3.141  27.710  1.00 32.05      GAP  C
+ATOM    580  C   ALA G 753     -32.177   1.829  27.141  1.00 32.34      GAP  C
+ATOM    581  O   ALA G 753     -33.372   1.731  26.846  1.00 33.69      GAP  O
+ATOM    582  CB  ALA G 753     -30.584   3.735  26.770  1.00 30.10      GAP  C
+ATOM    583  H   ALA G 753     -30.126   3.283  29.135  1.00 29.41      GAP  H   new
+ATOM    584  HA  ALA G 753     -32.479   3.840  27.796  1.00 32.05      GAP  H   new
+ATOM    585 1HB  ALA G 753     -31.021   3.870  25.770  1.00 30.10      GAP  H   new
+ATOM    586 2HB  ALA G 753     -30.252   4.709  27.159  1.00 30.10      GAP  H   new
+ATOM    587 3HB  ALA G 753     -29.723   3.054  26.705  1.00 30.10      GAP  H   new
+ATOM    588  N   SER G 754     -31.332   0.799  27.102  1.00 33.02      GAP  N
+ATOM    589  CA  SER G 754     -31.735  -0.546  26.671  1.00 31.54      GAP  C
+ATOM    590  C   SER G 754     -33.011  -1.005  27.371  1.00 30.12      GAP  C
+ATOM    591  O   SER G 754     -33.832  -1.704  26.779  1.00 33.23      GAP  O
+ATOM    592  CB  SER G 754     -30.624  -1.566  26.966  1.00 34.90      GAP  C
+ATOM    593  OG  SER G 754     -29.364  -1.163  26.452  1.00 36.53      GAP  O
+ATOM    594  H   SER G 754     -30.369   0.868  27.362  1.00 33.02      GAP  H   new
+ATOM    595  HA  SER G 754     -31.920  -0.490  25.588  1.00 31.54      GAP  H   new
+ATOM    596 1HB  SER G 754     -30.899  -2.538  26.532  1.00 34.90      GAP  H   new
+ATOM    597 2HB  SER G 754     -30.543  -1.711  28.053  1.00 34.90      GAP  H   new
+ATOM    598  HG  SER G 754     -28.678  -1.857  26.669  1.00 36.53      GAP  H   new
+ATOM    599  N   ILE G 755     -33.171  -0.600  28.628  1.00 28.37      GAP  N
+ATOM    600  CA  ILE G 755     -34.289  -1.042  29.455  1.00 26.50      GAP  C
+ATOM    601  C   ILE G 755     -35.551  -0.232  29.170  1.00 28.29      GAP  C
+ATOM    602  O   ILE G 755     -36.651  -0.790  29.052  1.00 28.80      GAP  O
+ATOM    603  CB  ILE G 755     -33.940  -0.938  30.958  1.00 24.70      GAP  C
+ATOM    604  CG1 ILE G 755     -32.656  -1.718  31.249  1.00 25.04      GAP  C
+ATOM    605  CG2 ILE G 755     -35.074  -1.486  31.800  1.00 23.06      GAP  C
+ATOM    606  CD1 ILE G 755     -32.128  -1.533  32.646  1.00 26.96      GAP  C
+ATOM    607  H   ILE G 755     -32.545   0.028  29.090  1.00 28.37      GAP  H   new
+ATOM    608  HA  ILE G 755     -34.482  -2.094  29.200  1.00 26.50      GAP  H   new
+ATOM    609  HB  ILE G 755     -33.788   0.121  31.213  1.00 24.70      GAP  H   new
+ATOM    610 1HG1 ILE G 755     -32.843  -2.788  31.078  1.00 25.04      GAP  H   new
+ATOM    611 2HG1 ILE G 755     -31.881  -1.409  30.532  1.00 25.04      GAP  H   new
+ATOM    612 1HG2 ILE G 755     -34.812  -1.406  32.865  1.00 23.06      GAP  H   new
+ATOM    613 2HG2 ILE G 755     -35.990  -0.909  31.603  1.00 23.06      GAP  H   new
+ATOM    614 3HG2 ILE G 755     -35.245  -2.542  31.543  1.00 23.06      GAP  H   new
+ATOM    615 1HD1 ILE G 755     -31.209  -2.124  32.772  1.00 26.96      GAP  H   new
+ATOM    616 2HD1 ILE G 755     -31.906  -0.469  32.817  1.00 26.96      GAP  H   new
+ATOM    617 3HD1 ILE G 755     -32.883  -1.870  33.372  1.00 26.96      GAP  H   new
+ATOM    618  N   LEU G 756     -35.401   1.080  29.051  1.00 27.32      GAP  N
+ATOM    619  CA  LEU G 756     -36.538   1.919  28.718  1.00 26.93      GAP  C
+ATOM    620  C   LEU G 756     -37.065   1.661  27.298  1.00 29.09      GAP  C
+ATOM    621  O   LEU G 756     -38.291   1.557  27.091  1.00 35.00      GAP  O
+ATOM    622  CB  LEU G 756     -36.179   3.393  28.907  1.00 24.79      GAP  C
+ATOM    623  CG  LEU G 756     -36.211   3.861  30.363  1.00 23.95      GAP  C
+ATOM    624  CD1 LEU G 756     -35.935   5.354  30.437  1.00 22.72      GAP  C
+ATOM    625  CD2 LEU G 756     -37.564   3.536  30.975  1.00 21.35      GAP  C
+ATOM    626  H   LEU G 756     -34.537   1.567  29.175  1.00 27.32      GAP  H   new
+ATOM    627  HA  LEU G 756     -37.353   1.655  29.408  1.00 26.93      GAP  H   new
+ATOM    628 1HB  LEU G 756     -35.173   3.570  28.498  1.00 24.79      GAP  H   new
+ATOM    629 2HB  LEU G 756     -36.877   4.008  28.320  1.00 24.79      GAP  H   new
+ATOM    630  HG  LEU G 756     -35.430   3.336  30.932  1.00 23.95      GAP  H   new
+ATOM    631 1HD1 LEU G 756     -35.960   5.680  31.487  1.00 22.72      GAP  H   new
+ATOM    632 2HD1 LEU G 756     -34.943   5.566  30.011  1.00 22.72      GAP  H   new
+ATOM    633 3HD1 LEU G 756     -36.702   5.898  29.866  1.00 22.72      GAP  H   new
+ATOM    634 1HD2 LEU G 756     -37.584   3.874  32.022  1.00 21.35      GAP  H   new
+ATOM    635 2HD2 LEU G 756     -38.356   4.049  30.409  1.00 21.35      GAP  H   new
+ATOM    636 3HD2 LEU G 756     -37.733   2.450  30.937  1.00 21.35      GAP  H   new
+ATOM    637  N   LEU G 757     -36.168   1.437  26.343  1.00 24.79      GAP  N
+ATOM    638  CA  LEU G 757     -36.596   1.225  24.964  1.00 21.37      GAP  C
+ATOM    639  C   LEU G 757     -37.429  -0.047  24.815  1.00 19.87      GAP  C
+ATOM    640  O   LEU G 757     -38.552   0.006  24.303  1.00 19.97      GAP  O
+ATOM    641  CB  LEU G 757     -35.390   1.192  24.017  1.00 22.70      GAP  C
+ATOM    642  CG  LEU G 757     -35.632   1.655  22.567  1.00 29.79      GAP  C
+ATOM    643  CD1 LEU G 757     -36.286   3.047  22.528  1.00 23.81      GAP  C
+ATOM    644  CD2 LEU G 757     -34.314   1.652  21.802  1.00 26.12      GAP  C
+ATOM    645  H   LEU G 757     -35.180   1.399  26.490  1.00 24.79      GAP  H   new
+ATOM    646  HA  LEU G 757     -37.237   2.075  24.688  1.00 21.37      GAP  H   new
+ATOM    647 1HB  LEU G 757     -34.597   1.820  24.450  1.00 22.70      GAP  H   new
+ATOM    648 2HB  LEU G 757     -35.005   0.162  23.988  1.00 22.70      GAP  H   new
+ATOM    649  HG  LEU G 757     -36.328   0.953  22.085  1.00 29.79      GAP  H   new
+ATOM    650 1HD1 LEU G 757     -36.445   3.349  21.482  1.00 23.81      GAP  H   new
+ATOM    651 2HD1 LEU G 757     -37.253   3.013  23.051  1.00 23.81      GAP  H   new
+ATOM    652 3HD1 LEU G 757     -35.628   3.776  23.023  1.00 23.81      GAP  H   new
+ATOM    653 1HD2 LEU G 757     -34.489   1.983  20.768  1.00 26.12      GAP  H   new
+ATOM    654 2HD2 LEU G 757     -33.605   2.336  22.290  1.00 26.12      GAP  H   new
+ATOM    655 3HD2 LEU G 757     -33.896   0.635  21.795  1.00 26.12      GAP  H   new
+ATOM    656  N   ARG G 758     -36.947  -1.155  25.370  1.00 18.90      GAP  N
+ATOM    657  CA  ARG G 758     -37.689  -2.411  25.309  1.00 19.04      GAP  C
+ATOM    658  C   ARG G 758     -39.066  -2.289  25.963  1.00 22.57      GAP  C
+ATOM    659  O   ARG G 758     -40.067  -2.797  25.433  1.00 24.21      GAP  O
+ATOM    660  CB  ARG G 758     -36.897  -3.538  25.971  1.00 17.50      GAP  C
+ATOM    661  CG  ARG G 758     -35.722  -4.025  25.147  1.00 26.27      GAP  C
+ATOM    662  CD  ARG G 758     -35.265  -5.414  25.557  1.00 26.22      GAP  C
+ATOM    663  NE  ARG G 758     -34.649  -5.418  26.877  1.00 31.76      GAP  N
+ATOM    664  CZ  ARG G 758     -33.438  -4.935  27.154  1.00 35.91      GAP  C
+ATOM    665  NH1 ARG G 758     -32.659  -4.450  26.189  1.00 28.40      GAP  N
+ATOM    666  NH2 ARG G 758     -32.995  -4.959  28.408  1.00 38.03      GAP  N
+ATOM    667  H   ARG G 758     -36.073  -1.209  25.853  1.00 18.90      GAP  H   new
+ATOM    668  HA  ARG G 758     -37.837  -2.650  24.246  1.00 19.04      GAP  H   new
+ATOM    669 1HB  ARG G 758     -36.529  -3.190  26.948  1.00 17.50      GAP  H   new
+ATOM    670 2HB  ARG G 758     -37.573  -4.384  26.165  1.00 17.50      GAP  H   new
+ATOM    671 1HG  ARG G 758     -36.002  -4.033  24.083  1.00 26.27      GAP  H   new
+ATOM    672 2HG  ARG G 758     -34.885  -3.320  25.254  1.00 26.27      GAP  H   new
+ATOM    673 1HD  ARG G 758     -36.126  -6.099  25.553  1.00 26.22      GAP  H   new
+ATOM    674 2HD  ARG G 758     -34.547  -5.796  24.817  1.00 26.22      GAP  H   new
+ATOM    675  HE  ARG G 758     -35.174  -5.812  27.631  1.00 31.76      GAP  H + new
+ATOM    676 1HH1 ARG G 758     -32.980  -4.445  25.242  1.00 28.40      GAP  H + new
+ATOM    677 2HH1 ARG G 758     -31.753  -4.091  26.411  1.00 28.40      GAP  H + new
+ATOM    678 1HH2 ARG G 758     -33.569  -5.337  29.134  1.00 38.03      GAP  H + new
+ATOM    679 2HH2 ARG G 758     -32.088  -4.599  28.625  1.00 38.03      GAP  H + new
+ATOM    680  N   ILE G 759     -39.138  -1.563  27.073  1.00 25.23      GAP  N
+ATOM    681  CA  ILE G 759     -40.413  -1.359  27.749  1.00 27.52      GAP  C
+ATOM    682  C   ILE G 759     -41.369  -0.631  26.821  1.00 28.65      GAP  C
+ATOM    683  O   ILE G 759     -42.423  -1.161  26.479  1.00 28.86      GAP  O
+ATOM    684  CB  ILE G 759     -40.251  -0.553  29.067  1.00 27.75      GAP  C
+ATOM    685  CG1 ILE G 759     -39.461  -1.384  30.091  1.00 26.92      GAP  C
+ATOM    686  CG2 ILE G 759     -41.629  -0.198  29.635  1.00 27.04      GAP  C
+ATOM    687  CD1 ILE G 759     -39.121  -0.651  31.370  1.00 22.92      GAP  C
+ATOM    688  H   ILE G 759     -38.355  -1.120  27.510  1.00 25.23      GAP  H   new
+ATOM    689  HA  ILE G 759     -40.816  -2.349  28.010  1.00 27.52      GAP  H   new
+ATOM    690  HB  ILE G 759     -39.701   0.376  28.856  1.00 27.75      GAP  H   new
+ATOM    691 1HG1 ILE G 759     -40.044  -2.282  30.343  1.00 26.92      GAP  H   new
+ATOM    692 2HG1 ILE G 759     -38.527  -1.728  29.622  1.00 26.92      GAP  H   new
+ATOM    693 1HG2 ILE G 759     -41.506   0.372  30.568  1.00 27.04      GAP  H   new
+ATOM    694 2HG2 ILE G 759     -42.182   0.410  28.904  1.00 27.04      GAP  H   new
+ATOM    695 3HG2 ILE G 759     -42.190  -1.121  29.842  1.00 27.04      GAP  H   new
+ATOM    696 1HD1 ILE G 759     -38.559  -1.320  32.038  1.00 22.92      GAP  H   new
+ATOM    697 2HD1 ILE G 759     -38.508   0.232  31.135  1.00 22.92      GAP  H   new
+ATOM    698 3HD1 ILE G 759     -40.048  -0.331  31.867  1.00 22.92      GAP  H   new
+ATOM    699  N   PHE G 760     -40.912   0.490  26.272  1.00 32.11      GAP  N
+ATOM    700  CA  PHE G 760     -41.761   1.339  25.443  1.00 34.09      GAP  C
+ATOM    701  C   PHE G 760     -42.054   0.763  24.054  1.00 35.44      GAP  C
+ATOM    702  O   PHE G 760     -43.161   0.938  23.538  1.00 38.88      GAP  O
+ATOM    703  CB  PHE G 760     -41.154   2.744  25.329  1.00 34.45      GAP  C
+ATOM    704  CG  PHE G 760     -41.347   3.587  26.561  1.00 31.79      GAP  C
+ATOM    705  CD1 PHE G 760     -40.512   3.436  27.664  1.00 32.90      GAP  C
+ATOM    706  CD2 PHE G 760     -42.406   4.482  26.648  1.00 28.98      GAP  C
+ATOM    707  CE1 PHE G 760     -40.736   4.156  28.835  1.00 31.54      GAP  C
+ATOM    708  CE2 PHE G 760     -42.638   5.211  27.818  1.00 28.40      GAP  C
+ATOM    709  CZ  PHE G 760     -41.803   5.045  28.911  1.00 29.93      GAP  C
+ATOM    710  H   PHE G 760     -39.977   0.825  26.384  1.00 32.11      GAP  H   new
+ATOM    711  HA  PHE G 760     -42.734   1.391  25.954  1.00 34.09      GAP  H   new
+ATOM    712 1HB  PHE G 760     -40.077   2.653  25.122  1.00 34.45      GAP  H   new
+ATOM    713 2HB  PHE G 760     -41.604   3.260  24.468  1.00 34.45      GAP  H   new
+ATOM    714  HD1 PHE G 760     -39.663   2.738  27.610  1.00 32.90      GAP  H   new
+ATOM    715  HD2 PHE G 760     -43.072   4.619  25.783  1.00 28.98      GAP  H   new
+ATOM    716  HE1 PHE G 760     -40.069   4.022  29.700  1.00 31.54      GAP  H   new
+ATOM    717  HE2 PHE G 760     -43.482   5.915  27.871  1.00 28.40      GAP  H   new
+ATOM    718  HZ  PHE G 760     -41.983   5.614  29.835  1.00 29.93      GAP  H   new
+ATOM    719  N   LEU G 761     -41.101   0.037  23.471  1.00 33.69      GAP  N
+ATOM    720  CA  LEU G 761     -41.353  -0.709  22.236  1.00 32.64      GAP  C
+ATOM    721  C   LEU G 761     -42.433  -1.780  22.409  1.00 37.43      GAP  C
+ATOM    722  O   LEU G 761     -43.081  -2.165  21.431  1.00 40.66      GAP  O
+ATOM    723  CB  LEU G 761     -40.076  -1.390  21.731  1.00 26.95      GAP  C
+ATOM    724  CG  LEU G 761     -39.004  -0.608  20.964  1.00 27.16      GAP  C
+ATOM    725  CD1 LEU G 761     -37.754  -1.461  20.852  1.00 24.86      GAP  C
+ATOM    726  CD2 LEU G 761     -39.481  -0.244  19.588  1.00 19.08      GAP  C
+ATOM    727  H   LEU G 761     -40.169  -0.050  23.824  1.00 33.69      GAP  H   new
+ATOM    728  HA  LEU G 761     -41.703   0.033  21.503  1.00 32.64      GAP  H   new
+ATOM    729 1HB  LEU G 761     -39.582  -1.835  22.608  1.00 26.95      GAP  H   new
+ATOM    730 2HB  LEU G 761     -40.391  -2.221  21.083  1.00 26.95      GAP  H   new
+ATOM    731  HG  LEU G 761     -38.788   0.321  21.512  1.00 27.16      GAP  H   new
+ATOM    732 1HD1 LEU G 761     -36.979  -0.907  20.302  1.00 24.86      GAP  H   new
+ATOM    733 2HD1 LEU G 761     -37.385  -1.705  21.859  1.00 24.86      GAP  H   new
+ATOM    734 3HD1 LEU G 761     -37.991  -2.390  20.313  1.00 24.86      GAP  H   new
+ATOM    735 1HD2 LEU G 761     -38.693   0.315  19.062  1.00 19.08      GAP  H   new
+ATOM    736 2HD2 LEU G 761     -39.717  -1.160  19.027  1.00 19.08      GAP  H   new
+ATOM    737 3HD2 LEU G 761     -40.383   0.380  19.665  1.00 19.08      GAP  H   new
+ATOM    738  N   HIS G 762     -42.622  -2.270  23.636  1.00 41.03      GAP  N
+ATOM    739  CA  HIS G 762     -43.536  -3.388  23.882  1.00 43.43      GAP  C
+ATOM    740  C   HIS G 762     -45.007  -2.970  23.833  1.00 45.24      GAP  C
+ATOM    741  O   HIS G 762     -45.856  -3.703  23.274  1.00 45.58      GAP  O
+ATOM    742  CB  HIS G 762     -43.229  -4.055  25.227  1.00 41.45      GAP  C
+ATOM    743  CG  HIS G 762     -43.895  -5.385  25.409  1.00 42.35      GAP  C
+ATOM    744  ND1 HIS G 762     -45.200  -5.514  25.836  1.00 40.43      GAP  N
+ATOM    745  CD2 HIS G 762     -43.423  -6.646  25.258  1.00 40.89      GAP  C
+ATOM    746  CE1 HIS G 762     -45.502  -6.795  25.949  1.00 43.05      GAP  C
+ATOM    747  NE2 HIS G 762     -44.441  -7.503  25.605  1.00 43.78      GAP  N
+ATOM    748  H   HIS G 762     -42.166  -1.920  24.454  1.00 41.03      GAP  H   new
+ATOM    749  HA  HIS G 762     -43.371  -4.110  23.068  1.00 43.43      GAP  H   new
+ATOM    750 1HB  HIS G 762     -42.141  -4.185  25.321  1.00 41.45      GAP  H   new
+ATOM    751 2HB  HIS G 762     -43.545  -3.383  26.039  1.00 41.45      GAP  H   new
+ATOM    752  HD1 HIS G 762     -45.822  -4.755  26.030  1.00 40.43      GAP  H   new
+ATOM    753  HD2 HIS G 762     -42.415  -6.931  24.921  1.00 40.89      GAP  H   new
+ATOM    754  HE1 HIS G 762     -46.471  -7.202  26.274  1.00 43.05      GAP  H   new
+ATOM    755  HE2 HIS G 762     -44.387  -8.502  25.598  1.00 43.78      GAP  H   new
+ATOM    756  N   GLU G 763     -45.333  -1.862  24.495  1.00 46.00      GAP  N
+ATOM    757  CA  GLU G 763     -46.653  -1.259  24.343  1.00 47.38      GAP  C
+ATOM    758  C   GLU G 763     -46.586  -0.075  23.388  1.00 47.76      GAP  C
+ATOM    759  O   GLU G 763     -47.262   0.938  23.595  1.00 50.87      GAP  O
+ATOM    760  CB  GLU G 763     -47.256  -0.813  25.688  1.00 46.09      GAP  C
+ATOM    761  CG  GLU G 763     -46.272  -0.564  26.812  1.00 45.83      GAP  C
+ATOM    762  CD  GLU G 763     -45.853  -1.840  27.511  1.00 48.82      GAP  C
+ATOM    763  OE1 GLU G 763     -46.549  -2.870  27.364  1.00 48.38      GAP  O
+ATOM    764  OE2 GLU G 763     -44.813  -1.815  28.201  1.00 53.68      GAP  O
+ATOM    765  H   GLU G 763     -44.721  -1.379  25.122  1.00 46.00      GAP  H   new
+ATOM    766  HA  GLU G 763     -47.313  -2.034  23.928  1.00 47.38      GAP  H   new
+ATOM    767 1HB  GLU G 763     -47.830   0.110  25.520  1.00 46.09      GAP  H   new
+ATOM    768 2HB  GLU G 763     -47.971  -1.581  26.018  1.00 46.09      GAP  H   new
+ATOM    769 1HG  GLU G 763     -45.380  -0.061  26.409  1.00 45.83      GAP  H   new
+ATOM    770 2HG  GLU G 763     -46.724   0.120  27.545  1.00 45.83      GAP  H   new
+ATOM    771  N   LYS G 764     -45.752  -0.208  22.357  1.00 44.15      GAP  N
+ATOM    772  CA  LYS G 764     -45.790   0.677  21.199  1.00 45.02      GAP  C
+ATOM    773  C   LYS G 764     -45.870   2.142  21.624  1.00 40.57      GAP  C
+ATOM    774  O   LYS G 764     -46.815   2.859  21.277  1.00 41.20      GAP  O
+ATOM    775  CB  LYS G 764     -46.991   0.327  20.300  1.00 52.26      GAP  C
+ATOM    776  CG  LYS G 764     -47.054  -1.127  19.798  1.00 61.16      GAP  C
+ATOM    777  CD  LYS G 764     -48.056  -1.950  20.613  1.00 71.50      GAP  C
+ATOM    778  CE  LYS G 764     -48.390  -3.301  19.970  1.00 76.30      GAP  C
+ATOM    779  NZ  LYS G 764     -49.219  -4.196  20.861  1.00 80.14      GAP  N
+ATOM    780  H   LYS G 764     -45.048  -0.916  22.304  1.00 44.15      GAP  H   new
+ATOM    781  HA  LYS G 764     -44.858   0.533  20.633  1.00 45.02      GAP  H   new
+ATOM    782 1HB  LYS G 764     -47.915   0.543  20.856  1.00 52.26      GAP  H   new
+ATOM    783 2HB  LYS G 764     -46.977   0.996  19.427  1.00 52.26      GAP  H   new
+ATOM    784 1HG  LYS G 764     -47.342  -1.140  18.736  1.00 61.16      GAP  H   new
+ATOM    785 2HG  LYS G 764     -46.056  -1.585  19.866  1.00 61.16      GAP  H   new
+ATOM    786 1HD  LYS G 764     -47.647  -2.121  21.620  1.00 71.50      GAP  H   new
+ATOM    787 2HD  LYS G 764     -48.983  -1.370  20.736  1.00 71.50      GAP  H   new
+ATOM    788 1HE  LYS G 764     -48.933  -3.128  19.029  1.00 76.30      GAP  H   new
+ATOM    789 2HE  LYS G 764     -47.454  -3.818  19.711  1.00 76.30      GAP  H   new
+ATOM    790 1HZ  LYS G 764     -49.404  -5.058  20.389  1.00 80.14      GAP  H + new
+ATOM    791 2HZ  LYS G 764     -48.719  -4.380  21.707  1.00 80.14      GAP  H + new
+ATOM    792 3HZ  LYS G 764     -50.084  -3.743  21.077  1.00 80.14      GAP  H + new
+ATOM    793  N   LEU G 765     -44.958   2.537  22.500  1.00 36.07      GAP  N
+ATOM    794  CA  LEU G 765     -44.907   3.910  22.973  1.00 33.36      GAP  C
+ATOM    795  C   LEU G 765     -43.559   4.540  22.670  1.00 32.97      GAP  C
+ATOM    796  O   LEU G 765     -43.226   5.593  23.216  1.00 37.03      GAP  O
+ATOM    797  CB  LEU G 765     -45.172   3.962  24.477  1.00 30.65      GAP  C
+ATOM    798  CG  LEU G 765     -46.593   3.668  24.943  1.00 25.86      GAP  C
+ATOM    799  CD1 LEU G 765     -46.626   3.633  26.445  1.00 26.52      GAP  C
+ATOM    800  CD2 LEU G 765     -47.540   4.726  24.400  1.00 27.15      GAP  C
+ATOM    801  H   LEU G 765     -44.258   1.938  22.889  1.00 36.07      GAP  H   new
+ATOM    802  HA  LEU G 765     -45.687   4.479  22.446  1.00 33.36      GAP  H   new
+ATOM    803 1HB  LEU G 765     -44.497   3.245  24.967  1.00 30.65      GAP  H   new
+ATOM    804 2HB  LEU G 765     -44.895   4.963  24.838  1.00 30.65      GAP  H   new
+ATOM    805  HG  LEU G 765     -46.918   2.689  24.562  1.00 25.86      GAP  H   new
+ATOM    806 1HD1 LEU G 765     -47.650   3.421  26.785  1.00 26.52      GAP  H   new
+ATOM    807 2HD1 LEU G 765     -45.949   2.846  26.809  1.00 26.52      GAP  H   new
+ATOM    808 3HD1 LEU G 765     -46.303   4.606  26.842  1.00 26.52      GAP  H   new
+ATOM    809 1HD2 LEU G 765     -48.564   4.510  24.738  1.00 27.15      GAP  H   new
+ATOM    810 2HD2 LEU G 765     -47.234   5.716  24.768  1.00 27.15      GAP  H   new
+ATOM    811 3HD2 LEU G 765     -47.508   4.718  23.300  1.00 27.15      GAP  H   new
+ATOM    812  N   GLU G 766     -42.772   3.876  21.829  1.00 30.73      GAP  N
+ATOM    813  CA  GLU G 766     -41.493   4.401  21.354  1.00 27.22      GAP  C
+ATOM    814  C   GLU G 766     -41.603   5.891  21.071  1.00 27.19      GAP  C
+ATOM    815  O   GLU G 766     -40.826   6.697  21.590  1.00 28.92      GAP  O
+ATOM    816  CB  GLU G 766     -41.081   3.683  20.076  1.00 29.02      GAP  C
+ATOM    817  CG  GLU G 766     -41.608   2.269  19.984  1.00 33.48      GAP  C
+ATOM    818  CD  GLU G 766     -42.109   1.908  18.601  1.00 33.62      GAP  C
+ATOM    819  OE1 GLU G 766     -41.616   2.485  17.606  1.00 34.38      GAP  O
+ATOM    820  OE2 GLU G 766     -42.957   0.999  18.511  1.00 31.23      GAP  O
+ATOM    821  H   GLU G 766     -42.998   2.973  21.463  1.00 30.73      GAP  H   new
+ATOM    822  HA  GLU G 766     -40.738   4.234  22.136  1.00 27.22      GAP  H   new
+ATOM    823 1HB  GLU G 766     -41.441   4.257  19.210  1.00 29.02      GAP  H   new
+ATOM    824 2HB  GLU G 766     -39.983   3.662  20.014  1.00 29.02      GAP  H   new
+ATOM    825 1HG  GLU G 766     -40.811   1.568  20.273  1.00 33.48      GAP  H   new
+ATOM    826 2HG  GLU G 766     -42.426   2.142  20.708  1.00 33.48      GAP  H   new
+ATOM    827  N   SER G 767     -42.694   6.253  20.411  1.00 26.60      GAP  N
+ATOM    828  CA  SER G 767     -42.936   7.630  20.007  1.00 28.97      GAP  C
+ATOM    829  C   SER G 767     -43.161   8.540  21.196  1.00 27.70      GAP  C
+ATOM    830  O   SER G 767     -42.610   9.627  21.254  1.00 25.21      GAP  O
+ATOM    831  CB  SER G 767     -44.145   7.678  19.091  1.00 30.17      GAP  C
+ATOM    832  OG  SER G 767     -44.051   6.635  18.141  1.00 41.45      GAP  O
+ATOM    833  H   SER G 767     -43.418   5.616  20.147  1.00 26.60      GAP  H   new
+ATOM    834  HA  SER G 767     -42.041   7.990  19.479  1.00 28.97      GAP  H   new
+ATOM    835 1HB  SER G 767     -44.196   8.651  18.581  1.00 30.17      GAP  H   new
+ATOM    836 2HB  SER G 767     -45.069   7.574  19.678  1.00 30.17      GAP  H   new
+ATOM    837  HG  SER G 767     -44.846   6.663  17.535  1.00 41.45      GAP  H   new
+ATOM    838  N   LEU G 768     -43.974   8.083  22.144  1.00 29.18      GAP  N
+ATOM    839  CA  LEU G 768     -44.221   8.835  23.371  1.00 28.22      GAP  C
+ATOM    840  C   LEU G 768     -42.890   9.139  24.056  1.00 28.83      GAP  C
+ATOM    841  O   LEU G 768     -42.598  10.287  24.334  1.00 32.77      GAP  O
+ATOM    842  CB  LEU G 768     -45.127   8.034  24.319  1.00 25.70      GAP  C
+ATOM    843  CG  LEU G 768     -46.038   8.749  25.328  1.00 20.66      GAP  C
+ATOM    844  CD1 LEU G 768     -45.997   7.991  26.640  1.00 19.37      GAP  C
+ATOM    845  CD2 LEU G 768     -45.627  10.203  25.536  1.00 19.47      GAP  C
+ATOM    846  H   LEU G 768     -44.463   7.213  22.088  1.00 29.18      GAP  H   new
+ATOM    847  HA  LEU G 768     -44.729   9.777  23.118  1.00 28.22      GAP  H   new
+ATOM    848 1HB  LEU G 768     -45.773   7.402  23.692  1.00 25.70      GAP  H   new
+ATOM    849 2HB  LEU G 768     -44.476   7.358  24.893  1.00 25.70      GAP  H   new
+ATOM    850  HG  LEU G 768     -47.063   8.763  24.930  1.00 20.66      GAP  H   new
+ATOM    851 1HD1 LEU G 768     -46.646   8.492  27.374  1.00 19.37      GAP  H   new
+ATOM    852 2HD1 LEU G 768     -46.351   6.962  26.481  1.00 19.37      GAP  H   new
+ATOM    853 3HD1 LEU G 768     -44.965   7.969  27.019  1.00 19.37      GAP  H   new
+ATOM    854 1HD2 LEU G 768     -46.304  10.675  26.263  1.00 19.47      GAP  H   new
+ATOM    855 2HD2 LEU G 768     -44.596  10.242  25.916  1.00 19.47      GAP  H   new
+ATOM    856 3HD2 LEU G 768     -45.685  10.742  24.579  1.00 19.47      GAP  H   new
+ATOM    857  N   LEU G 769     -42.052   8.116  24.223  1.00 29.09      GAP  N
+ATOM    858  CA  LEU G 769     -40.791   8.261  24.951  1.00 25.45      GAP  C
+ATOM    859  C   LEU G 769     -39.852   9.215  24.228  1.00 25.32      GAP  C
+ATOM    860  O   LEU G 769     -39.502  10.295  24.745  1.00 22.91      GAP  O
+ATOM    861  CB  LEU G 769     -40.101   6.900  25.098  1.00 24.85      GAP  C
+ATOM    862  CG  LEU G 769     -38.759   6.910  25.836  1.00 25.11      GAP  C
+ATOM    863  CD1 LEU G 769     -39.005   7.213  27.311  1.00 26.99      GAP  C
+ATOM    864  CD2 LEU G 769     -38.039   5.583  25.664  1.00 22.66      GAP  C
+ATOM    865  H   LEU G 769     -42.220   7.195  23.871  1.00 29.09      GAP  H   new
+ATOM    866  HA  LEU G 769     -41.024   8.669  25.946  1.00 25.45      GAP  H   new
+ATOM    867 1HB  LEU G 769     -40.784   6.219  25.627  1.00 24.85      GAP  H   new
+ATOM    868 2HB  LEU G 769     -39.943   6.480  24.094  1.00 24.85      GAP  H   new
+ATOM    869  HG  LEU G 769     -38.113   7.691  25.410  1.00 25.11      GAP  H   new
+ATOM    870 1HD1 LEU G 769     -38.046   7.222  27.849  1.00 26.99      GAP  H   new
+ATOM    871 2HD1 LEU G 769     -39.489   8.196  27.408  1.00 26.99      GAP  H   new
+ATOM    872 3HD1 LEU G 769     -39.658   6.439  27.741  1.00 26.99      GAP  H   new
+ATOM    873 1HD2 LEU G 769     -37.080   5.613  26.201  1.00 22.66      GAP  H   new
+ATOM    874 2HD2 LEU G 769     -38.661   4.772  26.071  1.00 22.66      GAP  H   new
+ATOM    875 3HD2 LEU G 769     -37.854   5.401  24.595  1.00 22.66      GAP  H   new
+ATOM    876  N   LEU G 770     -39.478   8.823  23.015  1.00 24.42      GAP  N
+ATOM    877  CA  LEU G 770     -38.452   9.520  22.260  1.00 20.61      GAP  C
+ATOM    878  C   LEU G 770     -38.894  10.926  21.913  1.00 22.60      GAP  C
+ATOM    879  O   LEU G 770     -38.133  11.863  22.074  1.00 24.95      GAP  O
+ATOM    880  CB  LEU G 770     -38.119   8.740  20.992  1.00 19.61      GAP  C
+ATOM    881  CG  LEU G 770     -37.687   7.289  21.225  1.00 19.40      GAP  C
+ATOM    882  CD1 LEU G 770     -37.697   6.519  19.929  1.00 24.85      GAP  C
+ATOM    883  CD2 LEU G 770     -36.301   7.262  21.827  1.00 25.80      GAP  C
+ATOM    884  H   LEU G 770     -39.869   8.033  22.542  1.00 24.42      GAP  H   new
+ATOM    885  HA  LEU G 770     -37.550   9.593  22.885  1.00 20.61      GAP  H   new
+ATOM    886 1HB  LEU G 770     -39.000   8.744  20.334  1.00 19.61      GAP  H   new
+ATOM    887 2HB  LEU G 770     -37.315   9.265  20.456  1.00 19.61      GAP  H   new
+ATOM    888  HG  LEU G 770     -38.398   6.816  21.919  1.00 19.40      GAP  H   new
+ATOM    889 1HD1 LEU G 770     -37.384   5.481  20.116  1.00 24.85      GAP  H   new
+ATOM    890 2HD1 LEU G 770     -38.712   6.525  19.506  1.00 24.85      GAP  H   new
+ATOM    891 3HD1 LEU G 770     -37.001   6.988  19.218  1.00 24.85      GAP  H   new
+ATOM    892 1HD2 LEU G 770     -35.993   6.219  21.993  1.00 25.80      GAP  H   new
+ATOM    893 2HD2 LEU G 770     -35.593   7.748  21.140  1.00 25.80      GAP  H   new
+ATOM    894 3HD2 LEU G 770     -36.307   7.799  22.787  1.00 25.80      GAP  H   new
+ATOM    895  N   CYS G 771     -40.164  11.084  21.560  1.00 22.96      GAP  N
+ATOM    896  CA  CYS G 771     -40.672  12.387  21.153  1.00 28.13      GAP  C
+ATOM    897  C   CYS G 771     -40.690  13.391  22.301  1.00 30.18      GAP  C
+ATOM    898  O   CYS G 771     -40.284  14.569  22.116  1.00 31.02      GAP  O
+ATOM    899  CB  CYS G 771     -42.078  12.262  20.560  1.00 33.58      GAP  C
+ATOM    900  SG  CYS G 771     -42.149  11.485  18.924  1.00 35.27      GAP  S
+ATOM    901  H   CYS G 771     -40.841  10.348  21.548  1.00 22.96      GAP  H   new
+ATOM    902  HA  CYS G 771     -39.980  12.765  20.386  1.00 28.13      GAP  H   new
+ATOM    903 1HB  CYS G 771     -42.702  11.680  21.254  1.00 33.58      GAP  H   new
+ATOM    904 2HB  CYS G 771     -42.522  13.266  20.493  1.00 33.58      GAP  H   new
+ATOM    905  HG  CYS G 771     -43.384  11.432  18.522  1.00 35.27      GAP  H   new
+ATOM    906  N   THR G 772     -41.175  12.967  23.470  1.00 31.47      GAP  N
+ATOM    907  CA  THR G 772     -41.267  13.869  24.620  1.00 29.72      GAP  C
+ATOM    908  C   THR G 772     -39.871  14.181  25.168  1.00 26.99      GAP  C
+ATOM    909  O   THR G 772     -39.517  15.353  25.353  1.00 26.65      GAP  O
+ATOM    910  CB  THR G 772     -42.154  13.296  25.770  1.00 27.51      GAP  C
+ATOM    911  OG1 THR G 772     -43.275  12.585  25.227  1.00 29.44      GAP  O
+ATOM    912  CG2 THR G 772     -42.694  14.432  26.639  1.00 26.01      GAP  C
+ATOM    913  H   THR G 772     -41.499  12.037  23.641  1.00 31.47      GAP  H   new
+ATOM    914  HA  THR G 772     -41.747  14.789  24.255  1.00 29.72      GAP  H   new
+ATOM    915  HB  THR G 772     -41.530  12.619  26.372  1.00 27.51      GAP  H   new
+ATOM    916  HG1 THR G 772     -43.834  12.224  25.973  1.00 29.44      GAP  H   new
+ATOM    917 1HG2 THR G 772     -43.316  14.014  27.444  1.00 26.01      GAP  H   new
+ATOM    918 2HG2 THR G 772     -41.854  14.990  27.078  1.00 26.01      GAP  H   new
+ATOM    919 3HG2 THR G 772     -43.301  15.110  26.021  1.00 26.01      GAP  H   new
+ATOM    920  N   LEU G 773     -39.030  13.155  25.254  1.00 25.11      GAP  N
+ATOM    921  CA  LEU G 773     -37.698  13.314  25.814  1.00 25.63      GAP  C
+ATOM    922  C   LEU G 773     -36.887  14.317  25.014  1.00 30.69      GAP  C
+ATOM    923  O   LEU G 773     -36.312  15.255  25.582  1.00 36.20      GAP  O
+ATOM    924  CB  LEU G 773     -36.973  11.972  25.855  1.00 24.16      GAP  C
+ATOM    925  CG  LEU G 773     -36.019  11.771  27.030  1.00 26.36      GAP  C
+ATOM    926  CD1 LEU G 773     -36.769  11.770  28.346  1.00 24.97      GAP  C
+ATOM    927  CD2 LEU G 773     -35.322  10.452  26.861  1.00 32.00      GAP  C
+ATOM    928  H   LEU G 773     -39.245  12.227  24.949  1.00 25.11      GAP  H   new
+ATOM    929  HA  LEU G 773     -37.806  13.694  26.840  1.00 25.63      GAP  H   new
+ATOM    930 1HB  LEU G 773     -37.726  11.170  25.876  1.00 24.16      GAP  H   new
+ATOM    931 2HB  LEU G 773     -36.404  11.855  24.921  1.00 24.16      GAP  H   new
+ATOM    932  HG  LEU G 773     -35.294  12.598  27.045  1.00 26.36      GAP  H   new
+ATOM    933 1HD1 LEU G 773     -36.059  11.624  29.173  1.00 24.97      GAP  H   new
+ATOM    934 2HD1 LEU G 773     -37.287  12.732  28.474  1.00 24.97      GAP  H   new
+ATOM    935 3HD1 LEU G 773     -37.506  10.954  28.348  1.00 24.97      GAP  H   new
+ATOM    936 1HD2 LEU G 773     -34.630  10.292  27.701  1.00 32.00      GAP  H   new
+ATOM    937 2HD2 LEU G 773     -36.067   9.643  26.841  1.00 32.00      GAP  H   new
+ATOM    938 3HD2 LEU G 773     -34.758  10.453  25.917  1.00 32.00      GAP  H   new
+ATOM    939  N   ASN G 774     -36.916  14.169  23.692  1.00 34.59      GAP  N
+ATOM    940  CA  ASN G 774     -36.213  15.082  22.796  1.00 34.63      GAP  C
+ATOM    941  C   ASN G 774     -36.770  16.489  22.949  1.00 36.49      GAP  C
+ATOM    942  O   ASN G 774     -36.021  17.470  22.957  1.00 37.72      GAP  O
+ATOM    943  CB  ASN G 774     -36.361  14.628  21.339  1.00 34.00      GAP  C
+ATOM    944  CG  ASN G 774     -35.543  13.381  21.020  1.00 34.44      GAP  C
+ATOM    945  OD1 ASN G 774     -34.697  12.945  21.810  1.00 39.25      GAP  O
+ATOM    946  ND2 ASN G 774     -35.785  12.808  19.848  1.00 35.05      GAP  N
+ATOM    947  H   ASN G 774     -37.412  13.436  23.225  1.00 34.59      GAP  H   new
+ATOM    948  HA  ASN G 774     -35.146  15.078  23.063  1.00 34.63      GAP  H   new
+ATOM    949 1HB  ASN G 774     -37.422  14.428  21.129  1.00 34.00      GAP  H   new
+ATOM    950 2HB  ASN G 774     -36.049  15.445  20.672  1.00 34.00      GAP  H   new
+ATOM    951 1HD2 ASN G 774     -35.275  11.992  19.575  1.00 35.05      GAP  H   new
+ATOM    952 2HD2 ASN G 774     -36.478  13.192  19.237  1.00 35.05      GAP  H   new
+ATOM    953  N   ASP G 775     -38.086  16.582  23.122  1.00 37.90      GAP  N
+ATOM    954  CA  ASP G 775     -38.737  17.868  23.293  1.00 39.38      GAP  C
+ATOM    955  C   ASP G 775     -38.309  18.520  24.596  1.00 37.07      GAP  C
+ATOM    956  O   ASP G 775     -38.184  19.731  24.672  1.00 36.54      GAP  O
+ATOM    957  CB  ASP G 775     -40.256  17.713  23.261  1.00 44.36      GAP  C
+ATOM    958  CG  ASP G 775     -40.978  18.952  23.760  1.00 51.75      GAP  C
+ATOM    959  OD1 ASP G 775     -40.937  19.992  23.060  1.00 53.88      GAP  O
+ATOM    960  OD2 ASP G 775     -41.507  18.909  24.894  1.00 58.89      GAP  O
+ATOM    961  H   ASP G 775     -38.705  15.797  23.146  1.00 37.90      GAP  H   new
+ATOM    962  HA  ASP G 775     -38.430  18.516  22.458  1.00 39.38      GAP  H   new
+ATOM    963 1HB  ASP G 775     -40.577  17.495  22.232  1.00 44.36      GAP  H   new
+ATOM    964 2HB  ASP G 775     -40.546  16.850  23.878  1.00 44.36      GAP  H   new
+ATOM    965  N   ARG G 776     -38.080  17.713  25.620  1.00 36.41      GAP  N
+ATOM    966  CA  ARG G 776     -37.563  18.257  26.858  1.00 39.19      GAP  C
+ATOM    967  C   ARG G 776     -36.169  18.837  26.676  1.00 36.44      GAP  C
+ATOM    968  O   ARG G 776     -35.938  20.001  27.008  1.00 38.72      GAP  O
+ATOM    969  CB  ARG G 776     -37.560  17.191  27.943  1.00 42.66      GAP  C
+ATOM    970  CG  ARG G 776     -38.560  17.466  29.047  1.00 51.78      GAP  C
+ATOM    971  CD  ARG G 776     -38.034  18.562  29.943  1.00 60.77      GAP  C
+ATOM    972  NE  ARG G 776     -38.450  18.380  31.333  1.00 67.50      GAP  N
+ATOM    973  CZ  ARG G 776     -37.648  18.520  32.384  1.00 71.27      GAP  C
+ATOM    974  NH1 ARG G 776     -36.353  18.757  32.217  1.00 69.97      GAP  N
+ATOM    975  NH2 ARG G 776     -38.132  18.360  33.601  1.00 72.47      GAP  N
+ATOM    976  H   ARG G 776     -38.237  16.725  25.618  1.00 36.41      GAP  H   new
+ATOM    977  HA  ARG G 776     -38.226  19.078  27.167  1.00 39.19      GAP  H   new
+ATOM    978 1HB  ARG G 776     -37.783  16.214  27.490  1.00 42.66      GAP  H   new
+ATOM    979 2HB  ARG G 776     -36.552  17.122  28.378  1.00 42.66      GAP  H   new
+ATOM    980 1HG  ARG G 776     -39.527  17.763  28.615  1.00 51.78      GAP  H   new
+ATOM    981 2HG  ARG G 776     -38.737  16.552  29.633  1.00 51.78      GAP  H   new
+ATOM    982 1HD  ARG G 776     -36.935  18.583  29.890  1.00 60.77      GAP  H   new
+ATOM    983 2HD  ARG G 776     -38.392  19.536  29.578  1.00 60.77      GAP  H   new
+ATOM    984  HE  ARG G 776     -39.404  18.133  31.505  1.00 67.50      GAP  H + new
+ATOM    985 1HH1 ARG G 776     -35.973  18.832  31.295  1.00 69.97      GAP  H + new
+ATOM    986 2HH1 ARG G 776     -35.757  18.861  33.013  1.00 69.97      GAP  H + new
+ATOM    987 1HH2 ARG G 776     -39.098  18.135  33.729  1.00 72.47      GAP  H + new
+ATOM    988 2HH2 ARG G 776     -37.533  18.464  34.395  1.00 72.47      GAP  H + new
+ATOM    989  N   GLU G 777     -35.263  18.071  26.078  1.00 33.37      GAP  N
+ATOM    990  CA  GLU G 777     -33.906  18.565  25.849  1.00 36.51      GAP  C
+ATOM    991  C   GLU G 777     -33.904  19.878  25.072  1.00 37.21      GAP  C
+ATOM    992  O   GLU G 777     -33.111  20.791  25.367  1.00 40.58      GAP  O
+ATOM    993  CB  GLU G 777     -33.072  17.535  25.091  1.00 36.91      GAP  C
+ATOM    994  CG  GLU G 777     -32.776  16.271  25.864  1.00 41.49      GAP  C
+ATOM    995  CD  GLU G 777     -31.853  16.489  27.040  1.00 44.96      GAP  C
+ATOM    996  OE1 GLU G 777     -31.071  17.468  27.035  1.00 46.44      GAP  O
+ATOM    997  OE2 GLU G 777     -31.897  15.653  27.966  1.00 50.31      GAP  O
+ATOM    998  H   GLU G 777     -35.433  17.140  25.754  1.00 33.37      GAP  H   new
+ATOM    999  HA  GLU G 777     -33.462  18.742  26.840  1.00 36.51      GAP  H   new
+ATOM   1000 1HB  GLU G 777     -33.600  17.267  24.164  1.00 36.91      GAP  H   new
+ATOM   1001 2HB  GLU G 777     -32.120  18.000  24.796  1.00 36.91      GAP  H   new
+ATOM   1002 1HG  GLU G 777     -33.722  15.841  26.225  1.00 41.49      GAP  H   new
+ATOM   1003 2HG  GLU G 777     -32.325  15.532  25.185  1.00 41.49      GAP  H   new
+ATOM   1004  N   ILE G 778     -34.802  19.990  24.100  1.00 36.13      GAP  N
+ATOM   1005  CA  ILE G 778     -34.857  21.175  23.259  1.00 36.47      GAP  C
+ATOM   1006  C   ILE G 778     -35.349  22.382  24.051  1.00 39.18      GAP  C
+ATOM   1007  O   ILE G 778     -34.772  23.471  23.956  1.00 38.73      GAP  O
+ATOM   1008  CB  ILE G 778     -35.776  20.951  22.036  1.00 34.24      GAP  C
+ATOM   1009  CG1 ILE G 778     -35.165  19.896  21.116  1.00 33.75      GAP  C
+ATOM   1010  CG2 ILE G 778     -35.952  22.247  21.257  1.00 35.72      GAP  C
+ATOM   1011  CD1 ILE G 778     -36.066  19.486  19.987  1.00 27.35      GAP  C
+ATOM   1012  H   ILE G 778     -35.484  19.292  23.882  1.00 36.13      GAP  H   new
+ATOM   1013  HA  ILE G 778     -33.835  21.371  22.903  1.00 36.47      GAP  H   new
+ATOM   1014  HB  ILE G 778     -36.758  20.610  22.397  1.00 34.24      GAP  H   new
+ATOM   1015 1HG1 ILE G 778     -34.224  20.286  20.700  1.00 33.75      GAP  H   new
+ATOM   1016 2HG1 ILE G 778     -34.910  19.007  21.711  1.00 33.75      GAP  H   new
+ATOM   1017 1HG2 ILE G 778     -36.608  22.069  20.392  1.00 35.72      GAP  H   new
+ATOM   1018 2HG2 ILE G 778     -36.404  23.009  21.909  1.00 35.72      GAP  H   new
+ATOM   1019 3HG2 ILE G 778     -34.971  22.601  20.907  1.00 35.72      GAP  H   new
+ATOM   1020 1HD1 ILE G 778     -35.561  18.728  19.371  1.00 27.35      GAP  H   new
+ATOM   1021 2HD1 ILE G 778     -36.997  19.065  20.395  1.00 27.35      GAP  H   new
+ATOM   1022 3HD1 ILE G 778     -36.301  20.364  19.368  1.00 27.35      GAP  H   new
+ATOM   1023  N   SER G 779     -36.386  22.173  24.861  1.00 42.02      GAP  N
+ATOM   1024  CA  SER G 779     -36.987  23.251  25.642  1.00 43.24      GAP  C
+ATOM   1025  C   SER G 779     -36.028  23.734  26.721  1.00 43.31      GAP  C
+ATOM   1026  O   SER G 779     -36.149  24.861  27.211  1.00 44.54      GAP  O
+ATOM   1027  CB  SER G 779     -38.287  22.772  26.287  1.00 46.00      GAP  C
+ATOM   1028  OG  SER G 779     -38.040  21.676  27.153  1.00 54.95      GAP  O
+ATOM   1029  H   SER G 779     -36.819  21.281  24.990  1.00 42.02      GAP  H   new
+ATOM   1030  HA  SER G 779     -37.205  24.088  24.962  1.00 43.24      GAP  H   new
+ATOM   1031 1HB  SER G 779     -39.003  22.476  25.506  1.00 46.00      GAP  H   new
+ATOM   1032 2HB  SER G 779     -38.749  23.596  26.851  1.00 46.00      GAP  H   new
+ATOM   1033  HG  SER G 779     -38.900  21.376  27.566  1.00 54.95      GAP  H   new
+ATOM   1034  N   MET G 780     -35.072  22.879  27.079  1.00 43.70      GAP  N
+ATOM   1035  CA  MET G 780     -34.065  23.201  28.084  1.00 46.10      GAP  C
+ATOM   1036  C   MET G 780     -32.799  23.780  27.460  1.00 46.82      GAP  C
+ATOM   1037  O   MET G 780     -31.888  24.206  28.165  1.00 49.28      GAP  O
+ATOM   1038  CB  MET G 780     -33.706  21.951  28.879  1.00 47.67      GAP  C
+ATOM   1039  CG  MET G 780     -34.712  21.580  29.951  1.00 53.02      GAP  C
+ATOM   1040  SD  MET G 780     -34.446  19.906  30.607  1.00 62.11      GAP  S
+ATOM   1041  CE  MET G 780     -32.647  19.762  30.525  1.00 58.51      GAP  C
+ATOM   1042  H   MET G 780     -34.977  21.963  26.688  1.00 43.70      GAP  H   new
+ATOM   1043  HA  MET G 780     -34.497  23.963  28.749  1.00 46.10      GAP  H   new
+ATOM   1044 1HB  MET G 780     -33.602  21.106  28.183  1.00 47.67      GAP  H   new
+ATOM   1045 2HB  MET G 780     -32.724  22.101  29.351  1.00 47.67      GAP  H   new
+ATOM   1046 1HG  MET G 780     -34.650  22.307  30.774  1.00 53.02      GAP  H   new
+ATOM   1047 2HG  MET G 780     -35.728  21.650  29.536  1.00 53.02      GAP  H   new
+ATOM   1048 1HE  MET G 780     -32.340  18.775  30.900  1.00 58.51      GAP  H   new
+ATOM   1049 2HE  MET G 780     -32.317  19.876  29.482  1.00 58.51      GAP  H   new
+ATOM   1050 3HE  MET G 780     -32.187  20.548  31.143  1.00 58.51      GAP  H   new
+ATOM   1051  N   GLU G 781     -32.724  23.748  26.136  1.00 48.73      GAP  N
+ATOM   1052  CA  GLU G 781     -31.580  24.301  25.430  1.00 49.79      GAP  C
+ATOM   1053  C   GLU G 781     -31.788  25.796  25.182  1.00 53.03      GAP  C
+ATOM   1054  O   GLU G 781     -32.824  26.213  24.648  1.00 54.56      GAP  O
+ATOM   1055  CB  GLU G 781     -31.383  23.563  24.105  1.00 50.22      GAP  C
+ATOM   1056  CG  GLU G 781     -30.204  24.051  23.277  1.00 52.51      GAP  C
+ATOM   1057  CD  GLU G 781     -28.878  23.903  23.991  1.00 52.32      GAP  C
+ATOM   1058  OE1 GLU G 781     -28.313  22.790  23.964  1.00 52.74      GAP  O
+ATOM   1059  OE2 GLU G 781     -28.388  24.913  24.547  1.00 54.38      GAP  O
+ATOM   1060  H   GLU G 781     -33.427  23.354  25.544  1.00 48.73      GAP  H   new
+ATOM   1061  HA  GLU G 781     -30.678  24.171  26.046  1.00 49.79      GAP  H   new
+ATOM   1062 1HB  GLU G 781     -31.249  22.491  24.314  1.00 50.22      GAP  H   new
+ATOM   1063 2HB  GLU G 781     -32.300  23.661  23.506  1.00 50.22      GAP  H   new
+ATOM   1064 1HG  GLU G 781     -30.170  23.490  22.332  1.00 52.51      GAP  H   new
+ATOM   1065 2HG  GLU G 781     -30.358  25.109  23.017  1.00 52.51      GAP  H   new
+ATOM   1066  N   ASP G 782     -30.837  26.605  25.637  1.00 56.87      GAP  N
+ATOM   1067  CA  ASP G 782     -30.929  28.059  25.506  1.00 57.77      GAP  C
+ATOM   1068  C   ASP G 782     -30.104  28.586  24.326  1.00 55.73      GAP  C
+ATOM   1069  O   ASP G 782     -30.403  29.655  23.768  1.00 55.84      GAP  O
+ATOM   1070  CB  ASP G 782     -30.494  28.742  26.816  1.00 60.08      GAP  C
+ATOM   1071  CG  ASP G 782     -29.190  28.175  27.379  1.00 61.27      GAP  C
+ATOM   1072  OD1 ASP G 782     -29.206  27.037  27.904  1.00 60.56      GAP  O
+ATOM   1073  OD2 ASP G 782     -28.165  28.891  27.340  1.00 61.41      GAP  O
+ATOM   1074  H   ASP G 782     -30.006  26.285  26.093  1.00 56.87      GAP  H   new
+ATOM   1075  HA  ASP G 782     -31.982  28.305  25.303  1.00 57.77      GAP  H   new
+ATOM   1076 1HB  ASP G 782     -30.372  29.821  26.638  1.00 60.08      GAP  H   new
+ATOM   1077 2HB  ASP G 782     -31.291  28.628  27.565  1.00 60.08      GAP  H   new
+ATOM   1078  N   GLU G 783     -29.076  27.834  23.946  1.00 53.10      GAP  N
+ATOM   1079  CA  GLU G 783     -28.270  28.166  22.777  1.00 55.79      GAP  C
+ATOM   1080  C   GLU G 783     -28.456  27.093  21.717  1.00 53.92      GAP  C
+ATOM   1081  O   GLU G 783     -28.231  25.915  21.980  1.00 54.28      GAP  O
+ATOM   1082  CB  GLU G 783     -26.791  28.257  23.150  1.00 61.06      GAP  C
+ATOM   1083  CG  GLU G 783     -26.106  29.524  22.655  1.00 71.92      GAP  C
+ATOM   1084  CD  GLU G 783     -26.590  30.767  23.380  1.00 78.94      GAP  C
+ATOM   1085  OE1 GLU G 783     -26.634  30.748  24.633  1.00 87.01      GAP  O
+ATOM   1086  OE2 GLU G 783     -26.929  31.763  22.700  1.00 81.10      GAP  O
+ATOM   1087  H   GLU G 783     -28.787  27.004  24.423  1.00 53.10      GAP  H   new
+ATOM   1088  HA  GLU G 783     -28.597  29.142  22.388  1.00 55.79      GAP  H   new
+ATOM   1089 1HB  GLU G 783     -26.695  28.204  24.245  1.00 61.06      GAP  H   new
+ATOM   1090 2HB  GLU G 783     -26.265  27.383  22.738  1.00 61.06      GAP  H   new
+ATOM   1091 1HG  GLU G 783     -25.019  29.425  22.789  1.00 71.92      GAP  H   new
+ATOM   1092 2HG  GLU G 783     -26.288  29.638  21.576  1.00 71.92      GAP  H   new
+ATOM   1093  N   ALA G 784     -28.851  27.510  20.517  1.00 50.83      GAP  N
+ATOM   1094  CA  ALA G 784     -29.271  26.587  19.467  1.00 46.82      GAP  C
+ATOM   1095  C   ALA G 784     -28.131  25.816  18.796  1.00 44.14      GAP  C
+ATOM   1096  O   ALA G 784     -28.283  24.621  18.501  1.00 45.29      GAP  O
+ATOM   1097  CB  ALA G 784     -30.083  27.337  18.426  1.00 50.11      GAP  C
+ATOM   1098  H   ALA G 784     -28.888  28.473  20.251  1.00 50.83      GAP  H   new
+ATOM   1099  HA  ALA G 784     -29.883  25.821  19.965  1.00 46.82      GAP  H   new
+ATOM   1100 1HB  ALA G 784     -30.399  26.641  17.635  1.00 50.11      GAP  H   new
+ATOM   1101 2HB  ALA G 784     -30.971  27.779  18.901  1.00 50.11      GAP  H   new
+ATOM   1102 3HB  ALA G 784     -29.468  28.136  17.986  1.00 50.11      GAP  H   new
+ATOM   1103  N   THR G 785     -26.972  26.452  18.633  1.00 37.60      GAP  N
+ATOM   1104  CA  THR G 785     -25.851  25.831  17.923  1.00 30.71      GAP  C
+ATOM   1105  C   THR G 785     -25.197  24.696  18.709  1.00 26.20      GAP  C
+ATOM   1106  O   THR G 785     -24.132  24.214  18.336  1.00 24.45      GAP  O
+ATOM   1107  CB  THR G 785     -24.769  26.865  17.576  1.00 32.61      GAP  C
+ATOM   1108  OG1 THR G 785     -24.413  27.590  18.757  1.00 38.31      GAP  O
+ATOM   1109  CG2 THR G 785     -25.282  27.843  16.524  1.00 30.95      GAP  C
+ATOM   1110  H   THR G 785     -26.787  27.374  18.974  1.00 37.60      GAP  H   new
+ATOM   1111  HA  THR G 785     -26.287  25.411  17.005  1.00 30.71      GAP  H   new
+ATOM   1112  HB  THR G 785     -23.891  26.338  17.175  1.00 32.61      GAP  H   new
+ATOM   1113  HG1 THR G 785     -23.709  28.264  18.535  1.00 38.31      GAP  H   new
+ATOM   1114 1HG2 THR G 785     -24.495  28.575  16.288  1.00 30.95      GAP  H   new
+ATOM   1115 2HG2 THR G 785     -25.554  27.292  15.612  1.00 30.95      GAP  H   new
+ATOM   1116 3HG2 THR G 785     -26.167  28.369  16.912  1.00 30.95      GAP  H   new
+ATOM   1117  N   THR G 786     -25.818  24.304  19.817  1.00 24.16      GAP  N
+ATOM   1118  CA  THR G 786     -25.301  23.228  20.654  1.00 27.18      GAP  C
+ATOM   1119  C   THR G 786     -26.304  22.084  20.776  1.00 26.26      GAP  C
+ATOM   1120  O   THR G 786     -26.044  21.075  21.447  1.00 25.49      GAP  O
+ATOM   1121  CB  THR G 786     -24.978  23.730  22.087  1.00 31.43      GAP  C
+ATOM   1122  OG1 THR G 786     -26.122  24.406  22.622  1.00 32.88      GAP  O
+ATOM   1123  CG2 THR G 786     -23.774  24.679  22.090  1.00 28.52      GAP  C
+ATOM   1124  H   THR G 786     -26.668  24.711  20.151  1.00 24.16      GAP  H   new
+ATOM   1125  HA  THR G 786     -24.383  22.872  20.164  1.00 27.18      GAP  H   new
+ATOM   1126  HB  THR G 786     -24.727  22.858  22.709  1.00 31.43      GAP  H   new
+ATOM   1127  HG1 THR G 786     -25.916  24.730  23.545  1.00 32.88      GAP  H   new
+ATOM   1128 1HG2 THR G 786     -23.574  25.015  23.118  1.00 28.52      GAP  H   new
+ATOM   1129 2HG2 THR G 786     -22.891  24.153  21.698  1.00 28.52      GAP  H   new
+ATOM   1130 3HG2 THR G 786     -23.992  25.551  21.456  1.00 28.52      GAP  H   new
+ATOM   1131  N   LEU G 787     -27.461  22.248  20.151  1.00 28.23      GAP  N
+ATOM   1132  CA  LEU G 787     -28.555  21.304  20.345  1.00 29.63      GAP  C
+ATOM   1133  C   LEU G 787     -28.183  19.863  19.987  1.00 26.36      GAP  C
+ATOM   1134  O   LEU G 787     -27.664  19.590  18.902  1.00 31.79      GAP  O
+ATOM   1135  CB  LEU G 787     -29.791  21.744  19.552  1.00 29.95      GAP  C
+ATOM   1136  CG  LEU G 787     -31.049  20.893  19.777  1.00 34.09      GAP  C
+ATOM   1137  CD1 LEU G 787     -31.363  20.798  21.268  1.00 32.75      GAP  C
+ATOM   1138  CD2 LEU G 787     -32.223  21.486  19.020  1.00 33.18      GAP  C
+ATOM   1139  H   LEU G 787     -27.663  23.001  19.525  1.00 28.23      GAP  H   new
+ATOM   1140  HA  LEU G 787     -28.783  21.312  21.421  1.00 29.63      GAP  H   new
+ATOM   1141 1HB  LEU G 787     -30.022  22.787  19.813  1.00 29.95      GAP  H   new
+ATOM   1142 2HB  LEU G 787     -29.544  21.728  18.480  1.00 29.95      GAP  H   new
+ATOM   1143  HG  LEU G 787     -30.865  19.878  19.396  1.00 34.09      GAP  H   new
+ATOM   1144 1HD1 LEU G 787     -32.265  20.186  21.415  1.00 32.75      GAP  H   new
+ATOM   1145 2HD1 LEU G 787     -30.516  20.333  21.793  1.00 32.75      GAP  H   new
+ATOM   1146 3HD1 LEU G 787     -31.534  21.807  21.672  1.00 32.75      GAP  H   new
+ATOM   1147 1HD2 LEU G 787     -33.118  20.869  19.188  1.00 33.18      GAP  H   new
+ATOM   1148 2HD2 LEU G 787     -32.411  22.509  19.377  1.00 33.18      GAP  H   new
+ATOM   1149 3HD2 LEU G 787     -31.992  21.510  17.945  1.00 33.18      GAP  H   new
+ATOM   1150  N   PHE G 788     -28.362  18.970  20.953  1.00 23.29      GAP  N
+ATOM   1151  CA  PHE G 788     -28.161  17.534  20.761  1.00 21.00      GAP  C
+ATOM   1152  C   PHE G 788     -26.743  17.172  20.369  1.00 22.37      GAP  C
+ATOM   1153  O   PHE G 788     -26.497  16.121  19.766  1.00 18.35      GAP  O
+ATOM   1154  CB  PHE G 788     -29.133  16.991  19.716  1.00 15.88      GAP  C
+ATOM   1155  CG  PHE G 788     -30.511  16.769  20.241  1.00 13.49      GAP  C
+ATOM   1156  CD1 PHE G 788     -30.733  15.890  21.289  1.00 11.81      GAP  C
+ATOM   1157  CD2 PHE G 788     -31.589  17.450  19.697  1.00 17.02      GAP  C
+ATOM   1158  CE1 PHE G 788     -32.012  15.685  21.791  1.00 15.29      GAP  C
+ATOM   1159  CE2 PHE G 788     -32.875  17.254  20.195  1.00 21.84      GAP  C
+ATOM   1160  CZ  PHE G 788     -33.084  16.371  21.243  1.00 18.37      GAP  C
+ATOM   1161  H   PHE G 788     -28.647  19.216  21.880  1.00 23.29      GAP  H   new
+ATOM   1162  HA  PHE G 788     -28.356  17.068  21.738  1.00 21.00      GAP  H   new
+ATOM   1163 1HB  PHE G 788     -29.180  17.694  18.871  1.00 15.88      GAP  H   new
+ATOM   1164 2HB  PHE G 788     -28.742  16.041  19.322  1.00 15.88      GAP  H   new
+ATOM   1165  HD1 PHE G 788     -29.884  15.347  21.730  1.00 11.81      GAP  H   new
+ATOM   1166  HD2 PHE G 788     -31.427  18.151  18.865  1.00 17.02      GAP  H   new
+ATOM   1167  HE1 PHE G 788     -32.173  14.981  22.620  1.00 15.29      GAP  H   new
+ATOM   1168  HE2 PHE G 788     -33.724  17.799  19.757  1.00 21.84      GAP  H   new
+ATOM   1169  HZ  PHE G 788     -34.098  16.215  21.639  1.00 18.37      GAP  H   new
+ATOM   1170  N   ARG G 789     -25.810  18.041  20.721  1.00 25.13      GAP  N
+ATOM   1171  CA  ARG G 789     -24.417  17.802  20.413  1.00 29.37      GAP  C
+ATOM   1172  C   ARG G 789     -23.725  16.952  21.479  1.00 32.09      GAP  C
+ATOM   1173  O   ARG G 789     -22.854  16.122  21.161  1.00 34.04      GAP  O
+ATOM   1174  CB  ARG G 789     -23.696  19.130  20.261  1.00 27.87      GAP  C
+ATOM   1175  CG  ARG G 789     -22.783  19.144  19.080  1.00 26.51      GAP  C
+ATOM   1176  CD  ARG G 789     -23.376  19.992  18.023  1.00 23.38      GAP  C
+ATOM   1177  NE  ARG G 789     -22.762  21.307  17.996  1.00 17.68      GAP  N
+ATOM   1178  CZ  ARG G 789     -21.518  21.527  17.596  1.00 15.16      GAP  C
+ATOM   1179  NH1 ARG G 789     -20.719  20.508  17.326  1.00 11.75      GAP  N
+ATOM   1180  NH2 ARG G 789     -21.081  22.769  17.455  1.00 12.01      GAP  N
+ATOM   1181  H   ARG G 789     -25.990  18.896  21.208  1.00 25.13      GAP  H   new
+ATOM   1182  HA  ARG G 789     -24.375  17.238  19.469  1.00 29.37      GAP  H   new
+ATOM   1183 1HB  ARG G 789     -24.436  19.938  20.160  1.00 27.87      GAP  H   new
+ATOM   1184 2HB  ARG G 789     -23.117  19.337  21.173  1.00 27.87      GAP  H   new
+ATOM   1185 1HG  ARG G 789     -21.795  19.532  19.368  1.00 26.51      GAP  H   new
+ATOM   1186 2HG  ARG G 789     -22.630  18.121  18.705  1.00 26.51      GAP  H   new
+ATOM   1187 1HD  ARG G 789     -23.249  19.505  17.045  1.00 23.38      GAP  H   new
+ATOM   1188 2HD  ARG G 789     -24.458  20.093  18.194  1.00 23.38      GAP  H   new
+ATOM   1189  HE  ARG G 789     -23.308  22.090  18.296  1.00 17.68      GAP  H + new
+ATOM   1190 1HH1 ARG G 789     -21.054  19.571  17.424  1.00 11.75      GAP  H + new
+ATOM   1191 2HH1 ARG G 789     -19.780  20.675  17.024  1.00 11.75      GAP  H + new
+ATOM   1192 1HH2 ARG G 789     -21.689  23.538  17.650  1.00 12.01      GAP  H + new
+ATOM   1193 2HH2 ARG G 789     -20.143  22.938  17.153  1.00 12.01      GAP  H + new
+ATOM   1194  N   ALA G 790     -24.116  17.144  22.736  1.00 33.27      GAP  N
+ATOM   1195  CA  ALA G 790     -23.544  16.383  23.844  1.00 31.85      GAP  C
+ATOM   1196  C   ALA G 790     -24.273  15.059  24.063  1.00 30.74      GAP  C
+ATOM   1197  O   ALA G 790     -25.269  14.763  23.388  1.00 32.69      GAP  O
+ATOM   1198  CB  ALA G 790     -23.572  17.216  25.113  1.00 31.54      GAP  C
+ATOM   1199  H   ALA G 790     -24.813  17.807  23.008  1.00 33.27      GAP  H   new
+ATOM   1200  HA  ALA G 790     -22.502  16.145  23.585  1.00 31.85      GAP  H   new
+ATOM   1201 1HB  ALA G 790     -23.140  16.637  25.942  1.00 31.54      GAP  H   new
+ATOM   1202 2HB  ALA G 790     -22.985  18.134  24.963  1.00 31.54      GAP  H   new
+ATOM   1203 3HB  ALA G 790     -24.612  17.482  25.355  1.00 31.54      GAP  H   new
+ATOM   1204  N   THR G 791     -23.815  14.300  25.054  1.00 30.29      GAP  N
+ATOM   1205  CA  THR G 791     -24.274  12.927  25.263  1.00 28.69      GAP  C
+ATOM   1206  C   THR G 791     -25.267  12.827  26.422  1.00 28.84      GAP  C
+ATOM   1207  O   THR G 791     -24.879  12.610  27.563  1.00 35.29      GAP  O
+ATOM   1208  CB  THR G 791     -23.067  11.994  25.526  1.00 25.96      GAP  C
+ATOM   1209  OG1 THR G 791     -22.171  12.058  24.411  1.00 30.06      GAP  O
+ATOM   1210  CG2 THR G 791     -23.513  10.560  25.720  1.00 23.63      GAP  C
+ATOM   1211  H   THR G 791     -23.134  14.608  25.718  1.00 30.29      GAP  H   new
+ATOM   1212  HA  THR G 791     -24.793  12.611  24.346  1.00 28.69      GAP  H   new
+ATOM   1213  HB  THR G 791     -22.565  12.330  26.445  1.00 25.96      GAP  H   new
+ATOM   1214  HG1 THR G 791     -21.389  11.457  24.576  1.00 30.06      GAP  H   new
+ATOM   1215 1HG2 THR G 791     -22.635   9.924  25.904  1.00 23.63      GAP  H   new
+ATOM   1216 2HG2 THR G 791     -24.195  10.501  26.581  1.00 23.63      GAP  H   new
+ATOM   1217 3HG2 THR G 791     -24.034  10.212  24.816  1.00 23.63      GAP  H   new
+ATOM   1218  N   THR G 792     -26.535  13.105  26.138  1.00 26.82      GAP  N
+ATOM   1219  CA  THR G 792     -27.591  13.005  27.143  1.00 19.90      GAP  C
+ATOM   1220  C   THR G 792     -28.193  11.603  27.089  1.00 19.24      GAP  C
+ATOM   1221  O   THR G 792     -27.645  10.730  26.431  1.00 15.91      GAP  O
+ATOM   1222  CB  THR G 792     -28.698  14.028  26.866  1.00 19.35      GAP  C
+ATOM   1223  OG1 THR G 792     -29.229  13.806  25.558  1.00 25.12      GAP  O
+ATOM   1224  CG2 THR G 792     -28.159  15.441  26.948  1.00 14.56      GAP  C
+ATOM   1225  H   THR G 792     -26.852  13.397  25.236  1.00 26.82      GAP  H   new
+ATOM   1226  HA  THR G 792     -27.159  13.205  28.135  1.00 19.90      GAP  H   new
+ATOM   1227  HB  THR G 792     -29.485  13.905  27.624  1.00 19.35      GAP  H   new
+ATOM   1228  HG1 THR G 792     -29.952  14.472  25.374  1.00 25.12      GAP  H   new
+ATOM   1229 1HG2 THR G 792     -28.970  16.156  26.746  1.00 14.56      GAP  H   new
+ATOM   1230 2HG2 THR G 792     -27.754  15.622  27.955  1.00 14.56      GAP  H   new
+ATOM   1231 3HG2 THR G 792     -27.361  15.573  26.203  1.00 14.56      GAP  H   new
+ATOM   1232  N   LEU G 793     -29.310  11.384  27.784  1.00 20.07      GAP  N
+ATOM   1233  CA  LEU G 793     -30.051  10.130  27.630  1.00 22.74      GAP  C
+ATOM   1234  C   LEU G 793     -30.846  10.155  26.336  1.00 26.65      GAP  C
+ATOM   1235  O   LEU G 793     -30.944   9.136  25.638  1.00 30.47      GAP  O
+ATOM   1236  CB  LEU G 793     -31.012   9.883  28.803  1.00 19.10      GAP  C
+ATOM   1237  CG  LEU G 793     -31.823   8.572  28.764  1.00 14.81      GAP  C
+ATOM   1238  CD1 LEU G 793     -30.903   7.368  28.617  1.00 10.27      GAP  C
+ATOM   1239  CD2 LEU G 793     -32.661   8.429  30.023  1.00 15.05      GAP  C
+ATOM   1240  H   LEU G 793     -29.708  12.031  28.434  1.00 20.07      GAP  H   new
+ATOM   1241  HA  LEU G 793     -29.314   9.314  27.611  1.00 22.74      GAP  H   new
+ATOM   1242 1HB  LEU G 793     -30.428   9.899  29.735  1.00 19.10      GAP  H   new
+ATOM   1243 2HB  LEU G 793     -31.719  10.724  28.852  1.00 19.10      GAP  H   new
+ATOM   1244  HG  LEU G 793     -32.490   8.612  27.890  1.00 14.81      GAP  H   new
+ATOM   1245 1HD1 LEU G 793     -31.504   6.447  28.592  1.00 10.27      GAP  H   new
+ATOM   1246 2HD1 LEU G 793     -30.329   7.456  27.683  1.00 10.27      GAP  H   new
+ATOM   1247 3HD1 LEU G 793     -30.210   7.329  29.470  1.00 10.27      GAP  H   new
+ATOM   1248 1HD2 LEU G 793     -33.232   7.490  29.979  1.00 15.05      GAP  H   new
+ATOM   1249 2HD2 LEU G 793     -32.002   8.416  30.903  1.00 15.05      GAP  H   new
+ATOM   1250 3HD2 LEU G 793     -33.357   9.278  30.099  1.00 15.05      GAP  H   new
+ATOM   1251  N   ALA G 794     -31.430  11.311  26.027  1.00 27.72      GAP  N
+ATOM   1252  CA  ALA G 794     -32.178  11.488  24.788  1.00 23.61      GAP  C
+ATOM   1253  C   ALA G 794     -31.338  11.073  23.581  1.00 26.30      GAP  C
+ATOM   1254  O   ALA G 794     -31.762  10.237  22.791  1.00 30.29      GAP  O
+ATOM   1255  CB  ALA G 794     -32.623  12.930  24.650  1.00 19.97      GAP  C
+ATOM   1256  H   ALA G 794     -31.399  12.124  26.609  1.00 27.72      GAP  H   new
+ATOM   1257  HA  ALA G 794     -33.068  10.842  24.824  1.00 23.61      GAP  H   new
+ATOM   1258 1HB  ALA G 794     -33.186  13.052  23.713  1.00 19.97      GAP  H   new
+ATOM   1259 2HB  ALA G 794     -33.266  13.199  25.501  1.00 19.97      GAP  H   new
+ATOM   1260 3HB  ALA G 794     -31.741  13.587  24.636  1.00 19.97      GAP  H   new
+ATOM   1261  N   SER G 795     -30.093  11.541  23.527  1.00 25.49      GAP  N
+ATOM   1262  CA  SER G 795     -29.223  11.238  22.401  1.00 24.51      GAP  C
+ATOM   1263  C   SER G 795     -28.694   9.805  22.438  1.00 25.45      GAP  C
+ATOM   1264  O   SER G 795     -28.123   9.322  21.458  1.00 31.46      GAP  O
+ATOM   1265  CB  SER G 795     -28.049  12.219  22.356  1.00 23.38      GAP  C
+ATOM   1266  OG  SER G 795     -26.992  11.797  23.195  1.00 25.80      GAP  O
+ATOM   1267  H   SER G 795     -29.678  12.116  24.232  1.00 25.49      GAP  H   new
+ATOM   1268  HA  SER G 795     -29.833  11.343  21.491  1.00 24.51      GAP  H   new
+ATOM   1269 1HB  SER G 795     -28.391  13.217  22.667  1.00 23.38      GAP  H   new
+ATOM   1270 2HB  SER G 795     -27.685  12.311  21.322  1.00 23.38      GAP  H   new
+ATOM   1271  HG  SER G 795     -26.242  12.456  23.144  1.00 25.80      GAP  H   new
+ATOM   1272  N   THR G 796     -28.848   9.136  23.572  1.00 22.94      GAP  N
+ATOM   1273  CA  THR G 796     -28.464   7.733  23.675  1.00 23.10      GAP  C
+ATOM   1274  C   THR G 796     -29.644   6.880  23.268  1.00 23.85      GAP  C
+ATOM   1275  O   THR G 796     -29.488   5.766  22.736  1.00 22.57      GAP  O
+ATOM   1276  CB  THR G 796     -28.089   7.359  25.111  1.00 27.17      GAP  C
+ATOM   1277  OG1 THR G 796     -27.120   8.286  25.608  1.00 33.67      GAP  O
+ATOM   1278  CG2 THR G 796     -27.513   5.959  25.163  1.00 27.72      GAP  C
+ATOM   1279  H   THR G 796     -29.225   9.529  24.411  1.00 22.94      GAP  H   new
+ATOM   1280  HA  THR G 796     -27.594   7.566  23.023  1.00 23.10      GAP  H   new
+ATOM   1281  HB  THR G 796     -28.996   7.394  25.732  1.00 27.17      GAP  H   new
+ATOM   1282  HG1 THR G 796     -26.875   8.042  26.546  1.00 33.67      GAP  H   new
+ATOM   1283 1HG2 THR G 796     -27.250   5.709  26.201  1.00 27.72      GAP  H   new
+ATOM   1284 2HG2 THR G 796     -28.259   5.241  24.791  1.00 27.72      GAP  H   new
+ATOM   1285 3HG2 THR G 796     -26.611   5.909  24.535  1.00 27.72      GAP  H   new
+ATOM   1286  N   LEU G 797     -30.829   7.378  23.598  1.00 27.24      GAP  N
+ATOM   1287  CA  LEU G 797     -32.072   6.705  23.282  1.00 24.21      GAP  C
+ATOM   1288  C   LEU G 797     -32.272   6.694  21.773  1.00 27.18      GAP  C
+ATOM   1289  O   LEU G 797     -32.616   5.665  21.186  1.00 29.70      GAP  O
+ATOM   1290  CB  LEU G 797     -33.226   7.420  23.980  1.00 22.09      GAP  C
+ATOM   1291  CG  LEU G 797     -34.062   6.591  24.955  1.00 19.48      GAP  C
+ATOM   1292  CD1 LEU G 797     -33.368   5.281  25.274  1.00 18.32      GAP  C
+ATOM   1293  CD2 LEU G 797     -34.321   7.386  26.209  1.00 14.42      GAP  C
+ATOM   1294  H   LEU G 797     -30.948   8.244  24.083  1.00 27.24      GAP  H   new
+ATOM   1295  HA  LEU G 797     -32.039   5.664  23.637  1.00 24.21      GAP  H   new
+ATOM   1296 1HB  LEU G 797     -32.815   8.281  24.527  1.00 22.09      GAP  H   new
+ATOM   1297 2HB  LEU G 797     -33.898   7.821  23.207  1.00 22.09      GAP  H   new
+ATOM   1298  HG  LEU G 797     -35.028   6.352  24.486  1.00 19.48      GAP  H   new
+ATOM   1299 1HD1 LEU G 797     -33.985   4.700  25.976  1.00 18.32      GAP  H   new
+ATOM   1300 2HD1 LEU G 797     -33.227   4.705  24.347  1.00 18.32      GAP  H   new
+ATOM   1301 3HD1 LEU G 797     -32.388   5.486  25.730  1.00 18.32      GAP  H   new
+ATOM   1302 1HD2 LEU G 797     -34.923   6.785  26.907  1.00 14.42      GAP  H   new
+ATOM   1303 2HD2 LEU G 797     -33.363   7.647  26.683  1.00 14.42      GAP  H   new
+ATOM   1304 3HD2 LEU G 797     -34.867   8.307  25.954  1.00 14.42      GAP  H   new
+ATOM   1305  N   MET G 798     -31.942   7.813  21.139  1.00 29.71      GAP  N
+ATOM   1306  CA  MET G 798     -31.924   7.899  19.687  1.00 27.98      GAP  C
+ATOM   1307  C   MET G 798     -30.937   6.875  19.157  1.00 29.22      GAP  C
+ATOM   1308  O   MET G 798     -31.330   5.895  18.515  1.00 31.21      GAP  O
+ATOM   1309  CB  MET G 798     -31.502   9.304  19.255  1.00 29.21      GAP  C
+ATOM   1310  CG  MET G 798     -32.527  10.374  19.578  1.00 27.72      GAP  C
+ATOM   1311  SD  MET G 798     -34.121   9.968  18.871  1.00 26.67      GAP  S
+ATOM   1312  CE  MET G 798     -33.840  10.336  17.159  1.00 22.81      GAP  C
+ATOM   1313  H   MET G 798     -31.687   8.661  21.604  1.00 29.71      GAP  H   new
+ATOM   1314  HA  MET G 798     -32.927   7.696  19.285  1.00 27.98      GAP  H   new
+ATOM   1315 1HB  MET G 798     -30.551   9.559  19.746  1.00 29.21      GAP  H   new
+ATOM   1316 2HB  MET G 798     -31.314   9.304  18.171  1.00 29.21      GAP  H   new
+ATOM   1317 1HG  MET G 798     -32.621  10.480  20.669  1.00 27.72      GAP  H   new
+ATOM   1318 2HG  MET G 798     -32.185  11.344  19.189  1.00 27.72      GAP  H   new
+ATOM   1319 1HE  MET G 798     -34.755  10.130  16.584  1.00 22.81      GAP  H   new
+ATOM   1320 2HE  MET G 798     -33.571  11.397  17.051  1.00 22.81      GAP  H   new
+ATOM   1321 3HE  MET G 798     -33.020   9.709  16.779  1.00 22.81      GAP  H   new
+ATOM   1322  N   GLU G 799     -29.677   7.046  19.546  1.00 29.68      GAP  N
+ATOM   1323  CA  GLU G 799     -28.590   6.147  19.172  1.00 30.45      GAP  C
+ATOM   1324  C   GLU G 799     -28.978   4.670  19.102  1.00 26.35      GAP  C
+ATOM   1325  O   GLU G 799     -28.792   4.018  18.074  1.00 25.90      GAP  O
+ATOM   1326  CB  GLU G 799     -27.433   6.332  20.152  1.00 37.37      GAP  C
+ATOM   1327  CG  GLU G 799     -26.326   5.302  20.059  1.00 46.92      GAP  C
+ATOM   1328  CD  GLU G 799     -25.126   5.684  20.898  1.00 57.47      GAP  C
+ATOM   1329  OE1 GLU G 799     -25.080   6.831  21.411  1.00 57.44      GAP  O
+ATOM   1330  OE2 GLU G 799     -24.208   4.846  21.013  1.00 66.00      GAP  O
+ATOM   1331  H   GLU G 799     -29.384   7.807  20.125  1.00 29.68      GAP  H   new
+ATOM   1332  HA  GLU G 799     -28.300   6.422  18.147  1.00 30.45      GAP  H   new
+ATOM   1333 1HB  GLU G 799     -26.996   7.329  19.992  1.00 37.37      GAP  H   new
+ATOM   1334 2HB  GLU G 799     -27.837   6.318  21.175  1.00 37.37      GAP  H   new
+ATOM   1335 1HG  GLU G 799     -26.707   4.324  20.389  1.00 46.92      GAP  H   new
+ATOM   1336 2HG  GLU G 799     -26.018   5.190  19.009  1.00 46.92      GAP  H   new
+ATOM   1337  N   GLN G 800     -29.544   4.153  20.180  1.00 22.03      GAP  N
+ATOM   1338  CA  GLN G 800     -29.791   2.729  20.253  1.00 24.36      GAP  C
+ATOM   1339  C   GLN G 800     -31.048   2.325  19.504  1.00 25.84      GAP  C
+ATOM   1340  O   GLN G 800     -31.163   1.187  19.034  1.00 28.53      GAP  O
+ATOM   1341  CB  GLN G 800     -29.876   2.301  21.711  1.00 31.90      GAP  C
+ATOM   1342  CG  GLN G 800     -28.535   2.363  22.428  1.00 35.13      GAP  C
+ATOM   1343  CD  GLN G 800     -28.524   1.553  23.699  1.00 35.00      GAP  C
+ATOM   1344  OE1 GLN G 800     -29.381   0.699  23.914  1.00 36.26      GAP  O
+ATOM   1345  NE2 GLN G 800     -27.540   1.804  24.545  1.00 39.62      GAP  N
+ATOM   1346  H   GLN G 800     -29.829   4.677  20.983  1.00 22.03      GAP  H   new
+ATOM   1347  HA  GLN G 800     -28.950   2.214  19.765  1.00 24.36      GAP  H   new
+ATOM   1348 1HB  GLN G 800     -30.596   2.946  22.235  1.00 31.90      GAP  H   new
+ATOM   1349 2HB  GLN G 800     -30.267   1.274  21.764  1.00 31.90      GAP  H   new
+ATOM   1350 1HG  GLN G 800     -27.746   1.996  21.756  1.00 35.13      GAP  H   new
+ATOM   1351 2HG  GLN G 800     -28.296   3.411  22.662  1.00 35.13      GAP  H   new
+ATOM   1352 1HE2 GLN G 800     -27.472   1.290  25.400  1.00 39.62      GAP  H   new
+ATOM   1353 2HE2 GLN G 800     -26.863   2.508  24.330  1.00 39.62      GAP  H   new
+ATOM   1354  N   TYR G 801     -31.960   3.275  19.339  1.00 25.03      GAP  N
+ATOM   1355  CA  TYR G 801     -33.176   3.048  18.570  1.00 25.09      GAP  C
+ATOM   1356  C   TYR G 801     -32.882   2.973  17.073  1.00 26.25      GAP  C
+ATOM   1357  O   TYR G 801     -33.267   2.007  16.393  1.00 26.56      GAP  O
+ATOM   1358  CB  TYR G 801     -34.181   4.166  18.837  1.00 22.93      GAP  C
+ATOM   1359  CG  TYR G 801     -35.478   4.003  18.091  1.00 24.13      GAP  C
+ATOM   1360  CD1 TYR G 801     -36.270   2.872  18.270  1.00 24.61      GAP  C
+ATOM   1361  CD2 TYR G 801     -35.906   4.969  17.185  1.00 29.10      GAP  C
+ATOM   1362  CE1 TYR G 801     -37.457   2.703  17.568  1.00 28.92      GAP  C
+ATOM   1363  CE2 TYR G 801     -37.083   4.805  16.465  1.00 33.41      GAP  C
+ATOM   1364  CZ  TYR G 801     -37.853   3.668  16.656  1.00 34.40      GAP  C
+ATOM   1365  OH  TYR G 801     -38.972   3.461  15.880  1.00 34.45      GAP  O
+ATOM   1366  H   TYR G 801     -31.881   4.195  19.722  1.00 25.03      GAP  H   new
+ATOM   1367  HA  TYR G 801     -33.600   2.084  18.888  1.00 25.09      GAP  H   new
+ATOM   1368 1HB  TYR G 801     -34.391   4.208  19.916  1.00 22.93      GAP  H   new
+ATOM   1369 2HB  TYR G 801     -33.727   5.129  18.560  1.00 22.93      GAP  H   new
+ATOM   1370  HD1 TYR G 801     -35.950   2.097  18.981  1.00 24.61      GAP  H   new
+ATOM   1371  HD2 TYR G 801     -35.303   5.877  17.037  1.00 29.10      GAP  H   new
+ATOM   1372  HE1 TYR G 801     -38.077   1.810  17.735  1.00 28.92      GAP  H   new
+ATOM   1373  HE2 TYR G 801     -37.403   5.574  15.746  1.00 33.41      GAP  H   new
+ATOM   1374  HH  TYR G 801     -39.114   4.250  15.282  1.00 34.45      GAP  H   new
+ATOM   1375  N   MET G 802     -32.142   3.959  16.578  1.00 23.06      GAP  N
+ATOM   1376  CA  MET G 802     -31.787   4.002  15.165  1.00 22.65      GAP  C
+ATOM   1377  C   MET G 802     -30.949   2.796  14.742  1.00 23.66      GAP  C
+ATOM   1378  O   MET G 802     -31.095   2.290  13.624  1.00 25.57      GAP  O
+ATOM   1379  CB  MET G 802     -31.025   5.286  14.851  1.00 20.34      GAP  C
+ATOM   1380  CG  MET G 802     -31.803   6.555  15.096  1.00 16.18      GAP  C
+ATOM   1381  SD  MET G 802     -31.032   7.904  14.239  1.00 18.54      GAP  S
+ATOM   1382  CE  MET G 802     -29.743   8.374  15.377  1.00 20.42      GAP  C
+ATOM   1383  H   MET G 802     -31.785   4.720  17.120  1.00 23.06      GAP  H   new
+ATOM   1384  HA  MET G 802     -32.728   3.975  14.596  1.00 22.65      GAP  H   new
+ATOM   1385 1HB  MET G 802     -30.109   5.311  15.459  1.00 20.34      GAP  H   new
+ATOM   1386 2HB  MET G 802     -30.711   5.262  13.797  1.00 20.34      GAP  H   new
+ATOM   1387 1HG  MET G 802     -32.840   6.433  14.751  1.00 16.18      GAP  H   new
+ATOM   1388 2HG  MET G 802     -31.845   6.769  16.174  1.00 16.18      GAP  H   new
+ATOM   1389 1HE  MET G 802     -29.175   9.219  14.960  1.00 20.42      GAP  H   new
+ATOM   1390 2HE  MET G 802     -30.191   8.672  16.336  1.00 20.42      GAP  H   new
+ATOM   1391 3HE  MET G 802     -29.066   7.522  15.538  1.00 20.42      GAP  H   new
+ATOM   1392  N   LYS G 803     -30.076   2.331  15.631  1.00 24.46      GAP  N
+ATOM   1393  CA  LYS G 803     -29.240   1.170  15.333  1.00 27.15      GAP  C
+ATOM   1394  C   LYS G 803     -30.120  -0.068  15.216  1.00 24.36      GAP  C
+ATOM   1395  O   LYS G 803     -29.776  -1.007  14.528  1.00 28.60      GAP  O
+ATOM   1396  CB  LYS G 803     -28.170   0.973  16.427  1.00 32.65      GAP  C
+ATOM   1397  CG  LYS G 803     -26.858   1.763  16.220  1.00 38.04      GAP  C
+ATOM   1398  CD  LYS G 803     -27.128   3.204  15.777  1.00 51.07      GAP  C
+ATOM   1399  CE  LYS G 803     -25.853   4.030  15.572  1.00 58.35      GAP  C
+ATOM   1400  NZ  LYS G 803     -25.628   4.370  14.115  1.00 70.40      GAP  N
+ATOM   1401  H   LYS G 803     -29.932   2.727  16.538  1.00 24.46      GAP  H   new
+ATOM   1402  HA  LYS G 803     -28.719   1.337  14.379  1.00 27.15      GAP  H   new
+ATOM   1403 1HB  LYS G 803     -28.603   1.262  17.396  1.00 32.65      GAP  H   new
+ATOM   1404 2HB  LYS G 803     -27.927  -0.098  16.490  1.00 32.65      GAP  H   new
+ATOM   1405 1HG  LYS G 803     -26.281   1.769  17.157  1.00 38.04      GAP  H   new
+ATOM   1406 2HG  LYS G 803     -26.240   1.256  15.464  1.00 38.04      GAP  H   new
+ATOM   1407 1HD  LYS G 803     -27.701   3.189  14.838  1.00 51.07      GAP  H   new
+ATOM   1408 2HD  LYS G 803     -27.759   3.699  16.530  1.00 51.07      GAP  H   new
+ATOM   1409 1HE  LYS G 803     -25.920   4.958  16.159  1.00 58.35      GAP  H   new
+ATOM   1410 2HE  LYS G 803     -24.988   3.469  15.955  1.00 58.35      GAP  H   new
+ATOM   1411 1HZ  LYS G 803     -24.790   4.907  14.023  1.00 70.40      GAP  H + new
+ATOM   1412 2HZ  LYS G 803     -25.543   3.526  13.585  1.00 70.40      GAP  H + new
+ATOM   1413 3HZ  LYS G 803     -26.403   4.901  13.773  1.00 70.40      GAP  H + new
+ATOM   1414  N   ALA G 804     -31.343   0.035  15.723  1.00 22.08      GAP  N
+ATOM   1415  CA  ALA G 804     -32.266  -1.091  15.735  1.00 23.17      GAP  C
+ATOM   1416  C   ALA G 804     -33.196  -1.090  14.522  1.00 26.18      GAP  C
+ATOM   1417  O   ALA G 804     -33.577  -2.154  14.021  1.00 28.73      GAP  O
+ATOM   1418  CB  ALA G 804     -33.089  -1.076  17.016  1.00 22.58      GAP  C
+ATOM   1419  H   ALA G 804     -31.711   0.874  16.124  1.00 22.08      GAP  H   new
+ATOM   1420  HA  ALA G 804     -31.663  -2.010  15.689  1.00 23.17      GAP  H   new
+ATOM   1421 1HB  ALA G 804     -33.783  -1.929  17.017  1.00 22.58      GAP  H   new
+ATOM   1422 2HB  ALA G 804     -32.418  -1.149  17.884  1.00 22.58      GAP  H   new
+ATOM   1423 3HB  ALA G 804     -33.661  -0.138  17.074  1.00 22.58      GAP  H   new
+ATOM   1424  N   THR G 805     -33.568   0.101  14.058  1.00 25.80      GAP  N
+ATOM   1425  CA  THR G 805     -34.601   0.242  13.034  1.00 22.95      GAP  C
+ATOM   1426  C   THR G 805     -34.109   0.753  11.668  1.00 24.87      GAP  C
+ATOM   1427  O   THR G 805     -34.793   0.553  10.640  1.00 27.65      GAP  O
+ATOM   1428  CB  THR G 805     -35.731   1.161  13.526  1.00 20.08      GAP  C
+ATOM   1429  OG1 THR G 805     -35.185   2.422  13.926  1.00 23.82      GAP  O
+ATOM   1430  CG2 THR G 805     -36.439   0.539  14.697  1.00 20.80      GAP  C
+ATOM   1431  H   THR G 805     -33.176   0.967  14.369  1.00 25.80      GAP  H   new
+ATOM   1432  HA  THR G 805     -34.960  -0.785  12.870  1.00 22.95      GAP  H   new
+ATOM   1433  HB  THR G 805     -36.449   1.306  12.705  1.00 20.08      GAP  H   new
+ATOM   1434  HG1 THR G 805     -35.921   3.018  14.246  1.00 23.82      GAP  H   new
+ATOM   1435 1HG2 THR G 805     -37.244   1.208  15.037  1.00 20.80      GAP  H   new
+ATOM   1436 2HG2 THR G 805     -36.869  -0.427  14.395  1.00 20.80      GAP  H   new
+ATOM   1437 3HG2 THR G 805     -35.723   0.381  15.517  1.00 20.80      GAP  H   new
+ATOM   1438  N   ALA G 806     -32.924   1.359  11.632  1.00 20.52      GAP  N
+ATOM   1439  CA  ALA G 806     -32.411   1.941  10.398  1.00 16.30      GAP  C
+ATOM   1440  C   ALA G 806     -31.126   1.257   9.929  1.00 17.63      GAP  C
+ATOM   1441  O   ALA G 806     -30.260   1.893   9.326  1.00 18.93      GAP  O
+ATOM   1442  CB  ALA G 806     -32.181   3.434  10.581  1.00 10.37      GAP  C
+ATOM   1443  H   ALA G 806     -32.319   1.457  12.422  1.00 20.52      GAP  H   new
+ATOM   1444  HA  ALA G 806     -33.168   1.782   9.616  1.00 16.30      GAP  H   new
+ATOM   1445 1HB  ALA G 806     -31.794   3.863   9.645  1.00 10.37      GAP  H   new
+ATOM   1446 2HB  ALA G 806     -33.131   3.923  10.843  1.00 10.37      GAP  H   new
+ATOM   1447 3HB  ALA G 806     -31.451   3.597  11.388  1.00 10.37      GAP  H   new
+ATOM   1448  N   THR G 807     -31.014  -0.042  10.190  1.00 20.62      GAP  N
+ATOM   1449  CA  THR G 807     -29.907  -0.833   9.665  1.00 24.42      GAP  C
+ATOM   1450  C   THR G 807     -30.021  -1.027   8.152  1.00 24.79      GAP  C
+ATOM   1451  O   THR G 807     -29.043  -0.815   7.409  1.00 26.76      GAP  O
+ATOM   1452  CB  THR G 807     -29.848  -2.225  10.326  1.00 27.00      GAP  C
+ATOM   1453  OG1 THR G 807     -29.601  -2.075  11.729  1.00 31.92      GAP  O
+ATOM   1454  CG2 THR G 807     -28.736  -3.077   9.689  1.00 30.63      GAP  C
+ATOM   1455  H   THR G 807     -31.662  -0.558  10.750  1.00 20.62      GAP  H   new
+ATOM   1456  HA  THR G 807     -28.990  -0.271   9.896  1.00 24.42      GAP  H   new
+ATOM   1457  HB  THR G 807     -30.811  -2.735  10.172  1.00 27.00      GAP  H   new
+ATOM   1458  HG1 THR G 807     -29.562  -2.977  12.159  1.00 31.92      GAP  H   new
+ATOM   1459 1HG2 THR G 807     -28.708  -4.065  10.172  1.00 30.63      GAP  H   new
+ATOM   1460 2HG2 THR G 807     -28.938  -3.200   8.615  1.00 30.63      GAP  H   new
+ATOM   1461 3HG2 THR G 807     -27.766  -2.576   9.825  1.00 30.63      GAP  H   new
+ATOM   1462  N   GLN G 808     -31.193  -1.475   7.706  1.00 23.35      GAP  N
+ATOM   1463  CA  GLN G 808     -31.423  -1.756   6.291  1.00 24.32      GAP  C
+ATOM   1464  C   GLN G 808     -31.213  -0.492   5.477  1.00 22.10      GAP  C
+ATOM   1465  O   GLN G 808     -30.538  -0.514   4.442  1.00 26.49      GAP  O
+ATOM   1466  CB  GLN G 808     -32.845  -2.268   6.077  1.00 28.94      GAP  C
+ATOM   1467  CG  GLN G 808     -33.221  -3.468   6.926  1.00 37.43      GAP  C
+ATOM   1468  CD  GLN G 808     -34.607  -3.992   6.600  1.00 42.63      GAP  C
+ATOM   1469  OE1 GLN G 808     -35.172  -3.676   5.558  1.00 53.33      GAP  O
+ATOM   1470  NE2 GLN G 808     -35.171  -4.783   7.501  1.00 46.64      GAP  N
+ATOM   1471  H   GLN G 808     -31.983  -1.648   8.294  1.00 23.35      GAP  H   new
+ATOM   1472  HA  GLN G 808     -30.711  -2.528   5.964  1.00 24.32      GAP  H   new
+ATOM   1473 1HB  GLN G 808     -33.550  -1.451   6.289  1.00 28.94      GAP  H   new
+ATOM   1474 2HB  GLN G 808     -32.969  -2.533   5.017  1.00 28.94      GAP  H   new
+ATOM   1475 1HG  GLN G 808     -32.483  -4.269   6.772  1.00 37.43      GAP  H   new
+ATOM   1476 2HG  GLN G 808     -33.177  -3.190   7.989  1.00 37.43      GAP  H   new
+ATOM   1477 1HE2 GLN G 808     -36.090  -5.145   7.343  1.00 46.64      GAP  H   new
+ATOM   1478 2HE2 GLN G 808     -34.678  -5.018   8.339  1.00 46.64      GAP  H   new
+ATOM   1479  N   PHE G 809     -31.766   0.613   5.967  1.00 19.70      GAP  N
+ATOM   1480  CA  PHE G 809     -31.547   1.929   5.380  1.00 17.28      GAP  C
+ATOM   1481  C   PHE G 809     -30.071   2.169   5.059  1.00 20.67      GAP  C
+ATOM   1482  O   PHE G 809     -29.711   2.396   3.896  1.00 21.77      GAP  O
+ATOM   1483  CB  PHE G 809     -32.060   3.004   6.334  1.00 14.75      GAP  C
+ATOM   1484  CG  PHE G 809     -31.651   4.395   5.958  1.00 18.77      GAP  C
+ATOM   1485  CD1 PHE G 809     -32.318   5.078   4.956  1.00 24.69      GAP  C
+ATOM   1486  CD2 PHE G 809     -30.577   5.014   6.586  1.00 24.60      GAP  C
+ATOM   1487  CE1 PHE G 809     -31.910   6.362   4.575  1.00 30.91      GAP  C
+ATOM   1488  CE2 PHE G 809     -30.164   6.293   6.214  1.00 26.62      GAP  C
+ATOM   1489  CZ  PHE G 809     -30.828   6.966   5.207  1.00 28.38      GAP  C
+ATOM   1490  H   PHE G 809     -32.367   0.620   6.766  1.00 19.70      GAP  H   new
+ATOM   1491  HA  PHE G 809     -32.102   1.977   4.432  1.00 17.28      GAP  H   new
+ATOM   1492 1HB  PHE G 809     -33.158   2.953   6.372  1.00 14.75      GAP  H   new
+ATOM   1493 2HB  PHE G 809     -31.693   2.786   7.348  1.00 14.75      GAP  H   new
+ATOM   1494  HD1 PHE G 809     -33.177   4.608   4.454  1.00 24.69      GAP  H   new
+ATOM   1495  HD2 PHE G 809     -30.044   4.486   7.390  1.00 24.60      GAP  H   new
+ATOM   1496  HE1 PHE G 809     -32.446   6.894   3.775  1.00 30.91      GAP  H   new
+ATOM   1497  HE2 PHE G 809     -29.310   6.765   6.722  1.00 26.62      GAP  H   new
+ATOM   1498  HZ  PHE G 809     -30.503   7.973   4.907  1.00 28.38      GAP  H   new
+ATOM   1499  N   VAL G 810     -29.213   2.011   6.065  1.00 23.55      GAP  N
+ATOM   1500  CA  VAL G 810     -27.774   2.223   5.908  1.00 27.11      GAP  C
+ATOM   1501  C   VAL G 810     -27.149   1.279   4.871  1.00 28.78      GAP  C
+ATOM   1502  O   VAL G 810     -26.300   1.700   4.065  1.00 27.58      GAP  O
+ATOM   1503  CB  VAL G 810     -27.028   2.060   7.273  1.00 29.90      GAP  C
+ATOM   1504  CG1 VAL G 810     -25.534   2.258   7.084  1.00 29.00      GAP  C
+ATOM   1505  CG2 VAL G 810     -27.547   3.068   8.287  1.00 25.39      GAP  C
+ATOM   1506  H   VAL G 810     -29.487   1.740   6.988  1.00 23.55      GAP  H   new
+ATOM   1507  HA  VAL G 810     -27.655   3.254   5.544  1.00 27.11      GAP  H   new
+ATOM   1508  HB  VAL G 810     -27.216   1.043   7.648  1.00 29.90      GAP  H   new
+ATOM   1509 1HG1 VAL G 810     -25.023   2.141   8.051  1.00 29.00      GAP  H   new
+ATOM   1510 2HG1 VAL G 810     -25.151   1.510   6.374  1.00 29.00      GAP  H   new
+ATOM   1511 3HG1 VAL G 810     -25.344   3.267   6.690  1.00 29.00      GAP  H   new
+ATOM   1512 1HG2 VAL G 810     -27.012   2.939   9.240  1.00 25.39      GAP  H   new
+ATOM   1513 2HG2 VAL G 810     -27.381   4.088   7.909  1.00 25.39      GAP  H   new
+ATOM   1514 3HG2 VAL G 810     -28.623   2.907   8.447  1.00 25.39      GAP  H   new
+ATOM   1515  N   HIS G 811     -27.591   0.023   4.857  1.00 33.16      GAP  N
+ATOM   1516  CA  HIS G 811     -27.129  -0.940   3.858  1.00 35.43      GAP  C
+ATOM   1517  C   HIS G 811     -27.509  -0.525   2.448  1.00 34.92      GAP  C
+ATOM   1518  O   HIS G 811     -26.690  -0.601   1.541  1.00 36.56      GAP  O
+ATOM   1519  CB  HIS G 811     -27.696  -2.326   4.150  1.00 39.78      GAP  C
+ATOM   1520  CG  HIS G 811     -26.907  -3.088   5.164  1.00 44.86      GAP  C
+ATOM   1521  ND1 HIS G 811     -26.422  -2.505   6.314  1.00 46.11      GAP  N
+ATOM   1522  CD2 HIS G 811     -26.447  -4.361   5.164  1.00 46.85      GAP  C
+ATOM   1523  CE1 HIS G 811     -25.694  -3.384   6.977  1.00 48.21      GAP  C
+ATOM   1524  NE2 HIS G 811     -25.692  -4.518   6.302  1.00 49.03      GAP  N
+ATOM   1525  H   HIS G 811     -28.253  -0.344   5.510  1.00 33.16      GAP  H   new
+ATOM   1526  HA  HIS G 811     -26.031  -0.967   3.922  1.00 35.43      GAP  H   new
+ATOM   1527 1HB  HIS G 811     -28.732  -2.223   4.505  1.00 39.78      GAP  H   new
+ATOM   1528 2HB  HIS G 811     -27.732  -2.904   3.215  1.00 39.78      GAP  H   new
+ATOM   1529  HD1 HIS G 811     -26.595  -1.563   6.602  1.00 46.11      GAP  H   new
+ATOM   1530  HD2 HIS G 811     -26.641  -5.126   4.398  1.00 46.85      GAP  H   new
+ATOM   1531  HE1 HIS G 811     -25.177  -3.202   7.931  1.00 48.21      GAP  H   new
+ATOM   1532  HE2 HIS G 811     -25.218  -5.356   6.574  1.00 49.03      GAP  H   new
+ATOM   1533  N   HIS G 812     -28.737  -0.050   2.278  1.00 33.68      GAP  N
+ATOM   1534  CA  HIS G 812     -29.174   0.457   0.985  1.00 36.71      GAP  C
+ATOM   1535  C   HIS G 812     -28.306   1.618   0.522  1.00 34.73      GAP  C
+ATOM   1536  O   HIS G 812     -27.566   1.496  -0.454  1.00 37.11      GAP  O
+ATOM   1537  CB  HIS G 812     -30.639   0.892   1.047  1.00 43.93      GAP  C
+ATOM   1538  CG  HIS G 812     -31.562   0.014   0.261  1.00 52.07      GAP  C
+ATOM   1539  ND1 HIS G 812     -32.291  -1.000   0.839  1.00 54.20      GAP  N
+ATOM   1540  CD2 HIS G 812     -31.833  -0.035  -1.066  1.00 54.40      GAP  C
+ATOM   1541  CE1 HIS G 812     -32.973  -1.640  -0.097  1.00 56.58      GAP  C
+ATOM   1542  NE2 HIS G 812     -32.711  -1.075  -1.261  1.00 56.54      GAP  N
+ATOM   1543  H   HIS G 812     -29.428  -0.007   2.999  1.00 33.68      GAP  H   new
+ATOM   1544  HA  HIS G 812     -29.072  -0.360   0.255  1.00 36.71      GAP  H   new
+ATOM   1545 1HB  HIS G 812     -30.965   0.903   2.098  1.00 43.93      GAP  H   new
+ATOM   1546 2HB  HIS G 812     -30.722   1.923   0.673  1.00 43.93      GAP  H   new
+ATOM   1547  HD1 HIS G 812     -32.303  -1.219   1.815  1.00 54.20      GAP  H   new
+ATOM   1548  HD2 HIS G 812     -31.427   0.632  -1.841  1.00 54.40      GAP  H   new
+ATOM   1549  HE1 HIS G 812     -33.644  -2.496   0.067  1.00 56.58      GAP  H   new
+ATOM   1550  HE2 HIS G 812     -33.090  -1.358  -2.142  1.00 56.54      GAP  H   new
+ATOM   1551  N   ALA G 813     -28.305   2.692   1.304  1.00 34.45      GAP  N
+ATOM   1552  CA  ALA G 813     -27.585   3.911   0.957  1.00 34.56      GAP  C
+ATOM   1553  C   ALA G 813     -26.085   3.678   0.801  1.00 33.41      GAP  C
+ATOM   1554  O   ALA G 813     -25.447   4.192  -0.149  1.00 34.37      GAP  O
+ATOM   1555  CB  ALA G 813     -27.843   4.976   2.017  1.00 34.91      GAP  C
+ATOM   1556  H   ALA G 813     -28.792   2.741   2.176  1.00 34.45      GAP  H   new
+ATOM   1557  HA  ALA G 813     -27.961   4.252  -0.019  1.00 34.56      GAP  H   new
+ATOM   1558 1HB  ALA G 813     -27.299   5.895   1.754  1.00 34.91      GAP  H   new
+ATOM   1559 2HB  ALA G 813     -28.921   5.190   2.068  1.00 34.91      GAP  H   new
+ATOM   1560 3HB  ALA G 813     -27.495   4.612   2.995  1.00 34.91      GAP  H   new
+ATOM   1561  N   LEU G 814     -25.531   2.849   1.678  1.00 30.12      GAP  N
+ATOM   1562  CA  LEU G 814     -24.098   2.827   1.873  1.00 30.58      GAP  C
+ATOM   1563  C   LEU G 814     -23.366   1.610   1.319  1.00 32.79      GAP  C
+ATOM   1564  O   LEU G 814     -22.306   1.767   0.714  1.00 36.41      GAP  O
+ATOM   1565  CB  LEU G 814     -23.775   2.998   3.354  1.00 27.81      GAP  C
+ATOM   1566  CG  LEU G 814     -23.535   4.432   3.828  1.00 27.51      GAP  C
+ATOM   1567  CD1 LEU G 814     -24.707   5.317   3.462  1.00 21.73      GAP  C
+ATOM   1568  CD2 LEU G 814     -23.310   4.425   5.329  1.00 30.83      GAP  C
+ATOM   1569  H   LEU G 814     -26.042   2.204   2.246  1.00 30.12      GAP  H   new
+ATOM   1570  HA  LEU G 814     -23.722   3.672   1.278  1.00 30.58      GAP  H   new
+ATOM   1571 1HB  LEU G 814     -24.603   2.573   3.940  1.00 27.81      GAP  H   new
+ATOM   1572 2HB  LEU G 814     -22.879   2.403   3.584  1.00 27.81      GAP  H   new
+ATOM   1573  HG  LEU G 814     -22.643   4.839   3.330  1.00 27.51      GAP  H   new
+ATOM   1574 1HD1 LEU G 814     -24.516   6.343   3.811  1.00 21.73      GAP  H   new
+ATOM   1575 2HD1 LEU G 814     -24.838   5.320   2.370  1.00 21.73      GAP  H   new
+ATOM   1576 3HD1 LEU G 814     -25.621   4.932   3.939  1.00 21.73      GAP  H   new
+ATOM   1577 1HD2 LEU G 814     -23.136   5.453   5.679  1.00 30.83      GAP  H   new
+ATOM   1578 2HD2 LEU G 814     -24.197   4.012   5.831  1.00 30.83      GAP  H   new
+ATOM   1579 3HD2 LEU G 814     -22.433   3.805   5.566  1.00 30.83      GAP  H   new
+ATOM   1580  N   LYS G 815     -23.934   0.415   1.477  1.00 34.87      GAP  N
+ATOM   1581  CA  LYS G 815     -23.191  -0.833   1.248  1.00 36.67      GAP  C
+ATOM   1582  C   LYS G 815     -22.383  -0.869  -0.050  1.00 38.63      GAP  C
+ATOM   1583  O   LYS G 815     -21.191  -1.202  -0.033  1.00 35.41      GAP  O
+ATOM   1584  CB  LYS G 815     -24.135  -2.035   1.292  1.00 41.05      GAP  C
+ATOM   1585  CG  LYS G 815     -23.439  -3.389   1.283  1.00 45.12      GAP  C
+ATOM   1586  CD  LYS G 815     -24.461  -4.521   1.298  1.00 50.00      GAP  C
+ATOM   1587  CE  LYS G 815     -23.808  -5.892   1.412  1.00 50.00      GAP  C
+ATOM   1588  NZ  LYS G 815     -23.149  -6.123   2.726  1.00 50.91      GAP  N
+ATOM   1589  H   LYS G 815     -24.885   0.283   1.756  1.00 34.87      GAP  H   new
+ATOM   1590  HA  LYS G 815     -22.458  -0.881   2.067  1.00 36.67      GAP  H   new
+ATOM   1591 1HB  LYS G 815     -24.756  -1.963   2.197  1.00 41.05      GAP  H   new
+ATOM   1592 2HB  LYS G 815     -24.815  -1.982   0.429  1.00 41.05      GAP  H   new
+ATOM   1593 1HG  LYS G 815     -22.803  -3.474   0.390  1.00 45.12      GAP  H   new
+ATOM   1594 2HG  LYS G 815     -22.778  -3.473   2.158  1.00 45.12      GAP  H   new
+ATOM   1595 1HD  LYS G 815     -25.152  -4.376   2.141  1.00 50.00      GAP  H   new
+ATOM   1596 2HD  LYS G 815     -25.063  -4.480   0.378  1.00 50.00      GAP  H   new
+ATOM   1597 1HE  LYS G 815     -24.571  -6.668   1.251  1.00 50.00      GAP  H   new
+ATOM   1598 2HE  LYS G 815     -23.062  -6.003   0.611  1.00 50.00      GAP  H   new
+ATOM   1599 1HZ  LYS G 815     -22.741  -7.036   2.739  1.00 50.91      GAP  H + new
+ATOM   1600 2HZ  LYS G 815     -22.435  -5.437   2.866  1.00 50.91      GAP  H + new
+ATOM   1601 3HZ  LYS G 815     -23.828  -6.051   3.457  1.00 50.91      GAP  H + new
+ATOM   1602  N   ASP G 816     -22.993  -0.436  -1.151  1.00 42.41      GAP  N
+ATOM   1603  CA  ASP G 816     -22.337  -0.475  -2.463  1.00 43.48      GAP  C
+ATOM   1604  C   ASP G 816     -21.159   0.493  -2.553  1.00 41.18      GAP  C
+ATOM   1605  O   ASP G 816     -20.059   0.121  -2.994  1.00 40.47      GAP  O
+ATOM   1606  CB  ASP G 816     -23.345  -0.157  -3.573  1.00 48.99      GAP  C
+ATOM   1607  CG  ASP G 816     -24.551  -1.087  -3.560  1.00 55.06      GAP  C
+ATOM   1608  OD1 ASP G 816     -24.360  -2.318  -3.396  1.00 54.47      GAP  O
+ATOM   1609  OD2 ASP G 816     -25.687  -0.578  -3.724  1.00 57.38      GAP  O
+ATOM   1610  H   ASP G 816     -23.920  -0.062  -1.164  1.00 42.41      GAP  H   new
+ATOM   1611  HA  ASP G 816     -21.945  -1.495  -2.593  1.00 43.48      GAP  H   new
+ATOM   1612 1HB  ASP G 816     -23.688   0.882  -3.463  1.00 48.99      GAP  H   new
+ATOM   1613 2HB  ASP G 816     -22.843  -0.229  -4.549  1.00 48.99      GAP  H   new
+ATOM   1614  N   SER G 817     -21.382   1.716  -2.081  1.00 40.22      GAP  N
+ATOM   1615  CA  SER G 817     -20.380   2.777  -2.131  1.00 37.46      GAP  C
+ATOM   1616  C   SER G 817     -19.173   2.463  -1.237  1.00 37.68      GAP  C
+ATOM   1617  O   SER G 817     -18.022   2.710  -1.629  1.00 38.18      GAP  O
+ATOM   1618  CB  SER G 817     -21.007   4.112  -1.715  1.00 35.40      GAP  C
+ATOM   1619  OG  SER G 817     -22.423   4.013  -1.614  1.00 41.50      GAP  O
+ATOM   1620  H   SER G 817     -22.246   1.994  -1.661  1.00 40.22      GAP  H   new
+ATOM   1621  HA  SER G 817     -20.020   2.847  -3.168  1.00 37.46      GAP  H   new
+ATOM   1622 1HB  SER G 817     -20.743   4.888  -2.449  1.00 35.40      GAP  H   new
+ATOM   1623 2HB  SER G 817     -20.590   4.429  -0.748  1.00 35.40      GAP  H   new
+ATOM   1624  HG  SER G 817     -22.801   4.898  -1.342  1.00 41.50      GAP  H   new
+ATOM   1625  N   ILE G 818     -19.426   1.840  -0.086  1.00 34.17      GAP  N
+ATOM   1626  CA  ILE G 818     -18.369   1.498   0.865  1.00 28.25      GAP  C
+ATOM   1627  C   ILE G 818     -17.500   0.343   0.373  1.00 28.63      GAP  C
+ATOM   1628  O   ILE G 818     -16.271   0.438   0.397  1.00 31.02      GAP  O
+ATOM   1629  CB  ILE G 818     -18.961   1.149   2.250  1.00 26.48      GAP  C
+ATOM   1630  CG1 ILE G 818     -19.396   2.429   2.961  1.00 24.12      GAP  C
+ATOM   1631  CG2 ILE G 818     -17.938   0.417   3.099  1.00 28.11      GAP  C
+ATOM   1632  CD1 ILE G 818     -20.203   2.192   4.205  1.00 26.28      GAP  C
+ATOM   1633  H   ILE G 818     -20.342   1.566   0.206  1.00 34.17      GAP  H   new
+ATOM   1634  HA  ILE G 818     -17.730   2.389   0.956  1.00 28.25      GAP  H   new
+ATOM   1635  HB  ILE G 818     -19.832   0.493   2.104  1.00 26.48      GAP  H   new
+ATOM   1636 1HG1 ILE G 818     -18.501   3.013   3.222  1.00 24.12      GAP  H   new
+ATOM   1637 2HG1 ILE G 818     -19.987   3.041   2.264  1.00 24.12      GAP  H   new
+ATOM   1638 1HG2 ILE G 818     -18.377   0.178   4.079  1.00 28.11      GAP  H   new
+ATOM   1639 2HG2 ILE G 818     -17.640  -0.514   2.594  1.00 28.11      GAP  H   new
+ATOM   1640 3HG2 ILE G 818     -17.054   1.056   3.240  1.00 28.11      GAP  H   new
+ATOM   1641 1HD1 ILE G 818     -20.476   3.158   4.655  1.00 26.28      GAP  H   new
+ATOM   1642 2HD1 ILE G 818     -21.117   1.636   3.949  1.00 26.28      GAP  H   new
+ATOM   1643 3HD1 ILE G 818     -19.608   1.608   4.923  1.00 26.28      GAP  H   new
+ATOM   1644  N   LEU G 819     -18.130  -0.726  -0.107  1.00 27.85      GAP  N
+ATOM   1645  CA  LEU G 819     -17.400  -1.879  -0.635  1.00 30.28      GAP  C
+ATOM   1646  C   LEU G 819     -16.500  -1.524  -1.822  1.00 32.01      GAP  C
+ATOM   1647  O   LEU G 819     -15.395  -2.069  -1.971  1.00 35.31      GAP  O
+ATOM   1648  CB  LEU G 819     -18.379  -2.980  -1.052  1.00 30.45      GAP  C
+ATOM   1649  CG  LEU G 819     -18.962  -3.881   0.042  1.00 29.92      GAP  C
+ATOM   1650  CD1 LEU G 819     -20.207  -4.589  -0.490  1.00 27.19      GAP  C
+ATOM   1651  CD2 LEU G 819     -17.923  -4.889   0.498  1.00 28.16      GAP  C
+ATOM   1652  H   LEU G 819     -19.125  -0.818  -0.141  1.00 27.85      GAP  H   new
+ATOM   1653  HA  LEU G 819     -16.749  -2.235   0.177  1.00 30.28      GAP  H   new
+ATOM   1654 1HB  LEU G 819     -19.219  -2.502  -1.577  1.00 30.45      GAP  H   new
+ATOM   1655 2HB  LEU G 819     -17.869  -3.625  -1.782  1.00 30.45      GAP  H   new
+ATOM   1656  HG  LEU G 819     -19.247  -3.267   0.909  1.00 29.92      GAP  H   new
+ATOM   1657 1HD1 LEU G 819     -20.625  -5.236   0.295  1.00 27.19      GAP  H   new
+ATOM   1658 2HD1 LEU G 819     -20.957  -3.841  -0.786  1.00 27.19      GAP  H   new
+ATOM   1659 3HD1 LEU G 819     -19.936  -5.201  -1.363  1.00 27.19      GAP  H   new
+ATOM   1660 1HD2 LEU G 819     -18.352  -5.530   1.282  1.00 28.16      GAP  H   new
+ATOM   1661 2HD2 LEU G 819     -17.616  -5.511  -0.355  1.00 28.16      GAP  H   new
+ATOM   1662 3HD2 LEU G 819     -17.047  -4.358   0.898  1.00 28.16      GAP  H   new
+ATOM   1663  N   LYS G 820     -16.966  -0.611  -2.665  1.00 34.93      GAP  N
+ATOM   1664  CA  LYS G 820     -16.156  -0.131  -3.775  1.00 36.06      GAP  C
+ATOM   1665  C   LYS G 820     -14.935   0.625  -3.272  1.00 33.76      GAP  C
+ATOM   1666  O   LYS G 820     -13.834   0.473  -3.809  1.00 35.12      GAP  O
+ATOM   1667  CB  LYS G 820     -16.984   0.776  -4.681  1.00 41.25      GAP  C
+ATOM   1668  CG  LYS G 820     -17.281   0.164  -6.041  1.00 53.50      GAP  C
+ATOM   1669  CD  LYS G 820     -17.601   1.235  -7.081  1.00 62.71      GAP  C
+ATOM   1670  CE  LYS G 820     -16.388   2.129  -7.368  1.00 69.71      GAP  C
+ATOM   1671  NZ  LYS G 820     -15.679   1.765  -8.640  1.00 75.08      GAP  N
+ATOM   1672  H   LYS G 820     -17.875  -0.200  -2.603  1.00 34.93      GAP  H   new
+ATOM   1673  HA  LYS G 820     -15.815  -1.006  -4.349  1.00 36.06      GAP  H   new
+ATOM   1674 1HB  LYS G 820     -17.934   1.014  -4.179  1.00 41.25      GAP  H   new
+ATOM   1675 2HB  LYS G 820     -16.448   1.726  -4.824  1.00 41.25      GAP  H   new
+ATOM   1676 1HG  LYS G 820     -16.415  -0.427  -6.376  1.00 53.50      GAP  H   new
+ATOM   1677 2HG  LYS G 820     -18.130  -0.530  -5.955  1.00 53.50      GAP  H   new
+ATOM   1678 1HD  LYS G 820     -17.931   0.754  -8.014  1.00 62.71      GAP  H   new
+ATOM   1679 2HD  LYS G 820     -18.437   1.854  -6.725  1.00 62.71      GAP  H   new
+ATOM   1680 1HE  LYS G 820     -16.717   3.177  -7.425  1.00 69.71      GAP  H   new
+ATOM   1681 2HE  LYS G 820     -15.681   2.059  -6.528  1.00 69.71      GAP  H   new
+ATOM   1682 1HZ  LYS G 820     -14.901   2.378  -8.775  1.00 75.08      GAP  H + new
+ATOM   1683 2HZ  LYS G 820     -15.354   0.821  -8.582  1.00 75.08      GAP  H + new
+ATOM   1684 3HZ  LYS G 820     -16.310   1.853  -9.411  1.00 75.08      GAP  H + new
+ATOM   1685  N   ILE G 821     -15.120   1.391  -2.202  1.00 33.24      GAP  N
+ATOM   1686  CA  ILE G 821     -14.040   2.176  -1.621  1.00 30.60      GAP  C
+ATOM   1687  C   ILE G 821     -12.967   1.267  -1.040  1.00 33.16      GAP  C
+ATOM   1688  O   ILE G 821     -11.776   1.534  -1.202  1.00 35.60      GAP  O
+ATOM   1689  CB  ILE G 821     -14.569   3.132  -0.527  1.00 26.38      GAP  C
+ATOM   1690  CG1 ILE G 821     -15.456   4.203  -1.166  1.00 25.15      GAP  C
+ATOM   1691  CG2 ILE G 821     -13.420   3.813   0.187  1.00 22.63      GAP  C
+ATOM   1692  CD1 ILE G 821     -16.161   5.101  -0.176  1.00 27.93      GAP  C
+ATOM   1693  H   ILE G 821     -15.996   1.482  -1.728  1.00 33.24      GAP  H   new
+ATOM   1694  HA  ILE G 821     -13.598   2.781  -2.427  1.00 30.60      GAP  H   new
+ATOM   1695  HB  ILE G 821     -15.148   2.542   0.199  1.00 26.38      GAP  H   new
+ATOM   1696 1HG1 ILE G 821     -14.838   4.824  -1.831  1.00 25.15      GAP  H   new
+ATOM   1697 2HG1 ILE G 821     -16.210   3.709  -1.796  1.00 25.15      GAP  H   new
+ATOM   1698 1HG2 ILE G 821     -13.816   4.488   0.960  1.00 22.63      GAP  H   new
+ATOM   1699 2HG2 ILE G 821     -12.778   3.054   0.658  1.00 22.63      GAP  H   new
+ATOM   1700 3HG2 ILE G 821     -12.830   4.393  -0.538  1.00 22.63      GAP  H   new
+ATOM   1701 1HD1 ILE G 821     -16.773   5.837  -0.719  1.00 27.93      GAP  H   new
+ATOM   1702 2HD1 ILE G 821     -16.809   4.494   0.474  1.00 27.93      GAP  H   new
+ATOM   1703 3HD1 ILE G 821     -15.415   5.627   0.438  1.00 27.93      GAP  H   new
+ATOM   1704  N   MET G 822     -13.392   0.146  -0.458  1.00 34.10      GAP  N
+ATOM   1705  CA  MET G 822     -12.469  -0.826   0.132  1.00 35.23      GAP  C
+ATOM   1706  C   MET G 822     -11.529  -1.416  -0.910  1.00 37.36      GAP  C
+ATOM   1707  O   MET G 822     -10.302  -1.394  -0.745  1.00 41.87      GAP  O
+ATOM   1708  CB  MET G 822     -13.240  -1.971   0.791  1.00 35.78      GAP  C
+ATOM   1709  CG  MET G 822     -14.176  -1.575   1.933  1.00 37.86      GAP  C
+ATOM   1710  SD  MET G 822     -13.380  -1.305   3.527  1.00 34.98      GAP  S
+ATOM   1711  CE  MET G 822     -13.648   0.455   3.715  1.00 36.59      GAP  C
+ATOM   1712  H   MET G 822     -14.356  -0.108  -0.383  1.00 34.10      GAP  H   new
+ATOM   1713  HA  MET G 822     -11.877  -0.285   0.884  1.00 35.23      GAP  H   new
+ATOM   1714 1HB  MET G 822     -13.833  -2.481   0.017  1.00 35.78      GAP  H   new
+ATOM   1715 2HB  MET G 822     -12.514  -2.703   1.175  1.00 35.78      GAP  H   new
+ATOM   1716 1HG  MET G 822     -14.707  -0.655   1.647  1.00 37.86      GAP  H   new
+ATOM   1717 2HG  MET G 822     -14.936  -2.361   2.051  1.00 37.86      GAP  H   new
+ATOM   1718 1HE  MET G 822     -13.210   0.794   4.666  1.00 36.59      GAP  H   new
+ATOM   1719 2HE  MET G 822     -13.171   0.990   2.881  1.00 36.59      GAP  H   new
+ATOM   1720 3HE  MET G 822     -14.728   0.664   3.714  1.00 36.59      GAP  H   new
+ATOM   1721  N   GLU G 823     -12.110  -1.964  -1.970  1.00 39.58      GAP  N
+ATOM   1722  CA  GLU G 823     -11.347  -2.671  -2.987  1.00 42.06      GAP  C
+ATOM   1723  C   GLU G 823     -10.506  -1.736  -3.855  1.00 39.56      GAP  C
+ATOM   1724  O   GLU G 823      -9.678  -2.190  -4.647  1.00 38.95      GAP  O
+ATOM   1725  CB  GLU G 823     -12.297  -3.494  -3.858  1.00 47.93      GAP  C
+ATOM   1726  CG  GLU G 823     -12.815  -4.745  -3.159  1.00 61.99      GAP  C
+ATOM   1727  CD  GLU G 823     -14.296  -4.989  -3.391  1.00 69.29      GAP  C
+ATOM   1728  OE1 GLU G 823     -14.676  -5.297  -4.547  1.00 75.46      GAP  O
+ATOM   1729  OE2 GLU G 823     -15.079  -4.895  -2.416  1.00 71.28      GAP  O
+ATOM   1730  H   GLU G 823     -13.094  -1.932  -2.143  1.00 39.58      GAP  H   new
+ATOM   1731  HA  GLU G 823     -10.641  -3.335  -2.467  1.00 42.06      GAP  H   new
+ATOM   1732 1HB  GLU G 823     -13.151  -2.866  -4.154  1.00 47.93      GAP  H   new
+ATOM   1733 2HB  GLU G 823     -11.777  -3.786  -4.782  1.00 47.93      GAP  H   new
+ATOM   1734 1HG  GLU G 823     -12.246  -5.617  -3.513  1.00 61.99      GAP  H   new
+ATOM   1735 2HG  GLU G 823     -12.629  -4.657  -2.078  1.00 61.99      GAP  H   new
+ATOM   1736  N   SER G 824     -10.691  -0.433  -3.674  1.00 38.05      GAP  N
+ATOM   1737  CA  SER G 824      -9.991   0.561  -4.476  1.00 36.12      GAP  C
+ATOM   1738  C   SER G 824      -8.591   0.796  -3.952  1.00 39.44      GAP  C
+ATOM   1739  O   SER G 824      -8.298   0.568  -2.771  1.00 38.43      GAP  O
+ATOM   1740  CB  SER G 824     -10.757   1.886  -4.485  1.00 33.01      GAP  C
+ATOM   1741  OG  SER G 824     -10.001   2.900  -5.128  1.00 27.70      GAP  O
+ATOM   1742  H   SER G 824     -11.310  -0.048  -2.990  1.00 38.05      GAP  H   new
+ATOM   1743  HA  SER G 824      -9.927   0.171  -5.503  1.00 36.12      GAP  H   new
+ATOM   1744 1HB  SER G 824     -10.985   2.190  -3.453  1.00 33.01      GAP  H   new
+ATOM   1745 2HB  SER G 824     -11.719   1.756  -5.002  1.00 33.01      GAP  H   new
+ATOM   1746  HG  SER G 824     -10.518   3.756  -5.123  1.00 27.70      GAP  H   new
+ATOM   1747  N   LYS G 825      -7.732   1.298  -4.825  1.00 45.26      GAP  N
+ATOM   1748  CA  LYS G 825      -6.357   1.585  -4.455  1.00 50.01      GAP  C
+ATOM   1749  C   LYS G 825      -5.965   2.992  -4.881  1.00 48.68      GAP  C
+ATOM   1750  O   LYS G 825      -4.940   3.524  -4.438  1.00 48.14      GAP  O
+ATOM   1751  CB  LYS G 825      -5.415   0.548  -5.081  1.00 54.86      GAP  C
+ATOM   1752  CG  LYS G 825      -6.002  -0.217  -6.285  1.00 64.15      GAP  C
+ATOM   1753  CD  LYS G 825      -5.983   0.592  -7.584  1.00 68.19      GAP  C
+ATOM   1754  CE  LYS G 825      -4.616   1.309  -7.803  1.00 71.27      GAP  C
+ATOM   1755  NZ  LYS G 825      -3.795   0.807  -8.979  1.00 73.86      GAP  N
+ATOM   1756  H   LYS G 825      -7.959   1.511  -5.775  1.00 45.26      GAP  H   new
+ATOM   1757  HA  LYS G 825      -6.270   1.525  -3.360  1.00 50.01      GAP  H   new
+ATOM   1758 1HB  LYS G 825      -4.494   1.057  -5.402  1.00 54.86      GAP  H   new
+ATOM   1759 2HB  LYS G 825      -5.128  -0.179  -4.307  1.00 54.86      GAP  H   new
+ATOM   1760 1HG  LYS G 825      -5.433  -1.147  -6.432  1.00 64.15      GAP  H   new
+ATOM   1761 2HG  LYS G 825      -7.038  -0.506  -6.057  1.00 64.15      GAP  H   new
+ATOM   1762 1HD  LYS G 825      -6.187  -0.076  -8.434  1.00 68.19      GAP  H   new
+ATOM   1763 2HD  LYS G 825      -6.789   1.340  -7.562  1.00 68.19      GAP  H   new
+ATOM   1764 1HE  LYS G 825      -4.804   2.384  -7.942  1.00 71.27      GAP  H   new
+ATOM   1765 2HE  LYS G 825      -4.016   1.203  -6.887  1.00 71.27      GAP  H   new
+ATOM   1766 1HZ  LYS G 825      -2.942   1.326  -9.036  1.00 73.86      GAP  H + new
+ATOM   1767 2HZ  LYS G 825      -3.587  -0.163  -8.851  1.00 73.86      GAP  H + new
+ATOM   1768 3HZ  LYS G 825      -4.315   0.927  -9.825  1.00 73.86      GAP  H + new
+ATOM   1769  N   GLN G 826      -6.813   3.619  -5.688  1.00 50.07      GAP  N
+ATOM   1770  CA  GLN G 826      -6.638   5.027  -6.010  1.00 50.10      GAP  C
+ATOM   1771  C   GLN G 826      -6.901   5.872  -4.763  1.00 46.55      GAP  C
+ATOM   1772  O   GLN G 826      -8.020   5.898  -4.236  1.00 47.93      GAP  O
+ATOM   1773  CB  GLN G 826      -7.577   5.431  -7.154  1.00 54.22      GAP  C
+ATOM   1774  CG  GLN G 826      -7.638   6.935  -7.443  1.00 58.51      GAP  C
+ATOM   1775  CD  GLN G 826      -6.281   7.567  -7.706  1.00 59.75      GAP  C
+ATOM   1776  OE1 GLN G 826      -5.975   8.643  -7.177  1.00 59.85      GAP  O
+ATOM   1777  NE2 GLN G 826      -5.498   6.956  -8.586  1.00 65.25      GAP  N
+ATOM   1778  H   GLN G 826      -7.605   3.187  -6.118  1.00 50.07      GAP  H   new
+ATOM   1779  HA  GLN G 826      -5.604   5.201  -6.343  1.00 50.10      GAP  H   new
+ATOM   1780 1HB  GLN G 826      -7.260   4.910  -8.069  1.00 54.22      GAP  H   new
+ATOM   1781 2HB  GLN G 826      -8.591   5.077  -6.917  1.00 54.22      GAP  H   new
+ATOM   1782 1HG  GLN G 826      -8.286   7.105  -8.316  1.00 58.51      GAP  H   new
+ATOM   1783 2HG  GLN G 826      -8.109   7.444  -6.589  1.00 58.51      GAP  H   new
+ATOM   1784 1HE2 GLN G 826      -4.623   7.365  -8.845  1.00 65.25      GAP  H   new
+ATOM   1785 2HE2 GLN G 826      -5.783   6.087  -8.990  1.00 65.25      GAP  H   new
+ATOM   1786  N   SER G 827      -5.832   6.463  -4.242  1.00 40.68      GAP  N
+ATOM   1787  CA  SER G 827      -5.884   7.299  -3.048  1.00 37.26      GAP  C
+ATOM   1788  C   SER G 827      -6.635   8.612  -3.287  1.00 35.91      GAP  C
+ATOM   1789  O   SER G 827      -6.486   9.233  -4.345  1.00 40.98      GAP  O
+ATOM   1790  CB  SER G 827      -4.458   7.594  -2.581  1.00 36.25      GAP  C
+ATOM   1791  OG  SER G 827      -4.405   8.757  -1.779  1.00 36.42      GAP  O
+ATOM   1792  H   SER G 827      -4.915   6.377  -4.632  1.00 40.68      GAP  H   new
+ATOM   1793  HA  SER G 827      -6.437   6.747  -2.274  1.00 37.26      GAP  H   new
+ATOM   1794 1HB  SER G 827      -3.803   7.720  -3.456  1.00 36.25      GAP  H   new
+ATOM   1795 2HB  SER G 827      -4.072   6.736  -2.011  1.00 36.25      GAP  H   new
+ATOM   1796  HG  SER G 827      -3.462   8.921  -1.491  1.00 36.42      GAP  H   new
+ATOM   1797  N   CYS G 828      -7.361   9.075  -2.269  1.00 29.18      GAP  N
+ATOM   1798  CA  CYS G 828      -8.154  10.297  -2.367  1.00 21.28      GAP  C
+ATOM   1799  C   CYS G 828      -7.536  11.491  -1.654  1.00 22.87      GAP  C
+ATOM   1800  O   CYS G 828      -8.216  12.498  -1.418  1.00 21.64      GAP  O
+ATOM   1801  CB  CYS G 828      -9.545  10.063  -1.795  1.00 17.15      GAP  C
+ATOM   1802  SG  CYS G 828     -10.595   9.041  -2.817  1.00 31.36      GAP  S
+ATOM   1803  H   CYS G 828      -7.414   8.625  -1.378  1.00 29.18      GAP  H   new
+ATOM   1804  HA  CYS G 828      -8.196  10.539  -3.439  1.00 21.28      GAP  H   new
+ATOM   1805 1HB  CYS G 828      -9.448   9.594  -0.805  1.00 17.15      GAP  H   new
+ATOM   1806 2HB  CYS G 828     -10.035  11.036  -1.643  1.00 17.15      GAP  H   new
+ATOM   1807  HG  CYS G 828     -11.754   8.901  -2.245  1.00 31.36      GAP  H   new
+ATOM   1808  N   GLU G 829      -6.246  11.413  -1.355  1.00 23.62      GAP  N
+ATOM   1809  CA  GLU G 829      -5.608  12.396  -0.492  1.00 27.33      GAP  C
+ATOM   1810  C   GLU G 829      -5.496  13.783  -1.120  1.00 31.59      GAP  C
+ATOM   1811  O   GLU G 829      -4.954  13.935  -2.209  1.00 38.75      GAP  O
+ATOM   1812  CB  GLU G 829      -4.224  11.910  -0.086  1.00 30.21      GAP  C
+ATOM   1813  CG  GLU G 829      -3.545  12.792   0.954  1.00 31.48      GAP  C
+ATOM   1814  CD  GLU G 829      -4.173  12.665   2.325  1.00 29.59      GAP  C
+ATOM   1815  OE1 GLU G 829      -3.972  11.617   2.976  1.00 33.09      GAP  O
+ATOM   1816  OE2 GLU G 829      -4.871  13.606   2.749  1.00 18.70      GAP  O
+ATOM   1817  H   GLU G 829      -5.635  10.695  -1.690  1.00 23.62      GAP  H   new
+ATOM   1818  HA  GLU G 829      -6.258  12.499   0.389  1.00 27.33      GAP  H   new
+ATOM   1819 1HB  GLU G 829      -4.306  10.887   0.311  1.00 30.21      GAP  H   new
+ATOM   1820 2HB  GLU G 829      -3.587  11.857  -0.981  1.00 30.21      GAP  H   new
+ATOM   1821 1HG  GLU G 829      -2.480  12.525   1.017  1.00 31.48      GAP  H   new
+ATOM   1822 2HG  GLU G 829      -3.595  13.841   0.628  1.00 31.48      GAP  H   new
+ATOM   1823  N   LEU G 830      -5.935  14.802  -0.387  1.00 33.64      GAP  N
+ATOM   1824  CA  LEU G 830      -5.924  16.172  -0.891  1.00 35.53      GAP  C
+ATOM   1825  C   LEU G 830      -4.999  17.073  -0.084  1.00 37.43      GAP  C
+ATOM   1826  O   LEU G 830      -4.779  18.235  -0.454  1.00 38.22      GAP  O
+ATOM   1827  CB  LEU G 830      -7.335  16.766  -0.851  1.00 40.54      GAP  C
+ATOM   1828  CG  LEU G 830      -8.515  15.908  -1.308  1.00 40.39      GAP  C
+ATOM   1829  CD1 LEU G 830      -9.780  16.739  -1.251  1.00 40.53      GAP  C
+ATOM   1830  CD2 LEU G 830      -8.273  15.395  -2.715  1.00 42.59      GAP  C
+ATOM   1831  H   LEU G 830      -6.296  14.707   0.541  1.00 33.64      GAP  H   new
+ATOM   1832  HA  LEU G 830      -5.555  16.125  -1.926  1.00 35.53      GAP  H   new
+ATOM   1833 1HB  LEU G 830      -7.534  17.079   0.185  1.00 40.54      GAP  H   new
+ATOM   1834 2HB  LEU G 830      -7.329  17.677  -1.467  1.00 40.54      GAP  H   new
+ATOM   1835  HG  LEU G 830      -8.623  15.039  -0.642  1.00 40.39      GAP  H   new
+ATOM   1836 1HD1 LEU G 830     -10.635  16.129  -1.578  1.00 40.53      GAP  H   new
+ATOM   1837 2HD1 LEU G 830      -9.948  17.081  -0.219  1.00 40.53      GAP  H   new
+ATOM   1838 3HD1 LEU G 830      -9.677  17.611  -1.914  1.00 40.53      GAP  H   new
+ATOM   1839 1HD2 LEU G 830      -9.127  14.780  -3.033  1.00 42.59      GAP  H   new
+ATOM   1840 2HD2 LEU G 830      -8.159  16.247  -3.402  1.00 42.59      GAP  H   new
+ATOM   1841 3HD2 LEU G 830      -7.357  14.786  -2.731  1.00 42.59      GAP  H   new
+ATOM   1842  N   SER G 831      -4.497  16.552   1.035  1.00 39.32      GAP  N
+ATOM   1843  CA  SER G 831      -3.770  17.350   2.024  1.00 37.89      GAP  C
+ATOM   1844  C   SER G 831      -2.286  17.501   1.705  1.00 37.82      GAP  C
+ATOM   1845  O   SER G 831      -1.529  16.524   1.770  1.00 38.22      GAP  O
+ATOM   1846  CB  SER G 831      -3.911  16.718   3.404  1.00 38.37      GAP  C
+ATOM   1847  OG  SER G 831      -5.115  15.985   3.491  1.00 41.95      GAP  O
+ATOM   1848  H   SER G 831      -4.581  15.585   1.277  1.00 39.32      GAP  H   new
+ATOM   1849  HA  SER G 831      -4.218  18.354   2.000  1.00 37.89      GAP  H   new
+ATOM   1850 1HB  SER G 831      -3.894  17.501   4.176  1.00 38.37      GAP  H   new
+ATOM   1851 2HB  SER G 831      -3.056  16.055   3.600  1.00 38.37      GAP  H   new
+ATOM   1852  HG  SER G 831      -5.193  15.577   4.401  1.00 41.95      GAP  H   new
+ATOM   1853  N   PRO G 832      -1.820  18.752   1.556  1.00 36.68      GAP  N
+ATOM   1854  CA  PRO G 832      -0.518  19.076   0.962  1.00 37.25      GAP  C
+ATOM   1855  C   PRO G 832       0.666  18.551   1.769  1.00 39.33      GAP  C
+ATOM   1856  O   PRO G 832       1.826  18.611   1.317  1.00 38.30      GAP  O
+ATOM   1857  CB  PRO G 832      -0.526  20.603   0.906  1.00 35.95      GAP  C
+ATOM   1858  CG  PRO G 832      -1.973  20.972   0.957  1.00 35.81      GAP  C
+ATOM   1859  CD  PRO G 832      -2.568  19.973   1.887  1.00 36.91      GAP  C
+ATOM   1860  HA  PRO G 832      -0.390  18.600  -0.021  1.00 37.25      GAP  H   new
+ATOM   1861 1HB  PRO G 832       0.028  21.038   1.751  1.00 35.95      GAP  H   new
+ATOM   1862 2HB  PRO G 832      -0.051  20.973  -0.015  1.00 35.95      GAP  H   new
+ATOM   1863 1HG  PRO G 832      -2.114  21.999   1.325  1.00 35.81      GAP  H   new
+ATOM   1864 2HG  PRO G 832      -2.437  20.921  -0.039  1.00 35.81      GAP  H   new
+ATOM   1865 1HD  PRO G 832      -2.435  20.263   2.940  1.00 36.91      GAP  H   new
+ATOM   1866 2HD  PRO G 832      -3.648  19.850   1.721  1.00 36.91      GAP  H   new
+ATOM   1867  N   SER G 833       0.379  18.022   2.952  1.00 43.30      GAP  N
+ATOM   1868  CA  SER G 833       1.414  17.444   3.797  1.00 48.11      GAP  C
+ATOM   1869  C   SER G 833       1.286  15.927   3.901  1.00 49.04      GAP  C
+ATOM   1870  O   SER G 833       2.301  15.216   3.910  1.00 54.77      GAP  O
+ATOM   1871  CB  SER G 833       1.395  18.087   5.197  1.00 49.25      GAP  C
+ATOM   1872  OG  SER G 833       0.076  18.287   5.682  1.00 50.62      GAP  O
+ATOM   1873  H   SER G 833      -0.542  17.983   3.339  1.00 43.30      GAP  H   new
+ATOM   1874  HA  SER G 833       2.382  17.660   3.322  1.00 48.11      GAP  H   new
+ATOM   1875 1HB  SER G 833       1.920  19.053   5.161  1.00 49.25      GAP  H   new
+ATOM   1876 2HB  SER G 833       1.948  17.446   5.900  1.00 49.25      GAP  H   new
+ATOM   1877  HG  SER G 833       0.114  18.705   6.590  1.00 50.62      GAP  H   new
+ATOM   1878  N   LYS G 834       0.054  15.424   3.869  1.00 43.16      GAP  N
+ATOM   1879  CA  LYS G 834      -0.190  13.989   3.972  1.00 40.04      GAP  C
+ATOM   1880  C   LYS G 834       0.134  13.253   2.659  1.00 39.81      GAP  C
+ATOM   1881  O   LYS G 834      -0.039  12.018   2.557  1.00 38.87      GAP  O
+ATOM   1882  CB  LYS G 834      -1.648  13.752   4.373  1.00 39.41      GAP  C
+ATOM   1883  CG  LYS G 834      -1.851  13.267   5.800  1.00 38.09      GAP  C
+ATOM   1884  CD  LYS G 834      -2.049  11.754   5.839  1.00 43.42      GAP  C
+ATOM   1885  CE  LYS G 834      -2.783  11.307   7.097  1.00 44.34      GAP  C
+ATOM   1886  NZ  LYS G 834      -3.213   9.877   7.027  1.00 46.76      GAP  N
+ATOM   1887  H   LYS G 834      -0.773  15.978   3.775  1.00 43.16      GAP  H   new
+ATOM   1888  HA  LYS G 834       0.480  13.580   4.743  1.00 40.04      GAP  H   new
+ATOM   1889 1HB  LYS G 834      -2.207  14.690   4.238  1.00 39.41      GAP  H   new
+ATOM   1890 2HB  LYS G 834      -2.086  13.014   3.685  1.00 39.41      GAP  H   new
+ATOM   1891 1HG  LYS G 834      -0.980  13.543   6.413  1.00 38.09      GAP  H   new
+ATOM   1892 2HG  LYS G 834      -2.726  13.767   6.241  1.00 38.09      GAP  H   new
+ATOM   1893 1HD  LYS G 834      -2.616  11.436   4.952  1.00 43.42      GAP  H   new
+ATOM   1894 2HD  LYS G 834      -1.070  11.255   5.790  1.00 43.42      GAP  H   new
+ATOM   1895 1HE  LYS G 834      -2.129  11.448   7.970  1.00 44.34      GAP  H   new
+ATOM   1896 2HE  LYS G 834      -3.666  11.946   7.250  1.00 44.34      GAP  H   new
+ATOM   1897 1HZ  LYS G 834      -3.689   9.630   7.871  1.00 46.76      GAP  H + new
+ATOM   1898 2HZ  LYS G 834      -3.829   9.751   6.249  1.00 46.76      GAP  H + new
+ATOM   1899 3HZ  LYS G 834      -2.410   9.292   6.914  1.00 46.76      GAP  H + new
+ATOM   1900  N   LEU G 835       0.706  13.979   1.700  1.00 39.68      GAP  N
+ATOM   1901  CA  LEU G 835       0.859  13.487   0.328  1.00 46.59      GAP  C
+ATOM   1902  C   LEU G 835       2.174  12.743   0.081  1.00 52.02      GAP  C
+ATOM   1903  O   LEU G 835       3.277  13.247   0.413  1.00 54.28      GAP  O
+ATOM   1904  CB  LEU G 835       0.737  14.648  -0.677  1.00 42.29      GAP  C
+ATOM   1905  CG  LEU G 835      -0.660  15.090  -1.138  1.00 39.00      GAP  C
+ATOM   1906  CD1 LEU G 835      -0.574  16.353  -1.977  1.00 31.16      GAP  C
+ATOM   1907  CD2 LEU G 835      -1.310  13.972  -1.937  1.00 41.44      GAP  C
+ATOM   1908  H   LEU G 835       1.067  14.900   1.845  1.00 39.68      GAP  H   new
+ATOM   1909  HA  LEU G 835       0.046  12.761   0.181  1.00 46.59      GAP  H   new
+ATOM   1910 1HB  LEU G 835       1.233  15.524  -0.234  1.00 42.29      GAP  H   new
+ATOM   1911 2HB  LEU G 835       1.311  14.372  -1.574  1.00 42.29      GAP  H   new
+ATOM   1912  HG  LEU G 835      -1.274  15.308  -0.252  1.00 39.00      GAP  H   new
+ATOM   1913 1HD1 LEU G 835      -1.584  16.651  -2.296  1.00 31.16      GAP  H   new
+ATOM   1914 2HD1 LEU G 835      -0.125  17.160  -1.380  1.00 31.16      GAP  H   new
+ATOM   1915 3HD1 LEU G 835       0.049  16.163  -2.864  1.00 31.16      GAP  H   new
+ATOM   1916 1HD2 LEU G 835      -2.310  14.290  -2.266  1.00 41.44      GAP  H   new
+ATOM   1917 2HD2 LEU G 835      -0.691  13.741  -2.816  1.00 41.44      GAP  H   new
+ATOM   1918 3HD2 LEU G 835      -1.400  13.075  -1.307  1.00 41.44      GAP  H   new
+ATOM   1919  N   GLU G 836       2.070  11.598  -0.588  1.00 56.51      GAP  N
+ATOM   1920  CA  GLU G 836       3.235  10.848  -1.030  1.00 60.56      GAP  C
+ATOM   1921  C   GLU G 836       3.988  11.634  -2.078  1.00 58.98      GAP  C
+ATOM   1922  O   GLU G 836       3.530  12.679  -2.526  1.00 55.17      GAP  O
+ATOM   1923  CB  GLU G 836       2.802   9.508  -1.623  1.00 70.37      GAP  C
+ATOM   1924  CG  GLU G 836       2.130   8.570  -0.625  1.00 86.27      GAP  C
+ATOM   1925  CD  GLU G 836       1.645   7.253  -1.236  1.00 94.99      GAP  C
+ATOM   1926  OE1 GLU G 836       1.897   7.006  -2.445  1.00100.00      GAP  O
+ATOM   1927  OE2 GLU G 836       1.021   6.459  -0.484  1.00100.00      GAP  O
+ATOM   1928  H   GLU G 836       1.196  11.177  -0.832  1.00 56.51      GAP  H   new
+ATOM   1929  HA  GLU G 836       3.888  10.671  -0.163  1.00 60.56      GAP  H   new
+ATOM   1930 1HB  GLU G 836       2.109   9.696  -2.456  1.00 70.37      GAP  H   new
+ATOM   1931 2HB  GLU G 836       3.684   9.005  -2.045  1.00 70.37      GAP  H   new
+ATOM   1932 1HG  GLU G 836       2.838   8.347   0.186  1.00 86.27      GAP  H   new
+ATOM   1933 2HG  GLU G 836       1.273   9.089  -0.170  1.00 86.27      GAP  H   new
+ATOM   1934  N   LYS G 837       5.156  11.136  -2.454  1.00 62.14      GAP  N
+ATOM   1935  CA  LYS G 837       5.926  11.765  -3.511  1.00 65.86      GAP  C
+ATOM   1936  C   LYS G 837       5.339  11.426  -4.882  1.00 64.90      GAP  C
+ATOM   1937  O   LYS G 837       4.897  10.280  -5.128  1.00 65.11      GAP  O
+ATOM   1938  CB  LYS G 837       7.383  11.317  -3.435  1.00 72.89      GAP  C
+ATOM   1939  CG  LYS G 837       8.061  11.691  -2.143  1.00 81.66      GAP  C
+ATOM   1940  CD  LYS G 837       9.547  11.395  -2.182  1.00 88.49      GAP  C
+ATOM   1941  CE  LYS G 837      10.225  11.836  -0.881  1.00 96.76      GAP  C
+ATOM   1942  NZ  LYS G 837      11.700  11.581  -0.870  1.00100.00      GAP  N
+ATOM   1943  H   LYS G 837       5.578  10.322  -2.054  1.00 62.14      GAP  H   new
+ATOM   1944  HA  LYS G 837       5.880  12.856  -3.375  1.00 65.86      GAP  H   new
+ATOM   1945 1HB  LYS G 837       7.429  10.225  -3.561  1.00 72.89      GAP  H   new
+ATOM   1946 2HB  LYS G 837       7.939  11.762  -4.273  1.00 72.89      GAP  H   new
+ATOM   1947 1HG  LYS G 837       7.905  12.761  -1.943  1.00 81.66      GAP  H   new
+ATOM   1948 2HG  LYS G 837       7.598  11.138  -1.312  1.00 81.66      GAP  H   new
+ATOM   1949 1HD  LYS G 837       9.707  10.318  -2.338  1.00 88.49      GAP  H   new
+ATOM   1950 2HD  LYS G 837      10.007  11.915  -3.035  1.00 88.49      GAP  H   new
+ATOM   1951 1HE  LYS G 837      10.044  12.910  -0.726  1.00 96.76      GAP  H   new
+ATOM   1952 2HE  LYS G 837       9.761  11.306  -0.036  1.00 96.76      GAP  H   new
+ATOM   1953 1HZ  LYS G 837      12.085  11.888   0.000  1.00100.00      GAP  H + new
+ATOM   1954 2HZ  LYS G 837      11.870  10.602  -0.983  1.00100.00      GAP  H + new
+ATOM   1955 3HZ  LYS G 837      12.131  12.082  -1.620  1.00100.00      GAP  H + new
+ATOM   1956  N   ASN G 838       5.261  12.442  -5.740  1.00 61.10      GAP  N
+ATOM   1957  CA  ASN G 838       4.683  12.327  -7.081  1.00 58.56      GAP  C
+ATOM   1958  C   ASN G 838       3.302  11.675  -7.110  1.00 55.58      GAP  C
+ATOM   1959  O   ASN G 838       2.922  11.009  -8.084  1.00 57.42      GAP  O
+ATOM   1960  CB  ASN G 838       5.649  11.601  -8.027  1.00 59.99      GAP  C
+ATOM   1961  CG  ASN G 838       6.160  12.508  -9.145  1.00 62.69      GAP  C
+ATOM   1962  OD1 ASN G 838       5.378  13.001  -9.970  1.00 61.92      GAP  O
+ATOM   1963  ND2 ASN G 838       7.476  12.713  -9.196  1.00 62.20      GAP  N
+ATOM   1964  H   ASN G 838       5.594  13.361  -5.527  1.00 61.10      GAP  H   new
+ATOM   1965  HA  ASN G 838       4.532  13.358  -7.433  1.00 58.56      GAP  H   new
+ATOM   1966 1HB  ASN G 838       6.504  11.217  -7.450  1.00 59.99      GAP  H   new
+ATOM   1967 2HB  ASN G 838       5.141  10.730  -8.468  1.00 59.99      GAP  H   new
+ATOM   1968 1HD2 ASN G 838       7.866  13.283  -9.919  1.00 62.20      GAP  H   new
+ATOM   1969 2HD2 ASN G 838       8.074  12.297  -8.511  1.00 62.20      GAP  H   new
+ATOM   1970  N   GLU G 839       2.564  11.858  -6.022  1.00 52.07      GAP  N
+ATOM   1971  CA  GLU G 839       1.141  11.555  -5.974  1.00 47.61      GAP  C
+ATOM   1972  C   GLU G 839       0.405  12.729  -6.625  1.00 46.47      GAP  C
+ATOM   1973  O   GLU G 839       0.768  13.892  -6.392  1.00 46.72      GAP  O
+ATOM   1974  CB  GLU G 839       0.704  11.374  -4.512  1.00 42.59      GAP  C
+ATOM   1975  CG  GLU G 839      -0.784  11.153  -4.316  1.00 43.04      GAP  C
+ATOM   1976  CD  GLU G 839      -1.104  10.196  -3.188  1.00 42.39      GAP  C
+ATOM   1977  OE1 GLU G 839      -0.677  10.445  -2.044  1.00 35.40      GAP  O
+ATOM   1978  OE2 GLU G 839      -1.834   9.213  -3.440  1.00 49.17      GAP  O
+ATOM   1979  H   GLU G 839       2.931  12.215  -5.163  1.00 52.07      GAP  H   new
+ATOM   1980  HA  GLU G 839       0.910  10.623  -6.510  1.00 47.61      GAP  H   new
+ATOM   1981 1HB  GLU G 839       1.247  10.518  -4.085  1.00 42.59      GAP  H   new
+ATOM   1982 2HB  GLU G 839       1.007  12.264  -3.941  1.00 42.59      GAP  H   new
+ATOM   1983 1HG  GLU G 839      -1.268  12.120  -4.115  1.00 43.04      GAP  H   new
+ATOM   1984 2HG  GLU G 839      -1.216  10.765  -5.250  1.00 43.04      GAP  H   new
+ATOM   1985  N   ASP G 840      -0.545  12.437  -7.516  1.00 44.40      GAP  N
+ATOM   1986  CA  ASP G 840      -1.255  13.501  -8.235  1.00 43.48      GAP  C
+ATOM   1987  C   ASP G 840      -2.545  13.888  -7.529  1.00 43.04      GAP  C
+ATOM   1988  O   ASP G 840      -3.575  13.194  -7.654  1.00 43.18      GAP  O
+ATOM   1989  CB  ASP G 840      -1.566  13.087  -9.681  1.00 46.44      GAP  C
+ATOM   1990  CG  ASP G 840      -1.801  14.286 -10.611  1.00 48.15      GAP  C
+ATOM   1991  OD1 ASP G 840      -2.131  15.396 -10.127  1.00 48.25      GAP  O
+ATOM   1992  OD2 ASP G 840      -1.660  14.114 -11.843  1.00 49.31      GAP  O
+ATOM   1993  H   ASP G 840      -0.832  11.508  -7.751  1.00 44.40      GAP  H   new
+ATOM   1994  HA  ASP G 840      -0.586  14.374  -8.250  1.00 43.48      GAP  H   new
+ATOM   1995 1HB  ASP G 840      -0.732  12.485 -10.072  1.00 46.44      GAP  H   new
+ATOM   1996 2HB  ASP G 840      -2.458  12.444  -9.689  1.00 46.44      GAP  H   new
+ATOM   1997  N   VAL G 841      -2.545  15.088  -6.960  1.00 41.78      GAP  N
+ATOM   1998  CA  VAL G 841      -3.656  15.564  -6.143  1.00 41.45      GAP  C
+ATOM   1999  C   VAL G 841      -4.876  15.979  -6.971  1.00 42.26      GAP  C
+ATOM   2000  O   VAL G 841      -5.993  16.022  -6.457  1.00 44.88      GAP  O
+ATOM   2001  CB  VAL G 841      -3.214  16.739  -5.231  1.00 40.21      GAP  C
+ATOM   2002  CG1 VAL G 841      -3.112  18.025  -6.028  1.00 33.71      GAP  C
+ATOM   2003  CG2 VAL G 841      -4.183  16.894  -4.062  1.00 37.29      GAP  C
+ATOM   2004  H   VAL G 841      -1.794  15.743  -7.049  1.00 41.78      GAP  H   new
+ATOM   2005  HA  VAL G 841      -3.960  14.710  -5.519  1.00 41.45      GAP  H   new
+ATOM   2006  HB  VAL G 841      -2.217  16.514  -4.825  1.00 40.21      GAP  H   new
+ATOM   2007 1HG1 VAL G 841      -2.798  18.844  -5.365  1.00 33.71      GAP  H   new
+ATOM   2008 2HG1 VAL G 841      -2.372  17.901  -6.832  1.00 33.71      GAP  H   new
+ATOM   2009 3HG1 VAL G 841      -4.092  18.264  -6.466  1.00 33.71      GAP  H   new
+ATOM   2010 1HG2 VAL G 841      -3.858  17.729  -3.424  1.00 37.29      GAP  H   new
+ATOM   2011 2HG2 VAL G 841      -5.193  17.098  -4.447  1.00 37.29      GAP  H   new
+ATOM   2012 3HG2 VAL G 841      -4.197  15.966  -3.471  1.00 37.29      GAP  H   new
+ATOM   2013  N   ASN G 842      -4.673  16.219  -8.265  1.00 42.36      GAP  N
+ATOM   2014  CA  ASN G 842      -5.776  16.527  -9.166  1.00 39.52      GAP  C
+ATOM   2015  C   ASN G 842      -6.514  15.267  -9.580  1.00 35.91      GAP  C
+ATOM   2016  O   ASN G 842      -7.743  15.245  -9.655  1.00 34.44      GAP  O
+ATOM   2017  CB  ASN G 842      -5.262  17.260 -10.401  1.00 43.72      GAP  C
+ATOM   2018  CG  ASN G 842      -5.178  18.756 -10.193  1.00 49.62      GAP  C
+ATOM   2019  OD1 ASN G 842      -4.093  19.355 -10.283  1.00 53.68      GAP  O
+ATOM   2020  ND2 ASN G 842      -6.313  19.369  -9.853  1.00 49.52      GAP  N
+ATOM   2021  H   ASN G 842      -3.773  16.206  -8.702  1.00 42.36      GAP  H   new
+ATOM   2022  HA  ASN G 842      -6.481  17.178  -8.628  1.00 39.52      GAP  H   new
+ATOM   2023 1HB  ASN G 842      -4.267  16.873 -10.665  1.00 43.72      GAP  H   new
+ATOM   2024 2HB  ASN G 842      -5.926  17.048 -11.252  1.00 43.72      GAP  H   new
+ATOM   2025 1HD2 ASN G 842      -6.313  20.350  -9.659  1.00 49.52      GAP  H   new
+ATOM   2026 2HD2 ASN G 842      -7.164  18.848  -9.793  1.00 49.52      GAP  H   new
+ATOM   2027  N   THR G 843      -5.757  14.207  -9.829  1.00 34.58      GAP  N
+ATOM   2028  CA  THR G 843      -6.343  12.902 -10.061  1.00 34.89      GAP  C
+ATOM   2029  C   THR G 843      -7.135  12.465  -8.831  1.00 37.07      GAP  C
+ATOM   2030  O   THR G 843      -8.323  12.099  -8.945  1.00 41.53      GAP  O
+ATOM   2031  CB  THR G 843      -5.252  11.872 -10.401  1.00 35.07      GAP  C
+ATOM   2032  OG1 THR G 843      -4.748  12.140 -11.720  1.00 35.74      GAP  O
+ATOM   2033  CG2 THR G 843      -5.806  10.455 -10.354  1.00 35.48      GAP  C
+ATOM   2034  H   THR G 843      -4.758  14.229  -9.874  1.00 34.58      GAP  H   new
+ATOM   2035  HA  THR G 843      -7.028  12.966 -10.919  1.00 34.89      GAP  H   new
+ATOM   2036  HB  THR G 843      -4.445  11.956  -9.658  1.00 35.07      GAP  H   new
+ATOM   2037  HG1 THR G 843      -4.038  11.474 -11.948  1.00 35.74      GAP  H   new
+ATOM   2038 1HG2 THR G 843      -5.007   9.740 -10.600  1.00 35.48      GAP  H   new
+ATOM   2039 2HG2 THR G 843      -6.188  10.243  -9.344  1.00 35.48      GAP  H   new
+ATOM   2040 3HG2 THR G 843      -6.624  10.356 -11.083  1.00 35.48      GAP  H   new
+ATOM   2041  N   ASN G 844      -6.535  12.634  -7.652  1.00 35.67      GAP  N
+ATOM   2042  CA  ASN G 844      -7.192  12.322  -6.371  1.00 31.38      GAP  C
+ATOM   2043  C   ASN G 844      -8.560  13.004  -6.230  1.00 30.98      GAP  C
+ATOM   2044  O   ASN G 844      -9.594  12.336  -6.076  1.00 33.15      GAP  O
+ATOM   2045  CB  ASN G 844      -6.295  12.744  -5.198  1.00 24.69      GAP  C
+ATOM   2046  CG  ASN G 844      -5.003  11.947  -5.125  1.00 23.64      GAP  C
+ATOM   2047  OD1 ASN G 844      -4.232  12.104  -4.187  1.00 23.91      GAP  O
+ATOM   2048  ND2 ASN G 844      -4.749  11.109  -6.123  1.00 26.97      GAP  N
+ATOM   2049  H   ASN G 844      -5.603  12.982  -7.554  1.00 35.67      GAP  H   new
+ATOM   2050  HA  ASN G 844      -7.354  11.234  -6.355  1.00 31.38      GAP  H   new
+ATOM   2051 1HB  ASN G 844      -6.055  13.813  -5.293  1.00 24.69      GAP  H   new
+ATOM   2052 2HB  ASN G 844      -6.850  12.621  -4.256  1.00 24.69      GAP  H   new
+ATOM   2053 1HD2 ASN G 844      -3.902  10.578  -6.126  1.00 26.97      GAP  H   new
+ATOM   2054 2HD2 ASN G 844      -5.405  11.009  -6.871  1.00 26.97      GAP  H   new
+ATOM   2055  N   LEU G 845      -8.560  14.331  -6.318  1.00 30.35      GAP  N
+ATOM   2056  CA  LEU G 845      -9.771  15.137  -6.182  1.00 28.65      GAP  C
+ATOM   2057  C   LEU G 845     -10.877  14.597  -7.069  1.00 30.35      GAP  C
+ATOM   2058  O   LEU G 845     -11.992  14.342  -6.615  1.00 32.10      GAP  O
+ATOM   2059  CB  LEU G 845      -9.460  16.584  -6.565  1.00 27.67      GAP  C
+ATOM   2060  CG  LEU G 845     -10.553  17.646  -6.488  1.00 25.81      GAP  C
+ATOM   2061  CD1 LEU G 845     -11.223  17.643  -5.123  1.00 22.40      GAP  C
+ATOM   2062  CD2 LEU G 845      -9.915  18.997  -6.772  1.00 28.11      GAP  C
+ATOM   2063  H   LEU G 845      -7.734  14.870  -6.483  1.00 30.35      GAP  H   new
+ATOM   2064  HA  LEU G 845     -10.112  15.093  -5.137  1.00 28.65      GAP  H   new
+ATOM   2065 1HB  LEU G 845      -8.631  16.921  -5.925  1.00 27.67      GAP  H   new
+ATOM   2066 2HB  LEU G 845      -9.085  16.575  -7.599  1.00 27.67      GAP  H   new
+ATOM   2067  HG  LEU G 845     -11.335  17.432  -7.231  1.00 25.81      GAP  H   new
+ATOM   2068 1HD1 LEU G 845     -12.005  18.416  -5.096  1.00 22.40      GAP  H   new
+ATOM   2069 2HD1 LEU G 845     -11.676  16.658  -4.939  1.00 22.40      GAP  H   new
+ATOM   2070 3HD1 LEU G 845     -10.473  17.853  -4.346  1.00 22.40      GAP  H   new
+ATOM   2071 1HD2 LEU G 845     -10.683  19.783  -6.723  1.00 28.11      GAP  H   new
+ATOM   2072 2HD2 LEU G 845      -9.135  19.199  -6.023  1.00 28.11      GAP  H   new
+ATOM   2073 3HD2 LEU G 845      -9.465  18.987  -7.776  1.00 28.11      GAP  H   new
+ATOM   2074  N   THR G 846     -10.522  14.340  -8.321  1.00 34.17      GAP  N
+ATOM   2075  CA  THR G 846     -11.447  13.803  -9.303  1.00 35.34      GAP  C
+ATOM   2076  C   THR G 846     -12.141  12.553  -8.771  1.00 34.68      GAP  C
+ATOM   2077  O   THR G 846     -13.359  12.551  -8.527  1.00 37.96      GAP  O
+ATOM   2078  CB  THR G 846     -10.689  13.462 -10.591  1.00 36.24      GAP  C
+ATOM   2079  OG1 THR G 846     -10.031  14.642 -11.076  1.00 38.04      GAP  O
+ATOM   2080  CG2 THR G 846     -11.636  12.925 -11.647  1.00 39.08      GAP  C
+ATOM   2081  H   THR G 846      -9.600  14.496  -8.675  1.00 34.17      GAP  H   new
+ATOM   2082  HA  THR G 846     -12.213  14.564  -9.512  1.00 35.34      GAP  H   new
+ATOM   2083  HB  THR G 846      -9.944  12.683 -10.372  1.00 36.24      GAP  H   new
+ATOM   2084  HG1 THR G 846      -9.534  14.426 -11.917  1.00 38.04      GAP  H   new
+ATOM   2085 1HG2 THR G 846     -11.071  12.688 -12.560  1.00 39.08      GAP  H   new
+ATOM   2086 2HG2 THR G 846     -12.125  12.014 -11.272  1.00 39.08      GAP  H   new
+ATOM   2087 3HG2 THR G 846     -12.399  13.683 -11.875  1.00 39.08      GAP  H   new
+ATOM   2088  N   HIS G 847     -11.330  11.562  -8.432  1.00 31.89      GAP  N
+ATOM   2089  CA  HIS G 847     -11.822  10.257  -8.016  1.00 30.27      GAP  C
+ATOM   2090  C   HIS G 847     -12.723  10.353  -6.794  1.00 28.15      GAP  C
+ATOM   2091  O   HIS G 847     -13.712   9.628  -6.686  1.00 26.59      GAP  O
+ATOM   2092  CB  HIS G 847     -10.626   9.348  -7.725  1.00 34.84      GAP  C
+ATOM   2093  CG  HIS G 847     -10.990   8.003  -7.173  1.00 37.55      GAP  C
+ATOM   2094  ND1 HIS G 847     -11.624   7.038  -7.928  1.00 36.20      GAP  N
+ATOM   2095  CD2 HIS G 847     -10.618   7.393  -6.023  1.00 39.62      GAP  C
+ATOM   2096  CE1 HIS G 847     -11.602   5.886  -7.280  1.00 36.59      GAP  C
+ATOM   2097  NE2 HIS G 847     -10.996   6.075  -6.121  1.00 39.80      GAP  N
+ATOM   2098  H   HIS G 847     -10.333  11.638  -8.437  1.00 31.89      GAP  H   new
+ATOM   2099  HA  HIS G 847     -12.429   9.836  -8.831  1.00 30.27      GAP  H   new
+ATOM   2100 1HB  HIS G 847     -10.054   9.207  -8.654  1.00 34.84      GAP  H   new
+ATOM   2101 2HB  HIS G 847      -9.960   9.856  -7.011  1.00 34.84      GAP  H   new
+ATOM   2102  HD1 HIS G 847     -12.037   7.187  -8.827  1.00 36.20      GAP  H   new
+ATOM   2103  HD2 HIS G 847     -10.108   7.864  -5.170  1.00 39.62      GAP  H   new
+ATOM   2104  HE1 HIS G 847     -12.017   4.934  -7.643  1.00 36.59      GAP  H   new
+ATOM   2105  HE2 HIS G 847     -10.838   5.372  -5.427  1.00 39.80      GAP  H   new
+ATOM   2106  N   LEU G 848     -12.345  11.212  -5.853  1.00 27.77      GAP  N
+ATOM   2107  CA  LEU G 848     -13.113  11.384  -4.627  1.00 26.07      GAP  C
+ATOM   2108  C   LEU G 848     -14.488  11.917  -4.966  1.00 26.91      GAP  C
+ATOM   2109  O   LEU G 848     -15.506  11.322  -4.593  1.00 30.26      GAP  O
+ATOM   2110  CB  LEU G 848     -12.408  12.363  -3.698  1.00 26.14      GAP  C
+ATOM   2111  CG  LEU G 848     -13.058  12.523  -2.322  1.00 28.28      GAP  C
+ATOM   2112  CD1 LEU G 848     -12.902  11.231  -1.523  1.00 24.23      GAP  C
+ATOM   2113  CD2 LEU G 848     -12.426  13.694  -1.581  1.00 23.04      GAP  C
+ATOM   2114  H   LEU G 848     -11.529  11.787  -5.915  1.00 27.77      GAP  H   new
+ATOM   2115  HA  LEU G 848     -13.203  10.411  -4.122  1.00 26.07      GAP  H   new
+ATOM   2116 1HB  LEU G 848     -11.368  12.032  -3.560  1.00 26.14      GAP  H   new
+ATOM   2117 2HB  LEU G 848     -12.370  13.348  -4.187  1.00 26.14      GAP  H   new
+ATOM   2118  HG  LEU G 848     -14.131  12.730  -2.448  1.00 28.28      GAP  H   new
+ATOM   2119 1HD1 LEU G 848     -13.371  11.351  -0.535  1.00 24.23      GAP  H   new
+ATOM   2120 2HD1 LEU G 848     -13.390  10.405  -2.062  1.00 24.23      GAP  H   new
+ATOM   2121 3HD1 LEU G 848     -11.833  11.005  -1.396  1.00 24.23      GAP  H   new
+ATOM   2122 1HD2 LEU G 848     -12.899  13.802  -0.594  1.00 23.04      GAP  H   new
+ATOM   2123 2HD2 LEU G 848     -11.349  13.510  -1.453  1.00 23.04      GAP  H   new
+ATOM   2124 3HD2 LEU G 848     -12.573  14.618  -2.160  1.00 23.04      GAP  H   new
+ATOM   2125  N   LEU G 849     -14.506  12.978  -5.769  1.00 27.01      GAP  N
+ATOM   2126  CA  LEU G 849     -15.744  13.621  -6.184  1.00 23.85      GAP  C
+ATOM   2127  C   LEU G 849     -16.704  12.626  -6.819  1.00 21.96      GAP  C
+ATOM   2128  O   LEU G 849     -17.845  12.517  -6.397  1.00 20.66      GAP  O
+ATOM   2129  CB  LEU G 849     -15.437  14.757  -7.160  1.00 22.56      GAP  C
+ATOM   2130  CG  LEU G 849     -14.667  15.940  -6.565  1.00 21.99      GAP  C
+ATOM   2131  CD1 LEU G 849     -14.302  16.942  -7.641  1.00 23.82      GAP  C
+ATOM   2132  CD2 LEU G 849     -15.508  16.602  -5.503  1.00 25.46      GAP  C
+ATOM   2133  H   LEU G 849     -13.681  13.404  -6.140  1.00 27.01      GAP  H   new
+ATOM   2134  HA  LEU G 849     -16.233  14.031  -5.288  1.00 23.85      GAP  H   new
+ATOM   2135 1HB  LEU G 849     -14.857  14.349  -8.001  1.00 22.56      GAP  H   new
+ATOM   2136 2HB  LEU G 849     -16.386  15.129  -7.574  1.00 22.56      GAP  H   new
+ATOM   2137  HG  LEU G 849     -13.735  15.567  -6.116  1.00 21.99      GAP  H   new
+ATOM   2138 1HD1 LEU G 849     -13.751  17.781  -7.190  1.00 23.82      GAP  H   new
+ATOM   2139 2HD1 LEU G 849     -13.671  16.454  -8.398  1.00 23.82      GAP  H   new
+ATOM   2140 3HD1 LEU G 849     -15.219  17.320  -8.117  1.00 23.82      GAP  H   new
+ATOM   2141 1HD2 LEU G 849     -14.956  17.452  -5.075  1.00 25.46      GAP  H   new
+ATOM   2142 2HD2 LEU G 849     -16.447  16.962  -5.949  1.00 25.46      GAP  H   new
+ATOM   2143 3HD2 LEU G 849     -15.735  15.876  -4.709  1.00 25.46      GAP  H   new
+ATOM   2144  N   ASN G 850     -16.174  11.774  -7.686  1.00 20.49      GAP  N
+ATOM   2145  CA  ASN G 850     -16.983  10.775  -8.372  1.00 23.65      GAP  C
+ATOM   2146  C   ASN G 850     -17.628   9.786  -7.410  1.00 23.51      GAP  C
+ATOM   2147  O   ASN G 850     -18.822   9.468  -7.543  1.00 27.19      GAP  O
+ATOM   2148  CB  ASN G 850     -16.137  10.031  -9.406  1.00 30.60      GAP  C
+ATOM   2149  CG  ASN G 850     -15.573  10.960 -10.479  1.00 40.27      GAP  C
+ATOM   2150  OD1 ASN G 850     -14.406  10.800 -10.923  1.00 44.15      GAP  O
+ATOM   2151  ND2 ASN G 850     -16.363  11.958 -10.877  1.00 40.54      GAP  N
+ATOM   2152  H   ASN G 850     -15.204  11.755  -7.927  1.00 20.49      GAP  H   new
+ATOM   2153  HA  ASN G 850     -17.798  11.311  -8.880  1.00 23.65      GAP  H   new
+ATOM   2154 1HB  ASN G 850     -15.308   9.519  -8.896  1.00 30.60      GAP  H   new
+ATOM   2155 2HB  ASN G 850     -16.750   9.253  -9.885  1.00 30.60      GAP  H   new
+ATOM   2156 1HD2 ASN G 850     -16.034  12.616 -11.554  1.00 40.54      GAP  H   new
+ATOM   2157 2HD2 ASN G 850     -17.284  12.048 -10.498  1.00 40.54      GAP  H   new
+ATOM   2158  N   ILE G 851     -16.867   9.354  -6.409  1.00 24.89      GAP  N
+ATOM   2159  CA  ILE G 851     -17.396   8.506  -5.339  1.00 26.61      GAP  C
+ATOM   2160  C   ILE G 851     -18.493   9.256  -4.591  1.00 24.04      GAP  C
+ATOM   2161  O   ILE G 851     -19.550   8.697  -4.299  1.00 22.14      GAP  O
+ATOM   2162  CB  ILE G 851     -16.288   8.116  -4.320  1.00 27.32      GAP  C
+ATOM   2163  CG1 ILE G 851     -15.196   7.313  -5.017  1.00 31.85      GAP  C
+ATOM   2164  CG2 ILE G 851     -16.871   7.282  -3.187  1.00 26.37      GAP  C
+ATOM   2165  CD1 ILE G 851     -13.983   7.064  -4.155  1.00 33.10      GAP  C
+ATOM   2166  H   ILE G 851     -15.896   9.573  -6.316  1.00 24.89      GAP  H   new
+ATOM   2167  HA  ILE G 851     -17.792   7.590  -5.802  1.00 26.61      GAP  H   new
+ATOM   2168  HB  ILE G 851     -15.862   9.042  -3.906  1.00 27.32      GAP  H   new
+ATOM   2169 1HG1 ILE G 851     -15.612   6.346  -5.337  1.00 31.85      GAP  H   new
+ATOM   2170 2HG1 ILE G 851     -14.885   7.847  -5.927  1.00 31.85      GAP  H   new
+ATOM   2171 1HG2 ILE G 851     -16.073   7.017  -2.478  1.00 26.37      GAP  H   new
+ATOM   2172 2HG2 ILE G 851     -17.646   7.862  -2.665  1.00 26.37      GAP  H   new
+ATOM   2173 3HG2 ILE G 851     -17.316   6.364  -3.598  1.00 26.37      GAP  H   new
+ATOM   2174 1HD1 ILE G 851     -13.242   6.482  -4.723  1.00 33.10      GAP  H   new
+ATOM   2175 2HD1 ILE G 851     -13.541   8.026  -3.856  1.00 33.10      GAP  H   new
+ATOM   2176 3HD1 ILE G 851     -14.280   6.502  -3.257  1.00 33.10      GAP  H   new
+ATOM   2177  N   LEU G 852     -18.209  10.513  -4.260  1.00 23.03      GAP  N
+ATOM   2178  CA  LEU G 852     -19.126  11.336  -3.488  1.00 20.75      GAP  C
+ATOM   2179  C   LEU G 852     -20.444  11.496  -4.228  1.00 23.26      GAP  C
+ATOM   2180  O   LEU G 852     -21.510  11.221  -3.667  1.00 26.37      GAP  O
+ATOM   2181  CB  LEU G 852     -18.498  12.706  -3.212  1.00 20.33      GAP  C
+ATOM   2182  CG  LEU G 852     -17.477  12.803  -2.071  1.00 15.63      GAP  C
+ATOM   2183  CD1 LEU G 852     -16.758  14.137  -2.128  1.00 12.11      GAP  C
+ATOM   2184  CD2 LEU G 852     -18.185  12.636  -0.741  1.00  8.35      GAP  C
+ATOM   2185  H   LEU G 852     -17.359  10.975  -4.514  1.00 23.03      GAP  H   new
+ATOM   2186  HA  LEU G 852     -19.325  10.839  -2.527  1.00 20.75      GAP  H   new
+ATOM   2187 1HB  LEU G 852     -18.007  13.046  -4.136  1.00 20.33      GAP  H   new
+ATOM   2188 2HB  LEU G 852     -19.312  13.415  -3.000  1.00 20.33      GAP  H   new
+ATOM   2189  HG  LEU G 852     -16.731  12.002  -2.180  1.00 15.63      GAP  H   new
+ATOM   2190 1HD1 LEU G 852     -16.029  14.197  -1.307  1.00 12.11      GAP  H   new
+ATOM   2191 2HD1 LEU G 852     -16.234  14.231  -3.090  1.00 12.11      GAP  H   new
+ATOM   2192 3HD1 LEU G 852     -17.489  14.953  -2.028  1.00 12.11      GAP  H   new
+ATOM   2193 1HD2 LEU G 852     -17.452  12.706   0.076  1.00  8.35      GAP  H   new
+ATOM   2194 2HD2 LEU G 852     -18.940  13.428  -0.625  1.00  8.35      GAP  H   new
+ATOM   2195 3HD2 LEU G 852     -18.678  11.653  -0.708  1.00  8.35      GAP  H   new
+ATOM   2196  N   SER G 853     -20.356  11.813  -5.519  1.00 25.00      GAP  N
+ATOM   2197  CA  SER G 853     -21.532  11.936  -6.382  1.00 22.53      GAP  C
+ATOM   2198  C   SER G 853     -22.320  10.631  -6.377  1.00 21.73      GAP  C
+ATOM   2199  O   SER G 853     -23.521  10.618  -6.036  1.00 20.21      GAP  O
+ATOM   2200  CB  SER G 853     -21.104  12.272  -7.813  1.00 22.75      GAP  C
+ATOM   2201  OG  SER G 853     -20.237  13.394  -7.835  1.00 28.75      GAP  O
+ATOM   2202  H   SER G 853     -19.489  11.988  -5.986  1.00 25.00      GAP  H   new
+ATOM   2203  HA  SER G 853     -22.169  12.746  -5.997  1.00 22.53      GAP  H   new
+ATOM   2204 1HB  SER G 853     -21.993  12.479  -8.427  1.00 22.75      GAP  H   new
+ATOM   2205 2HB  SER G 853     -20.598  11.404  -8.262  1.00 22.75      GAP  H   new
+ATOM   2206  HG  SER G 853     -19.972  13.593  -8.779  1.00 28.75      GAP  H   new
+ATOM   2207  N   GLU G 854     -21.610   9.527  -6.602  1.00 17.15      GAP  N
+ATOM   2208  CA  GLU G 854     -22.228   8.212  -6.654  1.00 21.08      GAP  C
+ATOM   2209  C   GLU G 854     -22.917   7.876  -5.339  1.00 26.01      GAP  C
+ATOM   2210  O   GLU G 854     -24.064   7.408  -5.322  1.00 28.93      GAP  O
+ATOM   2211  CB  GLU G 854     -21.175   7.155  -6.986  1.00 23.99      GAP  C
+ATOM   2212  CG  GLU G 854     -21.719   5.736  -7.059  1.00 35.55      GAP  C
+ATOM   2213  CD  GLU G 854     -20.742   4.757  -7.693  1.00 44.20      GAP  C
+ATOM   2214  OE1 GLU G 854     -20.236   5.047  -8.804  1.00 42.44      GAP  O
+ATOM   2215  OE2 GLU G 854     -20.511   3.677  -7.094  1.00 50.99      GAP  O
+ATOM   2216  H   GLU G 854     -20.621   9.522  -6.749  1.00 17.15      GAP  H   new
+ATOM   2217  HA  GLU G 854     -22.993   8.221  -7.444  1.00 21.08      GAP  H   new
+ATOM   2218 1HB  GLU G 854     -20.709   7.407  -7.950  1.00 23.99      GAP  H   new
+ATOM   2219 2HB  GLU G 854     -20.381   7.193  -6.226  1.00 23.99      GAP  H   new
+ATOM   2220 1HG  GLU G 854     -21.968   5.392  -6.044  1.00 35.55      GAP  H   new
+ATOM   2221 2HG  GLU G 854     -22.655   5.737  -7.637  1.00 35.55      GAP  H   new
+ATOM   2222  N   LEU G 855     -22.268   8.228  -4.236  1.00 28.62      GAP  N
+ATOM   2223  CA  LEU G 855     -22.762   7.879  -2.910  1.00 28.30      GAP  C
+ATOM   2224  C   LEU G 855     -24.012   8.649  -2.533  1.00 28.58      GAP  C
+ATOM   2225  O   LEU G 855     -24.962   8.079  -1.999  1.00 28.36      GAP  O
+ATOM   2226  CB  LEU G 855     -21.675   8.147  -1.873  1.00 33.66      GAP  C
+ATOM   2227  CG  LEU G 855     -22.112   8.322  -0.418  1.00 34.79      GAP  C
+ATOM   2228  CD1 LEU G 855     -22.550   6.986   0.178  1.00 34.76      GAP  C
+ATOM   2229  CD2 LEU G 855     -20.955   8.916   0.359  1.00 31.41      GAP  C
+ATOM   2230  H   LEU G 855     -21.413   8.746  -4.234  1.00 28.62      GAP  H   new
+ATOM   2231  HA  LEU G 855     -23.024   6.811  -2.931  1.00 28.30      GAP  H   new
+ATOM   2232 1HB  LEU G 855     -20.956   7.316  -1.913  1.00 33.66      GAP  H   new
+ATOM   2233 2HB  LEU G 855     -21.134   9.056  -2.176  1.00 33.66      GAP  H   new
+ATOM   2234  HG  LEU G 855     -22.977   8.999  -0.363  1.00 34.79      GAP  H   new
+ATOM   2235 1HD1 LEU G 855     -22.860   7.134   1.223  1.00 34.76      GAP  H   new
+ATOM   2236 2HD1 LEU G 855     -23.395   6.585  -0.401  1.00 34.76      GAP  H   new
+ATOM   2237 3HD1 LEU G 855     -21.711   6.275   0.142  1.00 34.76      GAP  H   new
+ATOM   2238 1HD2 LEU G 855     -21.249   9.050   1.410  1.00 31.41      GAP  H   new
+ATOM   2239 2HD2 LEU G 855     -20.090   8.239   0.304  1.00 31.41      GAP  H   new
+ATOM   2240 3HD2 LEU G 855     -20.685   9.891  -0.073  1.00 31.41      GAP  H   new
+ATOM   2241  N   VAL G 856     -23.942   9.966  -2.689  1.00 29.21      GAP  N
+ATOM   2242  CA  VAL G 856     -24.983  10.863  -2.215  1.00 32.24      GAP  C
+ATOM   2243  C   VAL G 856     -26.251  10.748  -3.066  1.00 34.35      GAP  C
+ATOM   2244  O   VAL G 856     -27.382  10.798  -2.538  1.00 31.61      GAP  O
+ATOM   2245  CB  VAL G 856     -24.464  12.316  -2.197  1.00 33.47      GAP  C
+ATOM   2246  CG1 VAL G 856     -25.497  13.239  -1.609  1.00 34.88      GAP  C
+ATOM   2247  CG2 VAL G 856     -23.207  12.395  -1.359  1.00 36.15      GAP  C
+ATOM   2248  H   VAL G 856     -23.178  10.430  -3.138  1.00 29.21      GAP  H   new
+ATOM   2249  HA  VAL G 856     -25.248  10.569  -1.189  1.00 32.24      GAP  H   new
+ATOM   2250  HB  VAL G 856     -24.251  12.622  -3.232  1.00 33.47      GAP  H   new
+ATOM   2251 1HG1 VAL G 856     -25.110  14.268  -1.605  1.00 34.88      GAP  H   new
+ATOM   2252 2HG1 VAL G 856     -26.415  13.196  -2.214  1.00 34.88      GAP  H   new
+ATOM   2253 3HG1 VAL G 856     -25.723  12.928  -0.578  1.00 34.88      GAP  H   new
+ATOM   2254 1HG2 VAL G 856     -22.838  13.431  -1.347  1.00 36.15      GAP  H   new
+ATOM   2255 2HG2 VAL G 856     -23.430  12.074  -0.331  1.00 36.15      GAP  H   new
+ATOM   2256 3HG2 VAL G 856     -22.437  11.737  -1.789  1.00 36.15      GAP  H   new
+ATOM   2257  N   GLU G 857     -26.074  10.450  -4.349  1.00 35.47      GAP  N
+ATOM   2258  CA  GLU G 857     -27.197  10.034  -5.183  1.00 37.66      GAP  C
+ATOM   2259  C   GLU G 857     -27.882   8.815  -4.565  1.00 34.28      GAP  C
+ATOM   2260  O   GLU G 857     -29.114   8.778  -4.449  1.00 32.69      GAP  O
+ATOM   2261  CB  GLU G 857     -26.723   9.715  -6.606  1.00 42.27      GAP  C
+ATOM   2262  CG  GLU G 857     -26.723  10.922  -7.547  1.00 49.93      GAP  C
+ATOM   2263  CD  GLU G 857     -25.935  10.678  -8.826  1.00 56.14      GAP  C
+ATOM   2264  OE1 GLU G 857     -26.154   9.630  -9.470  1.00 64.69      GAP  O
+ATOM   2265  OE2 GLU G 857     -25.089  11.530  -9.190  1.00 55.61      GAP  O
+ATOM   2266  H   GLU G 857     -25.193  10.487  -4.820  1.00 35.47      GAP  H   new
+ATOM   2267  HA  GLU G 857     -27.921  10.861  -5.238  1.00 37.66      GAP  H   new
+ATOM   2268 1HB  GLU G 857     -25.705   9.300  -6.558  1.00 42.27      GAP  H   new
+ATOM   2269 2HB  GLU G 857     -27.369   8.932  -7.030  1.00 42.27      GAP  H   new
+ATOM   2270 1HG  GLU G 857     -27.761  11.178  -7.806  1.00 49.93      GAP  H   new
+ATOM   2271 2HG  GLU G 857     -26.299  11.790  -7.021  1.00 49.93      GAP  H   new
+ATOM   2272  N   LYS G 858     -27.085   7.873  -4.067  1.00 33.74      GAP  N
+ATOM   2273  CA  LYS G 858     -27.630   6.699  -3.392  1.00 33.03      GAP  C
+ATOM   2274  C   LYS G 858     -28.246   7.048  -2.046  1.00 29.36      GAP  C
+ATOM   2275  O   LYS G 858     -29.270   6.480  -1.670  1.00 28.88      GAP  O
+ATOM   2276  CB  LYS G 858     -26.554   5.633  -3.209  1.00 36.69      GAP  C
+ATOM   2277  CG  LYS G 858     -26.710   4.434  -4.133  1.00 41.95      GAP  C
+ATOM   2278  CD  LYS G 858     -25.388   4.108  -4.816  1.00 53.38      GAP  C
+ATOM   2279  CE  LYS G 858     -25.446   2.793  -5.588  1.00 56.61      GAP  C
+ATOM   2280  NZ  LYS G 858     -24.098   2.367  -6.093  1.00 60.34      GAP  N
+ATOM   2281  H   LYS G 858     -26.087   7.899  -4.117  1.00 33.74      GAP  H   new
+ATOM   2282  HA  LYS G 858     -28.429   6.302  -4.035  1.00 33.03      GAP  H   new
+ATOM   2283 1HB  LYS G 858     -25.568   6.089  -3.380  1.00 36.69      GAP  H   new
+ATOM   2284 2HB  LYS G 858     -26.571   5.284  -2.166  1.00 36.69      GAP  H   new
+ATOM   2285 1HG  LYS G 858     -27.057   3.563  -3.558  1.00 41.95      GAP  H   new
+ATOM   2286 2HG  LYS G 858     -27.479   4.645  -4.891  1.00 41.95      GAP  H   new
+ATOM   2287 1HD  LYS G 858     -25.122   4.924  -5.504  1.00 53.38      GAP  H   new
+ATOM   2288 2HD  LYS G 858     -24.591   4.052  -4.060  1.00 53.38      GAP  H   new
+ATOM   2289 1HE  LYS G 858     -25.856   2.007  -4.937  1.00 56.61      GAP  H   new
+ATOM   2290 2HE  LYS G 858     -26.136   2.900  -6.438  1.00 56.61      GAP  H   new
+ATOM   2291 1HZ  LYS G 858     -24.185   1.504  -6.590  1.00 60.34      GAP  H + new
+ATOM   2292 2HZ  LYS G 858     -23.734   3.069  -6.705  1.00 60.34      GAP  H + new
+ATOM   2293 3HZ  LYS G 858     -23.476   2.244  -5.320  1.00 60.34      GAP  H + new
+ATOM   2294  N   ILE G 859     -27.659   8.022  -1.355  1.00 28.19      GAP  N
+ATOM   2295  CA  ILE G 859     -28.197   8.470  -0.074  1.00 28.55      GAP  C
+ATOM   2296  C   ILE G 859     -29.506   9.197  -0.305  1.00 26.70      GAP  C
+ATOM   2297  O   ILE G 859     -30.455   9.007   0.441  1.00 30.31      GAP  O
+ATOM   2298  CB  ILE G 859     -27.240   9.444   0.680  1.00 30.21      GAP  C
+ATOM   2299  CG1 ILE G 859     -25.955   8.731   1.113  1.00 33.80      GAP  C
+ATOM   2300  CG2 ILE G 859     -27.928   9.982   1.930  1.00 30.78      GAP  C
+ATOM   2301  CD1 ILE G 859     -25.052   9.583   2.005  1.00 31.58      GAP  C
+ATOM   2302  H   ILE G 859     -26.834   8.503  -1.652  1.00 28.19      GAP  H   new
+ATOM   2303  HA  ILE G 859     -28.330   7.569   0.543  1.00 28.55      GAP  H   new
+ATOM   2304  HB  ILE G 859     -26.989  10.264  -0.009  1.00 30.21      GAP  H   new
+ATOM   2305 1HG1 ILE G 859     -26.221   7.808   1.650  1.00 33.80      GAP  H   new
+ATOM   2306 2HG1 ILE G 859     -25.393   8.431   0.217  1.00 33.80      GAP  H   new
+ATOM   2307 1HG2 ILE G 859     -27.248  10.668   2.457  1.00 30.78      GAP  H   new
+ATOM   2308 2HG2 ILE G 859     -28.842  10.522   1.642  1.00 30.78      GAP  H   new
+ATOM   2309 3HG2 ILE G 859     -28.190   9.145   2.594  1.00 30.78      GAP  H   new
+ATOM   2310 1HD1 ILE G 859     -24.154   9.008   2.274  1.00 31.58      GAP  H   new
+ATOM   2311 2HD1 ILE G 859     -24.755  10.494   1.464  1.00 31.58      GAP  H   new
+ATOM   2312 3HD1 ILE G 859     -25.596   9.861   2.919  1.00 31.58      GAP  H   new
+ATOM   2313  N   PHE G 860     -29.537  10.064  -1.312  1.00 26.02      GAP  N
+ATOM   2314  CA  PHE G 860     -30.698  10.928  -1.529  1.00 29.56      GAP  C
+ATOM   2315  C   PHE G 860     -31.915  10.131  -1.945  1.00 30.56      GAP  C
+ATOM   2316  O   PHE G 860     -33.033  10.362  -1.456  1.00 31.29      GAP  O
+ATOM   2317  CB  PHE G 860     -30.395  11.982  -2.592  1.00 26.21      GAP  C
+ATOM   2318  CG  PHE G 860     -29.597  13.142  -2.084  1.00 27.67      GAP  C
+ATOM   2319  CD1 PHE G 860     -29.630  13.488  -0.735  1.00 32.80      GAP  C
+ATOM   2320  CD2 PHE G 860     -28.801  13.878  -2.946  1.00 24.76      GAP  C
+ATOM   2321  CE1 PHE G 860     -28.876  14.554  -0.254  1.00 34.70      GAP  C
+ATOM   2322  CE2 PHE G 860     -28.046  14.947  -2.476  1.00 32.12      GAP  C
+ATOM   2323  CZ  PHE G 860     -28.083  15.285  -1.126  1.00 33.03      GAP  C
+ATOM   2324  H   PHE G 860     -28.796  10.186  -1.972  1.00 26.02      GAP  H   new
+ATOM   2325  HA  PHE G 860     -30.916  11.425  -0.572  1.00 29.56      GAP  H   new
+ATOM   2326 1HB  PHE G 860     -29.848  11.507  -3.420  1.00 26.21      GAP  H   new
+ATOM   2327 2HB  PHE G 860     -31.344  12.355  -3.006  1.00 26.21      GAP  H   new
+ATOM   2328  HD1 PHE G 860     -30.260  12.911  -0.042  1.00 32.80      GAP  H   new
+ATOM   2329  HD2 PHE G 860     -28.766  13.614  -4.013  1.00 24.76      GAP  H   new
+ATOM   2330  HE1 PHE G 860     -28.909  14.816   0.814  1.00 34.70      GAP  H   new
+ATOM   2331  HE2 PHE G 860     -27.420  15.526  -3.171  1.00 32.12      GAP  H   new
+ATOM   2332  HZ  PHE G 860     -27.485  16.129  -0.752  1.00 33.03      GAP  H   new
+ATOM   2333  N   MET G 861     -31.680   9.124  -2.774  1.00 32.54      GAP  N
+ATOM   2334  CA  MET G 861     -32.768   8.341  -3.323  1.00 35.76      GAP  C
+ATOM   2335  C   MET G 861     -33.103   7.171  -2.425  1.00 33.14      GAP  C
+ATOM   2336  O   MET G 861     -33.645   6.145  -2.882  1.00 32.85      GAP  O
+ATOM   2337  CB  MET G 861     -32.409   7.871  -4.731  1.00 49.55      GAP  C
+ATOM   2338  CG  MET G 861     -32.171   9.034  -5.714  1.00 61.85      GAP  C
+ATOM   2339  SD  MET G 861     -33.465  10.360  -5.608  1.00 72.88      GAP  S
+ATOM   2340  CE  MET G 861     -32.682  11.681  -6.581  1.00 61.63      GAP  C
+ATOM   2341  H   MET G 861     -30.768   8.840  -3.071  1.00 32.54      GAP  H   new
+ATOM   2342  HA  MET G 861     -33.665   8.975  -3.383  1.00 35.76      GAP  H   new
+ATOM   2343 1HB  MET G 861     -31.504   7.248  -4.683  1.00 49.55      GAP  H   new
+ATOM   2344 2HB  MET G 861     -33.219   7.233  -5.116  1.00 49.55      GAP  H   new
+ATOM   2345 1HG  MET G 861     -31.184   9.477  -5.515  1.00 61.85      GAP  H   new
+ATOM   2346 2HG  MET G 861     -32.145   8.638  -6.740  1.00 61.85      GAP  H   new
+ATOM   2347 1HE  MET G 861     -33.346  12.558  -6.611  1.00 61.63      GAP  H   new
+ATOM   2348 2HE  MET G 861     -31.725  11.962  -6.116  1.00 61.63      GAP  H   new
+ATOM   2349 3HE  MET G 861     -32.501  11.324  -7.606  1.00 61.63      GAP  H   new
+ATOM   2350  N   ALA G 862     -32.831   7.352  -1.136  1.00 28.92      GAP  N
+ATOM   2351  CA  ALA G 862     -33.269   6.419  -0.112  1.00 24.41      GAP  C
+ATOM   2352  C   ALA G 862     -34.102   7.130   0.950  1.00 23.92      GAP  C
+ATOM   2353  O   ALA G 862     -34.389   6.558   1.996  1.00 24.31      GAP  O
+ATOM   2354  CB  ALA G 862     -32.067   5.740   0.532  1.00 19.97      GAP  C
+ATOM   2355  H   ALA G 862     -32.313   8.132  -0.784  1.00 28.92      GAP  H   new
+ATOM   2356  HA  ALA G 862     -33.898   5.654  -0.590  1.00 24.41      GAP  H   new
+ATOM   2357 1HB  ALA G 862     -32.413   5.037   1.304  1.00 19.97      GAP  H   new
+ATOM   2358 2HB  ALA G 862     -31.500   5.192  -0.235  1.00 19.97      GAP  H   new
+ATOM   2359 3HB  ALA G 862     -31.419   6.500   0.992  1.00 19.97      GAP  H   new
+ATOM   2360  N   SER G 863     -34.517   8.363   0.670  1.00 24.00      GAP  N
+ATOM   2361  CA  SER G 863     -35.333   9.118   1.616  1.00 25.55      GAP  C
+ATOM   2362  C   SER G 863     -36.539   8.306   2.056  1.00 26.79      GAP  C
+ATOM   2363  O   SER G 863     -36.865   8.235   3.246  1.00 26.31      GAP  O
+ATOM   2364  CB  SER G 863     -35.809  10.429   0.987  1.00 28.49      GAP  C
+ATOM   2365  OG  SER G 863     -36.714  11.111   1.845  1.00 31.84      GAP  O
+ATOM   2366  H   SER G 863     -34.308   8.847  -0.180  1.00 24.00      GAP  H   new
+ATOM   2367  HA  SER G 863     -34.710   9.341   2.495  1.00 25.55      GAP  H   new
+ATOM   2368 1HB  SER G 863     -36.298  10.221   0.024  1.00 28.49      GAP  H   new
+ATOM   2369 2HB  SER G 863     -34.943  11.074   0.775  1.00 28.49      GAP  H   new
+ATOM   2370  HG  SER G 863     -37.009  11.962   1.411  1.00 31.84      GAP  H   new
+ATOM   2371  N   GLU G 864     -37.105   7.579   1.101  1.00 32.25      GAP  N
+ATOM   2372  CA  GLU G 864     -38.312   6.787   1.318  1.00 35.73      GAP  C
+ATOM   2373  C   GLU G 864     -38.040   5.485   2.052  1.00 33.47      GAP  C
+ATOM   2374  O   GLU G 864     -38.944   4.708   2.306  1.00 33.61      GAP  O
+ATOM   2375  CB  GLU G 864     -38.965   6.472  -0.026  1.00 40.41      GAP  C
+ATOM   2376  CG  GLU G 864     -39.507   7.684  -0.764  1.00 49.43      GAP  C
+ATOM   2377  CD  GLU G 864     -40.727   8.295  -0.088  1.00 56.64      GAP  C
+ATOM   2378  OE1 GLU G 864     -41.853   7.777  -0.305  1.00 62.35      GAP  O
+ATOM   2379  OE2 GLU G 864     -40.555   9.297   0.651  1.00 57.87      GAP  O
+ATOM   2380  H   GLU G 864     -36.747   7.522   0.169  1.00 32.25      GAP  H   new
+ATOM   2381  HA  GLU G 864     -38.981   7.390   1.949  1.00 35.73      GAP  H   new
+ATOM   2382 1HB  GLU G 864     -38.228   5.968  -0.668  1.00 40.41      GAP  H   new
+ATOM   2383 2HB  GLU G 864     -39.788   5.761   0.139  1.00 40.41      GAP  H   new
+ATOM   2384 1HG  GLU G 864     -38.716   8.445  -0.838  1.00 49.43      GAP  H   new
+ATOM   2385 2HG  GLU G 864     -39.771   7.393  -1.791  1.00 49.43      GAP  H   new
+ATOM   2386  N   ILE G 865     -36.784   5.241   2.384  1.00 34.24      GAP  N
+ATOM   2387  CA  ILE G 865     -36.396   3.937   2.900  1.00 38.23      GAP  C
+ATOM   2388  C   ILE G 865     -36.331   3.955   4.425  1.00 37.14      GAP  C
+ATOM   2389  O   ILE G 865     -36.347   2.886   5.080  1.00 36.62      GAP  O
+ATOM   2390  CB  ILE G 865     -35.031   3.511   2.316  1.00 42.33      GAP  C
+ATOM   2391  CG1 ILE G 865     -35.116   3.444   0.784  1.00 48.29      GAP  C
+ATOM   2392  CG2 ILE G 865     -34.597   2.173   2.872  1.00 42.49      GAP  C
+ATOM   2393  CD1 ILE G 865     -35.732   2.175   0.234  1.00 41.92      GAP  C
+ATOM   2394  H   ILE G 865     -36.039   5.904   2.309  1.00 34.24      GAP  H   new
+ATOM   2395  HA  ILE G 865     -37.158   3.206   2.592  1.00 38.23      GAP  H   new
+ATOM   2396  HB  ILE G 865     -34.281   4.262   2.606  1.00 42.33      GAP  H   new
+ATOM   2397 1HG1 ILE G 865     -35.702   4.303   0.426  1.00 48.29      GAP  H   new
+ATOM   2398 2HG1 ILE G 865     -34.102   3.551   0.370  1.00 48.29      GAP  H   new
+ATOM   2399 1HG2 ILE G 865     -33.624   1.894   2.441  1.00 42.49      GAP  H   new
+ATOM   2400 2HG2 ILE G 865     -34.506   2.242   3.966  1.00 42.49      GAP  H   new
+ATOM   2401 3HG2 ILE G 865     -35.345   1.408   2.614  1.00 42.49      GAP  H   new
+ATOM   2402 1HD1 ILE G 865     -35.749   2.221  -0.865  1.00 41.92      GAP  H   new
+ATOM   2403 2HD1 ILE G 865     -35.136   1.308   0.555  1.00 41.92      GAP  H   new
+ATOM   2404 3HD1 ILE G 865     -36.760   2.072   0.612  1.00 41.92      GAP  H   new
+ATOM   2405  N   LEU G 866     -36.338   5.156   4.996  1.00 34.74      GAP  N
+ATOM   2406  CA  LEU G 866     -36.429   5.309   6.436  1.00 27.88      GAP  C
+ATOM   2407  C   LEU G 866     -37.805   4.834   6.886  1.00 24.83      GAP  C
+ATOM   2408  O   LEU G 866     -38.829   5.258   6.341  1.00 24.29      GAP  O
+ATOM   2409  CB  LEU G 866     -36.225   6.775   6.807  1.00 28.17      GAP  C
+ATOM   2410  CG  LEU G 866     -35.378   6.998   8.052  1.00 28.31      GAP  C
+ATOM   2411  CD1 LEU G 866     -33.993   6.435   7.825  1.00 34.03      GAP  C
+ATOM   2412  CD2 LEU G 866     -35.310   8.476   8.358  1.00 32.91      GAP  C
+ATOM   2413  H   LEU G 866     -36.283   6.017   4.490  1.00 34.74      GAP  H   new
+ATOM   2414  HA  LEU G 866     -35.652   4.711   6.935  1.00 27.88      GAP  H   new
+ATOM   2415 1HB  LEU G 866     -35.752   7.292   5.959  1.00 28.17      GAP  H   new
+ATOM   2416 2HB  LEU G 866     -37.209   7.242   6.960  1.00 28.17      GAP  H   new
+ATOM   2417  HG  LEU G 866     -35.832   6.482   8.911  1.00 28.31      GAP  H   new
+ATOM   2418 1HD1 LEU G 866     -33.380   6.595   8.724  1.00 34.03      GAP  H   new
+ATOM   2419 2HD1 LEU G 866     -34.064   5.357   7.618  1.00 34.03      GAP  H   new
+ATOM   2420 3HD1 LEU G 866     -33.526   6.942   6.968  1.00 34.03      GAP  H   new
+ATOM   2421 1HD2 LEU G 866     -34.698   8.637   9.258  1.00 32.91      GAP  H   new
+ATOM   2422 2HD2 LEU G 866     -34.857   9.007   7.507  1.00 32.91      GAP  H   new
+ATOM   2423 3HD2 LEU G 866     -36.325   8.862   8.532  1.00 32.91      GAP  H   new
+ATOM   2424  N   PRO G 867     -37.849   3.899   7.849  1.00 22.82      GAP  N
+ATOM   2425  CA  PRO G 867     -39.125   3.457   8.428  1.00 19.29      GAP  C
+ATOM   2426  C   PRO G 867     -40.027   4.628   8.840  1.00 20.87      GAP  C
+ATOM   2427  O   PRO G 867     -39.546   5.707   9.202  1.00 23.22      GAP  O
+ATOM   2428  CB  PRO G 867     -38.693   2.614   9.632  1.00 19.12      GAP  C
+ATOM   2429  CG  PRO G 867     -37.341   2.085   9.244  1.00 22.51      GAP  C
+ATOM   2430  CD  PRO G 867     -36.697   3.202   8.450  1.00 21.60      GAP  C
+ATOM   2431  HA  PRO G 867     -39.739   2.897   7.708  1.00 19.29      GAP  H   new
+ATOM   2432 1HB  PRO G 867     -38.640   3.220  10.549  1.00 19.12      GAP  H   new
+ATOM   2433 2HB  PRO G 867     -39.404   1.797   9.827  1.00 19.12      GAP  H   new
+ATOM   2434 1HG  PRO G 867     -36.743   1.831  10.132  1.00 22.51      GAP  H   new
+ATOM   2435 2HG  PRO G 867     -37.429   1.168   8.642  1.00 22.51      GAP  H   new
+ATOM   2436 1HD  PRO G 867     -36.109   3.871   9.095  1.00 21.60      GAP  H   new
+ATOM   2437 2HD  PRO G 867     -36.013   2.812   7.682  1.00 21.60      GAP  H   new
+ATOM   2438  N   PRO G 868     -41.354   4.438   8.762  1.00 22.41      GAP  N
+ATOM   2439  CA  PRO G 868     -42.303   5.527   9.022  1.00 21.30      GAP  C
+ATOM   2440  C   PRO G 868     -42.201   6.083  10.443  1.00 18.29      GAP  C
+ATOM   2441  O   PRO G 868     -42.195   7.301  10.639  1.00 15.45      GAP  O
+ATOM   2442  CB  PRO G 868     -43.676   4.888   8.754  1.00 18.41      GAP  C
+ATOM   2443  CG  PRO G 868     -43.386   3.647   7.964  1.00 19.86      GAP  C
+ATOM   2444  CD  PRO G 868     -42.053   3.178   8.467  1.00 23.86      GAP  C
+ATOM   2445  HA  PRO G 868     -42.105   6.402   8.385  1.00 21.30      GAP  H   new
+ATOM   2446 1HB  PRO G 868     -44.193   4.648   9.695  1.00 18.41      GAP  H   new
+ATOM   2447 2HB  PRO G 868     -44.330   5.572   8.193  1.00 18.41      GAP  H   new
+ATOM   2448 1HG  PRO G 868     -44.163   2.884   8.119  1.00 19.86      GAP  H   new
+ATOM   2449 2HG  PRO G 868     -43.354   3.859   6.885  1.00 19.86      GAP  H   new
+ATOM   2450 1HD  PRO G 868     -42.154   2.548   9.363  1.00 23.86      GAP  H   new
+ATOM   2451 2HD  PRO G 868     -41.519   2.582   7.713  1.00 23.86      GAP  H   new
+ATOM   2452  N   THR G 869     -42.085   5.196  11.426  1.00 19.26      GAP  N
+ATOM   2453  CA  THR G 869     -42.076   5.624  12.822  1.00 20.16      GAP  C
+ATOM   2454  C   THR G 869     -40.857   6.467  13.191  1.00 19.65      GAP  C
+ATOM   2455  O   THR G 869     -40.979   7.427  13.942  1.00 20.92      GAP  O
+ATOM   2456  CB  THR G 869     -42.152   4.436  13.780  1.00 21.16      GAP  C
+ATOM   2457  OG1 THR G 869     -42.930   3.388  13.186  1.00 24.59      GAP  O
+ATOM   2458  CG2 THR G 869     -42.793   4.873  15.090  1.00 19.63      GAP  C
+ATOM   2459  H   THR G 869     -41.999   4.209  11.289  1.00 19.26      GAP  H   new
+ATOM   2460  HA  THR G 869     -42.973   6.251  12.928  1.00 20.16      GAP  H   new
+ATOM   2461  HB  THR G 869     -41.136   4.065  13.981  1.00 21.16      GAP  H   new
+ATOM   2462  HG1 THR G 869     -42.979   2.611  13.814  1.00 24.59      GAP  H   new
+ATOM   2463 1HG2 THR G 869     -42.846   4.015  15.777  1.00 19.63      GAP  H   new
+ATOM   2464 2HG2 THR G 869     -42.189   5.671  15.546  1.00 19.63      GAP  H   new
+ATOM   2465 3HG2 THR G 869     -43.808   5.249  14.895  1.00 19.63      GAP  H   new
+ATOM   2466  N   LEU G 870     -39.696   6.147  12.626  1.00 19.67      GAP  N
+ATOM   2467  CA  LEU G 870     -38.513   6.977  12.836  1.00 22.58      GAP  C
+ATOM   2468  C   LEU G 870     -38.683   8.363  12.206  1.00 25.07      GAP  C
+ATOM   2469  O   LEU G 870     -38.281   9.386  12.795  1.00 27.83      GAP  O
+ATOM   2470  CB  LEU G 870     -37.272   6.297  12.262  1.00 20.99      GAP  C
+ATOM   2471  CG  LEU G 870     -35.997   7.145  12.269  1.00 23.36      GAP  C
+ATOM   2472  CD1 LEU G 870     -35.691   7.618  13.684  1.00 24.66      GAP  C
+ATOM   2473  CD2 LEU G 870     -34.844   6.342  11.708  1.00 17.87      GAP  C
+ATOM   2474  H   LEU G 870     -39.552   5.349  12.041  1.00 19.67      GAP  H   new
+ATOM   2475  HA  LEU G 870     -38.387   7.104  13.921  1.00 22.58      GAP  H   new
+ATOM   2476 1HB  LEU G 870     -37.083   5.376  12.832  1.00 20.99      GAP  H   new
+ATOM   2477 2HB  LEU G 870     -37.486   5.996  11.226  1.00 20.99      GAP  H   new
+ATOM   2478  HG  LEU G 870     -36.146   8.031  11.635  1.00 23.36      GAP  H   new
+ATOM   2479 1HD1 LEU G 870     -34.774   8.226  13.678  1.00 24.66      GAP  H   new
+ATOM   2480 2HD1 LEU G 870     -36.529   8.224  14.058  1.00 24.66      GAP  H   new
+ATOM   2481 3HD1 LEU G 870     -35.548   6.746  14.340  1.00 24.66      GAP  H   new
+ATOM   2482 1HD2 LEU G 870     -33.931   6.956  11.715  1.00 17.87      GAP  H   new
+ATOM   2483 2HD2 LEU G 870     -34.687   5.445  12.325  1.00 17.87      GAP  H   new
+ATOM   2484 3HD2 LEU G 870     -35.074   6.041  10.675  1.00 17.87      GAP  H   new
+ATOM   2485  N   ARG G 871     -39.283   8.393  11.019  1.00 25.32      GAP  N
+ATOM   2486  CA  ARG G 871     -39.596   9.642  10.330  1.00 25.73      GAP  C
+ATOM   2487  C   ARG G 871     -40.514  10.545  11.163  1.00 24.40      GAP  C
+ATOM   2488  O   ARG G 871     -40.365  11.773  11.165  1.00 23.13      GAP  O
+ATOM   2489  CB  ARG G 871     -40.257   9.333   8.983  1.00 28.36      GAP  C
+ATOM   2490  CG  ARG G 871     -39.362   8.585   8.001  1.00 30.98      GAP  C
+ATOM   2491  CD  ARG G 871     -40.036   8.420   6.650  1.00 38.00      GAP  C
+ATOM   2492  NE  ARG G 871     -40.374   9.710   6.044  1.00 38.51      GAP  N
+ATOM   2493  CZ  ARG G 871     -40.619   9.892   4.749  1.00 35.07      GAP  C
+ATOM   2494  NH1 ARG G 871     -40.631   8.857   3.919  1.00 37.94      GAP  N
+ATOM   2495  NH2 ARG G 871     -40.883  11.104   4.290  1.00 35.72      GAP  N
+ATOM   2496  H   ARG G 871     -39.560   7.572  10.519  1.00 25.32      GAP  H   new
+ATOM   2497  HA  ARG G 871     -38.652  10.184  10.173  1.00 25.73      GAP  H   new
+ATOM   2498 1HB  ARG G 871     -41.164   8.737   9.161  1.00 28.36      GAP  H   new
+ATOM   2499 2HB  ARG G 871     -40.579  10.278   8.521  1.00 28.36      GAP  H   new
+ATOM   2500 1HG  ARG G 871     -38.415   9.131   7.876  1.00 30.98      GAP  H   new
+ATOM   2501 2HG  ARG G 871     -39.111   7.596   8.411  1.00 30.98      GAP  H   new
+ATOM   2502 1HD  ARG G 871     -39.371   7.862   5.975  1.00 38.00      GAP  H   new
+ATOM   2503 2HD  ARG G 871     -40.951   7.820   6.768  1.00 38.00      GAP  H   new
+ATOM   2504  HE  ARG G 871     -40.424  10.508   6.644  1.00 38.51      GAP  H + new
+ATOM   2505 1HH1 ARG G 871     -40.455   7.936   4.266  1.00 37.94      GAP  H + new
+ATOM   2506 2HH1 ARG G 871     -40.816   8.998   2.946  1.00 37.94      GAP  H + new
+ATOM   2507 1HH2 ARG G 871     -40.898  11.883   4.916  1.00 35.72      GAP  H + new
+ATOM   2508 2HH2 ARG G 871     -41.067  11.241   3.317  1.00 35.72      GAP  H + new
+ATOM   2509  N   TYR G 872     -41.472   9.938  11.853  1.00 22.39      GAP  N
+ATOM   2510  CA  TYR G 872     -42.394  10.675  12.711  1.00 25.39      GAP  C
+ATOM   2511  C   TYR G 872     -41.638  11.434  13.802  1.00 26.29      GAP  C
+ATOM   2512  O   TYR G 872     -41.893  12.634  14.036  1.00 27.64      GAP  O
+ATOM   2513  CB  TYR G 872     -43.399   9.706  13.348  1.00 28.28      GAP  C
+ATOM   2514  CG  TYR G 872     -44.452  10.353  14.233  1.00 32.31      GAP  C
+ATOM   2515  CD1 TYR G 872     -45.554  11.018  13.685  1.00 34.80      GAP  C
+ATOM   2516  CD2 TYR G 872     -44.367  10.271  15.619  1.00 29.52      GAP  C
+ATOM   2517  CE1 TYR G 872     -46.537  11.591  14.501  1.00 29.64      GAP  C
+ATOM   2518  CE2 TYR G 872     -45.348  10.832  16.436  1.00 25.29      GAP  C
+ATOM   2519  CZ  TYR G 872     -46.422  11.493  15.872  1.00 27.01      GAP  C
+ATOM   2520  OH  TYR G 872     -47.362  12.078  16.687  1.00 28.44      GAP  O
+ATOM   2521  H   TYR G 872     -41.629   8.950  11.835  1.00 22.39      GAP  H   new
+ATOM   2522  HA  TYR G 872     -42.933  11.407  12.092  1.00 25.39      GAP  H   new
+ATOM   2523 1HB  TYR G 872     -43.908   9.152  12.546  1.00 28.28      GAP  H   new
+ATOM   2524 2HB  TYR G 872     -42.844   8.968  13.946  1.00 28.28      GAP  H   new
+ATOM   2525  HD1 TYR G 872     -45.650  11.092  12.592  1.00 34.80      GAP  H   new
+ATOM   2526  HD2 TYR G 872     -43.511   9.755  16.078  1.00 29.52      GAP  H   new
+ATOM   2527  HE1 TYR G 872     -47.394  12.115  14.052  1.00 29.64      GAP  H   new
+ATOM   2528  HE2 TYR G 872     -45.267  10.748  17.530  1.00 25.29      GAP  H   new
+ATOM   2529  HH  TYR G 872     -47.125  11.910  17.644  1.00 28.44      GAP  H   new
+ATOM   2530  N   ILE G 873     -40.675  10.755  14.424  1.00 24.14      GAP  N
+ATOM   2531  CA  ILE G 873     -39.898  11.328  15.522  1.00 21.09      GAP  C
+ATOM   2532  C   ILE G 873     -39.018  12.497  15.081  1.00 21.46      GAP  C
+ATOM   2533  O   ILE G 873     -38.885  13.496  15.795  1.00 21.28      GAP  O
+ATOM   2534  CB  ILE G 873     -39.027  10.258  16.183  1.00 18.37      GAP  C
+ATOM   2535  CG1 ILE G 873     -39.918   9.172  16.782  1.00 15.82      GAP  C
+ATOM   2536  CG2 ILE G 873     -38.164  10.884  17.266  1.00 20.81      GAP  C
+ATOM   2537  CD1 ILE G 873     -39.161   7.933  17.162  1.00 17.04      GAP  C
+ATOM   2538  H   ILE G 873     -40.418   9.818  14.188  1.00 24.14      GAP  H   new
+ATOM   2539  HA  ILE G 873     -40.629  11.717  16.246  1.00 21.09      GAP  H   new
+ATOM   2540  HB  ILE G 873     -38.369   9.808  15.426  1.00 18.37      GAP  H   new
+ATOM   2541 1HG1 ILE G 873     -40.425   9.572  17.672  1.00 15.82      GAP  H   new
+ATOM   2542 2HG1 ILE G 873     -40.702   8.908  16.057  1.00 15.82      GAP  H   new
+ATOM   2543 1HG2 ILE G 873     -37.542  10.107  17.735  1.00 20.81      GAP  H   new
+ATOM   2544 2HG2 ILE G 873     -37.516  11.653  16.820  1.00 20.81      GAP  H   new
+ATOM   2545 3HG2 ILE G 873     -38.809  11.346  18.028  1.00 20.81      GAP  H   new
+ATOM   2546 1HD1 ILE G 873     -39.856   7.193  17.585  1.00 17.04      GAP  H   new
+ATOM   2547 2HD1 ILE G 873     -38.676   7.511  16.270  1.00 17.04      GAP  H   new
+ATOM   2548 3HD1 ILE G 873     -38.395   8.186  17.910  1.00 17.04      GAP  H   new
+ATOM   2549  N   TYR G 874     -38.432  12.387  13.897  1.00 22.07      GAP  N
+ATOM   2550  CA  TYR G 874     -37.804  13.535  13.258  1.00 23.56      GAP  C
+ATOM   2551  C   TYR G 874     -38.825  14.660  13.037  1.00 23.92      GAP  C
+ATOM   2552  O   TYR G 874     -38.488  15.847  13.111  1.00 26.80      GAP  O
+ATOM   2553  CB  TYR G 874     -37.212  13.115  11.917  1.00 26.52      GAP  C
+ATOM   2554  CG  TYR G 874     -36.123  12.064  12.003  1.00 29.10      GAP  C
+ATOM   2555  CD1 TYR G 874     -35.317  11.944  13.138  1.00 31.69      GAP  C
+ATOM   2556  CD2 TYR G 874     -35.804  11.289  10.890  1.00 31.90      GAP  C
+ATOM   2557  CE1 TYR G 874     -34.205  11.090  13.147  1.00 29.33      GAP  C
+ATOM   2558  CE2 TYR G 874     -34.703  10.439  10.893  1.00 31.72      GAP  C
+ATOM   2559  CZ  TYR G 874     -33.905  10.349  12.013  1.00 29.66      GAP  C
+ATOM   2560  OH  TYR G 874     -32.782   9.560  11.956  1.00 31.47      GAP  O
+ATOM   2561  H   TYR G 874     -38.379  11.537  13.373  1.00 22.07      GAP  H   new
+ATOM   2562  HA  TYR G 874     -37.006  13.908  13.917  1.00 23.56      GAP  H   new
+ATOM   2563 1HB  TYR G 874     -38.022  12.732  11.279  1.00 26.52      GAP  H   new
+ATOM   2564 2HB  TYR G 874     -36.803  14.006  11.418  1.00 26.52      GAP  H   new
+ATOM   2565  HD1 TYR G 874     -35.559  12.528  14.038  1.00 31.69      GAP  H   new
+ATOM   2566  HD2 TYR G 874     -36.435  11.351   9.991  1.00 31.90      GAP  H   new
+ATOM   2567  HE1 TYR G 874     -33.576  11.008  14.046  1.00 29.33      GAP  H   new
+ATOM   2568  HE2 TYR G 874     -34.469   9.839  10.001  1.00 31.72      GAP  H   new
+ATOM   2569  HH  TYR G 874     -32.737   9.107  11.065  1.00 31.47      GAP  H   new
+ATOM   2570  N   GLY G 875     -40.065  14.281  12.741  1.00 20.52      GAP  N
+ATOM   2571  CA  GLY G 875     -41.126  15.257  12.596  1.00 20.51      GAP  C
+ATOM   2572  C   GLY G 875     -41.378  15.920  13.925  1.00 23.51      GAP  C
+ATOM   2573  O   GLY G 875     -41.400  17.154  14.010  1.00 27.08      GAP  O
+ATOM   2574  H   GLY G 875     -40.347  13.332  12.602  1.00 20.52      GAP  H   new
+ATOM   2575 1HA  GLY G 875     -40.847  16.010  11.844  1.00 20.51      GAP  H   new
+ATOM   2576 2HA  GLY G 875     -42.044  14.768  12.237  1.00 20.51      GAP  H   new
+ATOM   2577  N   CYS G 876     -41.508  15.099  14.968  1.00 23.10      GAP  N
+ATOM   2578  CA  CYS G 876     -41.537  15.573  16.353  1.00 23.05      GAP  C
+ATOM   2579  C   CYS G 876     -40.441  16.609  16.605  1.00 23.75      GAP  C
+ATOM   2580  O   CYS G 876     -40.707  17.701  17.146  1.00 24.00      GAP  O
+ATOM   2581  CB  CYS G 876     -41.329  14.404  17.319  1.00 22.16      GAP  C
+ATOM   2582  SG  CYS G 876     -42.803  13.489  17.763  1.00 23.56      GAP  S
+ATOM   2583  H   CYS G 876     -41.594  14.107  14.879  1.00 23.10      GAP  H   new
+ATOM   2584  HA  CYS G 876     -42.521  16.035  16.522  1.00 23.05      GAP  H   new
+ATOM   2585 1HB  CYS G 876     -40.608  13.705  16.869  1.00 22.16      GAP  H   new
+ATOM   2586 2HB  CYS G 876     -40.870  14.792  18.240  1.00 22.16      GAP  H   new
+ATOM   2587  HG  CYS G 876     -42.488  12.530  18.583  1.00 23.56      GAP  H   new
+ATOM   2588  N   LEU G 877     -39.236  16.298  16.127  1.00 20.98      GAP  N
+ATOM   2589  CA  LEU G 877     -38.065  17.135  16.360  1.00 21.75      GAP  C
+ATOM   2590  C   LEU G 877     -38.199  18.494  15.700  1.00 22.68      GAP  C
+ATOM   2591  O   LEU G 877     -37.684  19.486  16.200  1.00 25.50      GAP  O
+ATOM   2592  CB  LEU G 877     -36.801  16.445  15.841  1.00 19.61      GAP  C
+ATOM   2593  CG  LEU G 877     -36.172  15.372  16.738  1.00 17.48      GAP  C
+ATOM   2594  CD1 LEU G 877     -34.842  14.933  16.165  1.00 15.23      GAP  C
+ATOM   2595  CD2 LEU G 877     -35.980  15.915  18.126  1.00 13.34      GAP  C
+ATOM   2596  H   LEU G 877     -39.051  15.480  15.582  1.00 20.98      GAP  H   new
+ATOM   2597  HA  LEU G 877     -37.989  17.285  17.447  1.00 21.75      GAP  H   new
+ATOM   2598 1HB  LEU G 877     -37.038  15.983  14.871  1.00 19.61      GAP  H   new
+ATOM   2599 2HB  LEU G 877     -36.043  17.219  15.652  1.00 19.61      GAP  H   new
+ATOM   2600  HG  LEU G 877     -36.845  14.503  16.783  1.00 17.48      GAP  H   new
+ATOM   2601 1HD1 LEU G 877     -34.398  14.164  16.814  1.00 15.23      GAP  H   new
+ATOM   2602 2HD1 LEU G 877     -34.995  14.518  15.158  1.00 15.23      GAP  H   new
+ATOM   2603 3HD1 LEU G 877     -34.164  15.797  16.106  1.00 15.23      GAP  H   new
+ATOM   2604 1HD2 LEU G 877     -35.529  15.141  18.764  1.00 13.34      GAP  H   new
+ATOM   2605 2HD2 LEU G 877     -35.316  16.792  18.089  1.00 13.34      GAP  H   new
+ATOM   2606 3HD2 LEU G 877     -36.954  16.211  18.543  1.00 13.34      GAP  H   new
+ATOM   2607  N   GLN G 878     -38.834  18.518  14.536  1.00 24.28      GAP  N
+ATOM   2608  CA  GLN G 878     -38.995  19.752  13.796  1.00 21.39      GAP  C
+ATOM   2609  C   GLN G 878     -40.129  20.557  14.367  1.00 23.04      GAP  C
+ATOM   2610  O   GLN G 878     -40.062  21.777  14.407  1.00 27.99      GAP  O
+ATOM   2611  CB  GLN G 878     -39.278  19.449  12.344  1.00 22.95      GAP  C
+ATOM   2612  CG  GLN G 878     -38.209  18.608  11.707  1.00 32.34      GAP  C
+ATOM   2613  CD  GLN G 878     -38.623  18.115  10.350  1.00 34.81      GAP  C
+ATOM   2614  OE1 GLN G 878     -39.741  17.615  10.173  1.00 39.49      GAP  O
+ATOM   2615  NE2 GLN G 878     -37.737  18.258   9.371  1.00 38.53      GAP  N
+ATOM   2616  H   GLN G 878     -39.235  17.714  14.098  1.00 24.28      GAP  H   new
+ATOM   2617  HA  GLN G 878     -38.064  20.332  13.875  1.00 21.39      GAP  H   new
+ATOM   2618 1HB  GLN G 878     -40.244  18.929  12.264  1.00 22.95      GAP  H   new
+ATOM   2619 2HB  GLN G 878     -39.375  20.394  11.789  1.00 22.95      GAP  H   new
+ATOM   2620 1HG  GLN G 878     -37.284  19.196  11.617  1.00 32.34      GAP  H   new
+ATOM   2621 2HG  GLN G 878     -37.982  17.749  12.356  1.00 32.34      GAP  H   new
+ATOM   2622 1HE2 GLN G 878     -37.962  17.956   8.445  1.00 38.53      GAP  H   new
+ATOM   2623 2HE2 GLN G 878     -36.845  18.668   9.560  1.00 38.53      GAP  H   new
+ATOM   2624  N   LYS G 879     -41.175  19.869  14.812  1.00 25.46      GAP  N
+ATOM   2625  CA  LYS G 879     -42.303  20.535  15.443  1.00 28.01      GAP  C
+ATOM   2626  C   LYS G 879     -41.805  21.325  16.639  1.00 30.02      GAP  C
+ATOM   2627  O   LYS G 879     -42.042  22.546  16.737  1.00 31.13      GAP  O
+ATOM   2628  CB  LYS G 879     -43.348  19.514  15.885  1.00 32.17      GAP  C
+ATOM   2629  CG  LYS G 879     -44.300  19.081  14.774  1.00 49.02      GAP  C
+ATOM   2630  CD  LYS G 879     -45.471  20.056  14.572  1.00 60.81      GAP  C
+ATOM   2631  CE  LYS G 879     -45.232  21.048  13.414  1.00 67.78      GAP  C
+ATOM   2632  NZ  LYS G 879     -46.391  21.986  13.202  1.00 71.46      GAP  N
+ATOM   2633  H   LYS G 879     -41.261  18.875  14.748  1.00 25.46      GAP  H   new
+ATOM   2634  HA  LYS G 879     -42.774  21.216  14.719  1.00 28.01      GAP  H   new
+ATOM   2635 1HB  LYS G 879     -42.834  18.626  16.280  1.00 32.17      GAP  H   new
+ATOM   2636 2HB  LYS G 879     -43.935  19.940  16.712  1.00 32.17      GAP  H   new
+ATOM   2637 1HG  LYS G 879     -43.739  18.991  13.832  1.00 49.02      GAP  H   new
+ATOM   2638 2HG  LYS G 879     -44.698  18.083  15.008  1.00 49.02      GAP  H   new
+ATOM   2639 1HD  LYS G 879     -46.389  19.483  14.374  1.00 60.81      GAP  H   new
+ATOM   2640 2HD  LYS G 879     -45.638  20.619  15.502  1.00 60.81      GAP  H   new
+ATOM   2641 1HE  LYS G 879     -44.325  21.634  13.621  1.00 67.78      GAP  H   new
+ATOM   2642 2HE  LYS G 879     -45.047  20.485  12.487  1.00 67.78      GAP  H   new
+ATOM   2643 1HZ  LYS G 879     -46.185  22.605  12.444  1.00 71.46      GAP  H + new
+ATOM   2644 2HZ  LYS G 879     -47.213  21.458  12.987  1.00 71.46      GAP  H + new
+ATOM   2645 3HZ  LYS G 879     -46.546  22.519  14.034  1.00 71.46      GAP  H + new
+ATOM   2646  N   SER G 880     -40.955  20.674  17.428  1.00 28.86      GAP  N
+ATOM   2647  CA  SER G 880     -40.341  21.281  18.601  1.00 25.64      GAP  C
+ATOM   2648  C   SER G 880     -39.527  22.523  18.265  1.00 25.35      GAP  C
+ATOM   2649  O   SER G 880     -39.851  23.602  18.725  1.00 29.26      GAP  O
+ATOM   2650  CB  SER G 880     -39.453  20.262  19.310  1.00 23.27      GAP  C
+ATOM   2651  OG  SER G 880     -40.212  19.171  19.792  1.00 27.97      GAP  O
+ATOM   2652  H   SER G 880     -40.678  19.726  17.273  1.00 28.86      GAP  H   new
+ATOM   2653  HA  SER G 880     -41.160  21.598  19.263  1.00 25.64      GAP  H   new
+ATOM   2654 1HB  SER G 880     -38.930  20.747  20.147  1.00 23.27      GAP  H   new
+ATOM   2655 2HB  SER G 880     -38.681  19.898  18.616  1.00 23.27      GAP  H   new
+ATOM   2656  HG  SER G 880     -39.607  18.520  20.251  1.00 27.97      GAP  H   new
+ATOM   2657  N   VAL G 881     -38.500  22.378  17.429  1.00 25.90      GAP  N
+ATOM   2658  CA  VAL G 881     -37.594  23.488  17.111  1.00 27.01      GAP  C
+ATOM   2659  C   VAL G 881     -38.318  24.703  16.536  1.00 32.58      GAP  C
+ATOM   2660  O   VAL G 881     -37.884  25.845  16.714  1.00 32.71      GAP  O
+ATOM   2661  CB  VAL G 881     -36.486  23.060  16.122  1.00 25.03      GAP  C
+ATOM   2662  CG1 VAL G 881     -35.564  22.051  16.779  1.00 18.68      GAP  C
+ATOM   2663  CG2 VAL G 881     -37.101  22.483  14.859  1.00 24.18      GAP  C
+ATOM   2664  H   VAL G 881     -38.276  21.520  16.967  1.00 25.90      GAP  H   new
+ATOM   2665  HA  VAL G 881     -37.143  23.774  18.073  1.00 27.01      GAP  H   new
+ATOM   2666  HB  VAL G 881     -35.894  23.945  15.844  1.00 25.03      GAP  H   new
+ATOM   2667 1HG1 VAL G 881     -34.780  21.753  16.068  1.00 18.68      GAP  H   new
+ATOM   2668 2HG1 VAL G 881     -35.100  22.502  17.668  1.00 18.68      GAP  H   new
+ATOM   2669 3HG1 VAL G 881     -36.143  21.165  17.078  1.00 18.68      GAP  H   new
+ATOM   2670 1HG2 VAL G 881     -36.302  22.183  14.165  1.00 24.18      GAP  H   new
+ATOM   2671 2HG2 VAL G 881     -37.711  21.605  15.116  1.00 24.18      GAP  H   new
+ATOM   2672 3HG2 VAL G 881     -37.736  23.243  14.380  1.00 24.18      GAP  H   new
+ATOM   2673  N   GLN G 882     -39.465  24.459  15.916  1.00 38.94      GAP  N
+ATOM   2674  CA  GLN G 882     -40.298  25.535  15.409  1.00 45.25      GAP  C
+ATOM   2675  C   GLN G 882     -41.055  26.260  16.516  1.00 48.59      GAP  C
+ATOM   2676  O   GLN G 882     -41.164  27.477  16.492  1.00 50.05      GAP  O
+ATOM   2677  CB  GLN G 882     -41.277  24.995  14.370  1.00 47.93      GAP  C
+ATOM   2678  CG  GLN G 882     -40.673  24.851  12.982  1.00 51.42      GAP  C
+ATOM   2679  CD  GLN G 882     -41.673  24.356  11.953  1.00 52.63      GAP  C
+ATOM   2680  OE1 GLN G 882     -41.287  23.893  10.874  1.00 54.90      GAP  O
+ATOM   2681  NE2 GLN G 882     -42.962  24.433  12.280  1.00 50.13      GAP  N
+ATOM   2682  H   GLN G 882     -39.830  23.542  15.756  1.00 38.94      GAP  H   new
+ATOM   2683  HA  GLN G 882     -39.628  26.271  14.940  1.00 45.25      GAP  H   new
+ATOM   2684 1HB  GLN G 882     -41.648  24.014  14.703  1.00 47.93      GAP  H   new
+ATOM   2685 2HB  GLN G 882     -42.147  25.666  14.314  1.00 47.93      GAP  H   new
+ATOM   2686 1HG  GLN G 882     -40.273  25.823  12.659  1.00 51.42      GAP  H   new
+ATOM   2687 2HG  GLN G 882     -39.824  24.153  13.027  1.00 51.42      GAP  H   new
+ATOM   2688 1HE2 GLN G 882     -43.660  24.109  11.641  1.00 50.13      GAP  H   new
+ATOM   2689 2HE2 GLN G 882     -43.232  24.815  13.164  1.00 50.13      GAP  H   new
+ATOM   2690  N   HIS G 883     -41.586  25.508  17.478  1.00 51.75      GAP  N
+ATOM   2691  CA  HIS G 883     -42.255  26.105  18.634  1.00 57.08      GAP  C
+ATOM   2692  C   HIS G 883     -41.271  26.879  19.499  1.00 59.78      GAP  C
+ATOM   2693  O   HIS G 883     -41.661  27.820  20.211  1.00 61.56      GAP  O
+ATOM   2694  CB  HIS G 883     -42.926  25.025  19.483  1.00 64.33      GAP  C
+ATOM   2695  CG  HIS G 883     -44.111  24.387  18.835  1.00 75.31      GAP  C
+ATOM   2696  ND1 HIS G 883     -44.298  24.368  17.469  1.00 80.12      GAP  N
+ATOM   2697  CD2 HIS G 883     -45.183  23.752  19.365  1.00 78.70      GAP  C
+ATOM   2698  CE1 HIS G 883     -45.435  23.755  17.185  1.00 81.87      GAP  C
+ATOM   2699  NE2 HIS G 883     -45.992  23.370  18.319  1.00 82.81      GAP  N
+ATOM   2700  H   HIS G 883     -41.567  24.508  17.481  1.00 51.75      GAP  H   new
+ATOM   2701  HA  HIS G 883     -43.017  26.800  18.252  1.00 57.08      GAP  H   new
+ATOM   2702 1HB  HIS G 883     -42.186  24.246  19.717  1.00 64.33      GAP  H   new
+ATOM   2703 2HB  HIS G 883     -43.239  25.468  20.440  1.00 64.33      GAP  H   new
+ATOM   2704  HD1 HIS G 883     -43.670  24.758  16.796  1.00 80.12      GAP  H   new
+ATOM   2705  HD2 HIS G 883     -45.372  23.574  20.434  1.00 78.70      GAP  H   new
+ATOM   2706  HE1 HIS G 883     -45.846  23.594  16.178  1.00 81.87      GAP  H   new
+ATOM   2707  HE2 HIS G 883     -46.860  22.881  18.404  1.00 82.81      GAP  H   new
+ATOM   2708  N   LYS G 884     -40.004  26.467  19.460  1.00 61.41      GAP  N
+ATOM   2709  CA  LYS G 884     -38.948  27.058  20.287  1.00 60.21      GAP  C
+ATOM   2710  C   LYS G 884     -38.275  28.243  19.603  1.00 58.00      GAP  C
+ATOM   2711  O   LYS G 884     -38.106  29.298  20.218  1.00 61.13      GAP  O
+ATOM   2712  CB  LYS G 884     -37.900  25.992  20.644  1.00 62.10      GAP  C
+ATOM   2713  CG  LYS G 884     -36.748  26.470  21.518  1.00 61.95      GAP  C
+ATOM   2714  CD  LYS G 884     -37.188  26.786  22.943  1.00 62.96      GAP  C
+ATOM   2715  CE  LYS G 884     -36.003  26.813  23.914  1.00 61.37      GAP  C
+ATOM   2716  NZ  LYS G 884     -34.882  27.672  23.435  1.00 62.21      GAP  N
+ATOM   2717  H   LYS G 884     -39.685  25.728  18.866  1.00 61.41      GAP  H   new
+ATOM   2718  HA  LYS G 884     -39.422  27.434  21.206  1.00 60.21      GAP  H   new
+ATOM   2719 1HB  LYS G 884     -38.407  25.163  21.158  1.00 62.10      GAP  H   new
+ATOM   2720 2HB  LYS G 884     -37.484  25.585  19.710  1.00 62.10      GAP  H   new
+ATOM   2721 1HG  LYS G 884     -35.965  25.697  21.542  1.00 61.95      GAP  H   new
+ATOM   2722 2HG  LYS G 884     -36.299  27.368  21.069  1.00 61.95      GAP  H   new
+ATOM   2723 1HD  LYS G 884     -37.699  27.760  22.961  1.00 62.96      GAP  H   new
+ATOM   2724 2HD  LYS G 884     -37.918  26.034  23.276  1.00 62.96      GAP  H   new
+ATOM   2725 1HE  LYS G 884     -36.346  27.178  24.893  1.00 61.37      GAP  H   new
+ATOM   2726 2HE  LYS G 884     -35.635  25.787  24.064  1.00 61.37      GAP  H   new
+ATOM   2727 1HZ  LYS G 884     -34.138  27.654  24.103  1.00 62.21      GAP  H + new
+ATOM   2728 2HZ  LYS G 884     -34.549  27.328  22.557  1.00 62.21      GAP  H + new
+ATOM   2729 3HZ  LYS G 884     -35.206  28.611  23.323  1.00 62.21      GAP  H + new
+ATOM   2730  N   TRP G 885     -37.831  28.045  18.364  1.00 53.77      GAP  N
+ATOM   2731  CA  TRP G 885     -37.203  29.117  17.600  1.00 51.20      GAP  C
+ATOM   2732  C   TRP G 885     -37.979  29.404  16.318  1.00 52.56      GAP  C
+ATOM   2733  O   TRP G 885     -37.581  28.974  15.225  1.00 48.30      GAP  O
+ATOM   2734  CB  TRP G 885     -35.756  28.755  17.256  1.00 51.73      GAP  C
+ATOM   2735  CG  TRP G 885     -34.843  28.678  18.441  1.00 53.20      GAP  C
+ATOM   2736  CD1 TRP G 885     -34.307  29.725  19.146  1.00 54.21      GAP  C
+ATOM   2737  CD2 TRP G 885     -34.352  27.486  19.065  1.00 52.94      GAP  C
+ATOM   2738  NE1 TRP G 885     -33.523  29.251  20.172  1.00 53.70      GAP  N
+ATOM   2739  CE2 TRP G 885     -33.532  27.882  20.141  1.00 52.07      GAP  C
+ATOM   2740  CE3 TRP G 885     -34.530  26.119  18.812  1.00 53.15      GAP  C
+ATOM   2741  CZ2 TRP G 885     -32.888  26.959  20.968  1.00 50.66      GAP  C
+ATOM   2742  CZ3 TRP G 885     -33.889  25.203  19.638  1.00 50.86      GAP  C
+ATOM   2743  CH2 TRP G 885     -33.080  25.628  20.702  1.00 50.49      GAP  C
+ATOM   2744  H   TRP G 885     -37.893  27.172  17.880  1.00 53.77      GAP  H   new
+ATOM   2745  HA  TRP G 885     -37.210  30.022  18.225  1.00 51.20      GAP  H   new
+ATOM   2746 1HB  TRP G 885     -35.746  27.785  16.737  1.00 51.73      GAP  H   new
+ATOM   2747 2HB  TRP G 885     -35.361  29.501  16.551  1.00 51.73      GAP  H   new
+ATOM   2748  HD1 TRP G 885     -34.479  30.788  18.924  1.00 54.21      GAP  H   new
+ATOM   2749  HE1 TRP G 885     -33.027  29.814  20.833  1.00 53.70      GAP  H   new
+ATOM   2750  HE3 TRP G 885     -35.163  25.779  17.979  1.00 53.15      GAP  H   new
+ATOM   2751  HZ2 TRP G 885     -32.250  27.288  21.802  1.00 50.66      GAP  H   new
+ATOM   2752  HZ3 TRP G 885     -34.018  24.126  19.454  1.00 50.86      GAP  H   new
+ATOM   2753  HH2 TRP G 885     -32.589  24.876  21.337  1.00 50.49      GAP  H   new
+ATOM   2754  N   PRO G 886     -39.075  30.178  16.428  1.00 55.52      GAP  N
+ATOM   2755  CA  PRO G 886     -39.981  30.466  15.311  1.00 56.48      GAP  C
+ATOM   2756  C   PRO G 886     -39.320  31.318  14.235  1.00 58.62      GAP  C
+ATOM   2757  O   PRO G 886     -39.670  31.226  13.048  1.00 61.30      GAP  O
+ATOM   2758  CB  PRO G 886     -41.145  31.220  15.970  1.00 56.74      GAP  C
+ATOM   2759  CG  PRO G 886     -40.985  31.003  17.447  1.00 54.84      GAP  C
+ATOM   2760  CD  PRO G 886     -39.504  30.877  17.649  1.00 57.69      GAP  C
+ATOM   2761  HA  PRO G 886     -40.296  29.549  14.791  1.00 56.48      GAP  H   new
+ATOM   2762 1HB  PRO G 886     -41.113  32.291  15.722  1.00 56.74      GAP  H   new
+ATOM   2763 2HB  PRO G 886     -42.114  30.837  15.617  1.00 56.74      GAP  H   new
+ATOM   2764 1HG  PRO G 886     -41.398  31.845  18.023  1.00 54.84      GAP  H   new
+ATOM   2765 2HG  PRO G 886     -41.513  30.097  17.778  1.00 54.84      GAP  H   new
+ATOM   2766 1HD  PRO G 886     -39.019  31.859  17.750  1.00 57.69      GAP  H   new
+ATOM   2767 2HD  PRO G 886     -39.262  30.304  18.556  1.00 57.69      GAP  H   new
+ATOM   2768  N   THR G 887     -38.382  32.160  14.654  1.00 56.65      GAP  N
+ATOM   2769  CA  THR G 887     -37.776  33.135  13.762  1.00 56.03      GAP  C
+ATOM   2770  C   THR G 887     -36.603  32.549  12.982  1.00 55.09      GAP  C
+ATOM   2771  O   THR G 887     -36.076  33.180  12.061  1.00 55.89      GAP  O
+ATOM   2772  CB  THR G 887     -37.305  34.351  14.559  1.00 56.13      GAP  C
+ATOM   2773  OG1 THR G 887     -36.456  33.913  15.624  1.00 57.35      GAP  O
+ATOM   2774  CG2 THR G 887     -38.503  35.082  15.160  1.00 57.12      GAP  C
+ATOM   2775  H   THR G 887     -38.032  32.184  15.591  1.00 56.65      GAP  H   new
+ATOM   2776  HA  THR G 887     -38.545  33.437  13.035  1.00 56.03      GAP  H   new
+ATOM   2777  HB  THR G 887     -36.760  35.030  13.887  1.00 56.13      GAP  H   new
+ATOM   2778  HG1 THR G 887     -36.144  34.705  16.150  1.00 57.35      GAP  H   new
+ATOM   2779 1HG2 THR G 887     -38.152  35.954  15.731  1.00 57.12      GAP  H   new
+ATOM   2780 2HG2 THR G 887     -39.171  35.417  14.353  1.00 57.12      GAP  H   new
+ATOM   2781 3HG2 THR G 887     -39.050  34.402  15.830  1.00 57.12      GAP  H   new
+ATOM   2782  N   ASN G 888     -36.250  31.310  13.301  1.00 55.01      GAP  N
+ATOM   2783  CA  ASN G 888     -35.090  30.667  12.699  1.00 55.33      GAP  C
+ATOM   2784  C   ASN G 888     -35.525  29.509  11.811  1.00 53.02      GAP  C
+ATOM   2785  O   ASN G 888     -35.828  28.416  12.300  1.00 52.95      GAP  O
+ATOM   2786  CB  ASN G 888     -34.150  30.165  13.799  1.00 60.11      GAP  C
+ATOM   2787  CG  ASN G 888     -32.786  29.742  13.269  1.00 64.52      GAP  C
+ATOM   2788  OD1 ASN G 888     -32.485  29.879  12.069  1.00 68.31      GAP  O
+ATOM   2789  ND2 ASN G 888     -31.941  29.249  14.162  1.00 64.40      GAP  N
+ATOM   2790  H   ASN G 888     -36.742  30.742  13.961  1.00 55.01      GAP  H   new
+ATOM   2791  HA  ASN G 888     -34.558  31.401  12.076  1.00 55.33      GAP  H   new
+ATOM   2792 1HB  ASN G 888     -34.016  30.958  14.549  1.00 60.11      GAP  H   new
+ATOM   2793 2HB  ASN G 888     -34.618  29.312  14.313  1.00 60.11      GAP  H   new
+ATOM   2794 1HD2 ASN G 888     -31.022  28.971  13.881  1.00 64.40      GAP  H   new
+ATOM   2795 2HD2 ASN G 888     -32.222  29.155  15.117  1.00 64.40      GAP  H   new
+ATOM   2796  N   THR G 889     -35.435  29.711  10.503  1.00 51.71      GAP  N
+ATOM   2797  CA  THR G 889     -35.932  28.729   9.544  1.00 52.32      GAP  C
+ATOM   2798  C   THR G 889     -34.936  27.607   9.261  1.00 48.63      GAP  C
+ATOM   2799  O   THR G 889     -35.303  26.552   8.730  1.00 49.35      GAP  O
+ATOM   2800  CB  THR G 889     -36.314  29.422   8.225  1.00 54.54      GAP  C
+ATOM   2801  OG1 THR G 889     -37.326  30.399   8.495  1.00 61.27      GAP  O
+ATOM   2802  CG2 THR G 889     -36.851  28.417   7.216  1.00 56.49      GAP  C
+ATOM   2803  H   THR G 889     -35.032  30.527  10.089  1.00 51.71      GAP  H   new
+ATOM   2804  HA  THR G 889     -36.818  28.267  10.003  1.00 52.32      GAP  H   new
+ATOM   2805  HB  THR G 889     -35.417  29.896   7.801  1.00 54.54      GAP  H   new
+ATOM   2806  HG1 THR G 889     -37.583  30.857   7.644  1.00 61.27      GAP  H   new
+ATOM   2807 1HG2 THR G 889     -37.116  28.938   6.284  1.00 56.49      GAP  H   new
+ATOM   2808 2HG2 THR G 889     -36.081  27.660   7.006  1.00 56.49      GAP  H   new
+ATOM   2809 3HG2 THR G 889     -37.745  27.925   7.627  1.00 56.49      GAP  H   new
+ATOM   2810  N   THR G 890     -33.700  27.787   9.700  1.00 42.91      GAP  N
+ATOM   2811  CA  THR G 890     -32.647  26.862   9.328  1.00 38.94      GAP  C
+ATOM   2812  C   THR G 890     -32.603  25.636  10.234  1.00 35.65      GAP  C
+ATOM   2813  O   THR G 890     -32.233  24.549   9.798  1.00 32.14      GAP  O
+ATOM   2814  CB  THR G 890     -31.277  27.574   9.318  1.00 41.85      GAP  C
+ATOM   2815  OG1 THR G 890     -30.331  26.772   8.606  1.00 43.44      GAP  O
+ATOM   2816  CG2 THR G 890     -30.770  27.821  10.737  1.00 39.22      GAP  C
+ATOM   2817  H   THR G 890     -33.412  28.539  10.293  1.00 42.91      GAP  H   new
+ATOM   2818  HA  THR G 890     -32.876  26.507   8.312  1.00 38.94      GAP  H   new
+ATOM   2819  HB  THR G 890     -31.397  28.548   8.822  1.00 41.85      GAP  H   new
+ATOM   2820  HG1 THR G 890     -29.443  27.231   8.598  1.00 43.44      GAP  H   new
+ATOM   2821 1HG2 THR G 890     -29.795  28.328  10.695  1.00 39.22      GAP  H   new
+ATOM   2822 2HG2 THR G 890     -31.489  28.453  11.279  1.00 39.22      GAP  H   new
+ATOM   2823 3HG2 THR G 890     -30.661  26.860  11.260  1.00 39.22      GAP  H   new
+ATOM   2824  N   MET G 891     -33.133  25.788  11.442  1.00 35.84      GAP  N
+ATOM   2825  CA  MET G 891     -33.022  24.757  12.470  1.00 38.00      GAP  C
+ATOM   2826  C   MET G 891     -33.776  23.471  12.158  1.00 36.71      GAP  C
+ATOM   2827  O   MET G 891     -33.360  22.391  12.585  1.00 37.78      GAP  O
+ATOM   2828  CB  MET G 891     -33.497  25.300  13.827  1.00 41.31      GAP  C
+ATOM   2829  CG  MET G 891     -32.466  26.140  14.584  1.00 45.31      GAP  C
+ATOM   2830  SD  MET G 891     -30.927  25.256  14.960  1.00 50.11      GAP  S
+ATOM   2831  CE  MET G 891     -31.546  23.879  15.959  1.00 48.78      GAP  C
+ATOM   2832  H   MET G 891     -33.636  26.603  11.730  1.00 35.84      GAP  H   new
+ATOM   2833  HA  MET G 891     -31.954  24.496  12.501  1.00 38.00      GAP  H   new
+ATOM   2834 1HB  MET G 891     -34.398  25.911  13.666  1.00 41.31      GAP  H   new
+ATOM   2835 2HB  MET G 891     -33.793  24.451  14.461  1.00 41.31      GAP  H   new
+ATOM   2836 1HG  MET G 891     -32.227  27.033  13.988  1.00 45.31      GAP  H   new
+ATOM   2837 2HG  MET G 891     -32.914  26.491  15.525  1.00 45.31      GAP  H   new
+ATOM   2838 1HE  MET G 891     -30.704  23.241  16.267  1.00 48.78      GAP  H   new
+ATOM   2839 2HE  MET G 891     -32.053  24.272  16.852  1.00 48.78      GAP  H   new
+ATOM   2840 3HE  MET G 891     -32.257  23.285  15.366  1.00 48.78      GAP  H   new
+ATOM   2841  N   ARG G 892     -34.896  23.590  11.450  1.00 35.63      GAP  N
+ATOM   2842  CA  ARG G 892     -35.770  22.453  11.187  1.00 33.50      GAP  C
+ATOM   2843  C   ARG G 892     -35.070  21.359  10.381  1.00 30.30      GAP  C
+ATOM   2844  O   ARG G 892     -35.508  20.211  10.373  1.00 30.28      GAP  O
+ATOM   2845  CB  ARG G 892     -37.025  22.923  10.451  1.00 42.27      GAP  C
+ATOM   2846  CG  ARG G 892     -36.896  22.903   8.932  1.00 58.18      GAP  C
+ATOM   2847  CD  ARG G 892     -37.504  24.138   8.273  1.00 68.41      GAP  C
+ATOM   2848  NE  ARG G 892     -37.384  24.107   6.811  1.00 75.40      GAP  N
+ATOM   2849  CZ  ARG G 892     -36.282  24.419   6.126  1.00 76.28      GAP  C
+ATOM   2850  NH1 ARG G 892     -35.146  24.688   6.760  1.00 75.72      GAP  N
+ATOM   2851  NH2 ARG G 892     -36.303  24.401   4.799  1.00 74.30      GAP  N
+ATOM   2852  H   ARG G 892     -35.214  24.452  11.054  1.00 35.63      GAP  H   new
+ATOM   2853  HA  ARG G 892     -36.047  22.017  12.158  1.00 33.50      GAP  H   new
+ATOM   2854 1HB  ARG G 892     -37.871  22.285  10.745  1.00 42.27      GAP  H   new
+ATOM   2855 2HB  ARG G 892     -37.266  23.946  10.775  1.00 42.27      GAP  H   new
+ATOM   2856 1HG  ARG G 892     -35.833  22.833   8.659  1.00 58.18      GAP  H   new
+ATOM   2857 2HG  ARG G 892     -37.389  22.002   8.538  1.00 58.18      GAP  H   new
+ATOM   2858 1HD  ARG G 892     -38.566  24.213   8.550  1.00 68.41      GAP  H   new
+ATOM   2859 2HD  ARG G 892     -37.007  25.039   8.660  1.00 68.41      GAP  H   new
+ATOM   2860  HE  ARG G 892     -38.190  23.831   6.288  1.00 75.40      GAP  H + new
+ATOM   2861 1HH1 ARG G 892     -35.112  24.658   7.759  1.00 75.72      GAP  H + new
+ATOM   2862 2HH1 ARG G 892     -34.325  24.921   6.238  1.00 75.72      GAP  H + new
+ATOM   2863 1HH2 ARG G 892     -37.143  24.154   4.316  1.00 74.30      GAP  H + new
+ATOM   2864 2HH2 ARG G 892     -35.479  24.634   4.283  1.00 74.30      GAP  H + new
+ATOM   2865  N   THR G 893     -34.000  21.722   9.682  1.00 25.87      GAP  N
+ATOM   2866  CA  THR G 893     -33.251  20.758   8.887  1.00 24.52      GAP  C
+ATOM   2867  C   THR G 893     -32.010  20.280   9.621  1.00 25.35      GAP  C
+ATOM   2868  O   THR G 893     -31.746  19.073   9.697  1.00 24.60      GAP  O
+ATOM   2869  CB  THR G 893     -32.829  21.362   7.547  1.00 26.40      GAP  C
+ATOM   2870  OG1 THR G 893     -32.388  22.711   7.752  1.00 27.82      GAP  O
+ATOM   2871  CG2 THR G 893     -33.999  21.348   6.570  1.00 26.59      GAP  C
+ATOM   2872  H   THR G 893     -33.641  22.655   9.651  1.00 25.87      GAP  H   new
+ATOM   2873  HA  THR G 893     -33.919  19.902   8.711  1.00 24.52      GAP  H   new
+ATOM   2874  HB  THR G 893     -32.008  20.764   7.125  1.00 26.40      GAP  H   new
+ATOM   2875  HG1 THR G 893     -32.111  23.108   6.877  1.00 27.82      GAP  H   new
+ATOM   2876 1HG2 THR G 893     -33.682  21.785   5.611  1.00 26.59      GAP  H   new
+ATOM   2877 2HG2 THR G 893     -34.330  20.312   6.409  1.00 26.59      GAP  H   new
+ATOM   2878 3HG2 THR G 893     -34.830  21.938   6.984  1.00 26.59      GAP  H   new
+ATOM   2879  N   ARG G 894     -31.265  21.237  10.173  1.00 28.34      GAP  N
+ATOM   2880  CA  ARG G 894     -30.090  20.976  11.014  1.00 26.27      GAP  C
+ATOM   2881  C   ARG G 894     -30.361  19.921  12.086  1.00 20.20      GAP  C
+ATOM   2882  O   ARG G 894     -29.649  18.918  12.195  1.00 18.15      GAP  O
+ATOM   2883  CB  ARG G 894     -29.653  22.267  11.703  1.00 29.82      GAP  C
+ATOM   2884  CG  ARG G 894     -28.458  22.933  11.076  1.00 43.50      GAP  C
+ATOM   2885  CD  ARG G 894     -27.951  24.036  11.984  1.00 56.77      GAP  C
+ATOM   2886  NE  ARG G 894     -27.489  25.201  11.224  1.00 69.90      GAP  N
+ATOM   2887  CZ  ARG G 894     -26.977  26.304  11.773  1.00 75.38      GAP  C
+ATOM   2888  NH1 ARG G 894     -26.930  26.436  13.098  1.00 77.64      GAP  N
+ATOM   2889  NH2 ARG G 894     -26.478  27.258  11.003  1.00 79.17      GAP  N
+ATOM   2890  H   ARG G 894     -31.457  22.211  10.051  1.00 28.34      GAP  H   new
+ATOM   2891  HA  ARG G 894     -29.299  20.595  10.351  1.00 26.27      GAP  H   new
+ATOM   2892 1HB  ARG G 894     -30.496  22.974  11.698  1.00 29.82      GAP  H   new
+ATOM   2893 2HB  ARG G 894     -29.424  22.047  12.756  1.00 29.82      GAP  H   new
+ATOM   2894 1HG  ARG G 894     -27.663  22.193  10.902  1.00 43.50      GAP  H   new
+ATOM   2895 2HG  ARG G 894     -28.731  23.349  10.095  1.00 43.50      GAP  H   new
+ATOM   2896 1HD  ARG G 894     -28.753  24.342  12.672  1.00 56.77      GAP  H   new
+ATOM   2897 2HD  ARG G 894     -27.126  23.651  12.602  1.00 56.77      GAP  H   new
+ATOM   2898  HE  ARG G 894     -27.562  25.167  10.227  1.00 69.90      GAP  H + new
+ATOM   2899 1HH1 ARG G 894     -27.279  25.706  13.686  1.00 77.64      GAP  H + new
+ATOM   2900 2HH1 ARG G 894     -26.545  27.265  13.505  1.00 77.64      GAP  H + new
+ATOM   2901 1HH2 ARG G 894     -26.484  27.153  10.009  1.00 79.17      GAP  H + new
+ATOM   2902 2HH2 ARG G 894     -26.095  28.084  11.416  1.00 79.17      GAP  H + new
+ATOM   2903  N   VAL G 895     -31.462  20.105  12.801  1.00 14.30      GAP  N
+ATOM   2904  CA  VAL G 895     -31.797  19.259  13.939  1.00 13.14      GAP  C
+ATOM   2905  C   VAL G 895     -32.017  17.790  13.561  1.00 16.04      GAP  C
+ATOM   2906  O   VAL G 895     -31.950  16.887  14.423  1.00 16.49      GAP  O
+ATOM   2907  CB  VAL G 895     -33.042  19.818  14.653  1.00  9.75      GAP  C
+ATOM   2908  CG1 VAL G 895     -34.288  19.586  13.819  1.00  5.76      GAP  C
+ATOM   2909  CG2 VAL G 895     -33.170  19.211  16.015  1.00  9.39      GAP  C
+ATOM   2910  H   VAL G 895     -32.131  20.825  12.615  1.00 14.30      GAP  H   new
+ATOM   2911  HA  VAL G 895     -30.930  19.277  14.616  1.00 13.14      GAP  H   new
+ATOM   2912  HB  VAL G 895     -32.926  20.905  14.775  1.00  9.75      GAP  H   new
+ATOM   2913 1HG1 VAL G 895     -35.164  19.992  14.346  1.00  5.76      GAP  H   new
+ATOM   2914 2HG1 VAL G 895     -34.179  20.091  12.848  1.00  5.76      GAP  H   new
+ATOM   2915 3HG1 VAL G 895     -34.426  18.507  13.657  1.00  5.76      GAP  H   new
+ATOM   2916 1HG2 VAL G 895     -34.061  19.617  16.516  1.00  9.39      GAP  H   new
+ATOM   2917 2HG2 VAL G 895     -33.267  18.119  15.923  1.00  9.39      GAP  H   new
+ATOM   2918 3HG2 VAL G 895     -32.276  19.450  16.609  1.00  9.39      GAP  H   new
+ATOM   2919  N   VAL G 896     -32.306  17.561  12.281  1.00 20.71      GAP  N
+ATOM   2920  CA  VAL G 896     -32.527  16.217  11.747  1.00 18.14      GAP  C
+ATOM   2921  C   VAL G 896     -31.184  15.708  11.240  1.00 18.87      GAP  C
+ATOM   2922  O   VAL G 896     -30.825  14.521  11.437  1.00 18.61      GAP  O
+ATOM   2923  CB  VAL G 896     -33.551  16.243  10.567  1.00 17.59      GAP  C
+ATOM   2924  CG1 VAL G 896     -33.698  14.846   9.950  1.00  8.49      GAP  C
+ATOM   2925  CG2 VAL G 896     -34.909  16.768  11.047  1.00 11.44      GAP  C
+ATOM   2926  H   VAL G 896     -32.392  18.287  11.598  1.00 20.71      GAP  H   new
+ATOM   2927  HA  VAL G 896     -32.937  15.564  12.532  1.00 18.14      GAP  H   new
+ATOM   2928  HB  VAL G 896     -33.171  16.924   9.791  1.00 17.59      GAP  H   new
+ATOM   2929 1HG1 VAL G 896     -34.422  14.884   9.122  1.00  8.49      GAP  H   new
+ATOM   2930 2HG1 VAL G 896     -32.723  14.509   9.568  1.00  8.49      GAP  H   new
+ATOM   2931 3HG1 VAL G 896     -34.055  14.142  10.716  1.00  8.49      GAP  H   new
+ATOM   2932 1HG2 VAL G 896     -35.617  16.780  10.205  1.00 11.44      GAP  H   new
+ATOM   2933 2HG2 VAL G 896     -35.296  16.113  11.842  1.00 11.44      GAP  H   new
+ATOM   2934 3HG2 VAL G 896     -34.790  17.789  11.439  1.00 11.44      GAP  H   new
+ATOM   2935  N   SER G 897     -30.405  16.632  10.684  1.00 15.61      GAP  N
+ATOM   2936  CA  SER G 897     -29.111  16.317  10.110  1.00 16.55      GAP  C
+ATOM   2937  C   SER G 897     -28.187  15.794  11.193  1.00 17.46      GAP  C
+ATOM   2938  O   SER G 897     -27.514  14.777  11.010  1.00 21.49      GAP  O
+ATOM   2939  CB  SER G 897     -28.513  17.566   9.472  1.00 13.31      GAP  C
+ATOM   2940  OG  SER G 897     -27.119  17.433   9.327  1.00 24.50      GAP  O
+ATOM   2941  H   SER G 897     -30.653  17.599  10.623  1.00 15.61      GAP  H   new
+ATOM   2942  HA  SER G 897     -29.233  15.544   9.337  1.00 16.55      GAP  H   new
+ATOM   2943 1HB  SER G 897     -28.740  18.446  10.092  1.00 13.31      GAP  H   new
+ATOM   2944 2HB  SER G 897     -28.974  17.738   8.488  1.00 13.31      GAP  H   new
+ATOM   2945  HG  SER G 897     -26.747  18.261   8.908  1.00 24.50      GAP  H   new
+ATOM   2946  N   GLY G 898     -28.294  16.399  12.370  1.00 21.88      GAP  N
+ATOM   2947  CA  GLY G 898     -27.475  16.005  13.503  1.00 22.13      GAP  C
+ATOM   2948  C   GLY G 898     -27.699  14.588  13.995  1.00 22.65      GAP  C
+ATOM   2949  O   GLY G 898     -26.904  14.071  14.788  1.00 29.89      GAP  O
+ATOM   2950  H   GLY G 898     -28.928  17.149  12.558  1.00 21.88      GAP  H   new
+ATOM   2951 1HA  GLY G 898     -26.416  16.118  13.227  1.00 22.13      GAP  H   new
+ATOM   2952 2HA  GLY G 898     -27.667  16.700  14.334  1.00 22.13      GAP  H   new
+ATOM   2953  N   PHE G 899     -28.784  13.959  13.562  1.00 18.84      GAP  N
+ATOM   2954  CA  PHE G 899     -29.027  12.566  13.903  1.00 16.75      GAP  C
+ATOM   2955  C   PHE G 899     -28.772  11.639  12.725  1.00 18.42      GAP  C
+ATOM   2956  O   PHE G 899     -27.967  10.716  12.829  1.00 20.43      GAP  O
+ATOM   2957  CB  PHE G 899     -30.456  12.370  14.399  1.00 15.45      GAP  C
+ATOM   2958  CG  PHE G 899     -30.680  12.848  15.805  1.00 13.49      GAP  C
+ATOM   2959  CD1 PHE G 899     -30.227  12.103  16.887  1.00 12.71      GAP  C
+ATOM   2960  CD2 PHE G 899     -31.364  14.034  16.048  1.00  8.16      GAP  C
+ATOM   2961  CE1 PHE G 899     -30.453  12.532  18.183  1.00  6.27      GAP  C
+ATOM   2962  CE2 PHE G 899     -31.594  14.468  17.339  1.00  5.55      GAP  C
+ATOM   2963  CZ  PHE G 899     -31.141  13.715  18.407  1.00  8.66      GAP  C
+ATOM   2964  H   PHE G 899     -29.489  14.379  12.991  1.00 18.84      GAP  H   new
+ATOM   2965  HA  PHE G 899     -28.320  12.308  14.706  1.00 16.75      GAP  H   new
+ATOM   2966 1HB  PHE G 899     -31.144  12.903  13.726  1.00 15.45      GAP  H   new
+ATOM   2967 2HB  PHE G 899     -30.712  11.302  14.340  1.00 15.45      GAP  H   new
+ATOM   2968  HD1 PHE G 899     -29.683  11.163  16.712  1.00 12.71      GAP  H   new
+ATOM   2969  HD2 PHE G 899     -31.727  14.635  15.201  1.00  8.16      GAP  H   new
+ATOM   2970  HE1 PHE G 899     -30.088  11.937  19.033  1.00  6.27      GAP  H   new
+ATOM   2971  HE2 PHE G 899     -32.135  15.409  17.517  1.00  5.55      GAP  H   new
+ATOM   2972  HZ  PHE G 899     -31.327  14.055  19.436  1.00  8.66      GAP  H   new
+ATOM   2973  N   VAL G 900     -29.448  11.889  11.607  1.00 20.12      GAP  N
+ATOM   2974  CA  VAL G 900     -29.374  10.988  10.457  1.00 22.61      GAP  C
+ATOM   2975  C   VAL G 900     -27.988  10.978   9.801  1.00 20.98      GAP  C
+ATOM   2976  O   VAL G 900     -27.547   9.947   9.290  1.00 20.02      GAP  O
+ATOM   2977  CB  VAL G 900     -30.457  11.337   9.389  1.00 26.86      GAP  C
+ATOM   2978  CG1 VAL G 900     -30.249  12.751   8.862  1.00 27.34      GAP  C
+ATOM   2979  CG2 VAL G 900     -30.423  10.325   8.239  1.00 27.88      GAP  C
+ATOM   2980  H   VAL G 900     -30.038  12.686  11.474  1.00 20.12      GAP  H   new
+ATOM   2981  HA  VAL G 900     -29.567   9.980  10.852  1.00 22.61      GAP  H   new
+ATOM   2982  HB  VAL G 900     -31.446  11.286   9.867  1.00 26.86      GAP  H   new
+ATOM   2983 1HG1 VAL G 900     -31.020  12.980   8.111  1.00 27.34      GAP  H   new
+ATOM   2984 2HG1 VAL G 900     -30.323  13.467   9.693  1.00 27.34      GAP  H   new
+ATOM   2985 3HG1 VAL G 900     -29.254  12.828   8.400  1.00 27.34      GAP  H   new
+ATOM   2986 1HG2 VAL G 900     -31.192  10.586   7.497  1.00 27.88      GAP  H   new
+ATOM   2987 2HG2 VAL G 900     -29.432  10.344   7.762  1.00 27.88      GAP  H   new
+ATOM   2988 3HG2 VAL G 900     -30.621   9.317   8.631  1.00 27.88      GAP  H   new
+ATOM   2989  N   PHE G 901     -27.276  12.098   9.875  1.00 19.43      GAP  N
+ATOM   2990  CA  PHE G 901     -25.923  12.163   9.340  1.00 18.40      GAP  C
+ATOM   2991  C   PHE G 901     -24.898  12.060  10.454  1.00 18.98      GAP  C
+ATOM   2992  O   PHE G 901     -24.259  11.020  10.616  1.00 22.13      GAP  O
+ATOM   2993  CB  PHE G 901     -25.708  13.460   8.551  1.00 19.49      GAP  C
+ATOM   2994  CG  PHE G 901     -26.284  13.420   7.167  1.00 20.08      GAP  C
+ATOM   2995  CD1 PHE G 901     -25.607  12.781   6.142  1.00 19.03      GAP  C
+ATOM   2996  CD2 PHE G 901     -27.566  13.902   6.923  1.00 22.87      GAP  C
+ATOM   2997  CE1 PHE G 901     -26.204  12.615   4.899  1.00 20.15      GAP  C
+ATOM   2998  CE2 PHE G 901     -28.166  13.735   5.684  1.00 17.89      GAP  C
+ATOM   2999  CZ  PHE G 901     -27.487  13.091   4.676  1.00 21.28      GAP  C
+ATOM   3000  H   PHE G 901     -27.604  12.948  10.288  1.00 19.43      GAP  H   new
+ATOM   3001  HA  PHE G 901     -25.791  11.310   8.658  1.00 18.40      GAP  H   new
+ATOM   3002 1HB  PHE G 901     -26.161  14.296   9.104  1.00 19.49      GAP  H   new
+ATOM   3003 2HB  PHE G 901     -24.629  13.665   8.485  1.00 19.49      GAP  H   new
+ATOM   3004  HD1 PHE G 901     -24.589  12.402   6.313  1.00 19.03      GAP  H   new
+ATOM   3005  HD2 PHE G 901     -28.111  14.423   7.724  1.00 22.87      GAP  H   new
+ATOM   3006  HE1 PHE G 901     -25.659  12.106   4.091  1.00 20.15      GAP  H   new
+ATOM   3007  HE2 PHE G 901     -29.183  14.117   5.508  1.00 17.89      GAP  H   new
+ATOM   3008  HZ  PHE G 901     -27.962  12.954   3.693  1.00 21.28      GAP  H   new
+ATOM   3009  N   LEU G 902     -24.841  13.086  11.296  1.00 19.20      GAP  N
+ATOM   3010  CA  LEU G 902     -23.849  13.154  12.353  1.00 19.99      GAP  C
+ATOM   3011  C   LEU G 902     -23.823  11.880  13.194  1.00 20.86      GAP  C
+ATOM   3012  O   LEU G 902     -22.756  11.311  13.434  1.00 22.31      GAP  O
+ATOM   3013  CB  LEU G 902     -24.123  14.355  13.249  1.00 19.07      GAP  C
+ATOM   3014  CG  LEU G 902     -23.044  14.643  14.284  1.00 17.24      GAP  C
+ATOM   3015  CD1 LEU G 902     -21.778  15.141  13.591  1.00 15.01      GAP  C
+ATOM   3016  CD2 LEU G 902     -23.579  15.658  15.284  1.00 17.45      GAP  C
+ATOM   3017  H   LEU G 902     -25.463  13.868  11.264  1.00 19.20      GAP  H   new
+ATOM   3018  HA  LEU G 902     -22.864  13.262  11.875  1.00 19.99      GAP  H   new
+ATOM   3019 1HB  LEU G 902     -24.249  15.245  12.615  1.00 19.07      GAP  H   new
+ATOM   3020 2HB  LEU G 902     -25.078  14.194  13.771  1.00 19.07      GAP  H   new
+ATOM   3021  HG  LEU G 902     -22.780  13.724  14.829  1.00 17.24      GAP  H   new
+ATOM   3022 1HD1 LEU G 902     -21.004  15.347  14.345  1.00 15.01      GAP  H   new
+ATOM   3023 2HD1 LEU G 902     -21.415  14.372  12.893  1.00 15.01      GAP  H   new
+ATOM   3024 3HD1 LEU G 902     -22.002  16.063  13.035  1.00 15.01      GAP  H   new
+ATOM   3025 1HD2 LEU G 902     -22.807  15.874  16.037  1.00 17.45      GAP  H   new
+ATOM   3026 2HD2 LEU G 902     -23.846  16.586  14.758  1.00 17.45      GAP  H   new
+ATOM   3027 3HD2 LEU G 902     -24.471  15.249  15.781  1.00 17.45      GAP  H   new
+ATOM   3028  N   ARG G 903     -24.998  11.371  13.541  1.00 18.28      GAP  N
+ATOM   3029  CA  ARG G 903     -25.065  10.262  14.480  1.00 17.52      GAP  C
+ATOM   3030  C   ARG G 903     -25.510   8.933  13.866  1.00 19.94      GAP  C
+ATOM   3031  O   ARG G 903     -25.765   7.966  14.609  1.00 20.18      GAP  O
+ATOM   3032  CB  ARG G 903     -25.982  10.624  15.652  1.00 17.77      GAP  C
+ATOM   3033  CG  ARG G 903     -25.483  11.776  16.510  1.00 16.53      GAP  C
+ATOM   3034  CD  ARG G 903     -26.499  12.115  17.589  1.00 22.65      GAP  C
+ATOM   3035  NE  ARG G 903     -26.056  13.183  18.492  1.00 25.61      GAP  N
+ATOM   3036  CZ  ARG G 903     -25.360  12.980  19.607  1.00 20.18      GAP  C
+ATOM   3037  NH1 ARG G 903     -24.755  11.817  19.802  1.00 16.58      GAP  N
+ATOM   3038  NH2 ARG G 903     -25.123  13.990  20.437  1.00 19.88      GAP  N
+ATOM   3039  H   ARG G 903     -25.881  11.694  13.201  1.00 18.28      GAP  H   new
+ATOM   3040  HA  ARG G 903     -24.033  10.103  14.825  1.00 17.52      GAP  H   new
+ATOM   3041 1HB  ARG G 903     -26.976  10.881  15.257  1.00 17.77      GAP  H   new
+ATOM   3042 2HB  ARG G 903     -26.109   9.737  16.290  1.00 17.77      GAP  H   new
+ATOM   3043 1HG  ARG G 903     -24.522  11.507  16.974  1.00 16.53      GAP  H   new
+ATOM   3044 2HG  ARG G 903     -25.300  12.659  15.880  1.00 16.53      GAP  H   new
+ATOM   3045 1HD  ARG G 903     -27.443  12.417  17.111  1.00 22.65      GAP  H   new
+ATOM   3046 2HD  ARG G 903     -26.712  11.211  18.179  1.00 22.65      GAP  H   new
+ATOM   3047  HE  ARG G 903     -26.293  14.125  18.254  1.00 25.61      GAP  H + new
+ATOM   3048 1HH1 ARG G 903     -24.823  11.096  19.112  1.00 16.58      GAP  H + new
+ATOM   3049 2HH1 ARG G 903     -24.231  11.660  20.639  1.00 16.58      GAP  H + new
+ATOM   3050 1HH2 ARG G 903     -25.468  14.904  20.224  1.00 19.88      GAP  H + new
+ATOM   3051 2HH2 ARG G 903     -24.600  13.836  21.275  1.00 19.88      GAP  H + new
+ATOM   3052  N   LEU G 904     -25.577   8.856  12.536  1.00 18.15      GAP  N
+ATOM   3053  CA  LEU G 904     -25.969   7.606  11.871  1.00 17.84      GAP  C
+ATOM   3054  C   LEU G 904     -25.143   7.291  10.622  1.00 21.11      GAP  C
+ATOM   3055  O   LEU G 904     -24.588   6.167  10.480  1.00 20.97      GAP  O
+ATOM   3056  CB  LEU G 904     -27.464   7.626  11.499  1.00 16.40      GAP  C
+ATOM   3057  CG  LEU G 904     -28.023   6.362  10.831  1.00 11.81      GAP  C
+ATOM   3058  CD1 LEU G 904     -27.640   5.176  11.655  1.00 11.92      GAP  C
+ATOM   3059  CD2 LEU G 904     -29.530   6.427  10.664  1.00  7.54      GAP  C
+ATOM   3060  H   LEU G 904     -25.373   9.614  11.916  1.00 18.15      GAP  H   new
+ATOM   3061  HA  LEU G 904     -25.771   6.810  12.603  1.00 17.84      GAP  H   new
+ATOM   3062 1HB  LEU G 904     -28.044   7.816  12.414  1.00 16.40      GAP  H   new
+ATOM   3063 2HB  LEU G 904     -27.639   8.477  10.825  1.00 16.40      GAP  H   new
+ATOM   3064  HG  LEU G 904     -27.594   6.279   9.822  1.00 11.81      GAP  H   new
+ATOM   3065 1HD1 LEU G 904     -28.034   4.262  11.188  1.00 11.92      GAP  H   new
+ATOM   3066 2HD1 LEU G 904     -26.544   5.111  11.718  1.00 11.92      GAP  H   new
+ATOM   3067 3HD1 LEU G 904     -28.060   5.281  12.666  1.00 11.92      GAP  H   new
+ATOM   3068 1HD2 LEU G 904     -29.886   5.504  10.183  1.00  7.54      GAP  H   new
+ATOM   3069 2HD2 LEU G 904     -30.005   6.532  11.651  1.00  7.54      GAP  H   new
+ATOM   3070 3HD2 LEU G 904     -29.793   7.292  10.037  1.00  7.54      GAP  H   new
+ATOM   3071  N   ILE G 905     -25.140   8.220   9.672  1.00 19.40      GAP  N
+ATOM   3072  CA  ILE G 905     -24.634   7.914   8.345  1.00 18.73      GAP  C
+ATOM   3073  C   ILE G 905     -23.127   8.009   8.339  1.00 18.99      GAP  C
+ATOM   3074  O   ILE G 905     -22.447   7.050   7.965  1.00 22.38      GAP  O
+ATOM   3075  CB  ILE G 905     -25.254   8.855   7.269  1.00 17.53      GAP  C
+ATOM   3076  CG1 ILE G 905     -26.674   8.402   6.939  1.00 18.91      GAP  C
+ATOM   3077  CG2 ILE G 905     -24.442   8.821   5.981  1.00 14.13      GAP  C
+ATOM   3078  CD1 ILE G 905     -26.747   6.974   6.456  1.00 23.65      GAP  C
+ATOM   3079  H   ILE G 905     -25.470   9.156   9.793  1.00 19.40      GAP  H   new
+ATOM   3080  HA  ILE G 905     -24.929   6.886   8.089  1.00 18.73      GAP  H   new
+ATOM   3081  HB  ILE G 905     -25.255   9.876   7.680  1.00 17.53      GAP  H   new
+ATOM   3082 1HG1 ILE G 905     -27.304   8.512   7.834  1.00 18.91      GAP  H   new
+ATOM   3083 2HG1 ILE G 905     -27.093   9.065   6.167  1.00 18.91      GAP  H   new
+ATOM   3084 1HG2 ILE G 905     -24.900   9.492   5.240  1.00 14.13      GAP  H   new
+ATOM   3085 2HG2 ILE G 905     -23.413   9.151   6.187  1.00 14.13      GAP  H   new
+ATOM   3086 3HG2 ILE G 905     -24.425   7.795   5.584  1.00 14.13      GAP  H   new
+ATOM   3087 1HD1 ILE G 905     -27.793   6.713   6.237  1.00 23.65      GAP  H   new
+ATOM   3088 2HD1 ILE G 905     -26.143   6.864   5.543  1.00 23.65      GAP  H   new
+ATOM   3089 3HD1 ILE G 905     -26.358   6.302   7.235  1.00 23.65      GAP  H   new
+ATOM   3090  N   CYS G 906     -22.609   9.112   8.868  1.00 17.63      GAP  N
+ATOM   3091  CA  CYS G 906     -21.173   9.349   8.863  1.00 16.32      GAP  C
+ATOM   3092  C   CYS G 906     -20.406   8.365   9.748  1.00 13.61      GAP  C
+ATOM   3093  O   CYS G 906     -19.393   7.794   9.315  1.00 15.89      GAP  O
+ATOM   3094  CB  CYS G 906     -20.874  10.789   9.279  1.00 13.66      GAP  C
+ATOM   3095  SG  CYS G 906     -21.460  12.000   8.097  1.00 18.51      GAP  S
+ATOM   3096  H   CYS G 906     -23.149   9.837   9.295  1.00 17.63      GAP  H   new
+ATOM   3097  HA  CYS G 906     -20.824   9.185   7.833  1.00 16.32      GAP  H   new
+ATOM   3098 1HB  CYS G 906     -21.339  10.985  10.257  1.00 13.66      GAP  H   new
+ATOM   3099 2HB  CYS G 906     -19.788  10.908   9.409  1.00 13.66      GAP  H   new
+ATOM   3100  HG  CYS G 906     -21.170  13.195   8.520  1.00 18.51      GAP  H   new
+ATOM   3101  N   PRO G 907     -20.929   8.057  10.944  1.00 13.40      GAP  N
+ATOM   3102  CA  PRO G 907     -20.292   7.008  11.739  1.00 14.70      GAP  C
+ATOM   3103  C   PRO G 907     -20.192   5.697  10.980  1.00 16.22      GAP  C
+ATOM   3104  O   PRO G 907     -19.128   5.085  10.940  1.00 21.23      GAP  O
+ATOM   3105  CB  PRO G 907     -21.202   6.896  12.953  1.00 12.71      GAP  C
+ATOM   3106  CG  PRO G 907     -21.682   8.276  13.134  1.00 15.69      GAP  C
+ATOM   3107  CD  PRO G 907     -21.925   8.790  11.746  1.00 16.55      GAP  C
+ATOM   3108  HA  PRO G 907     -19.251   7.244  12.003  1.00 14.70      GAP  H   new
+ATOM   3109 1HB  PRO G 907     -22.032   6.196  12.777  1.00 12.71      GAP  H   new
+ATOM   3110 2HB  PRO G 907     -20.658   6.534  13.838  1.00 12.71      GAP  H   new
+ATOM   3111 1HG  PRO G 907     -22.603   8.301  13.735  1.00 15.69      GAP  H   new
+ATOM   3112 2HG  PRO G 907     -20.937   8.890  13.661  1.00 15.69      GAP  H   new
+ATOM   3113 1HD  PRO G 907     -22.952   8.584  11.409  1.00 16.55      GAP  H   new
+ATOM   3114 2HD  PRO G 907     -21.778   9.878  11.683  1.00 16.55      GAP  H   new
+ATOM   3115  N   ALA G 908     -21.265   5.337  10.282  1.00 15.63      GAP  N
+ATOM   3116  CA  ALA G 908     -21.326   4.092   9.521  1.00 12.30      GAP  C
+ATOM   3117  C   ALA G 908     -20.329   4.088   8.378  1.00 12.86      GAP  C
+ATOM   3118  O   ALA G 908     -19.919   3.029   7.910  1.00 11.75      GAP  O
+ATOM   3119  CB  ALA G 908     -22.714   3.897   8.982  1.00 12.36      GAP  C
+ATOM   3120  H   ALA G 908     -22.098   5.887  10.229  1.00 15.63      GAP  H   new
+ATOM   3121  HA  ALA G 908     -21.068   3.266  10.200  1.00 12.30      GAP  H   new
+ATOM   3122 1HB  ALA G 908     -22.757   2.959   8.409  1.00 12.36      GAP  H   new
+ATOM   3123 2HB  ALA G 908     -23.429   3.850   9.817  1.00 12.36      GAP  H   new
+ATOM   3124 3HB  ALA G 908     -22.974   4.740   8.324  1.00 12.36      GAP  H   new
+ATOM   3125  N   ILE G 909     -19.986   5.286   7.911  1.00 15.66      GAP  N
+ATOM   3126  CA  ILE G 909     -18.971   5.486   6.879  1.00 17.25      GAP  C
+ATOM   3127  C   ILE G 909     -17.551   5.250   7.410  1.00 22.07      GAP  C
+ATOM   3128  O   ILE G 909     -16.772   4.516   6.794  1.00 23.48      GAP  O
+ATOM   3129  CB  ILE G 909     -19.064   6.916   6.294  1.00 14.94      GAP  C
+ATOM   3130  CG1 ILE G 909     -20.405   7.102   5.591  1.00 17.84      GAP  C
+ATOM   3131  CG2 ILE G 909     -17.930   7.164   5.320  1.00 15.21      GAP  C
+ATOM   3132  CD1 ILE G 909     -20.656   8.511   5.118  1.00 23.90      GAP  C
+ATOM   3133  H   ILE G 909     -20.400   6.137   8.235  1.00 15.66      GAP  H   new
+ATOM   3134  HA  ILE G 909     -19.171   4.746   6.090  1.00 17.25      GAP  H   new
+ATOM   3135  HB  ILE G 909     -18.984   7.641   7.118  1.00 14.94      GAP  H   new
+ATOM   3136 1HG1 ILE G 909     -20.453   6.422   4.728  1.00 17.84      GAP  H   new
+ATOM   3137 2HG1 ILE G 909     -21.212   6.807   6.278  1.00 17.84      GAP  H   new
+ATOM   3138 1HG2 ILE G 909     -18.011   8.183   4.914  1.00 15.21      GAP  H   new
+ATOM   3139 2HG2 ILE G 909     -16.968   7.053   5.841  1.00 15.21      GAP  H   new
+ATOM   3140 3HG2 ILE G 909     -17.987   6.436   4.497  1.00 15.21      GAP  H   new
+ATOM   3141 1HD1 ILE G 909     -21.638   8.563   4.624  1.00 23.90      GAP  H   new
+ATOM   3142 2HD1 ILE G 909     -20.642   9.195   5.979  1.00 23.90      GAP  H   new
+ATOM   3143 3HD1 ILE G 909     -19.871   8.804   4.405  1.00 23.90      GAP  H   new
+ATOM   3144  N   LEU G 910     -17.209   5.887   8.535  1.00 26.47      GAP  N
+ATOM   3145  CA  LEU G 910     -15.876   5.741   9.145  1.00 21.82      GAP  C
+ATOM   3146  C   LEU G 910     -15.668   4.334   9.701  1.00 22.84      GAP  C
+ATOM   3147  O   LEU G 910     -14.556   3.801   9.667  1.00 24.09      GAP  O
+ATOM   3148  CB  LEU G 910     -15.676   6.756  10.274  1.00 17.52      GAP  C
+ATOM   3149  CG  LEU G 910     -15.818   8.236   9.932  1.00 18.93      GAP  C
+ATOM   3150  CD1 LEU G 910     -15.665   9.087  11.175  1.00 18.31      GAP  C
+ATOM   3151  CD2 LEU G 910     -14.786   8.608   8.909  1.00 18.41      GAP  C
+ATOM   3152  H   LEU G 910     -17.823   6.498   9.035  1.00 26.47      GAP  H   new
+ATOM   3153  HA  LEU G 910     -15.138   5.925   8.350  1.00 21.82      GAP  H   new
+ATOM   3154 1HB  LEU G 910     -16.398   6.522  11.071  1.00 17.52      GAP  H   new
+ATOM   3155 2HB  LEU G 910     -14.671   6.601  10.694  1.00 17.52      GAP  H   new
+ATOM   3156  HG  LEU G 910     -16.821   8.418   9.519  1.00 18.93      GAP  H   new
+ATOM   3157 1HD1 LEU G 910     -15.770  10.149  10.908  1.00 18.31      GAP  H   new
+ATOM   3158 2HD1 LEU G 910     -16.441   8.814  11.905  1.00 18.31      GAP  H   new
+ATOM   3159 3HD1 LEU G 910     -14.672   8.917  11.616  1.00 18.31      GAP  H   new
+ATOM   3160 1HD2 LEU G 910     -14.885   9.675   8.659  1.00 18.41      GAP  H   new
+ATOM   3161 2HD2 LEU G 910     -13.781   8.418   9.315  1.00 18.41      GAP  H   new
+ATOM   3162 3HD2 LEU G 910     -14.934   8.004   8.002  1.00 18.41      GAP  H   new
+ATOM   3163  N   ASN G 911     -16.728   3.752  10.248  1.00 23.93      GAP  N
+ATOM   3164  CA  ASN G 911     -16.645   2.408  10.798  1.00 29.47      GAP  C
+ATOM   3165  C   ASN G 911     -17.790   1.518  10.324  1.00 30.31      GAP  C
+ATOM   3166  O   ASN G 911     -18.840   1.421  10.990  1.00 28.30      GAP  O
+ATOM   3167  CB  ASN G 911     -16.630   2.462  12.326  1.00 31.48      GAP  C
+ATOM   3168  CG  ASN G 911     -16.553   1.087  12.950  1.00 34.34      GAP  C
+ATOM   3169  OD1 ASN G 911     -16.113   0.115  12.302  1.00 31.37      GAP  O
+ATOM   3170  ND2 ASN G 911     -16.980   0.980  14.203  1.00 34.84      GAP  N
+ATOM   3171  H   ASN G 911     -17.630   4.178  10.320  1.00 23.93      GAP  H   new
+ATOM   3172  HA  ASN G 911     -15.706   1.966  10.433  1.00 29.47      GAP  H   new
+ATOM   3173 1HB  ASN G 911     -15.771   3.062  12.661  1.00 31.48      GAP  H   new
+ATOM   3174 2HB  ASN G 911     -17.537   2.973  12.681  1.00 31.48      GAP  H   new
+ATOM   3175 1HD2 ASN G 911     -16.957   0.094  14.665  1.00 34.84      GAP  H   new
+ATOM   3176 2HD2 ASN G 911     -17.325   1.786  14.684  1.00 34.84      GAP  H   new
+ATOM   3177  N   PRO G 912     -17.566   0.767   9.232  1.00 33.15      GAP  N
+ATOM   3178  CA  PRO G 912     -18.613  -0.016   8.563  1.00 35.00      GAP  C
+ATOM   3179  C   PRO G 912     -19.111  -1.245   9.339  1.00 36.99      GAP  C
+ATOM   3180  O   PRO G 912     -20.017  -1.941   8.879  1.00 37.73      GAP  O
+ATOM   3181  CB  PRO G 912     -17.965  -0.416   7.230  1.00 33.36      GAP  C
+ATOM   3182  CG  PRO G 912     -16.816   0.531   7.054  1.00 32.38      GAP  C
+ATOM   3183  CD  PRO G 912     -16.321   0.764   8.447  1.00 34.96      GAP  C
+ATOM   3184  HA  PRO G 912     -19.531   0.581   8.459  1.00 35.00      GAP  H   new
+ATOM   3185 1HB  PRO G 912     -17.620  -1.460   7.253  1.00 33.36      GAP  H   new
+ATOM   3186 2HB  PRO G 912     -18.681  -0.332   6.399  1.00 33.36      GAP  H   new
+ATOM   3187 1HG  PRO G 912     -16.032   0.098   6.415  1.00 32.38      GAP  H   new
+ATOM   3188 2HG  PRO G 912     -17.137   1.470   6.578  1.00 32.38      GAP  H   new
+ATOM   3189 1HD  PRO G 912     -15.632  -0.029   8.775  1.00 34.96      GAP  H   new
+ATOM   3190 2HD  PRO G 912     -15.779   1.717   8.535  1.00 34.96      GAP  H   new
+ATOM   3191  N   ARG G 913     -18.521  -1.518  10.500  1.00 41.18      GAP  N
+ATOM   3192  CA  ARG G 913     -18.914  -2.673  11.302  1.00 42.33      GAP  C
+ATOM   3193  C   ARG G 913     -19.976  -2.318  12.320  1.00 44.30      GAP  C
+ATOM   3194  O   ARG G 913     -20.398  -3.175  13.083  1.00 46.71      GAP  O
+ATOM   3195  CB  ARG G 913     -17.725  -3.253  12.049  1.00 44.80      GAP  C
+ATOM   3196  CG  ARG G 913     -16.507  -3.495  11.219  1.00 55.03      GAP  C
+ATOM   3197  CD  ARG G 913     -15.275  -3.372  12.089  1.00 64.46      GAP  C
+ATOM   3198  NE  ARG G 913     -14.072  -3.774  11.374  1.00 73.03      GAP  N
+ATOM   3199  CZ  ARG G 913     -13.607  -5.016  11.340  1.00 80.23      GAP  C
+ATOM   3200  NH1 ARG G 913     -14.221  -5.983  12.014  1.00 84.48      GAP  N
+ATOM   3201  NH2 ARG G 913     -12.504  -5.286  10.664  1.00 83.85      GAP  N
+ATOM   3202  H   ARG G 913     -17.786  -0.968  10.897  1.00 41.18      GAP  H   new
+ATOM   3203  HA  ARG G 913     -19.316  -3.413  10.595  1.00 42.33      GAP  H   new
+ATOM   3204 1HB  ARG G 913     -17.460  -2.570  12.869  1.00 44.80      GAP  H   new
+ATOM   3205 2HB  ARG G 913     -18.030  -4.205  12.509  1.00 44.80      GAP  H   new
+ATOM   3206 1HG  ARG G 913     -16.551  -4.496  10.765  1.00 55.03      GAP  H   new
+ATOM   3207 2HG  ARG G 913     -16.461  -2.769  10.394  1.00 55.03      GAP  H   new
+ATOM   3208 1HD  ARG G 913     -15.169  -2.332  12.432  1.00 64.46      GAP  H   new
+ATOM   3209 2HD  ARG G 913     -15.395  -3.996  12.987  1.00 64.46      GAP  H   new
+ATOM   3210  HE  ARG G 913     -13.565  -3.070  10.877  1.00 73.03      GAP  H + new
+ATOM   3211 1HH1 ARG G 913     -15.039  -5.777  12.551  1.00 84.48      GAP  H + new
+ATOM   3212 2HH1 ARG G 913     -13.865  -6.917  11.984  1.00 84.48      GAP  H + new
+ATOM   3213 1HH2 ARG G 913     -12.023  -4.555  10.180  1.00 83.85      GAP  H + new
+ATOM   3214 2HH2 ARG G 913     -12.151  -6.221  10.636  1.00 83.85      GAP  H + new
+ATOM   3215  N   MET G 914     -20.316  -1.035  12.410  1.00 47.32      GAP  N
+ATOM   3216  CA  MET G 914     -21.391  -0.600  13.291  1.00 52.46      GAP  C
+ATOM   3217  C   MET G 914     -22.688  -1.305  12.914  1.00 54.02      GAP  C
+ATOM   3218  O   MET G 914     -23.391  -1.852  13.769  1.00 58.11      GAP  O
+ATOM   3219  CB  MET G 914     -21.593   0.918  13.197  1.00 57.38      GAP  C
+ATOM   3220  CG  MET G 914     -20.691   1.760  14.101  1.00 65.23      GAP  C
+ATOM   3221  SD  MET G 914     -20.725   1.298  15.861  1.00 72.34      GAP  S
+ATOM   3222  CE  MET G 914     -22.482   1.395  16.233  1.00 73.39      GAP  C
+ATOM   3223  H   MET G 914     -19.874  -0.299  11.897  1.00 47.32      GAP  H   new
+ATOM   3224  HA  MET G 914     -21.114  -0.858  14.324  1.00 52.46      GAP  H   new
+ATOM   3225 1HB  MET G 914     -21.429   1.228  12.154  1.00 57.38      GAP  H   new
+ATOM   3226 2HB  MET G 914     -22.641   1.146  13.440  1.00 57.38      GAP  H   new
+ATOM   3227 1HG  MET G 914     -19.656   1.682  13.737  1.00 65.23      GAP  H   new
+ATOM   3228 2HG  MET G 914     -20.986   2.816  14.008  1.00 65.23      GAP  H   new
+ATOM   3229 1HE  MET G 914     -22.649   1.134  17.289  1.00 73.39      GAP  H   new
+ATOM   3230 2HE  MET G 914     -22.841   2.418  16.048  1.00 73.39      GAP  H   new
+ATOM   3231 3HE  MET G 914     -23.033   0.692  15.591  1.00 73.39      GAP  H   new
+ATOM   3232  N   PHE G 915     -22.957  -1.359  11.614  1.00 54.27      GAP  N
+ATOM   3233  CA  PHE G 915     -24.184  -1.965  11.111  1.00 54.82      GAP  C
+ATOM   3234  C   PHE G 915     -23.937  -3.299  10.453  1.00 55.24      GAP  C
+ATOM   3235  O   PHE G 915     -24.856  -3.915   9.912  1.00 58.44      GAP  O
+ATOM   3236  CB  PHE G 915     -24.834  -1.033  10.114  1.00 53.31      GAP  C
+ATOM   3237  CG  PHE G 915     -25.203   0.275  10.700  1.00 55.14      GAP  C
+ATOM   3238  CD1 PHE G 915     -24.292   1.318  10.709  1.00 54.92      GAP  C
+ATOM   3239  CD2 PHE G 915     -26.447   0.454  11.283  1.00 57.28      GAP  C
+ATOM   3240  CE1 PHE G 915     -24.618   2.519  11.286  1.00 57.09      GAP  C
+ATOM   3241  CE2 PHE G 915     -26.778   1.654  11.860  1.00 57.29      GAP  C
+ATOM   3242  CZ  PHE G 915     -25.861   2.690  11.861  1.00 57.52      GAP  C
+ATOM   3243  H   PHE G 915     -22.353  -0.997  10.903  1.00 54.27      GAP  H   new
+ATOM   3244  HA  PHE G 915     -24.845  -2.134  11.974  1.00 54.82      GAP  H   new
+ATOM   3245 1HB  PHE G 915     -24.147  -0.870   9.271  1.00 53.31      GAP  H   new
+ATOM   3246 2HB  PHE G 915     -25.736  -1.513   9.706  1.00 53.31      GAP  H   new
+ATOM   3247  HD1 PHE G 915     -23.301   1.183  10.251  1.00 54.92      GAP  H   new
+ATOM   3248  HD2 PHE G 915     -27.174  -0.371  11.283  1.00 57.28      GAP  H   new
+ATOM   3249  HE1 PHE G 915     -23.890   3.344  11.290  1.00 57.09      GAP  H   new
+ATOM   3250  HE2 PHE G 915     -27.768   1.792  12.320  1.00 57.29      GAP  H   new
+ATOM   3251  HZ  PHE G 915     -26.124   3.654  12.322  1.00 57.52      GAP  H   new
+ATOM   3252  N   ASN G 916     -22.683  -3.727  10.487  1.00 54.33      GAP  N
+ATOM   3253  CA  ASN G 916     -22.253  -4.938   9.816  1.00 52.54      GAP  C
+ATOM   3254  C   ASN G 916     -22.390  -4.846   8.296  1.00 49.04      GAP  C
+ATOM   3255  O   ASN G 916     -22.911  -5.762   7.639  1.00 48.46      GAP  O
+ATOM   3256  CB  ASN G 916     -23.027  -6.139  10.355  1.00 56.68      GAP  C
+ATOM   3257  CG  ASN G 916     -22.153  -7.352  10.538  1.00 62.17      GAP  C
+ATOM   3258  OD1 ASN G 916     -22.337  -8.121  11.482  1.00 64.69      GAP  O
+ATOM   3259  ND2 ASN G 916     -21.166  -7.514   9.659  1.00 65.41      GAP  N
+ATOM   3260  H   ASN G 916     -21.951  -3.250  10.973  1.00 54.33      GAP  H   new
+ATOM   3261  HA  ASN G 916     -21.182  -5.069  10.030  1.00 52.54      GAP  H   new
+ATOM   3262 1HB  ASN G 916     -23.486  -5.873  11.318  1.00 56.68      GAP  H   new
+ATOM   3263 2HB  ASN G 916     -23.847  -6.383   9.664  1.00 56.68      GAP  H   new
+ATOM   3264 1HD2 ASN G 916     -20.536  -8.286   9.751  1.00 65.41      GAP  H   new
+ATOM   3265 2HD2 ASN G 916     -21.054  -6.864   8.907  1.00 65.41      GAP  H   new
+ATOM   3266  N   ILE G 917     -21.904  -3.742   7.740  1.00 46.13      GAP  N
+ATOM   3267  CA  ILE G 917     -21.779  -3.587   6.293  1.00 42.23      GAP  C
+ATOM   3268  C   ILE G 917     -20.563  -4.369   5.814  1.00 45.49      GAP  C
+ATOM   3269  O   ILE G 917     -20.609  -5.057   4.790  1.00 46.96      GAP  O
+ATOM   3270  CB  ILE G 917     -21.601  -2.105   5.913  1.00 35.13      GAP  C
+ATOM   3271  CG1 ILE G 917     -22.846  -1.316   6.309  1.00 29.63      GAP  C
+ATOM   3272  CG2 ILE G 917     -21.325  -1.966   4.428  1.00 34.57      GAP  C
+ATOM   3273  CD1 ILE G 917     -22.650   0.166   6.270  1.00 29.69      GAP  C
+ATOM   3274  H   ILE G 917     -21.593  -2.949   8.264  1.00 46.13      GAP  H   new
+ATOM   3275  HA  ILE G 917     -22.696  -3.966   5.818  1.00 42.23      GAP  H   new
+ATOM   3276  HB  ILE G 917     -20.737  -1.697   6.458  1.00 35.13      GAP  H   new
+ATOM   3277 1HG1 ILE G 917     -23.672  -1.587   5.635  1.00 29.63      GAP  H   new
+ATOM   3278 2HG1 ILE G 917     -23.150  -1.611   7.324  1.00 29.63      GAP  H   new
+ATOM   3279 1HG2 ILE G 917     -21.201  -0.903   4.176  1.00 34.57      GAP  H   new
+ATOM   3280 2HG2 ILE G 917     -20.405  -2.513   4.173  1.00 34.57      GAP  H   new
+ATOM   3281 3HG2 ILE G 917     -22.168  -2.382   3.857  1.00 34.57      GAP  H   new
+ATOM   3282 1HD1 ILE G 917     -23.583   0.668   6.566  1.00 29.69      GAP  H   new
+ATOM   3283 2HD1 ILE G 917     -21.846   0.449   6.966  1.00 29.69      GAP  H   new
+ATOM   3284 3HD1 ILE G 917     -22.376   0.473   5.250  1.00 29.69      GAP  H   new
+ATOM   3285  N   ILE G 918     -19.489  -4.287   6.588  1.00 49.77      GAP  N
+ATOM   3286  CA  ILE G 918     -18.252  -4.989   6.276  1.00 51.23      GAP  C
+ATOM   3287  C   ILE G 918     -17.945  -6.024   7.361  1.00 55.34      GAP  C
+ATOM   3288  O   ILE G 918     -18.734  -6.207   8.315  1.00 56.55      GAP  O
+ATOM   3289  CB  ILE G 918     -17.085  -3.985   6.153  1.00 50.65      GAP  C
+ATOM   3290  CG1 ILE G 918     -16.072  -4.491   5.133  1.00 52.36      GAP  C
+ATOM   3291  CG2 ILE G 918     -16.435  -3.741   7.513  1.00 54.28      GAP  C
+ATOM   3292  CD1 ILE G 918     -16.498  -4.242   3.712  1.00 55.46      GAP  C
+ATOM   3293  H   ILE G 918     -19.451  -3.746   7.428  1.00 49.77      GAP  H   new
+ATOM   3294  HA  ILE G 918     -18.374  -5.509   5.314  1.00 51.23      GAP  H   new
+ATOM   3295  HB  ILE G 918     -17.478  -3.020   5.800  1.00 50.65      GAP  H   new
+ATOM   3296 1HG1 ILE G 918     -15.104  -4.001   5.311  1.00 52.36      GAP  H   new
+ATOM   3297 2HG1 ILE G 918     -15.918  -5.570   5.281  1.00 52.36      GAP  H   new
+ATOM   3298 1HG2 ILE G 918     -15.608  -3.024   7.401  1.00 54.28      GAP  H   new
+ATOM   3299 2HG2 ILE G 918     -17.182  -3.332   8.209  1.00 54.28      GAP  H   new
+ATOM   3300 3HG2 ILE G 918     -16.046  -4.690   7.910  1.00 54.28      GAP  H   new
+ATOM   3301 1HD1 ILE G 918     -15.730  -4.627   3.025  1.00 55.46      GAP  H   new
+ATOM   3302 2HD1 ILE G 918     -17.452  -4.755   3.519  1.00 55.46      GAP  H   new
+ATOM   3303 3HD1 ILE G 918     -16.624  -3.161   3.551  1.00 55.46      GAP  H   new
+ATOM   3304  N   SER G 919     -16.820  -6.714   7.207  1.00 58.18      GAP  N
+ATOM   3305  CA  SER G 919     -16.315  -7.635   8.221  1.00 58.89      GAP  C
+ATOM   3306  C   SER G 919     -14.784  -7.578   8.283  1.00 57.36      GAP  C
+ATOM   3307  O   SER G 919     -14.152  -8.402   8.950  1.00 59.16      GAP  O
+ATOM   3308  CB  SER G 919     -16.783  -9.074   7.925  1.00 58.18      GAP  C
+ATOM   3309  OG  SER G 919     -16.649  -9.394   6.550  1.00 56.72      GAP  O
+ATOM   3310  H   SER G 919     -16.243  -6.652   6.392  1.00 58.18      GAP  H   new
+ATOM   3311  HA  SER G 919     -16.718  -7.329   9.198  1.00 58.89      GAP  H   new
+ATOM   3312 1HB  SER G 919     -17.834  -9.189   8.229  1.00 58.18      GAP  H   new
+ATOM   3313 2HB  SER G 919     -16.195  -9.783   8.527  1.00 58.18      GAP  H   new
+ATOM   3314  HG  SER G 919     -16.960 -10.331   6.394  1.00 56.72      GAP  H   new
+ATOM   3315  N   ASP G 920     -14.207  -6.528   7.701  1.00 55.23      GAP  N
+ATOM   3316  CA  ASP G 920     -12.761  -6.451   7.521  1.00 55.72      GAP  C
+ATOM   3317  C   ASP G 920     -12.170  -5.064   7.786  1.00 52.83      GAP  C
+ATOM   3318  O   ASP G 920     -12.844  -4.043   7.609  1.00 52.38      GAP  O
+ATOM   3319  CB  ASP G 920     -12.389  -6.901   6.108  1.00 60.27      GAP  C
+ATOM   3320  CG  ASP G 920     -12.477  -8.406   5.931  1.00 64.01      GAP  C
+ATOM   3321  OD1 ASP G 920     -11.678  -9.135   6.565  1.00 66.17      GAP  O
+ATOM   3322  OD2 ASP G 920     -13.337  -8.857   5.146  1.00 65.98      GAP  O
+ATOM   3323  H   ASP G 920     -14.709  -5.736   7.354  1.00 55.23      GAP  H   new
+ATOM   3324  HA  ASP G 920     -12.326  -7.123   8.276  1.00 55.72      GAP  H   new
+ATOM   3325 1HB  ASP G 920     -13.056  -6.411   5.384  1.00 60.27      GAP  H   new
+ATOM   3326 2HB  ASP G 920     -11.366  -6.568   5.879  1.00 60.27      GAP  H   new
+ATOM   3327  N   SER G 921     -10.913  -5.042   8.225  1.00 51.44      GAP  N
+ATOM   3328  CA  SER G 921     -10.213  -3.805   8.532  1.00 50.94      GAP  C
+ATOM   3329  C   SER G 921      -9.775  -3.082   7.258  1.00 48.54      GAP  C
+ATOM   3330  O   SER G 921      -9.164  -3.685   6.372  1.00 46.03      GAP  O
+ATOM   3331  CB  SER G 921      -8.996  -4.097   9.418  1.00 51.82      GAP  C
+ATOM   3332  OG  SER G 921      -9.396  -4.573  10.695  1.00 55.18      GAP  O
+ATOM   3333  H   SER G 921     -10.366  -5.866   8.373  1.00 51.44      GAP  H   new
+ATOM   3334  HA  SER G 921     -10.908  -3.146   9.073  1.00 50.94      GAP  H   new
+ATOM   3335 1HB  SER G 921      -8.395  -3.183   9.535  1.00 51.82      GAP  H   new
+ATOM   3336 2HB  SER G 921      -8.353  -4.844   8.929  1.00 51.82      GAP  H   new
+ATOM   3337  HG  SER G 921      -8.586  -4.755  11.252  1.00 55.18      GAP  H   new
+ATOM   3338  N   PRO G 922     -10.160  -1.799   7.117  1.00 47.85      GAP  N
+ATOM   3339  CA  PRO G 922      -9.789  -0.919   6.001  1.00 46.27      GAP  C
+ATOM   3340  C   PRO G 922      -8.288  -0.799   5.777  1.00 44.35      GAP  C
+ATOM   3341  O   PRO G 922      -7.520  -0.744   6.727  1.00 48.33      GAP  O
+ATOM   3342  CB  PRO G 922     -10.389   0.422   6.401  1.00 45.36      GAP  C
+ATOM   3343  CG  PRO G 922     -11.599   0.040   7.194  1.00 46.54      GAP  C
+ATOM   3344  CD  PRO G 922     -11.157  -1.154   7.994  1.00 49.26      GAP  C
+ATOM   3345  HA  PRO G 922     -10.160  -1.313   5.044  1.00 46.27      GAP  H   new
+ATOM   3346 1HB  PRO G 922      -9.685   1.019   6.999  1.00 45.36      GAP  H   new
+ATOM   3347 2HB  PRO G 922     -10.655   1.025   5.521  1.00 45.36      GAP  H   new
+ATOM   3348 1HG  PRO G 922     -11.927   0.862   7.847  1.00 46.54      GAP  H   new
+ATOM   3349 2HG  PRO G 922     -12.447  -0.208   6.538  1.00 46.54      GAP  H   new
+ATOM   3350 1HD  PRO G 922     -10.718  -0.857   8.958  1.00 49.26      GAP  H   new
+ATOM   3351 2HD  PRO G 922     -11.998  -1.827   8.217  1.00 49.26      GAP  H   new
+ATOM   3352  N   SER G 923      -7.885  -0.724   4.512  1.00 42.55      GAP  N
+ATOM   3353  CA  SER G 923      -6.486  -0.468   4.171  1.00 42.31      GAP  C
+ATOM   3354  C   SER G 923      -6.138   0.974   4.538  1.00 39.04      GAP  C
+ATOM   3355  O   SER G 923      -7.027   1.781   4.808  1.00 40.90      GAP  O
+ATOM   3356  CB  SER G 923      -6.249  -0.710   2.674  1.00 44.29      GAP  C
+ATOM   3357  OG  SER G 923      -6.720   0.373   1.887  1.00 51.70      GAP  O
+ATOM   3358  H   SER G 923      -8.491  -0.834   3.724  1.00 42.55      GAP  H   new
+ATOM   3359  HA  SER G 923      -5.840  -1.156   4.736  1.00 42.31      GAP  H   new
+ATOM   3360 1HB  SER G 923      -6.757  -1.636   2.367  1.00 44.29      GAP  H   new
+ATOM   3361 2HB  SER G 923      -5.174  -0.857   2.491  1.00 44.29      GAP  H   new
+ATOM   3362  HG  SER G 923      -6.550   0.182   0.920  1.00 51.70      GAP  H   new
+ATOM   3363  N   PRO G 924      -4.841   1.305   4.597  1.00 34.70      GAP  N
+ATOM   3364  CA  PRO G 924      -4.427   2.664   4.961  1.00 35.69      GAP  C
+ATOM   3365  C   PRO G 924      -5.036   3.748   4.068  1.00 37.13      GAP  C
+ATOM   3366  O   PRO G 924      -5.406   4.823   4.551  1.00 39.08      GAP  O
+ATOM   3367  CB  PRO G 924      -2.906   2.606   4.838  1.00 33.88      GAP  C
+ATOM   3368  CG  PRO G 924      -2.591   1.195   5.167  1.00 33.53      GAP  C
+ATOM   3369  CD  PRO G 924      -3.687   0.397   4.516  1.00 34.24      GAP  C
+ATOM   3370  HA  PRO G 924      -4.775   2.947   5.966  1.00 35.69      GAP  H   new
+ATOM   3371 1HB  PRO G 924      -2.570   2.871   3.825  1.00 33.88      GAP  H   new
+ATOM   3372 2HB  PRO G 924      -2.416   3.304   5.532  1.00 33.88      GAP  H   new
+ATOM   3373 1HG  PRO G 924      -1.603   0.906   4.781  1.00 33.53      GAP  H   new
+ATOM   3374 2HG  PRO G 924      -2.571   1.033   6.255  1.00 33.53      GAP  H   new
+ATOM   3375 1HD  PRO G 924      -3.442   0.140   3.475  1.00 34.24      GAP  H   new
+ATOM   3376 2HD  PRO G 924      -3.873  -0.549   5.046  1.00 34.24      GAP  H   new
+ATOM   3377  N   ILE G 925      -5.153   3.447   2.774  1.00 36.93      GAP  N
+ATOM   3378  CA  ILE G 925      -5.749   4.361   1.799  1.00 33.55      GAP  C
+ATOM   3379  C   ILE G 925      -7.261   4.446   1.993  1.00 32.72      GAP  C
+ATOM   3380  O   ILE G 925      -7.831   5.546   2.044  1.00 31.84      GAP  O
+ATOM   3381  CB  ILE G 925      -5.440   3.895   0.349  1.00 34.73      GAP  C
+ATOM   3382  CG1 ILE G 925      -3.935   3.955   0.104  1.00 35.94      GAP  C
+ATOM   3383  CG2 ILE G 925      -6.144   4.780  -0.670  1.00 34.52      GAP  C
+ATOM   3384  CD1 ILE G 925      -3.520   3.407  -1.242  1.00 38.31      GAP  C
+ATOM   3385  H   ILE G 925      -4.844   2.581   2.381  1.00 36.93      GAP  H   new
+ATOM   3386  HA  ILE G 925      -5.309   5.356   1.959  1.00 33.55      GAP  H   new
+ATOM   3387  HB  ILE G 925      -5.804   2.863   0.234  1.00 34.73      GAP  H   new
+ATOM   3388 1HG1 ILE G 925      -3.600   5.000   0.184  1.00 35.94      GAP  H   new
+ATOM   3389 2HG1 ILE G 925      -3.420   3.390   0.895  1.00 35.94      GAP  H   new
+ATOM   3390 1HG2 ILE G 925      -5.909   4.429  -1.686  1.00 34.52      GAP  H   new
+ATOM   3391 2HG2 ILE G 925      -7.231   4.733  -0.509  1.00 34.52      GAP  H   new
+ATOM   3392 3HG2 ILE G 925      -5.801   5.819  -0.553  1.00 34.52      GAP  H   new
+ATOM   3393 1HD1 ILE G 925      -2.428   3.482  -1.348  1.00 38.31      GAP  H   new
+ATOM   3394 2HD1 ILE G 925      -3.824   2.353  -1.319  1.00 38.31      GAP  H   new
+ATOM   3395 3HD1 ILE G 925      -4.006   3.987  -2.040  1.00 38.31      GAP  H   new
+ATOM   3396  N   ALA G 926      -7.893   3.289   2.176  1.00 31.34      GAP  N
+ATOM   3397  CA  ALA G 926      -9.329   3.208   2.453  1.00 31.79      GAP  C
+ATOM   3398  C   ALA G 926      -9.731   3.990   3.700  1.00 34.31      GAP  C
+ATOM   3399  O   ALA G 926     -10.709   4.757   3.684  1.00 35.53      GAP  O
+ATOM   3400  CB  ALA G 926      -9.742   1.757   2.606  1.00 31.27      GAP  C
+ATOM   3401  H   ALA G 926      -7.437   2.400   2.138  1.00 31.34      GAP  H   new
+ATOM   3402  HA  ALA G 926      -9.850   3.664   1.598  1.00 31.79      GAP  H   new
+ATOM   3403 1HB  ALA G 926     -10.821   1.702   2.814  1.00 31.27      GAP  H   new
+ATOM   3404 2HB  ALA G 926      -9.520   1.212   1.677  1.00 31.27      GAP  H   new
+ATOM   3405 3HB  ALA G 926      -9.185   1.303   3.439  1.00 31.27      GAP  H   new
+ATOM   3406  N   ALA G 927      -8.980   3.798   4.781  1.00 34.47      GAP  N
+ATOM   3407  CA  ALA G 927      -9.244   4.473   6.048  1.00 31.26      GAP  C
+ATOM   3408  C   ALA G 927      -9.269   5.988   5.861  1.00 30.94      GAP  C
+ATOM   3409  O   ALA G 927     -10.135   6.686   6.424  1.00 31.47      GAP  O
+ATOM   3410  CB  ALA G 927      -8.186   4.085   7.069  1.00 32.13      GAP  C
+ATOM   3411  H   ALA G 927      -8.190   3.185   4.803  1.00 34.47      GAP  H   new
+ATOM   3412  HA  ALA G 927     -10.232   4.157   6.414  1.00 31.26      GAP  H   new
+ATOM   3413 1HB  ALA G 927      -8.390   4.596   8.021  1.00 32.13      GAP  H   new
+ATOM   3414 2HB  ALA G 927      -8.209   2.996   7.226  1.00 32.13      GAP  H   new
+ATOM   3415 3HB  ALA G 927      -7.193   4.381   6.700  1.00 32.13      GAP  H   new
+ATOM   3416  N   ARG G 928      -8.367   6.483   5.020  1.00 28.03      GAP  N
+ATOM   3417  CA  ARG G 928      -8.279   7.909   4.738  1.00 27.27      GAP  C
+ATOM   3418  C   ARG G 928      -9.480   8.379   3.937  1.00 29.80      GAP  C
+ATOM   3419  O   ARG G 928     -10.013   9.463   4.179  1.00 33.45      GAP  O
+ATOM   3420  CB  ARG G 928      -7.010   8.216   3.951  1.00 25.85      GAP  C
+ATOM   3421  CG  ARG G 928      -6.262   9.456   4.408  1.00 28.48      GAP  C
+ATOM   3422  CD  ARG G 928      -7.197  10.594   4.772  1.00 28.13      GAP  C
+ATOM   3423  NE  ARG G 928      -6.541  11.895   4.683  1.00 28.56      GAP  N
+ATOM   3424  CZ  ARG G 928      -6.795  12.928   5.483  1.00 28.47      GAP  C
+ATOM   3425  NH1 ARG G 928      -7.650  12.817   6.494  1.00 22.21      GAP  N
+ATOM   3426  NH2 ARG G 928      -6.204  14.088   5.252  1.00 32.82      GAP  N
+ATOM   3427  H   ARG G 928      -7.697   5.925   4.530  1.00 28.03      GAP  H   new
+ATOM   3428  HA  ARG G 928      -8.257   8.440   5.701  1.00 27.27      GAP  H   new
+ATOM   3429 1HB  ARG G 928      -6.334   7.351   4.020  1.00 25.85      GAP  H   new
+ATOM   3430 2HB  ARG G 928      -7.273   8.334   2.890  1.00 25.85      GAP  H   new
+ATOM   3431 1HG  ARG G 928      -5.638   9.205   5.279  1.00 28.48      GAP  H   new
+ATOM   3432 2HG  ARG G 928      -5.581   9.786   3.609  1.00 28.48      GAP  H   new
+ATOM   3433 1HD  ARG G 928      -8.069  10.578   4.102  1.00 28.13      GAP  H   new
+ATOM   3434 2HD  ARG G 928      -7.574  10.444   5.795  1.00 28.13      GAP  H   new
+ATOM   3435  HE  ARG G 928      -5.851  12.019   3.970  1.00 28.56      GAP  H + new
+ATOM   3436 1HH1 ARG G 928      -8.114  11.947   6.663  1.00 22.21      GAP  H + new
+ATOM   3437 2HH1 ARG G 928      -7.829  13.603   7.086  1.00 22.21      GAP  H + new
+ATOM   3438 1HH2 ARG G 928      -5.573  14.183   4.482  1.00 32.82      GAP  H + new
+ATOM   3439 2HH2 ARG G 928      -6.388  14.870   5.847  1.00 32.82      GAP  H + new
+ATOM   3440  N   THR G 929      -9.870   7.591   2.942  1.00 31.14      GAP  N
+ATOM   3441  CA  THR G 929     -10.931   8.013   2.036  1.00 31.11      GAP  C
+ATOM   3442  C   THR G 929     -12.257   8.120   2.784  1.00 27.58      GAP  C
+ATOM   3443  O   THR G 929     -12.916   9.158   2.721  1.00 27.57      GAP  O
+ATOM   3444  CB  THR G 929     -11.047   7.049   0.820  1.00 36.37      GAP  C
+ATOM   3445  OG1 THR G 929      -9.776   6.966   0.154  1.00 36.60      GAP  O
+ATOM   3446  CG2 THR G 929     -12.101   7.549  -0.180  1.00 32.96      GAP  C
+ATOM   3447  H   THR G 929      -9.483   6.690   2.748  1.00 31.14      GAP  H   new
+ATOM   3448  HA  THR G 929     -10.675   9.009   1.644  1.00 31.11      GAP  H   new
+ATOM   3449  HB  THR G 929     -11.351   6.059   1.191  1.00 36.37      GAP  H   new
+ATOM   3450  HG1 THR G 929      -9.849   6.347  -0.628  1.00 36.60      GAP  H   new
+ATOM   3451 1HG2 THR G 929     -12.163   6.851  -1.028  1.00 32.96      GAP  H   new
+ATOM   3452 2HG2 THR G 929     -13.080   7.608   0.318  1.00 32.96      GAP  H   new
+ATOM   3453 3HG2 THR G 929     -11.816   8.546  -0.547  1.00 32.96      GAP  H   new
+ATOM   3454  N   LEU G 930     -12.520   7.153   3.660  1.00 26.07      GAP  N
+ATOM   3455  CA  LEU G 930     -13.713   7.169   4.507  1.00 22.63      GAP  C
+ATOM   3456  C   LEU G 930     -13.837   8.441   5.355  1.00 21.08      GAP  C
+ATOM   3457  O   LEU G 930     -14.938   8.923   5.589  1.00 22.82      GAP  O
+ATOM   3458  CB  LEU G 930     -13.727   5.950   5.435  1.00 27.06      GAP  C
+ATOM   3459  CG  LEU G 930     -13.686   4.542   4.831  1.00 30.01      GAP  C
+ATOM   3460  CD1 LEU G 930     -13.530   3.513   5.951  1.00 29.67      GAP  C
+ATOM   3461  CD2 LEU G 930     -14.949   4.276   4.019  1.00 27.59      GAP  C
+ATOM   3462  H   LEU G 930     -11.930   6.358   3.800  1.00 26.07      GAP  H   new
+ATOM   3463  HA  LEU G 930     -14.572   7.142   3.820  1.00 22.63      GAP  H   new
+ATOM   3464 1HB  LEU G 930     -12.867   6.043   6.114  1.00 27.06      GAP  H   new
+ATOM   3465 2HB  LEU G 930     -14.634   6.017   6.054  1.00 27.06      GAP  H   new
+ATOM   3466  HG  LEU G 930     -12.825   4.461   4.151  1.00 30.01      GAP  H   new
+ATOM   3467 1HD1 LEU G 930     -13.500   2.502   5.519  1.00 29.67      GAP  H   new
+ATOM   3468 2HD1 LEU G 930     -12.595   3.705   6.498  1.00 29.67      GAP  H   new
+ATOM   3469 3HD1 LEU G 930     -14.382   3.591   6.643  1.00 29.67      GAP  H   new
+ATOM   3470 1HD2 LEU G 930     -14.905   3.263   3.593  1.00 27.59      GAP  H   new
+ATOM   3471 2HD2 LEU G 930     -15.830   4.360   4.672  1.00 27.59      GAP  H   new
+ATOM   3472 3HD2 LEU G 930     -15.025   5.013   3.206  1.00 27.59      GAP  H   new
+ATOM   3473  N   ILE G 931     -12.718   8.944   5.867  1.00 22.64      GAP  N
+ATOM   3474  CA  ILE G 931     -12.734  10.198   6.615  1.00 21.91      GAP  C
+ATOM   3475  C   ILE G 931     -12.998  11.369   5.673  1.00 20.36      GAP  C
+ATOM   3476  O   ILE G 931     -13.962  12.121   5.866  1.00 21.78      GAP  O
+ATOM   3477  CB  ILE G 931     -11.410  10.416   7.394  1.00 20.82      GAP  C
+ATOM   3478  CG1 ILE G 931     -11.427   9.574   8.676  1.00 22.02      GAP  C
+ATOM   3479  CG2 ILE G 931     -11.242  11.882   7.758  1.00 14.90      GAP  C
+ATOM   3480  CD1 ILE G 931     -10.052   9.226   9.222  1.00 31.17      GAP  C
+ATOM   3481  H   ILE G 931     -11.817   8.518   5.782  1.00 22.64      GAP  H   new
+ATOM   3482  HA  ILE G 931     -13.547  10.140   7.353  1.00 21.91      GAP  H   new
+ATOM   3483  HB  ILE G 931     -10.569  10.109   6.755  1.00 20.82      GAP  H   new
+ATOM   3484 1HG1 ILE G 931     -11.987  10.119   9.450  1.00 22.02      GAP  H   new
+ATOM   3485 2HG1 ILE G 931     -11.976   8.641   8.479  1.00 22.02      GAP  H   new
+ATOM   3486 1HG2 ILE G 931     -10.300  12.018   8.309  1.00 14.90      GAP  H   new
+ATOM   3487 2HG2 ILE G 931     -11.220  12.488   6.840  1.00 14.90      GAP  H   new
+ATOM   3488 3HG2 ILE G 931     -12.084  12.203   8.389  1.00 14.90      GAP  H   new
+ATOM   3489 1HD1 ILE G 931     -10.161   8.625  10.137  1.00 31.17      GAP  H   new
+ATOM   3490 2HD1 ILE G 931      -9.493   8.650   8.470  1.00 31.17      GAP  H   new
+ATOM   3491 3HD1 ILE G 931      -9.505  10.151   9.456  1.00 31.17      GAP  H   new
+ATOM   3492  N   LEU G 932     -12.277  11.374   4.556  1.00 18.73      GAP  N
+ATOM   3493  CA  LEU G 932     -12.427  12.384   3.510  1.00 12.31      GAP  C
+ATOM   3494  C   LEU G 932     -13.857  12.421   2.945  1.00 13.90      GAP  C
+ATOM   3495  O   LEU G 932     -14.384  13.495   2.613  1.00 15.37      GAP  O
+ATOM   3496  CB  LEU G 932     -11.433  12.081   2.390  1.00  9.96      GAP  C
+ATOM   3497  CG  LEU G 932     -10.227  12.980   2.111  1.00  5.94      GAP  C
+ATOM   3498  CD1 LEU G 932     -10.116  14.095   3.134  1.00  2.00      GAP  C
+ATOM   3499  CD2 LEU G 932      -8.975  12.119   2.073  1.00  2.00      GAP  C
+ATOM   3500  H   LEU G 932     -11.580  10.686   4.352  1.00 18.73      GAP  H   new
+ATOM   3501  HA  LEU G 932     -12.225  13.372   3.949  1.00 12.31      GAP  H   new
+ATOM   3502 1HB  LEU G 932     -11.039  11.072   2.580  1.00  9.96      GAP  H   new
+ATOM   3503 2HB  LEU G 932     -12.013  12.029   1.457  1.00  9.96      GAP  H   new
+ATOM   3504  HG  LEU G 932     -10.354  13.472   1.135  1.00  5.94      GAP  H   new
+ATOM   3505 1HD1 LEU G 932      -9.240  14.720   2.903  1.00  2.00      GAP  H   new
+ATOM   3506 2HD1 LEU G 932     -11.025  14.713   3.103  1.00  2.00      GAP  H   new
+ATOM   3507 3HD1 LEU G 932     -10.002  13.662   4.139  1.00  2.00      GAP  H   new
+ATOM   3508 1HD2 LEU G 932      -8.099  12.753   1.873  1.00  2.00      GAP  H   new
+ATOM   3509 2HD2 LEU G 932      -8.847  11.613   3.042  1.00  2.00      GAP  H   new
+ATOM   3510 3HD2 LEU G 932      -9.071  11.366   1.277  1.00  2.00      GAP  H   new
+ATOM   3511  N   VAL G 933     -14.502  11.261   2.889  1.00 10.11      GAP  N
+ATOM   3512  CA  VAL G 933     -15.871  11.159   2.391  1.00 11.71      GAP  C
+ATOM   3513  C   VAL G 933     -16.894  11.579   3.440  1.00 10.55      GAP  C
+ATOM   3514  O   VAL G 933     -17.846  12.292   3.134  1.00 10.55      GAP  O
+ATOM   3515  CB  VAL G 933     -16.183   9.710   1.936  1.00 12.46      GAP  C
+ATOM   3516  CG1 VAL G 933     -17.643   9.558   1.587  1.00  8.51      GAP  C
+ATOM   3517  CG2 VAL G 933     -15.306   9.339   0.750  1.00  9.94      GAP  C
+ATOM   3518  H   VAL G 933     -14.105  10.390   3.178  1.00 10.11      GAP  H   new
+ATOM   3519  HA  VAL G 933     -15.947  11.845   1.534  1.00 11.71      GAP  H   new
+ATOM   3520  HB  VAL G 933     -15.963   9.026   2.769  1.00 12.46      GAP  H   new
+ATOM   3521 1HG1 VAL G 933     -17.838   8.524   1.268  1.00  8.51      GAP  H   new
+ATOM   3522 2HG1 VAL G 933     -18.258   9.792   2.469  1.00  8.51      GAP  H   new
+ATOM   3523 3HG1 VAL G 933     -17.899  10.248   0.769  1.00  8.51      GAP  H   new
+ATOM   3524 1HG2 VAL G 933     -15.533   8.310   0.433  1.00  9.94      GAP  H   new
+ATOM   3525 2HG2 VAL G 933     -15.503  10.030  -0.083  1.00  9.94      GAP  H   new
+ATOM   3526 3HG2 VAL G 933     -14.247   9.407   1.041  1.00  9.94      GAP  H   new
+ATOM   3527  N   ALA G 934     -16.743  11.054   4.653  1.00 14.62      GAP  N
+ATOM   3528  CA  ALA G 934     -17.646  11.386   5.754  1.00 13.15      GAP  C
+ATOM   3529  C   ALA G 934     -17.514  12.851   6.166  1.00 11.71      GAP  C
+ATOM   3530  O   ALA G 934     -18.493  13.474   6.568  1.00 14.63      GAP  O
+ATOM   3531  CB  ALA G 934     -17.374  10.483   6.943  1.00 14.19      GAP  C
+ATOM   3532  H   ALA G 934     -16.018  10.409   4.895  1.00 14.62      GAP  H   new
+ATOM   3533  HA  ALA G 934     -18.676  11.226   5.404  1.00 13.15      GAP  H   new
+ATOM   3534 1HB  ALA G 934     -18.058  10.741   7.765  1.00 14.19      GAP  H   new
+ATOM   3535 2HB  ALA G 934     -17.532   9.434   6.651  1.00 14.19      GAP  H   new
+ATOM   3536 3HB  ALA G 934     -16.334  10.618   7.276  1.00 14.19      GAP  H   new
+ATOM   3537  N   LYS G 935     -16.302  13.394   6.087  1.00  9.78      GAP  N
+ATOM   3538  CA  LYS G 935     -16.103  14.825   6.299  1.00  9.45      GAP  C
+ATOM   3539  C   LYS G 935     -16.931  15.613   5.291  1.00 12.41      GAP  C
+ATOM   3540  O   LYS G 935     -17.678  16.537   5.661  1.00 18.18      GAP  O
+ATOM   3541  CB  LYS G 935     -14.631  15.196   6.122  1.00  7.80      GAP  C
+ATOM   3542  CG  LYS G 935     -13.708  14.692   7.224  1.00  7.84      GAP  C
+ATOM   3543  CD  LYS G 935     -12.264  15.087   6.945  1.00  2.00      GAP  C
+ATOM   3544  CE  LYS G 935     -12.133  16.581   6.882  1.00  4.39      GAP  C
+ATOM   3545  NZ  LYS G 935     -10.730  16.977   6.695  1.00 12.46      GAP  N
+ATOM   3546  H   LYS G 935     -15.468  12.882   5.884  1.00  9.78      GAP  H   new
+ATOM   3547  HA  LYS G 935     -16.418  15.070   7.324  1.00  9.45      GAP  H   new
+ATOM   3548 1HB  LYS G 935     -14.280  14.797   5.159  1.00  7.80      GAP  H   new
+ATOM   3549 2HB  LYS G 935     -14.548  16.291   6.066  1.00  7.80      GAP  H   new
+ATOM   3550 1HG  LYS G 935     -14.026  15.106   8.192  1.00  7.84      GAP  H   new
+ATOM   3551 2HG  LYS G 935     -13.785  13.597   7.301  1.00  7.84      GAP  H   new
+ATOM   3552 1HD  LYS G 935     -11.609  14.688   7.733  1.00  2.00      GAP  H   new
+ATOM   3553 2HD  LYS G 935     -11.932  14.643   5.995  1.00  2.00      GAP  H   new
+ATOM   3554 1HE  LYS G 935     -12.742  16.972   6.054  1.00  4.39      GAP  H   new
+ATOM   3555 2HE  LYS G 935     -12.524  17.027   7.808  1.00  4.39      GAP  H   new
+ATOM   3556 1HZ  LYS G 935     -10.667  17.974   6.656  1.00 12.46      GAP  H + new
+ATOM   3557 2HZ  LYS G 935     -10.183  16.639   7.460  1.00 12.46      GAP  H + new
+ATOM   3558 3HZ  LYS G 935     -10.384  16.588   5.841  1.00 12.46      GAP  H + new
+ATOM   3559  N   SER G 936     -16.841  15.207   4.026  1.00 14.31      GAP  N
+ATOM   3560  CA  SER G 936     -17.540  15.881   2.941  1.00  8.05      GAP  C
+ATOM   3561  C   SER G 936     -19.032  15.784   3.119  1.00  5.54      GAP  C
+ATOM   3562  O   SER G 936     -19.703  16.789   3.120  1.00 13.47      GAP  O
+ATOM   3563  CB  SER G 936     -17.138  15.279   1.598  1.00  9.77      GAP  C
+ATOM   3564  OG  SER G 936     -15.815  15.658   1.260  1.00 20.74      GAP  O
+ATOM   3565  H   SER G 936     -16.295  14.422   3.734  1.00 14.31      GAP  H   new
+ATOM   3566  HA  SER G 936     -17.255  16.943   2.960  1.00  8.05      GAP  H   new
+ATOM   3567 1HB  SER G 936     -17.834  15.616   0.815  1.00  9.77      GAP  H   new
+ATOM   3568 2HB  SER G 936     -17.212  14.182   1.644  1.00  9.77      GAP  H   new
+ATOM   3569  HG  SER G 936     -15.567  15.256   0.379  1.00 20.74      GAP  H   new
+ATOM   3570  N   VAL G 937     -19.530  14.580   3.376  1.00  5.33      GAP  N
+ATOM   3571  CA  VAL G 937     -20.957  14.405   3.662  1.00  8.34      GAP  C
+ATOM   3572  C   VAL G 937     -21.422  15.264   4.846  1.00 11.36      GAP  C
+ATOM   3573  O   VAL G 937     -22.534  15.823   4.824  1.00 13.21      GAP  O
+ATOM   3574  CB  VAL G 937     -21.307  12.925   3.953  1.00  6.61      GAP  C
+ATOM   3575  CG1 VAL G 937     -22.791  12.777   4.209  1.00  8.36      GAP  C
+ATOM   3576  CG2 VAL G 937     -20.884  12.046   2.788  1.00  2.03      GAP  C
+ATOM   3577  H   VAL G 937     -18.992  13.737   3.393  1.00  5.33      GAP  H   new
+ATOM   3578  HA  VAL G 937     -21.485  14.734   2.755  1.00  8.34      GAP  H   new
+ATOM   3579  HB  VAL G 937     -20.761  12.605   4.853  1.00  6.61      GAP  H   new
+ATOM   3580 1HG1 VAL G 937     -23.025  11.722   4.414  1.00  8.36      GAP  H   new
+ATOM   3581 2HG1 VAL G 937     -23.077  13.391   5.076  1.00  8.36      GAP  H   new
+ATOM   3582 3HG1 VAL G 937     -23.351  13.111   3.323  1.00  8.36      GAP  H   new
+ATOM   3583 1HG2 VAL G 937     -21.138  10.998   3.007  1.00  2.03      GAP  H   new
+ATOM   3584 2HG2 VAL G 937     -21.409  12.367   1.876  1.00  2.03      GAP  H   new
+ATOM   3585 3HG2 VAL G 937     -19.798  12.135   2.636  1.00  2.03      GAP  H   new
+ATOM   3586  N   GLN G 938     -20.561  15.429   5.847  1.00 12.28      GAP  N
+ATOM   3587  CA  GLN G 938     -20.937  16.172   7.040  1.00 12.29      GAP  C
+ATOM   3588  C   GLN G 938     -21.043  17.668   6.767  1.00 13.34      GAP  C
+ATOM   3589  O   GLN G 938     -21.931  18.339   7.290  1.00 13.88      GAP  O
+ATOM   3590  CB  GLN G 938     -19.945  15.924   8.165  1.00 10.42      GAP  C
+ATOM   3591  CG  GLN G 938     -20.414  16.477   9.491  1.00 12.39      GAP  C
+ATOM   3592  CD  GLN G 938     -21.810  16.016   9.836  1.00 17.65      GAP  C
+ATOM   3593  OE1 GLN G 938     -22.131  14.840   9.701  1.00 26.00      GAP  O
+ATOM   3594  NE2 GLN G 938     -22.660  16.946  10.252  1.00 13.71      GAP  N
+ATOM   3595  H   GLN G 938     -19.628  15.069   5.854  1.00 12.28      GAP  H   new
+ATOM   3596  HA  GLN G 938     -21.929  15.809   7.346  1.00 12.29      GAP  H   new
+ATOM   3597 1HB  GLN G 938     -19.773  14.842   8.264  1.00 10.42      GAP  H   new
+ATOM   3598 2HB  GLN G 938     -18.979  16.381   7.903  1.00 10.42      GAP  H   new
+ATOM   3599 1HG  GLN G 938     -19.719  16.164  10.284  1.00 12.39      GAP  H   new
+ATOM   3600 2HG  GLN G 938     -20.390  17.576   9.458  1.00 12.39      GAP  H   new
+ATOM   3601 1HE2 GLN G 938     -23.604  16.699  10.469  1.00 13.71      GAP  H   new
+ATOM   3602 2HE2 GLN G 938     -22.356  17.894  10.348  1.00 13.71      GAP  H   new
+ATOM   3603  N   ASN G 939     -20.162  18.177   5.916  1.00 12.99      GAP  N
+ATOM   3604  CA  ASN G 939     -20.221  19.579   5.518  1.00 15.24      GAP  C
+ATOM   3605  C   ASN G 939     -21.518  19.902   4.802  1.00 19.35      GAP  C
+ATOM   3606  O   ASN G 939     -22.188  20.922   5.087  1.00 22.77      GAP  O
+ATOM   3607  CB  ASN G 939     -19.057  19.901   4.604  1.00 12.45      GAP  C
+ATOM   3608  CG  ASN G 939     -18.018  20.709   5.292  1.00 17.47      GAP  C
+ATOM   3609  OD1 ASN G 939     -17.589  21.747   4.793  1.00 22.85      GAP  O
+ATOM   3610  ND2 ASN G 939     -17.622  20.264   6.475  1.00 20.35      GAP  N
+ATOM   3611  H   ASN G 939     -19.418  17.656   5.498  1.00 12.99      GAP  H   new
+ATOM   3612  HA  ASN G 939     -20.168  20.189   6.432  1.00 15.24      GAP  H   new
+ATOM   3613 1HB  ASN G 939     -18.610  18.965   4.237  1.00 12.45      GAP  H   new
+ATOM   3614 2HB  ASN G 939     -19.424  20.449   3.724  1.00 12.45      GAP  H   new
+ATOM   3615 1HD2 ASN G 939     -16.946  20.779   7.002  1.00 20.35      GAP  H   new
+ATOM   3616 2HD2 ASN G 939     -17.999  19.413   6.841  1.00 20.35      GAP  H   new
+ATOM   3617  N   LEU G 940     -21.871  19.033   3.865  1.00 21.31      GAP  N
+ATOM   3618  CA  LEU G 940     -23.098  19.170   3.107  1.00 19.41      GAP  C
+ATOM   3619  C   LEU G 940     -24.290  19.076   4.036  1.00 21.18      GAP  C
+ATOM   3620  O   LEU G 940     -25.204  19.900   3.954  1.00 27.94      GAP  O
+ATOM   3621  CB  LEU G 940     -23.183  18.065   2.064  1.00 20.65      GAP  C
+ATOM   3622  CG  LEU G 940     -24.399  18.107   1.155  1.00 18.98      GAP  C
+ATOM   3623  CD1 LEU G 940     -24.477  19.456   0.466  1.00 19.82      GAP  C
+ATOM   3624  CD2 LEU G 940     -24.296  16.984   0.150  1.00 18.83      GAP  C
+ATOM   3625  H   LEU G 940     -21.325  18.233   3.617  1.00 21.31      GAP  H   new
+ATOM   3626  HA  LEU G 940     -23.102  20.149   2.606  1.00 19.41      GAP  H   new
+ATOM   3627 1HB  LEU G 940     -22.279  18.107   1.438  1.00 20.65      GAP  H   new
+ATOM   3628 2HB  LEU G 940     -23.170  17.095   2.583  1.00 20.65      GAP  H   new
+ATOM   3629  HG  LEU G 940     -25.320  17.974   1.742  1.00 18.98      GAP  H   new
+ATOM   3630 1HD1 LEU G 940     -25.359  19.482  -0.191  1.00 19.82      GAP  H   new
+ATOM   3631 2HD1 LEU G 940     -24.560  20.250   1.222  1.00 19.82      GAP  H   new
+ATOM   3632 3HD1 LEU G 940     -23.569  19.615  -0.134  1.00 19.82      GAP  H   new
+ATOM   3633 1HD2 LEU G 940     -25.172  17.004  -0.515  1.00 18.83      GAP  H   new
+ATOM   3634 2HD2 LEU G 940     -23.381  17.108  -0.447  1.00 18.83      GAP  H   new
+ATOM   3635 3HD2 LEU G 940     -24.260  16.020   0.679  1.00 18.83      GAP  H   new
+ATOM   3636  N   ALA G 941     -24.247  18.098   4.941  1.00 16.17      GAP  N
+ATOM   3637  CA  ALA G 941     -25.326  17.863   5.893  1.00 15.64      GAP  C
+ATOM   3638  C   ALA G 941     -25.564  19.066   6.794  1.00 15.07      GAP  C
+ATOM   3639  O   ALA G 941     -26.657  19.238   7.333  1.00 19.21      GAP  O
+ATOM   3640  CB  ALA G 941     -25.026  16.625   6.738  1.00 12.66      GAP  C
+ATOM   3641  H   ALA G 941     -23.480  17.463   5.031  1.00 16.17      GAP  H   new
+ATOM   3642  HA  ALA G 941     -26.246  17.696   5.313  1.00 15.64      GAP  H   new
+ATOM   3643 1HB  ALA G 941     -25.847  16.459   7.451  1.00 12.66      GAP  H   new
+ATOM   3644 2HB  ALA G 941     -24.928  15.748   6.082  1.00 12.66      GAP  H   new
+ATOM   3645 3HB  ALA G 941     -24.087  16.776   7.290  1.00 12.66      GAP  H   new
+ATOM   3646  N   ASN G 942     -24.526  19.865   7.004  1.00 18.33      GAP  N
+ATOM   3647  CA  ASN G 942     -24.663  21.048   7.837  1.00 21.99      GAP  C
+ATOM   3648  C   ASN G 942     -24.944  22.263   6.974  1.00 21.91      GAP  C
+ATOM   3649  O   ASN G 942     -25.466  23.262   7.465  1.00 27.96      GAP  O
+ATOM   3650  CB  ASN G 942     -23.386  21.296   8.650  1.00 22.86      GAP  C
+ATOM   3651  CG  ASN G 942     -23.005  20.123   9.523  1.00 23.11      GAP  C
+ATOM   3652  OD1 ASN G 942     -21.824  19.785   9.630  1.00 26.19      GAP  O
+ATOM   3653  ND2 ASN G 942     -23.988  19.525  10.195  1.00 22.19      GAP  N
+ATOM   3654  H   ASN G 942     -23.613  19.721   6.623  1.00 18.33      GAP  H   new
+ATOM   3655  HA  ASN G 942     -25.501  20.880   8.529  1.00 21.99      GAP  H   new
+ATOM   3656 1HB  ASN G 942     -22.557  21.518   7.962  1.00 22.86      GAP  H   new
+ATOM   3657 2HB  ASN G 942     -23.527  22.186   9.282  1.00 22.86      GAP  H   new
+ATOM   3658 1HD2 ASN G 942     -23.781  18.769  10.817  1.00 22.19      GAP  H   new
+ATOM   3659 2HD2 ASN G 942     -24.933  19.832  10.078  1.00 22.19      GAP  H   new
+ATOM   3660  N   LEU G 943     -24.564  22.178   5.700  1.00 19.53      GAP  N
+ATOM   3661  CA  LEU G 943     -24.681  23.275   4.744  1.00 21.89      GAP  C
+ATOM   3662  C   LEU G 943     -23.547  24.274   4.845  1.00 22.87      GAP  C
+ATOM   3663  O   LEU G 943     -23.741  25.475   4.592  1.00 24.81      GAP  O
+ATOM   3664  CB  LEU G 943     -26.010  24.014   4.907  1.00 22.87      GAP  C
+ATOM   3665  CG  LEU G 943     -27.259  23.149   4.790  1.00 23.66      GAP  C
+ATOM   3666  CD1 LEU G 943     -28.485  23.969   5.143  1.00 24.38      GAP  C
+ATOM   3667  CD2 LEU G 943     -27.329  22.585   3.377  1.00 24.81      GAP  C
+ATOM   3668  H   LEU G 943     -24.168  21.348   5.306  1.00 19.53      GAP  H   new
+ATOM   3669  HA  LEU G 943     -24.633  22.806   3.750  1.00 21.89      GAP  H   new
+ATOM   3670 1HB  LEU G 943     -26.017  24.507   5.890  1.00 22.87      GAP  H   new
+ATOM   3671 2HB  LEU G 943     -26.063  24.809   4.148  1.00 22.87      GAP  H   new
+ATOM   3672  HG  LEU G 943     -27.219  22.306   5.496  1.00 23.66      GAP  H   new
+ATOM   3673 1HD1 LEU G 943     -29.384  23.341   5.057  1.00 24.38      GAP  H   new
+ATOM   3674 2HD1 LEU G 943     -28.394  24.340   6.175  1.00 24.38      GAP  H   new
+ATOM   3675 3HD1 LEU G 943     -28.567  24.822   4.453  1.00 24.38      GAP  H   new
+ATOM   3676 1HD2 LEU G 943     -28.227  21.957   3.276  1.00 24.81      GAP  H   new
+ATOM   3677 2HD2 LEU G 943     -27.378  23.412   2.653  1.00 24.81      GAP  H   new
+ATOM   3678 3HD2 LEU G 943     -26.433  21.978   3.179  1.00 24.81      GAP  H   new
+ATOM   3679  N   VAL G 944     -22.355  23.784   5.168  1.00 22.16      GAP  N
+ATOM   3680  CA  VAL G 944     -21.190  24.658   5.237  1.00 25.24      GAP  C
+ATOM   3681  C   VAL G 944     -20.173  24.352   4.152  1.00 29.05      GAP  C
+ATOM   3682  O   VAL G 944     -19.796  23.196   3.954  1.00 32.40      GAP  O
+ATOM   3683  CB  VAL G 944     -20.468  24.599   6.616  1.00 20.69      GAP  C
+ATOM   3684  CG1 VAL G 944     -20.815  25.817   7.434  1.00 27.02      GAP  C
+ATOM   3685  CG2 VAL G 944     -20.841  23.351   7.373  1.00 21.88      GAP  C
+ATOM   3686  H   VAL G 944     -22.175  22.823   5.379  1.00 22.16      GAP  H   new
+ATOM   3687  HA  VAL G 944     -21.594  25.670   5.088  1.00 25.24      GAP  H   new
+ATOM   3688  HB  VAL G 944     -19.384  24.579   6.432  1.00 20.69      GAP  H   new
+ATOM   3689 1HG1 VAL G 944     -20.301  25.766   8.405  1.00 27.02      GAP  H   new
+ATOM   3690 2HG1 VAL G 944     -20.496  26.723   6.898  1.00 27.02      GAP  H   new
+ATOM   3691 3HG1 VAL G 944     -21.902  25.852   7.597  1.00 27.02      GAP  H   new
+ATOM   3692 1HG2 VAL G 944     -20.317  23.338   8.340  1.00 21.88      GAP  H   new
+ATOM   3693 2HG2 VAL G 944     -21.927  23.337   7.545  1.00 21.88      GAP  H   new
+ATOM   3694 3HG2 VAL G 944     -20.551  22.466   6.787  1.00 21.88      GAP  H   new
+ATOM   3695  N   GLU G 945     -19.771  25.395   3.426  1.00 32.41      GAP  N
+ATOM   3696  CA  GLU G 945     -18.632  25.346   2.509  1.00 34.13      GAP  C
+ATOM   3697  C   GLU G 945     -17.333  25.180   3.303  1.00 38.66      GAP  C
+ATOM   3698  O   GLU G 945     -17.196  25.747   4.406  1.00 42.69      GAP  O
+ATOM   3699  CB  GLU G 945     -18.553  26.648   1.712  1.00 37.16      GAP  C
+ATOM   3700  CG  GLU G 945     -18.734  26.499   0.217  1.00 38.17      GAP  C
+ATOM   3701  CD  GLU G 945     -20.100  26.964  -0.253  1.00 40.23      GAP  C
+ATOM   3702  OE1 GLU G 945     -20.261  28.164  -0.569  1.00 38.19      GAP  O
+ATOM   3703  OE2 GLU G 945     -21.020  26.125  -0.314  1.00 47.20      GAP  O
+ATOM   3704  H   GLU G 945     -20.221  26.287   3.457  1.00 32.41      GAP  H   new
+ATOM   3705  HA  GLU G 945     -18.765  24.495   1.825  1.00 34.13      GAP  H   new
+ATOM   3706 1HB  GLU G 945     -19.321  27.339   2.091  1.00 37.16      GAP  H   new
+ATOM   3707 2HB  GLU G 945     -17.576  27.117   1.902  1.00 37.16      GAP  H   new
+ATOM   3708 1HG  GLU G 945     -17.955  27.076  -0.303  1.00 38.17      GAP  H   new
+ATOM   3709 2HG  GLU G 945     -18.593  25.445  -0.063  1.00 38.17      GAP  H   new
+ATOM   3710  N   PHE G 946     -16.333  24.559   2.678  1.00 40.46      GAP  N
+ATOM   3711  CA  PHE G 946     -15.081  24.220   3.363  1.00 42.52      GAP  C
+ATOM   3712  C   PHE G 946     -14.222  25.443   3.722  1.00 44.80      GAP  C
+ATOM   3713  O   PHE G 946     -13.955  25.688   4.917  1.00 49.40      GAP  O
+ATOM   3714  CB  PHE G 946     -14.261  23.227   2.525  1.00 39.61      GAP  C
+ATOM   3715  CG  PHE G 946     -14.682  21.791   2.697  1.00 38.95      GAP  C
+ATOM   3716  CD1 PHE G 946     -14.617  21.174   3.937  1.00 40.75      GAP  C
+ATOM   3717  CD2 PHE G 946     -15.194  21.071   1.629  1.00 41.91      GAP  C
+ATOM   3718  CE1 PHE G 946     -15.065  19.856   4.116  1.00 42.48      GAP  C
+ATOM   3719  CE2 PHE G 946     -15.648  19.752   1.798  1.00 45.13      GAP  C
+ATOM   3720  CZ  PHE G 946     -15.585  19.148   3.046  1.00 43.37      GAP  C
+ATOM   3721  H   PHE G 946     -16.363  24.285   1.717  1.00 40.46      GAP  H   new
+ATOM   3722  HA  PHE G 946     -15.373  23.755   4.316  1.00 42.52      GAP  H   new
+ATOM   3723 1HB  PHE G 946     -14.348  23.500   1.463  1.00 39.61      GAP  H   new
+ATOM   3724 2HB  PHE G 946     -13.199  23.323   2.796  1.00 39.61      GAP  H   new
+ATOM   3725  HD1 PHE G 946     -14.207  21.727   4.795  1.00 40.75      GAP  H   new
+ATOM   3726  HD2 PHE G 946     -15.246  21.539   0.635  1.00 41.91      GAP  H   new
+ATOM   3727  HE1 PHE G 946     -15.003  19.385   5.108  1.00 42.48      GAP  H   new
+ATOM   3728  HE2 PHE G 946     -16.054  19.197   0.939  1.00 45.13      GAP  H   new
+ATOM   3729  HZ  PHE G 946     -15.944  18.118   3.183  1.00 43.37      GAP  H   new
+ATOM   3730  N   GLY G 947     -13.714  26.141   2.706  1.00 40.82      GAP  N
+ATOM   3731  CA  GLY G 947     -13.027  27.419   2.882  1.00 39.11      GAP  C
+ATOM   3732  C   GLY G 947     -12.438  27.800   4.237  1.00 35.83      GAP  C
+ATOM   3733  O   GLY G 947     -11.219  27.820   4.407  1.00 32.86      GAP  O
+ATOM   3734  H   GLY G 947     -13.767  25.840   1.754  1.00 40.82      GAP  H   new
+ATOM   3735 1HA  GLY G 947     -12.206  27.450   2.151  1.00 39.11      GAP  H   new
+ATOM   3736 2HA  GLY G 947     -13.737  28.211   2.602  1.00 39.11      GAP  H   new
+ATOM   3737  N   ALA G 948     -13.305  28.261   5.136  1.00 34.20      GAP  N
+ATOM   3738  CA  ALA G 948     -12.911  28.670   6.474  1.00 35.22      GAP  C
+ATOM   3739  C   ALA G 948     -12.754  27.468   7.391  1.00 37.28      GAP  C
+ATOM   3740  O   ALA G 948     -13.707  27.080   8.068  1.00 44.41      GAP  O
+ATOM   3741  CB  ALA G 948     -13.944  29.630   7.049  1.00 34.83      GAP  C
+ATOM   3742  H   ALA G 948     -14.284  28.358   4.956  1.00 34.20      GAP  H   new
+ATOM   3743  HA  ALA G 948     -11.938  29.178   6.405  1.00 35.22      GAP  H   new
+ATOM   3744 1HB  ALA G 948     -13.639  29.935   8.061  1.00 34.83      GAP  H   new
+ATOM   3745 2HB  ALA G 948     -14.017  30.519   6.405  1.00 34.83      GAP  H   new
+ATOM   3746 3HB  ALA G 948     -14.923  29.131   7.097  1.00 34.83      GAP  H   new
+ATOM   3747  N   LYS G 949     -11.632  26.769   7.229  1.00 34.30      GAP  N
+ATOM   3748  CA  LYS G 949     -11.095  25.845   8.227  1.00 26.61      GAP  C
+ATOM   3749  C   LYS G 949      -9.767  25.271   7.733  1.00 27.08      GAP  C
+ATOM   3750  O   LYS G 949      -8.755  25.967   7.759  1.00 31.63      GAP  O
+ATOM   3751  CB  LYS G 949     -12.108  24.746   8.566  1.00 19.60      GAP  C
+ATOM   3752  CG  LYS G 949     -12.809  25.036   9.886  1.00 16.76      GAP  C
+ATOM   3753  CD  LYS G 949     -14.157  24.371  10.059  1.00 14.70      GAP  C
+ATOM   3754  CE  LYS G 949     -14.859  24.930  11.301  1.00 10.97      GAP  C
+ATOM   3755  NZ  LYS G 949     -15.667  23.915  12.048  1.00  7.73      GAP  N
+ATOM   3756  H   LYS G 949     -11.072  26.829   6.403  1.00 34.30      GAP  H   new
+ATOM   3757  HA  LYS G 949     -10.905  26.394   9.161  1.00 26.61      GAP  H   new
+ATOM   3758 1HB  LYS G 949     -12.853  24.668   7.760  1.00 19.60      GAP  H   new
+ATOM   3759 2HB  LYS G 949     -11.595  23.775   8.625  1.00 19.60      GAP  H   new
+ATOM   3760 1HG  LYS G 949     -12.153  24.717  10.709  1.00 16.76      GAP  H   new
+ATOM   3761 2HG  LYS G 949     -12.940  26.124   9.982  1.00 16.76      GAP  H   new
+ATOM   3762 1HD  LYS G 949     -14.778  24.543   9.167  1.00 14.70      GAP  H   new
+ATOM   3763 2HD  LYS G 949     -14.029  23.283  10.157  1.00 14.70      GAP  H   new
+ATOM   3764 1HE  LYS G 949     -14.103  25.353  11.978  1.00 10.97      GAP  H   new
+ATOM   3765 2HE  LYS G 949     -15.517  25.757  10.997  1.00 10.97      GAP  H   new
+ATOM   3766 1HZ  LYS G 949     -16.094  24.347  12.842  1.00  7.73      GAP  H + new
+ATOM   3767 2HZ  LYS G 949     -16.377  23.546  11.448  1.00  7.73      GAP  H + new
+ATOM   3768 3HZ  LYS G 949     -15.071  23.173  12.354  1.00  7.73      GAP  H + new
+ATOM   3769  N   GLU G 950      -9.778  24.061   7.189  1.00 26.12      GAP  N
+ATOM   3770  CA  GLU G 950      -8.602  23.545   6.494  1.00 28.24      GAP  C
+ATOM   3771  C   GLU G 950      -8.551  24.086   5.056  1.00 33.13      GAP  C
+ATOM   3772  O   GLU G 950      -9.596  24.219   4.392  1.00 36.94      GAP  O
+ATOM   3773  CB  GLU G 950      -8.643  22.020   6.460  1.00 26.53      GAP  C
+ATOM   3774  CG  GLU G 950      -8.992  21.374   7.776  1.00 28.62      GAP  C
+ATOM   3775  CD  GLU G 950      -9.661  20.030   7.586  1.00 30.72      GAP  C
+ATOM   3776  OE1 GLU G 950     -10.848  20.004   7.190  1.00 32.38      GAP  O
+ATOM   3777  OE2 GLU G 950      -8.997  18.999   7.819  1.00 23.29      GAP  O
+ATOM   3778  H   GLU G 950     -10.559  23.437   7.213  1.00 26.12      GAP  H   new
+ATOM   3779  HA  GLU G 950      -7.704  23.876   7.036  1.00 28.24      GAP  H   new
+ATOM   3780 1HB  GLU G 950      -9.377  21.703   5.704  1.00 26.53      GAP  H   new
+ATOM   3781 2HB  GLU G 950      -7.662  21.647   6.132  1.00 26.53      GAP  H   new
+ATOM   3782 1HG  GLU G 950      -8.078  21.247   8.375  1.00 28.62      GAP  H   new
+ATOM   3783 2HG  GLU G 950      -9.660  22.038   8.344  1.00 28.62      GAP  H   new
+ATOM   3784  N   PRO G 951      -7.340  24.348   4.530  1.00 35.86      GAP  N
+ATOM   3785  CA  PRO G 951      -7.154  24.832   3.152  1.00 40.17      GAP  C
+ATOM   3786  C   PRO G 951      -7.311  23.807   2.012  1.00 41.87      GAP  C
+ATOM   3787  O   PRO G 951      -7.863  24.135   0.950  1.00 41.83      GAP  O
+ATOM   3788  CB  PRO G 951      -5.747  25.440   3.174  1.00 40.65      GAP  C
+ATOM   3789  CG  PRO G 951      -5.046  24.709   4.266  1.00 38.23      GAP  C
+ATOM   3790  CD  PRO G 951      -6.108  24.505   5.323  1.00 36.82      GAP  C
+ATOM   3791  HA  PRO G 951      -7.964  25.534   2.905  1.00 40.17      GAP  H   new
+ATOM   3792 1HB  PRO G 951      -5.237  25.305   2.209  1.00 40.65      GAP  H   new
+ATOM   3793 2HB  PRO G 951      -5.780  26.522   3.372  1.00 40.65      GAP  H   new
+ATOM   3794 1HG  PRO G 951      -4.643  23.749   3.912  1.00 38.23      GAP  H   new
+ATOM   3795 2HG  PRO G 951      -4.197  25.289   4.657  1.00 38.23      GAP  H   new
+ATOM   3796 1HD  PRO G 951      -5.904  23.617   5.939  1.00 36.82      GAP  H   new
+ATOM   3797 2HD  PRO G 951      -6.171  25.364   6.008  1.00 36.82      GAP  H   new
+ATOM   3798  N   TYR G 952      -6.794  22.594   2.197  1.00 42.45      GAP  N
+ATOM   3799  CA  TYR G 952      -6.753  21.610   1.116  1.00 43.77      GAP  C
+ATOM   3800  C   TYR G 952      -8.139  21.216   0.616  1.00 43.04      GAP  C
+ATOM   3801  O   TYR G 952      -8.351  21.047  -0.594  1.00 48.01      GAP  O
+ATOM   3802  CB  TYR G 952      -5.984  20.357   1.548  1.00 44.20      GAP  C
+ATOM   3803  CG  TYR G 952      -6.438  19.781   2.853  1.00 44.39      GAP  C
+ATOM   3804  CD1 TYR G 952      -5.972  20.301   4.057  1.00 45.16      GAP  C
+ATOM   3805  CD2 TYR G 952      -7.278  18.677   2.884  1.00 46.47      GAP  C
+ATOM   3806  CE1 TYR G 952      -6.328  19.727   5.272  1.00 44.33      GAP  C
+ATOM   3807  CE2 TYR G 952      -7.642  18.095   4.096  1.00 48.01      GAP  C
+ATOM   3808  CZ  TYR G 952      -7.164  18.622   5.293  1.00 46.91      GAP  C
+ATOM   3809  H   TYR G 952      -6.407  22.276   3.063  1.00 42.45      GAP  H   new
+ATOM   3810  HA  TYR G 952      -6.229  22.096   0.280  1.00 43.77      GAP  H   new
+ATOM   3811 1HB  TYR G 952      -6.085  19.590   0.766  1.00 44.20      GAP  H   new
+ATOM   3812 2HB  TYR G 952      -4.914  20.603   1.621  1.00 44.20      GAP  H   new
+ATOM   3813  HD1 TYR G 952      -5.311  21.180   4.047  1.00 45.16      GAP  H   new
+ATOM   3814  HD2 TYR G 952      -7.660  18.257   1.942  1.00 46.47      GAP  H   new
+ATOM   3815  HE1 TYR G 952      -5.947  20.149   6.214  1.00 44.33      GAP  H   new
+ATOM   3816  HE2 TYR G 952      -8.307  17.219   4.108  1.00 48.01      GAP  H   new
+ATOM   3817  N   MET G 953      -9.103  21.201   1.531  1.00 39.53      GAP  N
+ATOM   3818  CA  MET G 953     -10.459  20.747   1.235  1.00 37.28      GAP  C
+ATOM   3819  C   MET G 953     -11.228  21.652   0.270  1.00 35.24      GAP  C
+ATOM   3820  O   MET G 953     -12.312  21.294  -0.184  1.00 30.11      GAP  O
+ATOM   3821  CB  MET G 953     -11.251  20.607   2.539  1.00 36.90      GAP  C
+ATOM   3822  CG  MET G 953     -10.750  19.515   3.454  1.00 32.12      GAP  C
+ATOM   3823  SD  MET G 953     -10.860  17.888   2.705  1.00 30.06      GAP  S
+ATOM   3824  CE  MET G 953     -12.538  17.483   3.049  1.00 20.23      GAP  C
+ATOM   3825  H   MET G 953      -8.970  21.496   2.477  1.00 39.53      GAP  H   new
+ATOM   3826  HA  MET G 953     -10.350  19.777   0.729  1.00 37.28      GAP  H   new
+ATOM   3827 1HB  MET G 953     -11.219  21.565   3.079  1.00 36.90      GAP  H   new
+ATOM   3828 2HB  MET G 953     -12.305  20.410   2.295  1.00 36.90      GAP  H   new
+ATOM   3829 1HG  MET G 953      -9.704  19.720   3.726  1.00 32.12      GAP  H   new
+ATOM   3830 2HG  MET G 953     -11.333  19.526   4.387  1.00 32.12      GAP  H   new
+ATOM   3831 1HE  MET G 953     -12.766  16.487   2.642  1.00 20.23      GAP  H   new
+ATOM   3832 2HE  MET G 953     -12.699  17.480   4.137  1.00 20.23      GAP  H   new
+ATOM   3833 3HE  MET G 953     -13.199  18.229   2.583  1.00 20.23      GAP  H   new
+ATOM   3834  N   GLU G 954     -10.646  22.799  -0.070  1.00 36.69      GAP  N
+ATOM   3835  CA  GLU G 954     -11.352  23.862  -0.791  1.00 40.72      GAP  C
+ATOM   3836  C   GLU G 954     -12.007  23.438  -2.121  1.00 40.99      GAP  C
+ATOM   3837  O   GLU G 954     -13.091  23.946  -2.489  1.00 42.83      GAP  O
+ATOM   3838  CB  GLU G 954     -10.398  25.036  -1.035  1.00 48.65      GAP  C
+ATOM   3839  CG  GLU G 954     -10.701  26.290  -0.211  1.00 63.10      GAP  C
+ATOM   3840  CD  GLU G 954     -10.010  26.303   1.155  1.00 72.38      GAP  C
+ATOM   3841  OE1 GLU G 954     -10.471  25.579   2.074  1.00 77.46      GAP  O
+ATOM   3842  OE2 GLU G 954      -9.012  27.046   1.315  1.00 75.17      GAP  O
+ATOM   3843  H   GLU G 954      -9.693  23.016   0.140  1.00 36.69      GAP  H   new
+ATOM   3844  HA  GLU G 954     -12.189  24.150  -0.138  1.00 40.72      GAP  H   new
+ATOM   3845 1HB  GLU G 954      -9.372  24.708  -0.814  1.00 48.65      GAP  H   new
+ATOM   3846 2HB  GLU G 954     -10.429  25.299  -2.103  1.00 48.65      GAP  H   new
+ATOM   3847 1HG  GLU G 954     -10.388  27.178  -0.780  1.00 63.10      GAP  H   new
+ATOM   3848 2HG  GLU G 954     -11.788  26.369  -0.064  1.00 63.10      GAP  H   new
+ATOM   3849  N   GLY G 955     -11.407  22.462  -2.804  1.00 37.76      GAP  N
+ATOM   3850  CA  GLY G 955     -11.912  22.036  -4.101  1.00 31.45      GAP  C
+ATOM   3851  C   GLY G 955     -12.944  20.920  -4.071  1.00 30.05      GAP  C
+ATOM   3852  O   GLY G 955     -13.119  20.198  -5.057  1.00 31.71      GAP  O
+ATOM   3853  H   GLY G 955     -10.596  21.969  -2.488  1.00 37.76      GAP  H   new
+ATOM   3854 1HA  GLY G 955     -12.355  22.907  -4.606  1.00 31.45      GAP  H   new
+ATOM   3855 2HA  GLY G 955     -11.061  21.707  -4.715  1.00 31.45      GAP  H   new
+ATOM   3856  N   VAL G 956     -13.601  20.744  -2.933  1.00 26.88      GAP  N
+ATOM   3857  CA  VAL G 956     -14.686  19.775  -2.822  1.00 21.13      GAP  C
+ATOM   3858  C   VAL G 956     -15.996  20.559  -2.756  1.00 22.82      GAP  C
+ATOM   3859  O   VAL G 956     -17.102  19.978  -2.805  1.00 17.51      GAP  O
+ATOM   3860  CB  VAL G 956     -14.508  18.900  -1.556  1.00 17.53      GAP  C
+ATOM   3861  CG1 VAL G 956     -15.653  17.934  -1.402  1.00 19.28      GAP  C
+ATOM   3862  CG2 VAL G 956     -13.211  18.127  -1.646  1.00 16.03      GAP  C
+ATOM   3863  H   VAL G 956     -13.407  21.248  -2.091  1.00 26.88      GAP  H   new
+ATOM   3864  HA  VAL G 956     -14.687  19.098  -3.689  1.00 21.13      GAP  H   new
+ATOM   3865  HB  VAL G 956     -14.488  19.565  -0.680  1.00 17.53      GAP  H   new
+ATOM   3866 1HG1 VAL G 956     -15.502  17.327  -0.498  1.00 19.28      GAP  H   new
+ATOM   3867 2HG1 VAL G 956     -16.596  18.493  -1.314  1.00 19.28      GAP  H   new
+ATOM   3868 3HG1 VAL G 956     -15.699  17.275  -2.282  1.00 19.28      GAP  H   new
+ATOM   3869 1HG2 VAL G 956     -13.089  17.508  -0.745  1.00 16.03      GAP  H   new
+ATOM   3870 2HG2 VAL G 956     -13.230  17.480  -2.535  1.00 16.03      GAP  H   new
+ATOM   3871 3HG2 VAL G 956     -12.369  18.830  -1.723  1.00 16.03      GAP  H   new
+ATOM   3872  N   ASN G 957     -15.867  21.882  -2.839  1.00 23.39      GAP  N
+ATOM   3873  CA  ASN G 957     -17.009  22.780  -2.730  1.00 26.57      GAP  C
+ATOM   3874  C   ASN G 957     -18.018  22.753  -3.872  1.00 25.86      GAP  C
+ATOM   3875  O   ASN G 957     -19.246  22.815  -3.617  1.00 23.21      GAP  O
+ATOM   3876  CB  ASN G 957     -16.527  24.206  -2.501  1.00 29.35      GAP  C
+ATOM   3877  CG  ASN G 957     -16.092  24.439  -1.079  1.00 33.77      GAP  C
+ATOM   3878  OD1 ASN G 957     -15.530  25.483  -0.757  1.00 42.81      GAP  O
+ATOM   3879  ND2 ASN G 957     -16.338  23.458  -0.212  1.00 38.54      GAP  N
+ATOM   3880  H   ASN G 957     -14.993  22.346  -2.980  1.00 23.39      GAP  H   new
+ATOM   3881  HA  ASN G 957     -17.571  22.393  -1.867  1.00 26.57      GAP  H   new
+ATOM   3882 1HB  ASN G 957     -15.688  24.421  -3.179  1.00 29.35      GAP  H   new
+ATOM   3883 2HB  ASN G 957     -17.334  24.909  -2.755  1.00 29.35      GAP  H   new
+ATOM   3884 1HD2 ASN G 957     -16.062  23.555   0.744  1.00 38.54      GAP  H   new
+ATOM   3885 2HD2 ASN G 957     -16.798  22.625  -0.517  1.00 38.54      GAP  H   new
+ATOM   3886  N   PRO G 958     -17.542  22.643  -5.134  1.00 24.06      GAP  N
+ATOM   3887  CA  PRO G 958     -18.461  22.497  -6.263  1.00 23.14      GAP  C
+ATOM   3888  C   PRO G 958     -19.542  21.473  -5.969  1.00 23.30      GAP  C
+ATOM   3889  O   PRO G 958     -20.724  21.764  -6.086  1.00 23.88      GAP  O
+ATOM   3890  CB  PRO G 958     -17.551  22.056  -7.418  1.00 25.51      GAP  C
+ATOM   3891  CG  PRO G 958     -16.208  21.765  -6.790  1.00 22.52      GAP  C
+ATOM   3892  CD  PRO G 958     -16.149  22.661  -5.605  1.00 27.77      GAP  C
+ATOM   3893  HA  PRO G 958     -19.008  23.424  -6.492  1.00 23.14      GAP  H   new
+ATOM   3894 1HB  PRO G 958     -17.954  21.164  -7.921  1.00 25.51      GAP  H   new
+ATOM   3895 2HB  PRO G 958     -17.469  22.845  -8.180  1.00 25.51      GAP  H   new
+ATOM   3896 1HG  PRO G 958     -16.123  20.708  -6.498  1.00 22.52      GAP  H   new
+ATOM   3897 2HG  PRO G 958     -15.385  21.972  -7.490  1.00 22.52      GAP  H   new
+ATOM   3898 1HD  PRO G 958     -15.452  22.287  -4.841  1.00 27.77      GAP  H   new
+ATOM   3899 2HD  PRO G 958     -15.819  23.675  -5.873  1.00 27.77      GAP  H   new
+ATOM   3900  N   PHE G 959     -19.128  20.350  -5.400  1.00 23.74      GAP  N
+ATOM   3901  CA  PHE G 959     -20.070  19.315  -5.008  1.00 24.26      GAP  C
+ATOM   3902  C   PHE G 959     -21.096  19.848  -4.005  1.00 23.17      GAP  C
+ATOM   3903  O   PHE G 959     -22.302  19.639  -4.175  1.00 23.10      GAP  O
+ATOM   3904  CB  PHE G 959     -19.309  18.124  -4.417  1.00 30.45      GAP  C
+ATOM   3905  CG  PHE G 959     -20.177  17.171  -3.653  1.00 37.33      GAP  C
+ATOM   3906  CD1 PHE G 959     -21.111  16.381  -4.312  1.00 39.37      GAP  C
+ATOM   3907  CD2 PHE G 959     -20.129  17.134  -2.264  1.00 38.25      GAP  C
+ATOM   3908  CE1 PHE G 959     -21.991  15.575  -3.596  1.00 43.73      GAP  C
+ATOM   3909  CE2 PHE G 959     -21.005  16.330  -1.540  1.00 41.15      GAP  C
+ATOM   3910  CZ  PHE G 959     -21.941  15.555  -2.206  1.00 43.66      GAP  C
+ATOM   3911  H   PHE G 959     -18.170  20.138  -5.205  1.00 23.74      GAP  H   new
+ATOM   3912  HA  PHE G 959     -20.620  18.987  -5.902  1.00 24.26      GAP  H   new
+ATOM   3913 1HB  PHE G 959     -18.810  17.579  -5.232  1.00 30.45      GAP  H   new
+ATOM   3914 2HB  PHE G 959     -18.519  18.500  -3.751  1.00 30.45      GAP  H   new
+ATOM   3915  HD1 PHE G 959     -21.155  16.393  -5.411  1.00 39.37      GAP  H   new
+ATOM   3916  HD2 PHE G 959     -19.389  17.748  -1.730  1.00 38.25      GAP  H   new
+ATOM   3917  HE1 PHE G 959     -22.726  14.954  -4.129  1.00 43.73      GAP  H   new
+ATOM   3918  HE2 PHE G 959     -20.954  16.310  -0.441  1.00 41.15      GAP  H   new
+ATOM   3919  HZ  PHE G 959     -22.642  14.926  -1.637  1.00 43.66      GAP  H   new
+ATOM   3920  N   ILE G 960     -20.624  20.544  -2.975  1.00 21.40      GAP  N
+ATOM   3921  CA  ILE G 960     -21.522  21.036  -1.931  1.00 23.38      GAP  C
+ATOM   3922  C   ILE G 960     -22.527  22.029  -2.509  1.00 23.45      GAP  C
+ATOM   3923  O   ILE G 960     -23.751  21.918  -2.268  1.00 21.52      GAP  O
+ATOM   3924  CB  ILE G 960     -20.740  21.710  -0.759  1.00 21.27      GAP  C
+ATOM   3925  CG1 ILE G 960     -19.950  20.651   0.023  1.00 18.91      GAP  C
+ATOM   3926  CG2 ILE G 960     -21.716  22.411   0.197  1.00 14.92      GAP  C
+ATOM   3927  CD1 ILE G 960     -18.916  21.210   0.962  1.00 17.58      GAP  C
+ATOM   3928  H   ILE G 960     -19.660  20.774  -2.842  1.00 21.40      GAP  H   new
+ATOM   3929  HA  ILE G 960     -22.057  20.162  -1.530  1.00 23.38      GAP  H   new
+ATOM   3930  HB  ILE G 960     -20.047  22.451  -1.184  1.00 21.27      GAP  H   new
+ATOM   3931 1HG1 ILE G 960     -20.657  20.037   0.600  1.00 18.91      GAP  H   new
+ATOM   3932 2HG1 ILE G 960     -19.452  19.981  -0.693  1.00 18.91      GAP  H   new
+ATOM   3933 1HG2 ILE G 960     -21.153  22.881   1.017  1.00 14.92      GAP  H   new
+ATOM   3934 2HG2 ILE G 960     -22.277  23.182  -0.351  1.00 14.92      GAP  H   new
+ATOM   3935 3HG2 ILE G 960     -22.418  21.673   0.611  1.00 14.92      GAP  H   new
+ATOM   3936 1HD1 ILE G 960     -18.402  20.384   1.476  1.00 17.58      GAP  H   new
+ATOM   3937 2HD1 ILE G 960     -18.182  21.799   0.392  1.00 17.58      GAP  H   new
+ATOM   3938 3HD1 ILE G 960     -19.406  21.856   1.705  1.00 17.58      GAP  H   new
+ATOM   3939  N   LYS G 961     -22.022  22.937  -3.337  1.00 24.56      GAP  N
+ATOM   3940  CA  LYS G 961     -22.850  23.977  -3.921  1.00 28.09      GAP  C
+ATOM   3941  C   LYS G 961     -23.923  23.385  -4.837  1.00 30.30      GAP  C
+ATOM   3942  O   LYS G 961     -25.111  23.790  -4.764  1.00 29.35      GAP  O
+ATOM   3943  CB  LYS G 961     -21.974  24.983  -4.679  1.00 28.90      GAP  C
+ATOM   3944  CG  LYS G 961     -21.315  26.025  -3.772  1.00 31.00      GAP  C
+ATOM   3945  CD  LYS G 961     -20.483  27.037  -4.544  1.00 34.84      GAP  C
+ATOM   3946  CE  LYS G 961     -19.125  26.465  -4.925  1.00 45.41      GAP  C
+ATOM   3947  NZ  LYS G 961     -18.171  26.437  -3.779  1.00 50.14      GAP  N
+ATOM   3948  H   LYS G 961     -21.061  22.970  -3.611  1.00 24.56      GAP  H   new
+ATOM   3949  HA  LYS G 961     -23.369  24.505  -3.107  1.00 28.09      GAP  H   new
+ATOM   3950 1HB  LYS G 961     -21.191  24.436  -5.225  1.00 28.90      GAP  H   new
+ATOM   3951 2HB  LYS G 961     -22.589  25.500  -5.430  1.00 28.90      GAP  H   new
+ATOM   3952 1HG  LYS G 961     -22.094  26.555  -3.204  1.00 31.00      GAP  H   new
+ATOM   3953 2HG  LYS G 961     -20.674  25.513  -3.039  1.00 31.00      GAP  H   new
+ATOM   3954 1HD  LYS G 961     -21.023  27.341  -5.453  1.00 34.84      GAP  H   new
+ATOM   3955 2HD  LYS G 961     -20.344  27.942  -3.934  1.00 34.84      GAP  H   new
+ATOM   3956 1HE  LYS G 961     -19.257  25.444  -5.312  1.00 45.41      GAP  H   new
+ATOM   3957 2HE  LYS G 961     -18.695  27.065  -5.741  1.00 45.41      GAP  H   new
+ATOM   3958 1HZ  LYS G 961     -17.298  26.054  -4.081  1.00 50.14      GAP  H + new
+ATOM   3959 2HZ  LYS G 961     -18.028  27.367  -3.441  1.00 50.14      GAP  H + new
+ATOM   3960 3HZ  LYS G 961     -18.547  25.871  -3.045  1.00 50.14      GAP  H + new
+ATOM   3961  N   SER G 962     -23.568  22.327  -5.565  1.00 29.12      GAP  N
+ATOM   3962  CA  SER G 962     -24.510  21.714  -6.490  1.00 30.68      GAP  C
+ATOM   3963  C   SER G 962     -25.450  20.673  -5.856  1.00 30.15      GAP  C
+ATOM   3964  O   SER G 962     -26.340  20.167  -6.530  1.00 39.22      GAP  O
+ATOM   3965  CB  SER G 962     -23.768  21.095  -7.680  1.00 24.60      GAP  C
+ATOM   3966  OG  SER G 962     -22.917  20.052  -7.251  1.00 34.01      GAP  O
+ATOM   3967  H   SER G 962     -22.667  21.894  -5.532  1.00 29.12      GAP  H   new
+ATOM   3968  HA  SER G 962     -25.159  22.535  -6.828  1.00 30.68      GAP  H   new
+ATOM   3969 1HB  SER G 962     -23.178  21.869  -8.194  1.00 24.60      GAP  H   new
+ATOM   3970 2HB  SER G 962     -24.494  20.706  -8.409  1.00 24.60      GAP  H   new
+ATOM   3971  HG  SER G 962     -22.443  19.662  -8.040  1.00 34.01      GAP  H   new
+ATOM   3972  N   ASN G 963     -25.307  20.406  -4.557  1.00 26.84      GAP  N
+ATOM   3973  CA  ASN G 963     -26.215  19.479  -3.869  1.00 18.49      GAP  C
+ATOM   3974  C   ASN G 963     -26.853  20.103  -2.643  1.00 17.12      GAP  C
+ATOM   3975  O   ASN G 963     -27.714  19.480  -1.992  1.00 10.84      GAP  O
+ATOM   3976  CB  ASN G 963     -25.479  18.212  -3.444  1.00 19.47      GAP  C
+ATOM   3977  CG  ASN G 963     -25.078  17.360  -4.613  1.00 16.69      GAP  C
+ATOM   3978  OD1 ASN G 963     -23.907  17.306  -4.978  1.00 13.59      GAP  O
+ATOM   3979  ND2 ASN G 963     -26.063  16.780  -5.281  1.00 20.02      GAP  N
+ATOM   3980  H   ASN G 963     -24.596  20.803  -3.976  1.00 26.84      GAP  H   new
+ATOM   3981  HA  ASN G 963     -27.008  19.232  -4.590  1.00 18.49      GAP  H   new
+ATOM   3982 1HB  ASN G 963     -24.582  18.488  -2.871  1.00 19.47      GAP  H   new
+ATOM   3983 2HB  ASN G 963     -26.123  17.626  -2.771  1.00 19.47      GAP  H   new
+ATOM   3984 1HD2 ASN G 963     -25.867  16.272  -6.120  1.00 20.02      GAP  H   new
+ATOM   3985 2HD2 ASN G 963     -27.003  16.850  -4.947  1.00 20.02      GAP  H   new
+ATOM   3986  N   LYS G 964     -26.449  21.335  -2.346  1.00 15.94      GAP  N
+ATOM   3987  CA  LYS G 964     -26.911  22.056  -1.174  1.00 20.08      GAP  C
+ATOM   3988  C   LYS G 964     -28.409  21.937  -1.030  1.00 20.21      GAP  C
+ATOM   3989  O   LYS G 964     -28.904  21.606   0.040  1.00 24.01      GAP  O
+ATOM   3990  CB  LYS G 964     -26.504  23.533  -1.266  1.00 26.96      GAP  C
+ATOM   3991  CG  LYS G 964     -26.449  24.260   0.079  1.00 35.73      GAP  C
+ATOM   3992  CD  LYS G 964     -25.648  25.567  -0.002  1.00 38.12      GAP  C
+ATOM   3993  CE  LYS G 964     -24.308  25.456   0.728  1.00 40.00      GAP  C
+ATOM   3994  NZ  LYS G 964     -23.831  26.765   1.266  1.00 39.42      GAP  N
+ATOM   3995  H   LYS G 964     -25.801  21.850  -2.907  1.00 15.94      GAP  H   new
+ATOM   3996  HA  LYS G 964     -26.440  21.611  -0.285  1.00 20.08      GAP  H   new
+ATOM   3997 1HB  LYS G 964     -25.516  23.599  -1.745  1.00 26.96      GAP  H   new
+ATOM   3998 2HB  LYS G 964     -27.215  24.056  -1.922  1.00 26.96      GAP  H   new
+ATOM   3999 1HG  LYS G 964     -27.472  24.479   0.418  1.00 35.73      GAP  H   new
+ATOM   4000 2HG  LYS G 964     -25.995  23.600   0.833  1.00 35.73      GAP  H   new
+ATOM   4001 1HD  LYS G 964     -25.471  25.825  -1.057  1.00 38.12      GAP  H   new
+ATOM   4002 2HD  LYS G 964     -26.237  26.387   0.435  1.00 38.12      GAP  H   new
+ATOM   4003 1HE  LYS G 964     -24.405  24.738   1.556  1.00 40.00      GAP  H   new
+ATOM   4004 2HE  LYS G 964     -23.553  25.051   0.038  1.00 40.00      GAP  H   new
+ATOM   4005 1HZ  LYS G 964     -22.955  26.636   1.731  1.00 39.42      GAP  H + new
+ATOM   4006 2HZ  LYS G 964     -23.715  27.413   0.513  1.00 39.42      GAP  H + new
+ATOM   4007 3HZ  LYS G 964     -24.502  27.124   1.914  1.00 39.42      GAP  H + new
+ATOM   4008  N   HIS G 965     -29.135  22.119  -2.125  1.00 20.17      GAP  N
+ATOM   4009  CA  HIS G 965     -30.594  22.101  -2.058  1.00 20.09      GAP  C
+ATOM   4010  C   HIS G 965     -31.187  20.704  -2.039  1.00 18.46      GAP  C
+ATOM   4011  O   HIS G 965     -32.305  20.516  -1.575  1.00 20.34      GAP  O
+ATOM   4012  CB  HIS G 965     -31.183  22.915  -3.205  1.00 24.64      GAP  C
+ATOM   4013  CG  HIS G 965     -31.030  22.277  -4.546  1.00 31.07      GAP  C
+ATOM   4014  ND1 HIS G 965     -29.801  22.157  -5.172  1.00 35.59      GAP  N
+ATOM   4015  CD2 HIS G 965     -31.908  21.613  -5.326  1.00 32.37      GAP  C
+ATOM   4016  CE1 HIS G 965     -29.943  21.426  -6.275  1.00 32.30      GAP  C
+ATOM   4017  NE2 HIS G 965     -31.214  21.097  -6.387  1.00 32.53      GAP  N
+ATOM   4018  H   HIS G 965     -28.756  22.275  -3.037  1.00 20.17      GAP  H   new
+ATOM   4019  HA  HIS G 965     -30.866  22.559  -1.096  1.00 20.09      GAP  H   new
+ATOM   4020 1HB  HIS G 965     -32.253  23.082  -3.010  1.00 24.64      GAP  H   new
+ATOM   4021 2HB  HIS G 965     -30.701  23.904  -3.224  1.00 24.64      GAP  H   new
+ATOM   4022  HD1 HIS G 965     -28.943  22.556  -4.847  1.00 35.59      GAP  H   new
+ATOM   4023  HD2 HIS G 965     -32.987  21.506  -5.142  1.00 32.37      GAP  H   new
+ATOM   4024  HE1 HIS G 965     -29.139  21.145  -6.972  1.00 32.30      GAP  H   new
+ATOM   4025  HE2 HIS G 965     -31.609  20.556  -7.130  1.00 32.53      GAP  H   new
+ATOM   4026  N   ARG G 966     -30.478  19.762  -2.660  1.00 19.20      GAP  N
+ATOM   4027  CA  ARG G 966     -30.874  18.355  -2.663  1.00 25.38      GAP  C
+ATOM   4028  C   ARG G 966     -30.860  17.831  -1.238  1.00 26.41      GAP  C
+ATOM   4029  O   ARG G 966     -31.797  17.101  -0.828  1.00 23.11      GAP  O
+ATOM   4030  CB  ARG G 966     -29.947  17.536  -3.581  1.00 27.73      GAP  C
+ATOM   4031  CG  ARG G 966     -30.460  17.436  -5.013  1.00 28.10      GAP  C
+ATOM   4032  CD  ARG G 966     -29.443  16.815  -5.958  1.00 33.40      GAP  C
+ATOM   4033  NE  ARG G 966     -29.693  15.390  -6.186  1.00 38.55      GAP  N
+ATOM   4034  CZ  ARG G 966     -28.762  14.517  -6.567  1.00 45.05      GAP  C
+ATOM   4035  NH1 ARG G 966     -27.520  14.922  -6.801  1.00 49.19      GAP  N
+ATOM   4036  NH2 ARG G 966     -29.074  13.233  -6.714  1.00 43.95      GAP  N
+ATOM   4037  H   ARG G 966     -29.634  19.948  -3.163  1.00 19.20      GAP  H   new
+ATOM   4038  HA  ARG G 966     -31.894  18.256  -3.062  1.00 25.38      GAP  H   new
+ATOM   4039 1HB  ARG G 966     -28.948  17.996  -3.587  1.00 27.73      GAP  H   new
+ATOM   4040 2HB  ARG G 966     -29.833  16.523  -3.167  1.00 27.73      GAP  H   new
+ATOM   4041 1HG  ARG G 966     -31.382  16.836  -5.027  1.00 28.10      GAP  H   new
+ATOM   4042 2HG  ARG G 966     -30.725  18.441  -5.374  1.00 28.10      GAP  H   new
+ATOM   4043 1HD  ARG G 966     -29.467  17.348  -6.920  1.00 33.40      GAP  H   new
+ATOM   4044 2HD  ARG G 966     -28.433  16.946  -5.543  1.00 33.40      GAP  H   new
+ATOM   4045  HE  ARG G 966     -30.623  15.050  -6.047  1.00 38.55      GAP  H + new
+ATOM   4046 1HH1 ARG G 966     -27.280  15.886  -6.691  1.00 49.19      GAP  H + new
+ATOM   4047 2HH1 ARG G 966     -26.825  14.263  -7.087  1.00 49.19      GAP  H + new
+ATOM   4048 1HH2 ARG G 966     -30.008  12.922  -6.539  1.00 43.95      GAP  H + new
+ATOM   4049 2HH2 ARG G 966     -28.375  12.578  -7.000  1.00 43.95      GAP  H + new
+ATOM   4050  N   MET G 967     -29.952  18.370  -0.420  1.00 28.65      GAP  N
+ATOM   4051  CA  MET G 967     -29.910  18.032   1.007  1.00 25.81      GAP  C
+ATOM   4052  C   MET G 967     -31.091  18.598   1.810  1.00 24.26      GAP  C
+ATOM   4053  O   MET G 967     -31.753  17.864   2.547  1.00 27.81      GAP  O
+ATOM   4054  CB  MET G 967     -28.590  18.490   1.631  1.00 23.10      GAP  C
+ATOM   4055  CG  MET G 967     -28.458  18.204   3.111  1.00 24.45      GAP  C
+ATOM   4056  SD  MET G 967     -28.392  16.458   3.573  1.00 17.84      GAP  S
+ATOM   4057  CE  MET G 967     -26.739  16.002   2.976  1.00 10.56      GAP  C
+ATOM   4058  H   MET G 967     -29.254  19.024  -0.712  1.00 28.65      GAP  H   new
+ATOM   4059  HA  MET G 967     -29.990  16.936   1.058  1.00 25.81      GAP  H   new
+ATOM   4060 1HB  MET G 967     -27.760  18.000   1.101  1.00 23.10      GAP  H   new
+ATOM   4061 2HB  MET G 967     -28.480  19.572   1.469  1.00 23.10      GAP  H   new
+ATOM   4062 1HG  MET G 967     -27.546  18.696   3.480  1.00 24.45      GAP  H   new
+ATOM   4063 2HG  MET G 967     -29.308  18.669   3.632  1.00 24.45      GAP  H   new
+ATOM   4064 1HE  MET G 967     -26.551  14.940   3.192  1.00 10.56      GAP  H   new
+ATOM   4065 2HE  MET G 967     -26.681  16.171   1.891  1.00 10.56      GAP  H   new
+ATOM   4066 3HE  MET G 967     -25.982  16.619   3.483  1.00 10.56      GAP  H   new
+ATOM   4067  N   ILE G 968     -31.370  19.888   1.644  1.00 20.71      GAP  N
+ATOM   4068  CA  ILE G 968     -32.489  20.530   2.331  1.00 19.00      GAP  C
+ATOM   4069  C   ILE G 968     -33.819  19.808   2.087  1.00 25.23      GAP  C
+ATOM   4070  O   ILE G 968     -34.611  19.635   3.016  1.00 27.37      GAP  O
+ATOM   4071  CB  ILE G 968     -32.629  22.008   1.906  1.00 15.81      GAP  C
+ATOM   4072  CG1 ILE G 968     -31.319  22.749   2.167  1.00 18.82      GAP  C
+ATOM   4073  CG2 ILE G 968     -33.754  22.676   2.667  1.00  7.33      GAP  C
+ATOM   4074  CD1 ILE G 968     -31.307  24.190   1.724  1.00 20.50      GAP  C
+ATOM   4075  H   ILE G 968     -30.846  20.499   1.050  1.00 20.71      GAP  H   new
+ATOM   4076  HA  ILE G 968     -32.260  20.474   3.405  1.00 19.00      GAP  H   new
+ATOM   4077  HB  ILE G 968     -32.861  22.043   0.831  1.00 15.81      GAP  H   new
+ATOM   4078 1HG1 ILE G 968     -31.101  22.710   3.244  1.00 18.82      GAP  H   new
+ATOM   4079 2HG1 ILE G 968     -30.505  22.216   1.654  1.00 18.82      GAP  H   new
+ATOM   4080 1HG2 ILE G 968     -33.838  23.726   2.351  1.00  7.33      GAP  H   new
+ATOM   4081 2HG2 ILE G 968     -34.699  22.154   2.458  1.00  7.33      GAP  H   new
+ATOM   4082 3HG2 ILE G 968     -33.543  22.634   3.746  1.00  7.33      GAP  H   new
+ATOM   4083 1HD1 ILE G 968     -30.328  24.636   1.953  1.00 20.50      GAP  H   new
+ATOM   4084 2HD1 ILE G 968     -31.490  24.243   0.641  1.00 20.50      GAP  H   new
+ATOM   4085 3HD1 ILE G 968     -32.095  24.744   2.255  1.00 20.50      GAP  H   new
+ATOM   4086  N   MET G 969     -34.049  19.374   0.846  1.00 29.87      GAP  N
+ATOM   4087  CA  MET G 969     -35.190  18.512   0.504  1.00 31.63      GAP  C
+ATOM   4088  C   MET G 969     -35.251  17.318   1.452  1.00 29.95      GAP  C
+ATOM   4089  O   MET G 969     -36.262  17.073   2.120  1.00 25.59      GAP  O
+ATOM   4090  CB  MET G 969     -35.037  17.964  -0.922  1.00 40.72      GAP  C
+ATOM   4091  CG  MET G 969     -34.948  18.999  -2.029  1.00 49.57      GAP  C
+ATOM   4092  SD  MET G 969     -36.562  19.487  -2.646  1.00 53.00      GAP  S
+ATOM   4093  CE  MET G 969     -37.350  17.890  -2.856  1.00 52.95      GAP  C
+ATOM   4094  H   MET G 969     -33.466  19.602   0.066  1.00 29.87      GAP  H   new
+ATOM   4095  HA  MET G 969     -36.105  19.118   0.586  1.00 31.63      GAP  H   new
+ATOM   4096 1HB  MET G 969     -34.132  17.340  -0.958  1.00 40.72      GAP  H   new
+ATOM   4097 2HB  MET G 969     -35.891  17.304  -1.133  1.00 40.72      GAP  H   new
+ATOM   4098 1HG  MET G 969     -34.419  19.887  -1.654  1.00 49.57      GAP  H   new
+ATOM   4099 2HG  MET G 969     -34.349  18.594  -2.858  1.00 49.57      GAP  H   new
+ATOM   4100 1HE  MET G 969     -38.372  18.032  -3.238  1.00 52.95      GAP  H   new
+ATOM   4101 2HE  MET G 969     -36.772  17.287  -3.571  1.00 52.95      GAP  H   new
+ATOM   4102 3HE  MET G 969     -37.390  17.370  -1.887  1.00 52.95      GAP  H   new
+ATOM   4103  N   PHE G 970     -34.147  16.581   1.475  1.00 31.08      GAP  N
+ATOM   4104  CA  PHE G 970     -34.022  15.308   2.168  1.00 32.61      GAP  C
+ATOM   4105  C   PHE G 970     -34.348  15.450   3.657  1.00 35.94      GAP  C
+ATOM   4106  O   PHE G 970     -35.290  14.792   4.176  1.00 38.10      GAP  O
+ATOM   4107  CB  PHE G 970     -32.593  14.790   1.963  1.00 30.85      GAP  C
+ATOM   4108  CG  PHE G 970     -32.341  13.420   2.525  1.00 29.14      GAP  C
+ATOM   4109  CD1 PHE G 970     -32.665  12.286   1.793  1.00 27.12      GAP  C
+ATOM   4110  CD2 PHE G 970     -31.689  13.267   3.745  1.00 27.35      GAP  C
+ATOM   4111  CE1 PHE G 970     -32.344  11.024   2.266  1.00 25.50      GAP  C
+ATOM   4112  CE2 PHE G 970     -31.366  12.010   4.226  1.00 25.54      GAP  C
+ATOM   4113  CZ  PHE G 970     -31.691  10.887   3.486  1.00 28.61      GAP  C
+ATOM   4114  H   PHE G 970     -33.307  16.857   1.007  1.00 31.08      GAP  H   new
+ATOM   4115  HA  PHE G 970     -34.744  14.589   1.754  1.00 32.61      GAP  H   new
+ATOM   4116 1HB  PHE G 970     -32.372  14.777   0.885  1.00 30.85      GAP  H   new
+ATOM   4117 2HB  PHE G 970     -31.890  15.498   2.427  1.00 30.85      GAP  H   new
+ATOM   4118  HD1 PHE G 970     -33.182  12.390   0.828  1.00 27.12      GAP  H   new
+ATOM   4119  HD2 PHE G 970     -31.427  14.157   4.335  1.00 27.35      GAP  H   new
+ATOM   4120  HE1 PHE G 970     -32.605  10.132   1.678  1.00 25.50      GAP  H   new
+ATOM   4121  HE2 PHE G 970     -30.853  11.904   5.193  1.00 25.54      GAP  H   new
+ATOM   4122  HZ  PHE G 970     -31.433   9.886   3.863  1.00 28.61      GAP  H   new
+ATOM   4123  N   LEU G 971     -33.659  16.385   4.311  1.00 35.63      GAP  N
+ATOM   4124  CA  LEU G 971     -33.781  16.584   5.753  1.00 31.67      GAP  C
+ATOM   4125  C   LEU G 971     -35.168  17.093   6.115  1.00 34.30      GAP  C
+ATOM   4126  O   LEU G 971     -35.756  16.658   7.109  1.00 33.59      GAP  O
+ATOM   4127  CB  LEU G 971     -32.706  17.562   6.239  1.00 28.11      GAP  C
+ATOM   4128  CG  LEU G 971     -31.254  17.197   5.900  1.00 27.28      GAP  C
+ATOM   4129  CD1 LEU G 971     -30.340  18.387   6.125  1.00 19.78      GAP  C
+ATOM   4130  CD2 LEU G 971     -30.818  16.005   6.728  1.00 27.21      GAP  C
+ATOM   4131  H   LEU G 971     -33.017  17.010   3.867  1.00 35.63      GAP  H   new
+ATOM   4132  HA  LEU G 971     -33.634  15.615   6.253  1.00 31.67      GAP  H   new
+ATOM   4133 1HB  LEU G 971     -32.922  18.553   5.813  1.00 28.11      GAP  H   new
+ATOM   4134 2HB  LEU G 971     -32.793  17.656   7.332  1.00 28.11      GAP  H   new
+ATOM   4135  HG  LEU G 971     -31.189  16.923   4.837  1.00 27.28      GAP  H   new
+ATOM   4136 1HD1 LEU G 971     -29.305  18.107   5.877  1.00 19.78      GAP  H   new
+ATOM   4137 2HD1 LEU G 971     -30.658  19.221   5.482  1.00 19.78      GAP  H   new
+ATOM   4138 3HD1 LEU G 971     -30.393  18.697   7.179  1.00 19.78      GAP  H   new
+ATOM   4139 1HD2 LEU G 971     -29.777  15.748   6.481  1.00 27.21      GAP  H   new
+ATOM   4140 2HD2 LEU G 971     -30.890  16.254   7.797  1.00 27.21      GAP  H   new
+ATOM   4141 3HD2 LEU G 971     -31.470  15.147   6.507  1.00 27.21      GAP  H   new
+ATOM   4142  N   ASP G 972     -35.746  17.914   5.243  1.00 37.29      GAP  N
+ATOM   4143  CA  ASP G 972     -37.084  18.431   5.485  1.00 37.00      GAP  C
+ATOM   4144  C   ASP G 972     -38.140  17.362   5.322  1.00 37.10      GAP  C
+ATOM   4145  O   ASP G 972     -39.049  17.251   6.146  1.00 39.04      GAP  O
+ATOM   4146  CB  ASP G 972     -37.403  19.590   4.555  1.00 36.19      GAP  C
+ATOM   4147  CG  ASP G 972     -38.212  20.660   5.240  1.00 42.85      GAP  C
+ATOM   4148  OD1 ASP G 972     -37.609  21.460   5.978  1.00 44.16      GAP  O
+ATOM   4149  OD2 ASP G 972     -39.456  20.628   5.148  1.00 49.20      GAP  O
+ATOM   4150  H   ASP G 972     -35.323  18.224   4.392  1.00 37.29      GAP  H   new
+ATOM   4151  HA  ASP G 972     -37.097  18.784   6.527  1.00 37.00      GAP  H   new
+ATOM   4152 1HB  ASP G 972     -36.465  20.025   4.179  1.00 36.19      GAP  H   new
+ATOM   4153 2HB  ASP G 972     -37.957  19.216   3.682  1.00 36.19      GAP  H   new
+ATOM   4154  N   GLU G 973     -38.029  16.579   4.256  1.00 39.58      GAP  N
+ATOM   4155  CA  GLU G 973     -39.056  15.596   3.955  1.00 44.12      GAP  C
+ATOM   4156  C   GLU G 973     -38.863  14.279   4.665  1.00 40.69      GAP  C
+ATOM   4157  O   GLU G 973     -39.795  13.488   4.767  1.00 41.67      GAP  O
+ATOM   4158  CB  GLU G 973     -39.167  15.365   2.452  1.00 52.29      GAP  C
+ATOM   4159  CG  GLU G 973     -40.120  16.351   1.800  1.00 68.75      GAP  C
+ATOM   4160  CD  GLU G 973     -40.612  15.917   0.439  1.00 78.09      GAP  C
+ATOM   4161  OE1 GLU G 973     -39.767  15.713  -0.472  1.00 83.04      GAP  O
+ATOM   4162  OE2 GLU G 973     -41.856  15.838   0.267  1.00 82.67      GAP  O
+ATOM   4163  H   GLU G 973     -37.266  16.605   3.610  1.00 39.58      GAP  H   new
+ATOM   4164  HA  GLU G 973     -39.995  16.025   4.335  1.00 44.12      GAP  H   new
+ATOM   4165 1HB  GLU G 973     -38.172  15.457   1.992  1.00 52.29      GAP  H   new
+ATOM   4166 2HB  GLU G 973     -39.515  14.339   2.263  1.00 52.29      GAP  H   new
+ATOM   4167 1HG  GLU G 973     -40.986  16.501   2.461  1.00 68.75      GAP  H   new
+ATOM   4168 2HG  GLU G 973     -39.616  17.324   1.704  1.00 68.75      GAP  H   new
+ATOM   4169  N   LEU G 974     -37.695  14.100   5.265  1.00 36.57      GAP  N
+ATOM   4170  CA  LEU G 974     -37.452  12.929   6.088  1.00 29.07      GAP  C
+ATOM   4171  C   LEU G 974     -38.425  12.884   7.267  1.00 26.33      GAP  C
+ATOM   4172  O   LEU G 974     -38.917  11.819   7.624  1.00 24.87      GAP  O
+ATOM   4173  CB  LEU G 974     -36.012  12.920   6.582  1.00 22.93      GAP  C
+ATOM   4174  CG  LEU G 974     -35.314  11.565   6.501  1.00 19.72      GAP  C
+ATOM   4175  CD1 LEU G 974     -35.595  10.890   5.181  1.00 19.62      GAP  C
+ATOM   4176  CD2 LEU G 974     -33.834  11.773   6.674  1.00 23.55      GAP  C
+ATOM   4177  H   LEU G 974     -36.924  14.733   5.199  1.00 36.57      GAP  H   new
+ATOM   4178  HA  LEU G 974     -37.617  12.032   5.473  1.00 29.07      GAP  H   new
+ATOM   4179 1HB  LEU G 974     -35.434  13.649   5.996  1.00 22.93      GAP  H   new
+ATOM   4180 2HB  LEU G 974     -35.996  13.262   7.627  1.00 22.93      GAP  H   new
+ATOM   4181  HG  LEU G 974     -35.698  10.912   7.299  1.00 19.72      GAP  H   new
+ATOM   4182 1HD1 LEU G 974     -35.081   9.918   5.149  1.00 19.62      GAP  H   new
+ATOM   4183 2HD1 LEU G 974     -36.679  10.735   5.071  1.00 19.62      GAP  H   new
+ATOM   4184 3HD1 LEU G 974     -35.230  11.524   4.359  1.00 19.62      GAP  H   new
+ATOM   4185 1HD2 LEU G 974     -33.318  10.803   6.618  1.00 23.55      GAP  H   new
+ATOM   4186 2HD2 LEU G 974     -33.460  12.433   5.878  1.00 23.55      GAP  H   new
+ATOM   4187 3HD2 LEU G 974     -33.640  12.235   7.653  1.00 23.55      GAP  H   new
+ATOM   4188  N   GLY G 975     -38.819  14.056   7.755  1.00 24.19      GAP  N
+ATOM   4189  CA  GLY G 975     -39.823  14.106   8.798  1.00 27.91      GAP  C
+ATOM   4190  C   GLY G 975     -41.231  14.372   8.315  1.00 33.88      GAP  C
+ATOM   4191  O   GLY G 975     -42.080  14.788   9.100  1.00 35.16      GAP  O
+ATOM   4192  H   GLY G 975     -38.471  14.945   7.456  1.00 24.19      GAP  H   new
+ATOM   4193 1HA  GLY G 975     -39.812  13.150   9.343  1.00 27.91      GAP  H   new
+ATOM   4194 2HA  GLY G 975     -39.544  14.890   9.518  1.00 27.91      GAP  H   new
+ATOM   4195  N   ASN G 976     -41.508  14.100   7.045  1.00 38.53      GAP  N
+ATOM   4196  CA  ASN G 976     -42.805  14.473   6.477  1.00 40.00      GAP  C
+ATOM   4197  C   ASN G 976     -43.935  13.472   6.771  1.00 38.72      GAP  C
+ATOM   4198  O   ASN G 976     -44.699  13.145   5.872  1.00 43.07      GAP  O
+ATOM   4199  CB  ASN G 976     -42.682  14.673   4.955  1.00 48.68      GAP  C
+ATOM   4200  CG  ASN G 976     -43.532  15.838   4.443  1.00 54.51      GAP  C
+ATOM   4201  OD1 ASN G 976     -43.323  16.355   3.307  1.00 60.53      GAP  O
+ATOM   4202  ND2 ASN G 976     -44.482  16.277   5.264  1.00 50.73      GAP  N
+ATOM   4203  H   ASN G 976     -40.884  13.643   6.412  1.00 38.53      GAP  H   new
+ATOM   4204  HA  ASN G 976     -43.085  15.414   6.973  1.00 40.00      GAP  H   new
+ATOM   4205 1HB  ASN G 976     -41.628  14.852   4.697  1.00 48.68      GAP  H   new
+ATOM   4206 2HB  ASN G 976     -42.986  13.749   4.442  1.00 48.68      GAP  H   new
+ATOM   4207 1HD2 ASN G 976     -45.063  17.044   4.991  1.00 50.73      GAP  H   new
+ATOM   4208 2HD2 ASN G 976     -44.615  15.840   6.154  1.00 50.73      GAP  H   new
+ATOM   4209  N   VAL G 977     -43.873  12.784   7.906  1.00 30.20      GAP  N
+ATOM   4210  CA  VAL G 977     -44.976  11.919   8.352  1.00 28.17      GAP  C
+ATOM   4211  C   VAL G 977     -45.540  12.516   9.620  1.00 35.25      GAP  C
+ATOM   4212  O   VAL G 977     -44.880  12.470  10.660  1.00 38.73      GAP  O
+ATOM   4213  CB  VAL G 977     -44.457  10.508   8.714  1.00 16.97      GAP  C
+ATOM   4214  CG1 VAL G 977     -45.614   9.617   9.181  1.00 17.89      GAP  C
+ATOM   4215  CG2 VAL G 977     -43.699   9.902   7.584  1.00 16.61      GAP  C
+ATOM   4216  H   VAL G 977     -43.089  12.804   8.526  1.00 30.20      GAP  H   new
+ATOM   4217  HA  VAL G 977     -45.721  11.845   7.546  1.00 28.17      GAP  H   new
+ATOM   4218  HB  VAL G 977     -43.750  10.600   9.551  1.00 16.97      GAP  H   new
+ATOM   4219 1HG1 VAL G 977     -45.229   8.618   9.434  1.00 17.89      GAP  H   new
+ATOM   4220 2HG1 VAL G 977     -46.086  10.064  10.069  1.00 17.89      GAP  H   new
+ATOM   4221 3HG1 VAL G 977     -46.358   9.529   8.376  1.00 17.89      GAP  H   new
+ATOM   4222 1HG2 VAL G 977     -43.345   8.902   7.874  1.00 16.61      GAP  H   new
+ATOM   4223 2HG2 VAL G 977     -44.355   9.818   6.705  1.00 16.61      GAP  H   new
+ATOM   4224 3HG2 VAL G 977     -42.836  10.538   7.337  1.00 16.61      GAP  H   new
+ATOM   4225  N   PRO G 978     -46.806  12.959   9.590  1.00 38.20      GAP  N
+ATOM   4226  CA  PRO G 978     -47.465  13.500  10.791  1.00 40.24      GAP  C
+ATOM   4227  C   PRO G 978     -48.438  12.578  11.542  1.00 42.72      GAP  C
+ATOM   4228  O   PRO G 978     -48.991  12.961  12.586  1.00 39.66      GAP  O
+ATOM   4229  CB  PRO G 978     -48.191  14.746  10.279  1.00 39.82      GAP  C
+ATOM   4230  CG  PRO G 978     -48.134  14.660   8.765  1.00 39.54      GAP  C
+ATOM   4231  CD  PRO G 978     -47.535  13.329   8.370  1.00 40.18      GAP  C
+ATOM   4232  HA  PRO G 978     -46.698  13.678  11.559  1.00 40.24      GAP  H   new
+ATOM   4233 1HB  PRO G 978     -49.232  14.771  10.635  1.00 39.82      GAP  H   new
+ATOM   4234 2HB  PRO G 978     -47.705  15.664  10.641  1.00 39.82      GAP  H   new
+ATOM   4235 1HG  PRO G 978     -49.143  14.763   8.340  1.00 39.54      GAP  H   new
+ATOM   4236 2HG  PRO G 978     -47.529  15.484   8.360  1.00 39.54      GAP  H   new
+ATOM   4237 1HD  PRO G 978     -48.306  12.590   8.109  1.00 40.18      GAP  H   new
+ATOM   4238 2HD  PRO G 978     -46.867  13.418   7.500  1.00 40.18      GAP  H   new
+ATOM   4239  N   GLU G 979     -48.775  11.448  10.928  1.00 48.27      GAP  N
+ATOM   4240  CA  GLU G 979     -49.610  10.421  11.550  1.00 53.21      GAP  C
+ATOM   4241  C   GLU G 979     -48.775   9.231  12.025  1.00 54.17      GAP  C
+ATOM   4242  O   GLU G 979     -47.982   8.670  11.246  1.00 52.06      GAP  O
+ATOM   4243  CB  GLU G 979     -50.682   9.925  10.566  1.00 57.92      GAP  C
+ATOM   4244  CG  GLU G 979     -52.094  10.430  10.858  1.00 64.67      GAP  C
+ATOM   4245  CD  GLU G 979     -52.144  11.929  11.076  1.00 70.09      GAP  C
+ATOM   4246  OE1 GLU G 979     -52.248  12.674  10.073  1.00 72.78      GAP  O
+ATOM   4247  OE2 GLU G 979     -52.052  12.360  12.251  1.00 74.23      GAP  O
+ATOM   4248  H   GLU G 979     -48.482  11.221   9.999  1.00 48.27      GAP  H   new
+ATOM   4249  HA  GLU G 979     -50.095  10.882  12.423  1.00 53.21      GAP  H   new
+ATOM   4250 1HB  GLU G 979     -50.399  10.234   9.549  1.00 57.92      GAP  H   new
+ATOM   4251 2HB  GLU G 979     -50.690   8.825  10.577  1.00 57.92      GAP  H   new
+ATOM   4252 1HG  GLU G 979     -52.755  10.163  10.021  1.00 64.67      GAP  H   new
+ATOM   4253 2HG  GLU G 979     -52.484   9.920  11.751  1.00 64.67      GAP  H   new
+ATOM   4254  N   LEU G 980     -48.938   8.851  13.294  1.00 56.52      GAP  N
+ATOM   4255  CA  LEU G 980     -48.261   7.686  13.892  1.00 58.73      GAP  C
+ATOM   4256  C   LEU G 980     -48.669   6.338  13.261  1.00 61.24      GAP  C
+ATOM   4257  O   LEU G 980     -49.826   6.103  13.058  1.00 60.53      GAP  O
+ATOM   4258  CB  LEU G 980     -48.532   7.657  15.408  1.00 58.08      GAP  C
+ATOM   4259  CG  LEU G 980     -48.266   6.307  16.086  1.00 56.63      GAP  C
+ATOM   4260  CD1 LEU G 980     -46.764   6.037  16.148  1.00 54.54      GAP  C
+ATOM   4261  CD2 LEU G 980     -48.871   6.307  17.475  1.00 51.78      GAP  C
+ATOM   4262  H   LEU G 980     -49.536   9.335  13.933  1.00 56.52      GAP  H   new
+ATOM   4263  HA  LEU G 980     -47.187   7.808  13.689  1.00 58.73      GAP  H   new
+ATOM   4264 1HB  LEU G 980     -47.908   8.423  15.892  1.00 58.08      GAP  H   new
+ATOM   4265 2HB  LEU G 980     -49.581   7.939  15.584  1.00 58.08      GAP  H   new
+ATOM   4266  HG  LEU G 980     -48.735   5.504  15.498  1.00 56.63      GAP  H   new
+ATOM   4267 1HD1 LEU G 980     -46.585   5.067  16.636  1.00 54.54      GAP  H   new
+ATOM   4268 2HD1 LEU G 980     -46.352   6.016  15.128  1.00 54.54      GAP  H   new
+ATOM   4269 3HD1 LEU G 980     -46.271   6.833  16.725  1.00 54.54      GAP  H   new
+ATOM   4270 1HD2 LEU G 980     -48.679   5.338  17.959  1.00 51.78      GAP  H   new
+ATOM   4271 2HD2 LEU G 980     -48.418   7.111  18.073  1.00 51.78      GAP  H   new
+ATOM   4272 3HD2 LEU G 980     -49.956   6.472  17.403  1.00 51.78      GAP  H   new
+ATOM   4273  N   PRO G 981     -47.703   5.424  12.996  1.00 65.48      GAP  N
+ATOM   4274  CA  PRO G 981     -47.849   4.214  12.136  1.00 68.73      GAP  C
+ATOM   4275  C   PRO G 981     -48.526   2.895  12.447  1.00 73.23      GAP  C
+ATOM   4276  O   PRO G 981     -49.259   2.259  11.449  1.00 72.39      GAP  O
+ATOM   4277  CB  PRO G 981     -46.426   3.909  11.754  1.00 68.37      GAP  C
+ATOM   4278  CG  PRO G 981     -45.920   5.233  11.546  1.00 66.27      GAP  C
+ATOM   4279  CD  PRO G 981     -46.372   6.015  12.746  1.00 64.59      GAP  C
+ATOM   4280  HA  PRO G 981     -48.632   4.558  11.444  1.00 68.73      GAP  H   new
+ATOM   4281 1HB  PRO G 981     -45.885   3.375  12.549  1.00 68.37      GAP  H   new
+ATOM   4282 2HB  PRO G 981     -46.360   3.289  10.848  1.00 68.37      GAP  H   new
+ATOM   4283 1HG  PRO G 981     -44.823   5.232  11.462  1.00 66.27      GAP  H   new
+ATOM   4284 2HG  PRO G 981     -46.314   5.668  10.616  1.00 66.27      GAP  H   new
+ATOM   4285 1HD  PRO G 981     -45.694   5.887  13.603  1.00 64.59      GAP  H   new
+ATOM   4286 2HD  PRO G 981     -46.430   7.094  12.540  1.00 64.59      GAP  H   new
+ATOM   4287  N   ASP G 982     -48.590   2.614  13.747  1.00 80.91      GAP  N
+ATOM   4288  CA  ASP G 982     -48.286   1.288  14.318  1.00 85.97      GAP  C
+ATOM   4289  C   ASP G 982     -48.481  -0.121  13.726  1.00 89.51      GAP  C
+ATOM   4290  O   ASP G 982     -48.611  -1.033  14.590  1.00 87.61      GAP  O
+ATOM   4291  CB  ASP G 982     -48.953   1.201  15.677  1.00 84.00      GAP  C
+ATOM   4292  CG  ASP G 982     -48.777   2.437  16.544  1.00 82.05      GAP  C
+ATOM   4293  OD1 ASP G 982     -47.733   2.556  17.200  1.00 82.23      GAP  O
+ATOM   4294  OD2 ASP G 982     -49.763   3.181  16.648  1.00 80.46      GAP  O
+ATOM   4295  H   ASP G 982     -48.852   3.291  14.435  1.00 80.91      GAP  H   new
+ATOM   4296  HA  ASP G 982     -47.205   1.390  14.143  1.00 85.97      GAP  H   new
+ATOM   4297 1HB  ASP G 982     -50.028   1.020  15.533  1.00 84.00      GAP  H   new
+ATOM   4298 2HB  ASP G 982     -48.549   0.331  16.215  1.00 84.00      GAP  H   new
+ATOM   4299  N   THR G 983     -48.185  -0.432  12.461  1.00 94.02      GAP  N
+ATOM   4300  CA  THR G 983     -48.144  -1.843  12.031  1.00 97.95      GAP  C
+ATOM   4301  C   THR G 983     -46.780  -2.528  12.320  1.00 99.72      GAP  C
+ATOM   4302  O   THR G 983     -45.826  -1.849  12.719  1.00100.00      GAP  O
+ATOM   4303  CB  THR G 983     -48.455  -1.947  10.532  1.00 98.66      GAP  C
+ATOM   4304  H   THR G 983     -47.979   0.235  11.745  1.00 94.02      GAP  H   new
+ATOM   4305  HA  THR G 983     -48.908  -2.371  12.620  1.00 97.95      GAP  H   new
+ATOM   4306  N   THR G 984     -46.661  -3.833  12.032  1.00100.00      GAP  N
+ATOM   4307  CA  THR G 984     -45.511  -4.630  12.479  1.00100.00      GAP  C
+ATOM   4308  C   THR G 984     -45.362  -4.518  13.999  1.00100.00      GAP  C
+ATOM   4309  O   THR G 984     -44.239  -4.279  14.526  1.00100.00      GAP  O
+ATOM   4310  CB  THR G 984     -44.209  -4.179  11.766  1.00100.00      GAP  C
+ATOM   4311  H   THR G 984     -47.335  -4.348  11.502  1.00100.00      GAP  H   new
+ATOM   4312  HA  THR G 984     -45.689  -5.682  12.213  1.00100.00      GAP  H   new
+ATOM   4313  N   GLU G 985     -46.488  -4.681  14.693  1.00100.00      GAP  N
+ATOM   4314  CA  GLU G 985     -46.590  -4.394  16.114  1.00100.00      GAP  C
+ATOM   4315  C   GLU G 985     -45.997  -5.506  16.971  1.00100.00      GAP  C
+ATOM   4316  O   GLU G 985     -46.060  -6.702  16.610  1.00 99.06      GAP  O
+ATOM   4317  CB  GLU G 985     -48.047  -4.163  16.488  1.00100.00      GAP  C
+ATOM   4318  H   GLU G 985     -47.340  -5.011  14.286  1.00100.00      GAP  H   new
+ATOM   4319  HA  GLU G 985     -46.005  -3.484  16.313  1.00100.00      GAP  H   new
+ATOM   4320  N   HIS G 986     -45.456  -5.117  18.123  1.00100.00      GAP  N
+ATOM   4321  CA  HIS G 986     -44.758  -6.022  19.032  1.00100.00      GAP  C
+ATOM   4322  C   HIS G 986     -45.722  -6.967  19.744  1.00100.00      GAP  C
+ATOM   4323  O   HIS G 986     -46.604  -6.517  20.498  1.00100.00      GAP  O
+ATOM   4324  CB  HIS G 986     -43.964  -5.220  20.053  1.00 99.09      GAP  C
+ATOM   4325  H   HIS G 986     -45.490  -4.172  18.449  1.00100.00      GAP  H   new
+ATOM   4326  HA  HIS G 986     -44.072  -6.637  18.431  1.00100.00      GAP  H   new
+ATOM   4327  N   SER G 987     -45.518  -8.269  19.554  1.00100.00      GAP  N
+ATOM   4328  CA  SER G 987     -46.370  -9.292  20.151  1.00100.00      GAP  C
+ATOM   4329  C   SER G 987     -46.273  -9.308  21.671  1.00100.00      GAP  C
+ATOM   4330  O   SER G 987     -45.248  -8.877  22.257  1.00100.00      GAP  O
+ATOM   4331  CB  SER G 987     -46.011 -10.657  19.597  1.00100.00      GAP  C
+ATOM   4332  H   SER G 987     -44.774  -8.635  18.995  1.00100.00      GAP  H   new
+ATOM   4333  HA  SER G 987     -47.409  -9.046  19.888  1.00100.00      GAP  H   new
+ATOM   4334  N   ARG G 988     -47.330  -9.788  22.316  1.00 99.24      GAP  N
+ATOM   4335  CA  ARG G 988     -47.406  -9.797  23.767  1.00 98.25      GAP  C
+ATOM   4336  C   ARG G 988     -46.590 -10.944  24.336  1.00 96.75      GAP  C
+ATOM   4337  O   ARG G 988     -46.868 -12.137  24.054  1.00 97.82      GAP  O
+ATOM   4338  CB  ARG G 988     -48.846  -9.905  24.221  1.00 97.51      GAP  C
+ATOM   4339  H   ARG G 988     -48.134 -10.170  21.860  1.00 99.24      GAP  H   new
+ATOM   4340  HA  ARG G 988     -46.989  -8.850  24.141  1.00 98.25      GAP  H   new
+ATOM   4341  N   THR G 989     -45.508 -10.580  25.019  1.00 94.04      GAP  N
+ATOM   4342  CA  THR G 989     -44.697 -11.522  25.780  1.00 90.04      GAP  C
+ATOM   4343  C   THR G 989     -44.352 -10.854  27.116  1.00 84.80      GAP  C
+ATOM   4344  O   THR G 989     -45.044  -9.891  27.535  1.00 84.18      GAP  O
+ATOM   4345  CB  THR G 989     -43.415 -11.928  25.006  1.00 92.12      GAP  C
+ATOM   4346  OG1 THR G 989     -42.922 -10.795  24.283  1.00 95.38      GAP  O
+ATOM   4347  CG2 THR G 989     -43.727 -13.064  24.007  1.00 91.47      GAP  C
+ATOM   4348  H   THR G 989     -45.176  -9.638  25.059  1.00 94.04      GAP  H   new
+ATOM   4349  HA  THR G 989     -45.258 -12.453  25.950  1.00 90.04      GAP  H   new
+ATOM   4350  HB  THR G 989     -42.661 -12.278  25.726  1.00 92.12      GAP  H   new
+ATOM   4351  HG1 THR G 989     -42.095 -11.052  23.782  1.00 95.38      GAP  H   new
+ATOM   4352 1HG2 THR G 989     -42.809 -13.340  23.467  1.00 91.47      GAP  H   new
+ATOM   4353 2HG2 THR G 989     -44.108 -13.939  24.554  1.00 91.47      GAP  H   new
+ATOM   4354 3HG2 THR G 989     -44.486 -12.723  23.288  1.00 91.47      GAP  H   new
+ATOM   4355  N   ASP G 990     -43.208 -11.215  27.696  1.00 79.34      GAP  N
+ATOM   4356  CA  ASP G 990     -42.963 -11.024  29.126  1.00 72.90      GAP  C
+ATOM   4357  C   ASP G 990     -41.888  -9.989  29.418  1.00 67.81      GAP  C
+ATOM   4358  O   ASP G 990     -40.756 -10.064  28.928  1.00 66.17      GAP  O
+ATOM   4359  CB  ASP G 990     -42.598 -12.356  29.794  1.00 74.76      GAP  C
+ATOM   4360  CG  ASP G 990     -42.480 -12.244  31.292  1.00 76.29      GAP  C
+ATOM   4361  OD1 ASP G 990     -43.521 -12.134  31.963  1.00 78.66      GAP  O
+ATOM   4362  OD2 ASP G 990     -41.348 -12.119  31.792  1.00 80.01      GAP  O
+ATOM   4363  H   ASP G 990     -42.446 -11.636  27.204  1.00 79.34      GAP  H   new
+ATOM   4364  HA  ASP G 990     -43.903 -10.639  29.549  1.00 72.90      GAP  H   new
+ATOM   4365 1HB  ASP G 990     -43.362 -13.107  29.546  1.00 74.76      GAP  H   new
+ATOM   4366 2HB  ASP G 990     -41.645 -12.719  29.382  1.00 74.76      GAP  H   new
+ATOM   4367  N   LEU G 991     -42.246  -9.088  30.323  1.00 61.62      GAP  N
+ATOM   4368  CA  LEU G 991     -41.515  -7.853  30.538  1.00 55.32      GAP  C
+ATOM   4369  C   LEU G 991     -40.669  -7.868  31.806  1.00 48.92      GAP  C
+ATOM   4370  O   LEU G 991     -39.623  -7.218  31.855  1.00 47.31      GAP  O
+ATOM   4371  CB  LEU G 991     -42.500  -6.670  30.573  1.00 54.11      GAP  C
+ATOM   4372  CG  LEU G 991     -42.032  -5.323  30.011  1.00 53.57      GAP  C
+ATOM   4373  CD1 LEU G 991     -41.336  -5.527  28.672  1.00 53.40      GAP  C
+ATOM   4374  CD2 LEU G 991     -43.228  -4.396  29.862  1.00 50.18      GAP  C
+ATOM   4375  H   LEU G 991     -43.042  -9.195  30.919  1.00 61.62      GAP  H   new
+ATOM   4376  HA  LEU G 991     -40.814  -7.743  29.697  1.00 55.32      GAP  H   new
+ATOM   4377 1HB  LEU G 991     -43.404  -6.969  30.022  1.00 54.11      GAP  H   new
+ATOM   4378 2HB  LEU G 991     -42.799  -6.512  31.620  1.00 54.11      GAP  H   new
+ATOM   4379  HG  LEU G 991     -41.311  -4.865  30.704  1.00 53.57      GAP  H   new
+ATOM   4380 1HD1 LEU G 991     -41.005  -4.555  28.278  1.00 53.40      GAP  H   new
+ATOM   4381 2HD1 LEU G 991     -40.464  -6.183  28.808  1.00 53.40      GAP  H   new
+ATOM   4382 3HD1 LEU G 991     -42.036  -5.990  27.961  1.00 53.40      GAP  H   new
+ATOM   4383 1HD2 LEU G 991     -42.895  -3.428  29.459  1.00 50.18      GAP  H   new
+ATOM   4384 2HD2 LEU G 991     -43.959  -4.847  29.175  1.00 50.18      GAP  H   new
+ATOM   4385 3HD2 LEU G 991     -43.697  -4.241  30.845  1.00 50.18      GAP  H   new
+ATOM   4386  N   SER G 992     -41.063  -8.694  32.772  1.00 44.87      GAP  N
+ATOM   4387  CA  SER G 992     -40.484  -8.687  34.116  1.00 43.10      GAP  C
+ATOM   4388  C   SER G 992     -38.963  -8.487  34.199  1.00 42.27      GAP  C
+ATOM   4389  O   SER G 992     -38.480  -7.677  35.002  1.00 41.62      GAP  O
+ATOM   4390  CB  SER G 992     -40.874  -9.972  34.851  1.00 39.96      GAP  C
+ATOM   4391  OG  SER G 992     -40.308 -11.111  34.225  1.00 38.20      GAP  O
+ATOM   4392  H   SER G 992     -41.782  -9.378  32.648  1.00 44.87      GAP  H   new
+ATOM   4393  HA  SER G 992     -40.909  -7.794  34.597  1.00 43.10      GAP  H   new
+ATOM   4394 1HB  SER G 992     -41.970 -10.068  34.873  1.00 39.96      GAP  H   new
+ATOM   4395 2HB  SER G 992     -40.535  -9.918  35.896  1.00 39.96      GAP  H   new
+ATOM   4396  HG  SER G 992     -40.578 -11.935  34.724  1.00 38.20      GAP  H   new
+ATOM   4397  N   ARG G 993     -38.223  -9.167  33.326  1.00 40.39      GAP  N
+ATOM   4398  CA  ARG G 993     -36.764  -9.072  33.284  1.00 35.71      GAP  C
+ATOM   4399  C   ARG G 993     -36.260  -7.633  33.183  1.00 32.78      GAP  C
+ATOM   4400  O   ARG G 993     -35.249  -7.288  33.766  1.00 35.22      GAP  O
+ATOM   4401  CB  ARG G 993     -36.235  -9.874  32.099  1.00 39.04      GAP  C
+ATOM   4402  CG  ARG G 993     -34.965 -10.636  32.379  1.00 46.50      GAP  C
+ATOM   4403  CD  ARG G 993     -35.218 -12.137  32.346  1.00 52.58      GAP  C
+ATOM   4404  NE  ARG G 993     -35.208 -12.738  33.679  1.00 62.09      GAP  N
+ATOM   4405  CZ  ARG G 993     -34.110 -13.140  34.321  1.00 65.84      GAP  C
+ATOM   4406  NH1 ARG G 993     -32.905 -12.895  33.817  1.00 65.27      GAP  N
+ATOM   4407  NH2 ARG G 993     -34.217 -13.736  35.504  1.00 67.91      GAP  N
+ATOM   4408  H   ARG G 993     -38.609  -9.786  32.642  1.00 40.39      GAP  H   new
+ATOM   4409  HA  ARG G 993     -36.390  -9.482  34.234  1.00 35.71      GAP  H   new
+ATOM   4410 1HB  ARG G 993     -37.011 -10.584  31.777  1.00 39.04      GAP  H   new
+ATOM   4411 2HB  ARG G 993     -36.058  -9.188  31.257  1.00 39.04      GAP  H   new
+ATOM   4412 1HG  ARG G 993     -34.201 -10.371  31.633  1.00 46.50      GAP  H   new
+ATOM   4413 2HG  ARG G 993     -34.568 -10.348  33.363  1.00 46.50      GAP  H   new
+ATOM   4414 1HD  ARG G 993     -36.189 -12.331  31.868  1.00 52.58      GAP  H   new
+ATOM   4415 2HD  ARG G 993     -34.451 -12.621  31.724  1.00 52.58      GAP  H   new
+ATOM   4416  HE  ARG G 993     -36.086 -12.856  34.142  1.00 62.09      GAP  H + new
+ATOM   4417 1HH1 ARG G 993     -32.816 -12.406  32.950  1.00 65.27      GAP  H + new
+ATOM   4418 2HH1 ARG G 993     -32.087 -13.200  34.305  1.00 65.27      GAP  H + new
+ATOM   4419 1HH2 ARG G 993     -35.119 -13.882  35.911  1.00 67.91      GAP  H + new
+ATOM   4420 2HH2 ARG G 993     -33.396 -14.038  35.988  1.00 67.91      GAP  H + new
+ATOM   4421  N   ASP G 994     -36.968  -6.807  32.424  1.00 32.20      GAP  N
+ATOM   4422  CA  ASP G 994     -36.552  -5.427  32.192  1.00 32.69      GAP  C
+ATOM   4423  C   ASP G 994     -37.105  -4.511  33.274  1.00 30.79      GAP  C
+ATOM   4424  O   ASP G 994     -36.522  -3.459  33.577  1.00 30.10      GAP  O
+ATOM   4425  CB  ASP G 994     -37.043  -4.942  30.820  1.00 33.26      GAP  C
+ATOM   4426  CG  ASP G 994     -36.574  -5.825  29.675  1.00 34.45      GAP  C
+ATOM   4427  OD1 ASP G 994     -35.752  -6.739  29.894  1.00 43.37      GAP  O
+ATOM   4428  OD2 ASP G 994     -37.014  -5.585  28.533  1.00 38.84      GAP  O
+ATOM   4429  H   ASP G 994     -37.819  -7.063  31.966  1.00 32.20      GAP  H   new
+ATOM   4430  HA  ASP G 994     -35.453  -5.396  32.219  1.00 32.69      GAP  H   new
+ATOM   4431 1HB  ASP G 994     -38.142  -4.907  30.822  1.00 33.26      GAP  H   new
+ATOM   4432 2HB  ASP G 994     -36.688  -3.914  30.652  1.00 33.26      GAP  H   new
+ATOM   4433  N   LEU G 995     -38.277  -4.865  33.795  1.00 29.78      GAP  N
+ATOM   4434  CA  LEU G 995     -38.899  -4.090  34.864  1.00 30.08      GAP  C
+ATOM   4435  C   LEU G 995     -38.132  -4.291  36.160  1.00 31.66      GAP  C
+ATOM   4436  O   LEU G 995     -37.838  -3.324  36.872  1.00 36.51      GAP  O
+ATOM   4437  CB  LEU G 995     -40.364  -4.493  35.040  1.00 23.71      GAP  C
+ATOM   4438  CG  LEU G 995     -41.347  -3.778  34.107  1.00 19.74      GAP  C
+ATOM   4439  CD1 LEU G 995     -42.686  -4.459  34.182  1.00 17.35      GAP  C
+ATOM   4440  CD2 LEU G 995     -41.467  -2.310  34.478  1.00 16.80      GAP  C
+ATOM   4441  H   LEU G 995     -38.802  -5.664  33.502  1.00 29.78      GAP  H   new
+ATOM   4442  HA  LEU G 995     -38.868  -3.024  34.593  1.00 30.08      GAP  H   new
+ATOM   4443 1HB  LEU G 995     -40.452  -5.578  34.880  1.00 23.71      GAP  H   new
+ATOM   4444 2HB  LEU G 995     -40.660  -4.296  36.081  1.00 23.71      GAP  H   new
+ATOM   4445  HG  LEU G 995     -40.972  -3.832  33.074  1.00 19.74      GAP  H   new
+ATOM   4446 1HD1 LEU G 995     -43.395  -3.949  33.514  1.00 17.35      GAP  H   new
+ATOM   4447 2HD1 LEU G 995     -42.582  -5.509  33.872  1.00 17.35      GAP  H   new
+ATOM   4448 3HD1 LEU G 995     -43.062  -4.417  35.215  1.00 17.35      GAP  H   new
+ATOM   4449 1HD2 LEU G 995     -42.176  -1.816  33.797  1.00 16.80      GAP  H   new
+ATOM   4450 2HD2 LEU G 995     -41.830  -2.221  35.513  1.00 16.80      GAP  H   new
+ATOM   4451 3HD2 LEU G 995     -40.482  -1.828  34.393  1.00 16.80      GAP  H   new
+ATOM   4452  N   ALA G 996     -37.708  -5.528  36.404  1.00 32.34      GAP  N
+ATOM   4453  CA  ALA G 996     -36.782  -5.822  37.491  1.00 31.71      GAP  C
+ATOM   4454  C   ALA G 996     -35.563  -4.917  37.348  1.00 31.38      GAP  C
+ATOM   4455  O   ALA G 996     -35.367  -4.011  38.165  1.00 33.60      GAP  O
+ATOM   4456  CB  ALA G 996     -36.362  -7.291  37.450  1.00 33.08      GAP  C
+ATOM   4457  H   ALA G 996     -37.987  -6.328  35.872  1.00 32.34      GAP  H   new
+ATOM   4458  HA  ALA G 996     -37.272  -5.637  38.458  1.00 31.71      GAP  H   new
+ATOM   4459 1HB  ALA G 996     -35.664  -7.497  38.275  1.00 33.08      GAP  H   new
+ATOM   4460 2HB  ALA G 996     -37.251  -7.930  37.554  1.00 33.08      GAP  H   new
+ATOM   4461 3HB  ALA G 996     -35.868  -7.505  36.491  1.00 33.08      GAP  H   new
+ATOM   4462  N   ALA G 997     -34.913  -5.001  36.189  1.00 28.92      GAP  N
+ATOM   4463  CA  ALA G 997     -33.662  -4.291  35.944  1.00 28.70      GAP  C
+ATOM   4464  C   ALA G 997     -33.802  -2.767  36.008  1.00 30.57      GAP  C
+ATOM   4465  O   ALA G 997     -32.821  -2.061  36.298  1.00 33.58      GAP  O
+ATOM   4466  CB  ALA G 997     -33.071  -4.714  34.599  1.00 26.80      GAP  C
+ATOM   4467  H   ALA G 997     -35.230  -5.548  35.415  1.00 28.92      GAP  H   new
+ATOM   4468  HA  ALA G 997     -32.979  -4.573  36.759  1.00 28.70      GAP  H   new
+ATOM   4469 1HB  ALA G 997     -32.129  -4.173  34.425  1.00 26.80      GAP  H   new
+ATOM   4470 2HB  ALA G 997     -32.875  -5.796  34.608  1.00 26.80      GAP  H   new
+ATOM   4471 3HB  ALA G 997     -33.783  -4.478  33.794  1.00 26.80      GAP  H   new
+ATOM   4472  N   LEU G 998     -35.009  -2.257  35.770  1.00 29.98      GAP  N
+ATOM   4473  CA  LEU G 998     -35.241  -0.820  35.876  1.00 28.29      GAP  C
+ATOM   4474  C   LEU G 998     -35.429  -0.427  37.333  1.00 28.97      GAP  C
+ATOM   4475  O   LEU G 998     -34.919   0.602  37.782  1.00 29.86      GAP  O
+ATOM   4476  CB  LEU G 998     -36.469  -0.397  35.063  1.00 24.65      GAP  C
+ATOM   4477  CG  LEU G 998     -36.685   1.118  34.998  1.00 22.01      GAP  C
+ATOM   4478  CD1 LEU G 998     -35.533   1.755  34.279  1.00 23.61      GAP  C
+ATOM   4479  CD2 LEU G 998     -37.975   1.447  34.300  1.00 23.21      GAP  C
+ATOM   4480  H   LEU G 998     -35.811  -2.796  35.512  1.00 29.98      GAP  H   new
+ATOM   4481  HA  LEU G 998     -34.360  -0.302  35.468  1.00 28.29      GAP  H   new
+ATOM   4482 1HB  LEU G 998     -36.369  -0.786  34.039  1.00 24.65      GAP  H   new
+ATOM   4483 2HB  LEU G 998     -37.363  -0.866  35.500  1.00 24.65      GAP  H   new
+ATOM   4484  HG  LEU G 998     -36.743   1.511  36.024  1.00 22.01      GAP  H   new
+ATOM   4485 1HD1 LEU G 998     -35.686   2.843  34.231  1.00 23.61      GAP  H   new
+ATOM   4486 2HD1 LEU G 998     -34.599   1.540  34.819  1.00 23.61      GAP  H   new
+ATOM   4487 3HD1 LEU G 998     -35.468   1.349  33.259  1.00 23.61      GAP  H   new
+ATOM   4488 1HD2 LEU G 998     -38.106   2.539  34.267  1.00 23.21      GAP  H   new
+ATOM   4489 2HD2 LEU G 998     -37.949   1.050  33.275  1.00 23.21      GAP  H   new
+ATOM   4490 3HD2 LEU G 998     -38.815   0.994  34.847  1.00 23.21      GAP  H   new
+ATOM   4491  N   HIS G 999     -36.189  -1.244  38.057  1.00 29.20      GAP  N
+ATOM   4492  CA  HIS G 999     -36.353  -1.112  39.504  1.00 31.23      GAP  C
+ATOM   4493  C   HIS G 999     -34.998  -1.144  40.229  1.00 32.05      GAP  C
+ATOM   4494  O   HIS G 999     -34.744  -0.360  41.159  1.00 28.29      GAP  O
+ATOM   4495  CB  HIS G 999     -37.247  -2.253  39.998  1.00 33.12      GAP  C
+ATOM   4496  CG  HIS G 999     -37.254  -2.423  41.484  1.00 33.00      GAP  C
+ATOM   4497  ND1 HIS G 999     -37.795  -1.488  42.338  1.00 30.75      GAP  N
+ATOM   4498  CD2 HIS G 999     -36.859  -3.460  42.262  1.00 30.66      GAP  C
+ATOM   4499  CE1 HIS G 999     -37.736  -1.938  43.577  1.00 31.70      GAP  C
+ATOM   4500  NE2 HIS G 999     -37.173  -3.134  43.559  1.00 32.17      GAP  N
+ATOM   4501  H   HIS G 999     -36.702  -2.006  37.663  1.00 29.20      GAP  H   new
+ATOM   4502  HA  HIS G 999     -36.818  -0.140  39.726  1.00 31.23      GAP  H   new
+ATOM   4503 1HB  HIS G 999     -38.277  -2.072  39.656  1.00 33.12      GAP  H   new
+ATOM   4504 2HB  HIS G 999     -36.914  -3.193  39.534  1.00 33.12      GAP  H   new
+ATOM   4505  HD1 HIS G 999     -38.174  -0.605  42.062  1.00 30.75      GAP  H   new
+ATOM   4506  HD2 HIS G 999     -36.378  -4.388  41.919  1.00 30.66      GAP  H   new
+ATOM   4507  HE1 HIS G 999     -38.094  -1.408  44.472  1.00 31.70      GAP  H   new
+ATOM   4508  HE2 HIS G 999     -37.003  -3.708  44.360  1.00 32.17      GAP  H   new
+ATOM   4509  N   GLU G1000     -34.120  -2.023  39.765  1.00 32.81      GAP  N
+ATOM   4510  CA  GLU G1000     -32.792  -2.157  40.334  1.00 32.60      GAP  C
+ATOM   4511  C   GLU G1000     -31.959  -0.900  40.119  1.00 32.86      GAP  C
+ATOM   4512  O   GLU G1000     -31.126  -0.564  40.952  1.00 41.12      GAP  O
+ATOM   4513  CB  GLU G1000     -32.094  -3.383  39.738  1.00 33.70      GAP  C
+ATOM   4514  CG  GLU G1000     -32.931  -4.659  39.883  1.00 44.86      GAP  C
+ATOM   4515  CD  GLU G1000     -32.164  -5.943  39.604  1.00 50.76      GAP  C
+ATOM   4516  OE1 GLU G1000     -31.450  -6.017  38.574  1.00 53.09      GAP  O
+ATOM   4517  OE2 GLU G1000     -32.328  -6.904  40.391  1.00 54.43      GAP  O
+ATOM   4518  H   GLU G1000     -34.305  -2.645  39.004  1.00 32.81      GAP  H   new
+ATOM   4519  HA  GLU G1000     -32.895  -2.295  41.420  1.00 32.60      GAP  H   new
+ATOM   4520 1HB  GLU G1000     -31.887  -3.202  38.673  1.00 33.70      GAP  H   new
+ATOM   4521 2HB  GLU G1000     -31.123  -3.526  40.234  1.00 33.70      GAP  H   new
+ATOM   4522 1HG  GLU G1000     -33.338  -4.703  40.904  1.00 44.86      GAP  H   new
+ATOM   4523 2HG  GLU G1000     -33.789  -4.601  39.197  1.00 44.86      GAP  H   new
+ATOM   4524  N   ILE G1001     -32.231  -0.168  39.043  1.00 28.28      GAP  N
+ATOM   4525  CA  ILE G1001     -31.556   1.100  38.792  1.00 21.16      GAP  C
+ATOM   4526  C   ILE G1001     -32.168   2.194  39.662  1.00 22.66      GAP  C
+ATOM   4527  O   ILE G1001     -31.518   3.192  39.961  1.00 26.46      GAP  O
+ATOM   4528  CB  ILE G1001     -31.650   1.505  37.293  1.00 20.32      GAP  C
+ATOM   4529  CG1 ILE G1001     -30.863   0.519  36.436  1.00 20.46      GAP  C
+ATOM   4530  CG2 ILE G1001     -31.089   2.903  37.064  1.00 20.55      GAP  C
+ATOM   4531  CD1 ILE G1001     -30.840   0.886  34.971  1.00 16.21      GAP  C
+ATOM   4532  H   ILE G1001     -32.900  -0.426  38.346  1.00 28.28      GAP  H   new
+ATOM   4533  HA  ILE G1001     -30.493   0.976  39.047  1.00 21.16      GAP  H   new
+ATOM   4534  HB  ILE G1001     -32.713   1.493  37.010  1.00 20.32      GAP  H   new
+ATOM   4535 1HG1 ILE G1001     -29.830   0.463  36.809  1.00 20.46      GAP  H   new
+ATOM   4536 2HG1 ILE G1001     -31.300  -0.484  36.549  1.00 20.46      GAP  H   new
+ATOM   4537 1HG2 ILE G1001     -31.169   3.161  35.998  1.00 20.55      GAP  H   new
+ATOM   4538 2HG2 ILE G1001     -31.660   3.630  37.660  1.00 20.55      GAP  H   new
+ATOM   4539 3HG2 ILE G1001     -30.032   2.929  37.369  1.00 20.55      GAP  H   new
+ATOM   4540 1HD1 ILE G1001     -30.259   0.137  34.414  1.00 16.21      GAP  H   new
+ATOM   4541 2HD1 ILE G1001     -31.869   0.913  34.583  1.00 16.21      GAP  H   new
+ATOM   4542 3HD1 ILE G1001     -30.376   1.876  34.848  1.00 16.21      GAP  H   new
+ATOM   4543  N   CYS G1002     -33.406   1.988  40.099  1.00 23.77      GAP  N
+ATOM   4544  CA  CYS G1002     -34.050   2.921  41.019  1.00 26.83      GAP  C
+ATOM   4545  C   CYS G1002     -33.499   2.730  42.422  1.00 30.36      GAP  C
+ATOM   4546  O   CYS G1002     -33.227   3.700  43.126  1.00 32.61      GAP  O
+ATOM   4547  CB  CYS G1002     -35.558   2.703  41.046  1.00 27.18      GAP  C
+ATOM   4548  SG  CYS G1002     -36.374   3.110  39.516  1.00 29.72      GAP  S
+ATOM   4549  H   CYS G1002     -33.970   1.204  39.839  1.00 23.77      GAP  H   new
+ATOM   4550  HA  CYS G1002     -33.841   3.943  40.669  1.00 26.83      GAP  H   new
+ATOM   4551 1HB  CYS G1002     -35.762   1.650  41.290  1.00 27.18      GAP  H   new
+ATOM   4552 2HB  CYS G1002     -35.992   3.310  41.854  1.00 27.18      GAP  H   new
+ATOM   4553  HG  CYS G1002     -37.650   2.893  39.634  1.00 29.72      GAP  H   new
+ATOM   4554  N   VAL G1003     -33.393   1.477  42.850  1.00 31.37      GAP  N
+ATOM   4555  CA  VAL G1003     -32.787   1.169  44.140  1.00 30.93      GAP  C
+ATOM   4556  C   VAL G1003     -31.413   1.836  44.203  1.00 33.04      GAP  C
+ATOM   4557  O   VAL G1003     -31.180   2.702  45.043  1.00 37.59      GAP  O
+ATOM   4558  CB  VAL G1003     -32.614  -0.357  44.334  1.00 30.63      GAP  C
+ATOM   4559  CG1 VAL G1003     -32.024  -0.650  45.700  1.00 29.20      GAP  C
+ATOM   4560  CG2 VAL G1003     -33.942  -1.060  44.174  1.00 29.06      GAP  C
+ATOM   4561  H   VAL G1003     -33.710   0.679  42.337  1.00 31.37      GAP  H   new
+ATOM   4562  HA  VAL G1003     -33.447   1.544  44.936  1.00 30.93      GAP  H   new
+ATOM   4563  HB  VAL G1003     -31.923  -0.733  43.565  1.00 30.63      GAP  H   new
+ATOM   4564 1HG1 VAL G1003     -31.907  -1.737  45.824  1.00 29.20      GAP  H   new
+ATOM   4565 2HG1 VAL G1003     -31.041  -0.163  45.788  1.00 29.20      GAP  H   new
+ATOM   4566 3HG1 VAL G1003     -32.695  -0.263  46.481  1.00 29.20      GAP  H   new
+ATOM   4567 1HG2 VAL G1003     -33.804  -2.142  44.314  1.00 29.06      GAP  H   new
+ATOM   4568 2HG2 VAL G1003     -34.651  -0.681  44.925  1.00 29.06      GAP  H   new
+ATOM   4569 3HG2 VAL G1003     -34.339  -0.869  43.166  1.00 29.06      GAP  H   new
+ATOM   4570  N   ALA G1004     -30.610   1.594  43.168  1.00 33.29      GAP  N
+ATOM   4571  CA  ALA G1004     -29.226   2.053  43.126  1.00 29.96      GAP  C
+ATOM   4572  C   ALA G1004     -29.118   3.572  43.153  1.00 29.20      GAP  C
+ATOM   4573  O   ALA G1004     -28.074   4.110  43.493  1.00 32.45      GAP  O
+ATOM   4574  CB  ALA G1004     -28.529   1.496  41.887  1.00 30.12      GAP  C
+ATOM   4575  H   ALA G1004     -30.895   1.086  42.355  1.00 33.29      GAP  H   new
+ATOM   4576  HA  ALA G1004     -28.727   1.677  44.031  1.00 29.96      GAP  H   new
+ATOM   4577 1HB  ALA G1004     -27.487   1.847  41.863  1.00 30.12      GAP  H   new
+ATOM   4578 2HB  ALA G1004     -28.545   0.397  41.920  1.00 30.12      GAP  H   new
+ATOM   4579 3HB  ALA G1004     -29.053   1.843  40.984  1.00 30.12      GAP  H   new
+ATOM   4580  N   HIS G1005     -30.206   4.252  42.806  1.00 31.11      GAP  N
+ATOM   4581  CA  HIS G1005     -30.242   5.710  42.799  1.00 32.40      GAP  C
+ATOM   4582  C   HIS G1005     -31.375   6.242  43.696  1.00 36.94      GAP  C
+ATOM   4583  O   HIS G1005     -31.875   7.363  43.477  1.00 36.22      GAP  O
+ATOM   4584  CB  HIS G1005     -30.429   6.234  41.360  1.00 30.73      GAP  C
+ATOM   4585  CG  HIS G1005     -29.247   6.006  40.464  1.00 28.16      GAP  C
+ATOM   4586  ND1 HIS G1005     -29.037   4.819  39.793  1.00 28.00      GAP  N
+ATOM   4587  CD2 HIS G1005     -28.184   6.793  40.170  1.00 26.59      GAP  C
+ATOM   4588  CE1 HIS G1005     -27.887   4.878  39.144  1.00 25.16      GAP  C
+ATOM   4589  NE2 HIS G1005     -27.350   6.065  39.356  1.00 20.17      GAP  N
+ATOM   4590  H   HIS G1005     -31.065   3.820  42.529  1.00 31.11      GAP  H   new
+ATOM   4591  HA  HIS G1005     -29.283   6.073  43.197  1.00 32.40      GAP  H   new
+ATOM   4592 1HB  HIS G1005     -31.310   5.748  40.916  1.00 30.73      GAP  H   new
+ATOM   4593 2HB  HIS G1005     -30.642   7.312  41.399  1.00 30.73      GAP  H   new
+ATOM   4594  HD1 HIS G1005     -29.658   4.036  39.797  1.00 28.00      GAP  H   new
+ATOM   4595  HD2 HIS G1005     -28.019   7.823  40.518  1.00 26.59      GAP  H   new
+ATOM   4596  HE1 HIS G1005     -27.452   4.075  38.532  1.00 25.16      GAP  H   new
+ATOM   4597  HE2 HIS G1005     -26.478   6.383  38.984  1.00 20.17      GAP  H   new
+ATOM   4598  N   SER G1006     -31.747   5.474  44.723  1.00 41.10      GAP  N
+ATOM   4599  CA  SER G1006     -32.867   5.838  45.601  1.00 46.86      GAP  C
+ATOM   4600  C   SER G1006     -32.623   7.159  46.331  1.00 50.42      GAP  C
+ATOM   4601  O   SER G1006     -33.397   8.124  46.182  1.00 51.71      GAP  O
+ATOM   4602  CB  SER G1006     -33.135   4.728  46.626  1.00 45.03      GAP  C
+ATOM   4603  OG  SER G1006     -34.298   5.013  47.390  1.00 45.05      GAP  O
+ATOM   4604  H   SER G1006     -31.299   4.613  44.964  1.00 41.10      GAP  H   new
+ATOM   4605  HA  SER G1006     -33.748   5.964  44.955  1.00 46.86      GAP  H   new
+ATOM   4606 1HB  SER G1006     -32.268   4.624  47.295  1.00 45.03      GAP  H   new
+ATOM   4607 2HB  SER G1006     -33.259   3.766  46.107  1.00 45.03      GAP  H   new
+ATOM   4608  HG  SER G1006     -34.452   4.278  48.050  1.00 45.05      GAP  H   new
+ATOM   4609  N   ASP G1007     -31.538   7.200  47.101  1.00 52.56      GAP  N
+ATOM   4610  CA  ASP G1007     -31.065   8.414  47.764  1.00 55.11      GAP  C
+ATOM   4611  C   ASP G1007     -31.139   9.643  46.860  1.00 53.66      GAP  C
+ATOM   4612  O   ASP G1007     -31.833  10.615  47.176  1.00 55.68      GAP  O
+ATOM   4613  CB  ASP G1007     -29.624   8.205  48.234  1.00 59.92      GAP  C
+ATOM   4614  CG  ASP G1007     -28.837   7.285  47.306  1.00 64.51      GAP  C
+ATOM   4615  OD1 ASP G1007     -28.986   6.046  47.425  1.00 64.59      GAP  O
+ATOM   4616  OD2 ASP G1007     -28.123   7.803  46.418  1.00 65.26      GAP  O
+ATOM   4617  H   ASP G1007     -30.967   6.399  47.281  1.00 52.56      GAP  H   new
+ATOM   4618  HA  ASP G1007     -31.727   8.603  48.622  1.00 55.11      GAP  H   new
+ATOM   4619 1HB  ASP G1007     -29.117   9.179  48.297  1.00 59.92      GAP  H   new
+ATOM   4620 2HB  ASP G1007     -29.630   7.780  49.248  1.00 59.92      GAP  H   new
+ATOM   4621  N   GLU G1008     -30.535   9.536  45.681  1.00 51.91      GAP  N
+ATOM   4622  CA  GLU G1008     -30.506  10.626  44.702  1.00 48.28      GAP  C
+ATOM   4623  C   GLU G1008     -31.900  11.050  44.234  1.00 47.17      GAP  C
+ATOM   4624  O   GLU G1008     -32.160  12.252  44.018  1.00 45.88      GAP  O
+ATOM   4625  CB  GLU G1008     -29.664  10.222  43.488  1.00 44.51      GAP  C
+ATOM   4626  CG  GLU G1008     -28.212   9.909  43.813  1.00 42.16      GAP  C
+ATOM   4627  CD  GLU G1008     -27.363   9.731  42.575  1.00 41.89      GAP  C
+ATOM   4628  OE1 GLU G1008     -27.121  10.727  41.862  1.00 44.58      GAP  O
+ATOM   4629  OE2 GLU G1008     -26.916   8.595  42.317  1.00 45.63      GAP  O
+ATOM   4630  H   GLU G1008     -30.060   8.709  45.380  1.00 51.91      GAP  H   new
+ATOM   4631  HA  GLU G1008     -30.055  11.491  45.211  1.00 48.28      GAP  H   new
+ATOM   4632 1HB  GLU G1008     -30.121   9.339  43.016  1.00 44.51      GAP  H   new
+ATOM   4633 2HB  GLU G1008     -29.695  11.035  42.747  1.00 44.51      GAP  H   new
+ATOM   4634 1HG  GLU G1008     -27.794  10.722  44.426  1.00 42.16      GAP  H   new
+ATOM   4635 2HG  GLU G1008     -28.166   8.992  44.419  1.00 42.16      GAP  H   new
+ATOM   4636  N   LEU G1009     -32.791  10.076  44.072  1.00 45.32      GAP  N
+ATOM   4637  CA  LEU G1009     -34.161  10.362  43.674  1.00 46.93      GAP  C
+ATOM   4638  C   LEU G1009     -34.967  10.953  44.831  1.00 49.86      GAP  C
+ATOM   4639  O   LEU G1009     -35.925  11.696  44.599  1.00 49.29      GAP  O
+ATOM   4640  CB  LEU G1009     -34.837   9.093  43.136  1.00 46.88      GAP  C
+ATOM   4641  CG  LEU G1009     -34.344   8.587  41.766  1.00 43.93      GAP  C
+ATOM   4642  CD1 LEU G1009     -34.541   7.083  41.654  1.00 38.77      GAP  C
+ATOM   4643  CD2 LEU G1009     -35.086   9.305  40.651  1.00 36.76      GAP  C
+ATOM   4644  H   LEU G1009     -32.592   9.105  44.207  1.00 45.32      GAP  H   new
+ATOM   4645  HA  LEU G1009     -34.130  11.114  42.871  1.00 46.93      GAP  H   new
+ATOM   4646 1HB  LEU G1009     -34.697   8.288  43.873  1.00 46.88      GAP  H   new
+ATOM   4647 2HB  LEU G1009     -35.919   9.281  43.066  1.00 46.88      GAP  H   new
+ATOM   4648  HG  LEU G1009     -33.269   8.803  41.673  1.00 43.93      GAP  H   new
+ATOM   4649 1HD1 LEU G1009     -34.185   6.738  40.672  1.00 38.77      GAP  H   new
+ATOM   4650 2HD1 LEU G1009     -33.972   6.578  42.448  1.00 38.77      GAP  H   new
+ATOM   4651 3HD1 LEU G1009     -35.609   6.844  41.761  1.00 38.77      GAP  H   new
+ATOM   4652 1HD2 LEU G1009     -34.729   8.939  39.677  1.00 36.76      GAP  H   new
+ATOM   4653 2HD2 LEU G1009     -36.165   9.110  40.743  1.00 36.76      GAP  H   new
+ATOM   4654 3HD2 LEU G1009     -34.902  10.387  40.725  1.00 36.76      GAP  H   new
+ATOM   4655  N   ARG G1010     -34.521  10.712  46.066  1.00 53.41      GAP  N
+ATOM   4656  CA  ARG G1010     -35.105  11.355  47.247  1.00 54.84      GAP  C
+ATOM   4657  C   ARG G1010     -34.756  12.830  47.283  1.00 52.87      GAP  C
+ATOM   4658  O   ARG G1010     -35.571  13.647  47.673  1.00 51.77      GAP  O
+ATOM   4659  CB  ARG G1010     -34.611  10.700  48.541  1.00 62.20      GAP  C
+ATOM   4660  CG  ARG G1010     -34.950   9.230  48.670  1.00 77.05      GAP  C
+ATOM   4661  CD  ARG G1010     -35.518   8.893  50.045  1.00 86.44      GAP  C
+ATOM   4662  NE  ARG G1010     -35.881   7.476  50.161  1.00 95.07      GAP  N
+ATOM   4663  CZ  ARG G1010     -36.438   6.929  51.240  1.00 98.93      GAP  C
+ATOM   4664  NH1 ARG G1010     -36.670   7.670  52.319  1.00100.00      GAP  N
+ATOM   4665  NH2 ARG G1010     -36.735   5.637  51.259  1.00100.00      GAP  N
+ATOM   4666  H   ARG G1010     -33.769  10.086  46.271  1.00 53.41      GAP  H   new
+ATOM   4667  HA  ARG G1010     -36.196  11.233  47.175  1.00 54.84      GAP  H   new
+ATOM   4668 1HB  ARG G1010     -33.519  10.818  48.603  1.00 62.20      GAP  H   new
+ATOM   4669 2HB  ARG G1010     -35.042  11.239  49.397  1.00 62.20      GAP  H   new
+ATOM   4670 1HG  ARG G1010     -35.680   8.953  47.895  1.00 77.05      GAP  H   new
+ATOM   4671 2HG  ARG G1010     -34.046   8.629  48.490  1.00 77.05      GAP  H   new
+ATOM   4672 1HD  ARG G1010     -34.777   9.145  50.818  1.00 86.44      GAP  H   new
+ATOM   4673 2HD  ARG G1010     -36.406   9.514  50.236  1.00 86.44      GAP  H   new
+ATOM   4674  HE  ARG G1010     -35.698   6.882  49.378  1.00 95.07      GAP  H + new
+ATOM   4675 1HH1 ARG G1010     -36.426   8.640  52.321  1.00100.00      GAP  H + new
+ATOM   4676 2HH1 ARG G1010     -37.088   7.258  53.128  1.00100.00      GAP  H + new
+ATOM   4677 1HH2 ARG G1010     -36.541   5.068  50.460  1.00100.00      GAP  H + new
+ATOM   4678 2HH2 ARG G1010     -37.153   5.232  52.072  1.00100.00      GAP  H + new
+ATOM   4679  N   THR G1011     -33.532  13.159  46.882  1.00 54.30      GAP  N
+ATOM   4680  CA  THR G1011     -33.099  14.552  46.802  1.00 56.47      GAP  C
+ATOM   4681  C   THR G1011     -33.900  15.311  45.742  1.00 56.44      GAP  C
+ATOM   4682  O   THR G1011     -34.294  16.463  45.962  1.00 59.19      GAP  O
+ATOM   4683  CB  THR G1011     -31.579  14.660  46.486  1.00 55.59      GAP  C
+ATOM   4684  OG1 THR G1011     -30.820  14.210  47.612  1.00 57.61      GAP  O
+ATOM   4685  CG2 THR G1011     -31.193  16.096  46.192  1.00 58.60      GAP  C
+ATOM   4686  H   THR G1011     -32.835  12.494  46.613  1.00 54.30      GAP  H   new
+ATOM   4687  HA  THR G1011     -33.283  15.006  47.787  1.00 56.47      GAP  H   new
+ATOM   4688  HB  THR G1011     -31.367  14.037  45.605  1.00 55.59      GAP  H   new
+ATOM   4689  HG1 THR G1011     -29.844  14.280  47.406  1.00 57.61      GAP  H   new
+ATOM   4690 1HG2 THR G1011     -30.117  16.149  45.972  1.00 58.60      GAP  H   new
+ATOM   4691 2HG2 THR G1011     -31.763  16.459  45.324  1.00 58.60      GAP  H   new
+ATOM   4692 3HG2 THR G1011     -31.419  16.723  47.067  1.00 58.60      GAP  H   new
+ATOM   4693  N   LEU G1012     -34.212  14.640  44.636  1.00 54.16      GAP  N
+ATOM   4694  CA  LEU G1012     -35.022  15.234  43.573  1.00 50.44      GAP  C
+ATOM   4695  C   LEU G1012     -36.504  15.310  43.928  1.00 50.21      GAP  C
+ATOM   4696  O   LEU G1012     -37.213  16.214  43.474  1.00 49.70      GAP  O
+ATOM   4697  CB  LEU G1012     -34.841  14.453  42.267  1.00 47.35      GAP  C
+ATOM   4698  CG  LEU G1012     -33.518  14.638  41.515  1.00 42.37      GAP  C
+ATOM   4699  CD1 LEU G1012     -33.410  13.598  40.432  1.00 38.17      GAP  C
+ATOM   4700  CD2 LEU G1012     -33.442  16.028  40.915  1.00 42.60      GAP  C
+ATOM   4701  H   LEU G1012     -33.921  13.700  44.455  1.00 54.16      GAP  H   new
+ATOM   4702  HA  LEU G1012     -34.665  16.267  43.445  1.00 50.44      GAP  H   new
+ATOM   4703 1HB  LEU G1012     -34.958  13.383  42.491  1.00 47.35      GAP  H   new
+ATOM   4704 2HB  LEU G1012     -35.660  14.731  41.588  1.00 47.35      GAP  H   new
+ATOM   4705  HG  LEU G1012     -32.682  14.519  42.220  1.00 42.37      GAP  H   new
+ATOM   4706 1HD1 LEU G1012     -32.461  13.729  39.891  1.00 38.17      GAP  H   new
+ATOM   4707 2HD1 LEU G1012     -33.440  12.595  40.882  1.00 38.17      GAP  H   new
+ATOM   4708 3HD1 LEU G1012     -34.250  13.710  39.731  1.00 38.17      GAP  H   new
+ATOM   4709 1HD2 LEU G1012     -32.488  16.145  40.379  1.00 42.60      GAP  H   new
+ATOM   4710 2HD2 LEU G1012     -34.276  16.171  40.213  1.00 42.60      GAP  H   new
+ATOM   4711 3HD2 LEU G1012     -33.506  16.778  41.717  1.00 42.60      GAP  H   new
+ATOM   4712  N   SER G1013     -36.966  14.382  44.760  1.00 53.18      GAP  N
+ATOM   4713  CA  SER G1013     -38.351  14.400  45.222  1.00 58.53      GAP  C
+ATOM   4714  C   SER G1013     -38.599  15.494  46.260  1.00 62.57      GAP  C
+ATOM   4715  O   SER G1013     -39.747  15.897  46.480  1.00 65.58      GAP  O
+ATOM   4716  CB  SER G1013     -38.745  13.040  45.804  1.00 57.22      GAP  C
+ATOM   4717  OG  SER G1013     -38.229  12.870  47.111  1.00 55.57      GAP  O
+ATOM   4718  H   SER G1013     -36.417  13.627  45.120  1.00 53.18      GAP  H   new
+ATOM   4719  HA  SER G1013     -38.976  14.619  44.344  1.00 58.53      GAP  H   new
+ATOM   4720 1HB  SER G1013     -38.370  12.237  45.152  1.00 57.22      GAP  H   new
+ATOM   4721 2HB  SER G1013     -39.841  12.952  45.826  1.00 57.22      GAP  H   new
+ATOM   4722  HG  SER G1013     -38.502  11.975  47.464  1.00 55.57      GAP  H   new
+ATOM   4723  N   ASN G1014     -37.528  15.964  46.897  1.00 68.19      GAP  N
+ATOM   4724  CA  ASN G1014     -37.621  17.019  47.913  1.00 71.92      GAP  C
+ATOM   4725  C   ASN G1014     -38.006  18.371  47.324  1.00 74.54      GAP  C
+ATOM   4726  O   ASN G1014     -38.514  19.251  48.041  1.00 75.30      GAP  O
+ATOM   4727  CB  ASN G1014     -36.298  17.152  48.661  1.00 71.14      GAP  C
+ATOM   4728  CG  ASN G1014     -36.164  16.162  49.800  1.00 74.13      GAP  C
+ATOM   4729  OD1 ASN G1014     -35.257  16.282  50.625  1.00 75.08      GAP  O
+ATOM   4730  ND2 ASN G1014     -37.059  15.176  49.855  1.00 74.53      GAP  N
+ATOM   4731  H   ASN G1014     -36.598  15.637  46.732  1.00 68.19      GAP  H   new
+ATOM   4732  HA  ASN G1014     -38.420  16.718  48.607  1.00 71.92      GAP  H   new
+ATOM   4733 1HB  ASN G1014     -35.467  17.006  47.955  1.00 71.14      GAP  H   new
+ATOM   4734 2HB  ASN G1014     -36.208  18.174  49.057  1.00 71.14      GAP  H   new
+ATOM   4735 1HD2 ASN G1014     -37.010  14.496  50.587  1.00 74.53      GAP  H   new
+ATOM   4736 2HD2 ASN G1014     -37.780  15.116  49.164  1.00 74.53      GAP  H   new
+ATOM   4737  N   GLU G1015     -37.743  18.542  46.031  1.00 77.46      GAP  N
+ATOM   4738  CA  GLU G1015     -38.083  19.765  45.312  1.00 78.65      GAP  C
+ATOM   4739  C   GLU G1015     -39.535  19.728  44.835  1.00 77.72      GAP  C
+ATOM   4740  O   GLU G1015     -39.912  18.858  44.017  1.00 77.53      GAP  O
+ATOM   4741  CB  GLU G1015     -37.153  19.952  44.111  1.00 80.85      GAP  C
+ATOM   4742  CG  GLU G1015     -36.693  21.390  43.894  1.00 84.47      GAP  C
+ATOM   4743  CD  GLU G1015     -37.812  22.321  43.459  1.00 86.55      GAP  C
+ATOM   4744  OE1 GLU G1015     -38.575  22.792  44.341  1.00 85.07      GAP  O
+ATOM   4745  OE2 GLU G1015     -37.917  22.587  42.236  1.00 88.58      GAP  O
+ATOM   4746  H   GLU G1015     -37.297  17.850  45.464  1.00 77.46      GAP  H   new
+ATOM   4747  HA  GLU G1015     -37.958  20.612  46.003  1.00 78.65      GAP  H   new
+ATOM   4748 1HB  GLU G1015     -36.268  19.312  44.244  1.00 80.85      GAP  H   new
+ATOM   4749 2HB  GLU G1015     -37.669  19.603  43.204  1.00 80.85      GAP  H   new
+ATOM   4750 1HG  GLU G1015     -36.251  21.771  44.827  1.00 84.47      GAP  H   new
+ATOM   4751 2HG  GLU G1015     -35.899  21.402  43.133  1.00 84.47      GAP  H   new
+ATOM   4752  N   ARG G1016     -40.337  20.683  45.300  1.00 77.01      GAP  N
+ATOM   4753  CA  ARG G1016     -41.764  20.714  44.992  1.00 76.06      GAP  C
+ATOM   4754  C   ARG G1016     -42.042  21.182  43.567  1.00 73.82      GAP  C
+ATOM   4755  O   ARG G1016     -41.207  21.849  42.946  1.00 71.86      GAP  O
+ATOM   4756  CB  ARG G1016     -42.523  21.580  46.010  1.00 77.54      GAP  C
+ATOM   4757  CG  ARG G1016     -41.860  22.902  46.375  1.00 79.43      GAP  C
+ATOM   4758  CD  ARG G1016     -42.354  24.018  45.482  1.00 82.18      GAP  C
+ATOM   4759  NE  ARG G1016     -41.248  24.824  44.977  1.00 88.71      GAP  N
+ATOM   4760  CZ  ARG G1016     -41.087  25.167  43.702  1.00 91.50      GAP  C
+ATOM   4761  NH1 ARG G1016     -41.942  24.744  42.779  1.00 93.99      GAP  N
+ATOM   4762  NH2 ARG G1016     -40.039  25.900  43.341  1.00 92.48      GAP  N
+ATOM   4763  H   ARG G1016     -40.027  21.434  45.883  1.00 77.01      GAP  H   new
+ATOM   4764  HA  ARG G1016     -42.131  19.680  45.066  1.00 76.06      GAP  H   new
+ATOM   4765 1HB  ARG G1016     -43.525  21.792  45.609  1.00 77.54      GAP  H   new
+ATOM   4766 2HB  ARG G1016     -42.662  20.994  46.931  1.00 77.54      GAP  H   new
+ATOM   4767 1HG  ARG G1016     -42.073  23.146  47.426  1.00 79.43      GAP  H   new
+ATOM   4768 2HG  ARG G1016     -40.768  22.808  46.282  1.00 79.43      GAP  H   new
+ATOM   4769 1HD  ARG G1016     -42.916  23.593  44.637  1.00 82.18      GAP  H   new
+ATOM   4770 2HD  ARG G1016     -43.051  24.658  46.043  1.00 82.18      GAP  H   new
+ATOM   4771  HE  ARG G1016     -40.564  25.140  45.634  1.00 88.71      GAP  H + new
+ATOM   4772 1HH1 ARG G1016     -42.713  24.164  43.040  1.00 93.99      GAP  H + new
+ATOM   4773 2HH1 ARG G1016     -41.815  25.006  41.822  1.00 93.99      GAP  H + new
+ATOM   4774 1HH2 ARG G1016     -39.373  26.193  44.027  1.00 92.48      GAP  H + new
+ATOM   4775 2HH2 ARG G1016     -39.916  26.159  42.383  1.00 92.48      GAP  H + new
+ATOM   4776  N   GLY G1017     -43.178  20.760  43.024  1.00 71.44      GAP  N
+ATOM   4777  CA  GLY G1017     -43.452  20.965  41.615  1.00 70.28      GAP  C
+ATOM   4778  C   GLY G1017     -44.242  19.815  41.016  1.00 69.53      GAP  C
+ATOM   4779  O   GLY G1017     -44.531  18.829  41.706  1.00 70.48      GAP  O
+ATOM   4780  H   GLY G1017     -43.902  20.287  43.527  1.00 71.44      GAP  H   new
+ATOM   4781 1HA  GLY G1017     -44.013  21.902  41.484  1.00 70.28      GAP  H   new
+ATOM   4782 2HA  GLY G1017     -42.503  21.080  41.071  1.00 70.28      GAP  H   new
+ATOM   4783  N   ALA G1018     -44.518  19.895  39.717  1.00 66.69      GAP  N
+ATOM   4784  CA  ALA G1018     -45.424  18.965  39.039  1.00 64.21      GAP  C
+ATOM   4785  C   ALA G1018     -45.000  17.494  39.150  1.00 62.28      GAP  C
+ATOM   4786  O   ALA G1018     -45.848  16.583  39.228  1.00 57.53      GAP  O
+ATOM   4787  CB  ALA G1018     -45.552  19.358  37.575  1.00 64.59      GAP  C
+ATOM   4788  H   ALA G1018     -44.129  20.592  39.114  1.00 66.69      GAP  H   new
+ATOM   4789  HA  ALA G1018     -46.395  19.043  39.551  1.00 64.21      GAP  H   new
+ATOM   4790 1HB  ALA G1018     -46.232  18.660  37.066  1.00 64.59      GAP  H   new
+ATOM   4791 2HB  ALA G1018     -45.954  20.379  37.503  1.00 64.59      GAP  H   new
+ATOM   4792 3HB  ALA G1018     -44.562  19.319  37.097  1.00 64.59      GAP  H   new
+ATOM   4793  N   GLN G1019     -43.691  17.268  39.121  1.00 62.89      GAP  N
+ATOM   4794  CA  GLN G1019     -43.130  15.922  39.181  1.00 62.83      GAP  C
+ATOM   4795  C   GLN G1019     -43.172  15.372  40.588  1.00 58.31      GAP  C
+ATOM   4796  O   GLN G1019     -43.041  14.162  40.784  1.00 55.99      GAP  O
+ATOM   4797  CB  GLN G1019     -41.672  15.917  38.694  1.00 70.16      GAP  C
+ATOM   4798  CG  GLN G1019     -41.456  16.531  37.314  1.00 83.93      GAP  C
+ATOM   4799  CD  GLN G1019     -40.055  16.284  36.755  1.00 90.09      GAP  C
+ATOM   4800  OE1 GLN G1019     -39.142  15.822  37.483  1.00 95.76      GAP  O
+ATOM   4801  NE2 GLN G1019     -39.857  16.612  35.477  1.00 91.97      GAP  N
+ATOM   4802  H   GLN G1019     -43.006  17.993  39.057  1.00 62.89      GAP  H   new
+ATOM   4803  HA  GLN G1019     -43.744  15.287  38.525  1.00 62.83      GAP  H   new
+ATOM   4804 1HB  GLN G1019     -41.055  16.463  39.423  1.00 70.16      GAP  H   new
+ATOM   4805 2HB  GLN G1019     -41.309  14.879  38.679  1.00 70.16      GAP  H   new
+ATOM   4806 1HG  GLN G1019     -42.200  16.118  36.616  1.00 83.93      GAP  H   new
+ATOM   4807 2HG  GLN G1019     -41.635  17.615  37.371  1.00 83.93      GAP  H   new
+ATOM   4808 1HE2 GLN G1019     -38.954  16.493  35.064  1.00 91.97      GAP  H   new
+ATOM   4809 2HE2 GLN G1019     -40.612  16.977  34.932  1.00 91.97      GAP  H   new
+ATOM   4810  N   GLN G1020     -43.342  16.255  41.568  1.00 55.33      GAP  N
+ATOM   4811  CA  GLN G1020     -43.177  15.881  42.966  1.00 52.40      GAP  C
+ATOM   4812  C   GLN G1020     -44.020  14.684  43.359  1.00 47.93      GAP  C
+ATOM   4813  O   GLN G1020     -43.483  13.606  43.584  1.00 49.66      GAP  O
+ATOM   4814  CB  GLN G1020     -43.493  17.054  43.889  1.00 55.69      GAP  C
+ATOM   4815  CG  GLN G1020     -42.406  17.301  44.913  1.00 59.42      GAP  C
+ATOM   4816  CD  GLN G1020     -42.936  17.796  46.246  1.00 59.83      GAP  C
+ATOM   4817  OE1 GLN G1020     -43.905  18.569  46.307  1.00 61.45      GAP  O
+ATOM   4818  NE2 GLN G1020     -42.271  17.394  47.324  1.00 63.49      GAP  N
+ATOM   4819  H   GLN G1020     -43.588  17.213  41.422  1.00 55.33      GAP  H   new
+ATOM   4820  HA  GLN G1020     -42.121  15.597  43.081  1.00 52.40      GAP  H   new
+ATOM   4821 1HB  GLN G1020     -43.635  17.962  43.285  1.00 55.69      GAP  H   new
+ATOM   4822 2HB  GLN G1020     -44.443  16.861  44.408  1.00 55.69      GAP  H   new
+ATOM   4823 1HG  GLN G1020     -41.845  16.369  45.073  1.00 59.42      GAP  H   new
+ATOM   4824 2HG  GLN G1020     -41.696  18.039  44.512  1.00 59.42      GAP  H   new
+ATOM   4825 1HE2 GLN G1020     -42.546  17.715  48.230  1.00 63.49      GAP  H   new
+ATOM   4826 2HE2 GLN G1020     -41.495  16.770  47.229  1.00 63.49      GAP  H   new
+ATOM   4827  N   HIS G1021     -45.339  14.861  43.374  1.00 43.73      GAP  N
+ATOM   4828  CA  HIS G1021     -46.267  13.790  43.731  1.00 44.04      GAP  C
+ATOM   4829  C   HIS G1021     -45.905  12.477  43.041  1.00 40.79      GAP  C
+ATOM   4830  O   HIS G1021     -46.091  11.383  43.596  1.00 37.66      GAP  O
+ATOM   4831  CB  HIS G1021     -47.688  14.201  43.359  1.00 51.56      GAP  C
+ATOM   4832  CG  HIS G1021     -48.630  13.052  43.180  1.00 63.14      GAP  C
+ATOM   4833  ND1 HIS G1021     -48.785  12.397  41.979  1.00 70.34      GAP  N
+ATOM   4834  CD2 HIS G1021     -49.411  12.397  44.068  1.00 66.66      GAP  C
+ATOM   4835  CE1 HIS G1021     -49.621  11.385  42.132  1.00 72.32      GAP  C
+ATOM   4836  NE2 HIS G1021     -50.019  11.365  43.392  1.00 71.77      GAP  N
+ATOM   4837  H   HIS G1021     -45.784  15.727  43.145  1.00 43.73      GAP  H   new
+ATOM   4838  HA  HIS G1021     -46.198  13.626  44.816  1.00 44.04      GAP  H   new
+ATOM   4839 1HB  HIS G1021     -48.082  14.866  44.142  1.00 51.56      GAP  H   new
+ATOM   4840 2HB  HIS G1021     -47.657  14.784  42.427  1.00 51.56      GAP  H   new
+ATOM   4841  HD1 HIS G1021     -48.334  12.648  41.122  1.00 70.34      GAP  H   new
+ATOM   4842  HD2 HIS G1021     -49.537  12.643  45.133  1.00 66.66      GAP  H   new
+ATOM   4843  HE1 HIS G1021     -49.932  10.681  41.346  1.00 72.32      GAP  H   new
+ATOM   4844  HE2 HIS G1021     -50.658  10.707  43.789  1.00 71.77      GAP  H   new
+ATOM   4845  N   VAL G1022     -45.414  12.600  41.815  1.00 42.28      GAP  N
+ATOM   4846  CA  VAL G1022     -44.994  11.456  41.018  1.00 43.94      GAP  C
+ATOM   4847  C   VAL G1022     -43.727  10.850  41.605  1.00 44.14      GAP  C
+ATOM   4848  O   VAL G1022     -43.668   9.635  41.880  1.00 42.79      GAP  O
+ATOM   4849  CB  VAL G1022     -44.715  11.873  39.564  1.00 41.87      GAP  C
+ATOM   4850  CG1 VAL G1022     -44.293  10.673  38.753  1.00 44.80      GAP  C
+ATOM   4851  CG2 VAL G1022     -45.949  12.528  38.962  1.00 40.77      GAP  C
+ATOM   4852  H   VAL G1022     -45.298  13.480  41.354  1.00 42.28      GAP  H   new
+ATOM   4853  HA  VAL G1022     -45.808  10.717  41.032  1.00 43.94      GAP  H   new
+ATOM   4854  HB  VAL G1022     -43.894  12.605  39.550  1.00 41.87      GAP  H   new
+ATOM   4855 1HG1 VAL G1022     -44.096  10.982  37.716  1.00 44.80      GAP  H   new
+ATOM   4856 2HG1 VAL G1022     -43.379  10.240  39.186  1.00 44.80      GAP  H   new
+ATOM   4857 3HG1 VAL G1022     -45.096   9.921  38.765  1.00 44.80      GAP  H   new
+ATOM   4858 1HG2 VAL G1022     -45.739  12.822  37.923  1.00 40.77      GAP  H   new
+ATOM   4859 2HG2 VAL G1022     -46.788  11.816  38.979  1.00 40.77      GAP  H   new
+ATOM   4860 3HG2 VAL G1022     -46.214  13.420  39.548  1.00 40.77      GAP  H   new
+ATOM   4861  N   LEU G1023     -42.728  11.701  41.831  1.00 45.12      GAP  N
+ATOM   4862  CA  LEU G1023     -41.460  11.269  42.409  1.00 45.66      GAP  C
+ATOM   4863  C   LEU G1023     -41.622  10.745  43.834  1.00 44.93      GAP  C
+ATOM   4864  O   LEU G1023     -40.894   9.835  44.242  1.00 43.57      GAP  O
+ATOM   4865  CB  LEU G1023     -40.439  12.410  42.373  1.00 48.48      GAP  C
+ATOM   4866  CG  LEU G1023     -39.839  12.739  40.997  1.00 50.61      GAP  C
+ATOM   4867  CD1 LEU G1023     -38.834  13.879  41.119  1.00 48.60      GAP  C
+ATOM   4868  CD2 LEU G1023     -39.170  11.496  40.416  1.00 49.48      GAP  C
+ATOM   4869  H   LEU G1023     -42.773  12.679  41.625  1.00 45.12      GAP  H   new
+ATOM   4870  HA  LEU G1023     -41.091  10.434  41.795  1.00 45.66      GAP  H   new
+ATOM   4871 1HB  LEU G1023     -40.920  13.317  42.766  1.00 48.48      GAP  H   new
+ATOM   4872 2HB  LEU G1023     -39.616  12.159  43.058  1.00 48.48      GAP  H   new
+ATOM   4873  HG  LEU G1023     -40.644  13.059  40.319  1.00 50.61      GAP  H   new
+ATOM   4874 1HD1 LEU G1023     -38.412  14.104  40.128  1.00 48.60      GAP  H   new
+ATOM   4875 2HD1 LEU G1023     -39.339  14.773  41.514  1.00 48.60      GAP  H   new
+ATOM   4876 3HD1 LEU G1023     -38.025  13.583  41.803  1.00 48.60      GAP  H   new
+ATOM   4877 1HD2 LEU G1023     -38.742  11.736  39.431  1.00 49.48      GAP  H   new
+ATOM   4878 2HD2 LEU G1023     -38.369  11.160  41.091  1.00 49.48      GAP  H   new
+ATOM   4879 3HD2 LEU G1023     -39.916  10.695  40.306  1.00 49.48      GAP  H   new
+ATOM   4880  N   LYS G1024     -42.580  11.301  44.577  1.00 45.07      GAP  N
+ATOM   4881  CA  LYS G1024     -42.979  10.747  45.874  1.00 47.35      GAP  C
+ATOM   4882  C   LYS G1024     -43.392   9.282  45.706  1.00 45.28      GAP  C
+ATOM   4883  O   LYS G1024     -42.804   8.369  46.306  1.00 43.26      GAP  O
+ATOM   4884  CB  LYS G1024     -44.182  11.510  46.454  1.00 53.11      GAP  C
+ATOM   4885  CG  LYS G1024     -43.989  12.980  46.788  1.00 58.86      GAP  C
+ATOM   4886  CD  LYS G1024     -45.335  13.577  47.224  1.00 68.02      GAP  C
+ATOM   4887  CE  LYS G1024     -45.360  15.104  47.142  1.00 74.30      GAP  C
+ATOM   4888  NZ  LYS G1024     -46.716  15.637  46.761  1.00 75.24      GAP  N
+ATOM   4889  H   LYS G1024     -43.086  12.121  44.308  1.00 45.07      GAP  H   new
+ATOM   4890  HA  LYS G1024     -42.120  10.838  46.555  1.00 47.35      GAP  H   new
+ATOM   4891 1HB  LYS G1024     -45.011  11.432  45.736  1.00 53.11      GAP  H   new
+ATOM   4892 2HB  LYS G1024     -44.501  10.993  47.371  1.00 53.11      GAP  H   new
+ATOM   4893 1HG  LYS G1024     -43.246  13.092  47.591  1.00 58.86      GAP  H   new
+ATOM   4894 2HG  LYS G1024     -43.600  13.520  45.912  1.00 58.86      GAP  H   new
+ATOM   4895 1HD  LYS G1024     -46.135  13.167  46.590  1.00 68.02      GAP  H   new
+ATOM   4896 2HD  LYS G1024     -45.552  13.266  48.257  1.00 68.02      GAP  H   new
+ATOM   4897 1HE  LYS G1024     -45.063  15.525  48.114  1.00 74.30      GAP  H   new
+ATOM   4898 2HE  LYS G1024     -44.616  15.441  46.405  1.00 74.30      GAP  H   new
+ATOM   4899 1HZ  LYS G1024     -46.683  16.636  46.720  1.00 75.24      GAP  H + new
+ATOM   4900 2HZ  LYS G1024     -46.977  15.276  45.866  1.00 75.24      GAP  H + new
+ATOM   4901 3HZ  LYS G1024     -47.390  15.354  47.444  1.00 75.24      GAP  H + new
+ATOM   4902  N   LYS G1025     -44.400   9.070  44.864  1.00 45.34      GAP  N
+ATOM   4903  CA  LYS G1025     -44.976   7.753  44.630  1.00 44.40      GAP  C
+ATOM   4904  C   LYS G1025     -43.919   6.774  44.129  1.00 42.01      GAP  C
+ATOM   4905  O   LYS G1025     -43.984   5.575  44.411  1.00 40.67      GAP  O
+ATOM   4906  CB  LYS G1025     -46.112   7.868  43.611  1.00 48.68      GAP  C
+ATOM   4907  CG  LYS G1025     -47.336   7.009  43.909  1.00 52.23      GAP  C
+ATOM   4908  CD  LYS G1025     -48.499   7.410  43.009  1.00 56.31      GAP  C
+ATOM   4909  CE  LYS G1025     -49.803   6.731  43.409  1.00 58.24      GAP  C
+ATOM   4910  NZ  LYS G1025     -49.904   5.331  42.899  1.00 58.83      GAP  N
+ATOM   4911  H   LYS G1025     -44.833   9.799  44.333  1.00 45.34      GAP  H   new
+ATOM   4912  HA  LYS G1025     -45.371   7.368  45.582  1.00 44.40      GAP  H   new
+ATOM   4913 1HB  LYS G1025     -46.427   8.920  43.553  1.00 48.68      GAP  H   new
+ATOM   4914 2HB  LYS G1025     -45.723   7.594  42.619  1.00 48.68      GAP  H   new
+ATOM   4915 1HG  LYS G1025     -47.093   5.947  43.755  1.00 52.23      GAP  H   new
+ATOM   4916 2HG  LYS G1025     -47.624   7.123  44.964  1.00 52.23      GAP  H   new
+ATOM   4917 1HD  LYS G1025     -48.630   8.501  43.048  1.00 56.31      GAP  H   new
+ATOM   4918 2HD  LYS G1025     -48.259   7.152  41.967  1.00 56.31      GAP  H   new
+ATOM   4919 1HE  LYS G1025     -49.887   6.724  44.506  1.00 58.24      GAP  H   new
+ATOM   4920 2HE  LYS G1025     -50.650   7.319  43.025  1.00 58.24      GAP  H   new
+ATOM   4921 1HZ  LYS G1025     -50.774   4.932  43.188  1.00 58.83      GAP  H + new
+ATOM   4922 2HZ  LYS G1025     -49.855   5.335  41.900  1.00 58.83      GAP  H + new
+ATOM   4923 3HZ  LYS G1025     -49.150   4.787  43.267  1.00 58.83      GAP  H + new
+ATOM   4924  N   LEU G1026     -42.934   7.294  43.404  1.00 39.33      GAP  N
+ATOM   4925  CA  LEU G1026     -41.878   6.462  42.843  1.00 37.27      GAP  C
+ATOM   4926  C   LEU G1026     -41.117   5.730  43.950  1.00 37.99      GAP  C
+ATOM   4927  O   LEU G1026     -41.146   4.489  44.010  1.00 38.21      GAP  O
+ATOM   4928  CB  LEU G1026     -40.926   7.320  41.997  1.00 28.86      GAP  C
+ATOM   4929  CG  LEU G1026     -39.740   6.644  41.304  1.00 23.39      GAP  C
+ATOM   4930  CD1 LEU G1026     -40.182   5.366  40.613  1.00 19.68      GAP  C
+ATOM   4931  CD2 LEU G1026     -39.110   7.615  40.315  1.00 13.93      GAP  C
+ATOM   4932  H   LEU G1026     -42.848   8.268  43.196  1.00 39.33      GAP  H   new
+ATOM   4933  HA  LEU G1026     -42.336   5.702  42.192  1.00 37.27      GAP  H   new
+ATOM   4934 1HB  LEU G1026     -41.527   7.816  41.220  1.00 28.86      GAP  H   new
+ATOM   4935 2HB  LEU G1026     -40.525   8.111  42.647  1.00 28.86      GAP  H   new
+ATOM   4936  HG  LEU G1026     -38.987   6.369  42.057  1.00 23.39      GAP  H   new
+ATOM   4937 1HD1 LEU G1026     -39.317   4.896  40.122  1.00 19.68      GAP  H   new
+ATOM   4938 2HD1 LEU G1026     -40.602   4.673  41.357  1.00 19.68      GAP  H   new
+ATOM   4939 3HD1 LEU G1026     -40.947   5.602  39.859  1.00 19.68      GAP  H   new
+ATOM   4940 1HD2 LEU G1026     -38.258   7.130  39.817  1.00 13.93      GAP  H   new
+ATOM   4941 2HD2 LEU G1026     -39.856   7.908  39.562  1.00 13.93      GAP  H   new
+ATOM   4942 3HD2 LEU G1026     -38.760   8.510  40.851  1.00 13.93      GAP  H   new
+ATOM   4943  N   LEU G1027     -40.569   6.494  44.894  1.00 37.99      GAP  N
+ATOM   4944  CA  LEU G1027     -39.770   5.947  45.993  1.00 36.02      GAP  C
+ATOM   4945  C   LEU G1027     -40.568   5.014  46.891  1.00 35.20      GAP  C
+ATOM   4946  O   LEU G1027     -40.045   4.000  47.353  1.00 37.11      GAP  O
+ATOM   4947  CB  LEU G1027     -39.186   7.083  46.827  1.00 34.69      GAP  C
+ATOM   4948  CG  LEU G1027     -38.129   7.933  46.124  1.00 33.72      GAP  C
+ATOM   4949  CD1 LEU G1027     -38.059   9.299  46.773  1.00 37.12      GAP  C
+ATOM   4950  CD2 LEU G1027     -36.787   7.239  46.186  1.00 30.41      GAP  C
+ATOM   4951  H   LEU G1027     -40.664   7.489  44.919  1.00 37.99      GAP  H   new
+ATOM   4952  HA  LEU G1027     -38.963   5.354  45.539  1.00 36.02      GAP  H   new
+ATOM   4953 1HB  LEU G1027     -40.008   7.740  47.147  1.00 34.69      GAP  H   new
+ATOM   4954 2HB  LEU G1027     -38.742   6.656  47.738  1.00 34.69      GAP  H   new
+ATOM   4955  HG  LEU G1027     -38.404   8.062  45.067  1.00 33.72      GAP  H   new
+ATOM   4956 1HD1 LEU G1027     -37.297   9.908  46.265  1.00 37.12      GAP  H   new
+ATOM   4957 2HD1 LEU G1027     -39.038   9.794  46.692  1.00 37.12      GAP  H   new
+ATOM   4958 3HD1 LEU G1027     -37.791   9.188  47.834  1.00 37.12      GAP  H   new
+ATOM   4959 1HD2 LEU G1027     -36.031   7.856  45.678  1.00 30.41      GAP  H   new
+ATOM   4960 2HD2 LEU G1027     -36.496   7.095  47.237  1.00 30.41      GAP  H   new
+ATOM   4961 3HD2 LEU G1027     -36.856   6.261  45.688  1.00 30.41      GAP  H   new
+ATOM   4962  N   ALA G1028     -41.834   5.354  47.124  1.00 34.35      GAP  N
+ATOM   4963  CA  ALA G1028     -42.774   4.438  47.773  1.00 35.23      GAP  C
+ATOM   4964  C   ALA G1028     -42.844   3.112  47.028  1.00 36.05      GAP  C
+ATOM   4965  O   ALA G1028     -42.604   2.053  47.605  1.00 36.53      GAP  O
+ATOM   4966  CB  ALA G1028     -44.157   5.066  47.837  1.00 32.08      GAP  C
+ATOM   4967  H   ALA G1028     -42.227   6.240  46.878  1.00 34.35      GAP  H   new
+ATOM   4968  HA  ALA G1028     -42.414   4.246  48.794  1.00 35.23      GAP  H   new
+ATOM   4969 1HB  ALA G1028     -44.854   4.370  48.326  1.00 32.08      GAP  H   new
+ATOM   4970 2HB  ALA G1028     -44.109   6.002  48.414  1.00 32.08      GAP  H   new
+ATOM   4971 3HB  ALA G1028     -44.510   5.282  46.818  1.00 32.08      GAP  H   new
+ATOM   4972  N   ILE G1029     -43.111   3.186  45.728  1.00 38.89      GAP  N
+ATOM   4973  CA  ILE G1029     -43.226   1.994  44.900  1.00 42.29      GAP  C
+ATOM   4974  C   ILE G1029     -41.913   1.213  44.884  1.00 44.24      GAP  C
+ATOM   4975  O   ILE G1029     -41.908   0.000  45.137  1.00 44.70      GAP  O
+ATOM   4976  CB  ILE G1029     -43.672   2.358  43.448  1.00 39.96      GAP  C
+ATOM   4977  CG1 ILE G1029     -45.197   2.439  43.384  1.00 36.05      GAP  C
+ATOM   4978  CG2 ILE G1029     -43.206   1.310  42.461  1.00 39.64      GAP  C
+ATOM   4979  CD1 ILE G1029     -45.715   3.110  42.150  1.00 39.39      GAP  C
+ATOM   4980  H   ILE G1029     -43.249   4.045  45.235  1.00 38.89      GAP  H   new
+ATOM   4981  HA  ILE G1029     -44.002   1.351  45.341  1.00 42.29      GAP  H   new
+ATOM   4982  HB  ILE G1029     -43.223   3.327  43.186  1.00 39.96      GAP  H   new
+ATOM   4983 1HG1 ILE G1029     -45.611   1.422  43.438  1.00 36.05      GAP  H   new
+ATOM   4984 2HG1 ILE G1029     -45.563   2.983  44.267  1.00 36.05      GAP  H   new
+ATOM   4985 1HG2 ILE G1029     -43.532   1.589  41.448  1.00 39.64      GAP  H   new
+ATOM   4986 2HG2 ILE G1029     -42.108   1.243  42.487  1.00 39.64      GAP  H   new
+ATOM   4987 3HG2 ILE G1029     -43.638   0.335  42.729  1.00 39.64      GAP  H   new
+ATOM   4988 1HD1 ILE G1029     -46.814   3.130  42.177  1.00 39.39      GAP  H   new
+ATOM   4989 2HD1 ILE G1029     -45.331   4.140  42.103  1.00 39.39      GAP  H   new
+ATOM   4990 3HD1 ILE G1029     -45.380   2.554  41.262  1.00 39.39      GAP  H   new
+ATOM   4991  N   THR G1030     -40.800   1.927  44.725  1.00 45.98      GAP  N
+ATOM   4992  CA  THR G1030     -39.470   1.317  44.724  1.00 46.84      GAP  C
+ATOM   4993  C   THR G1030     -39.188   0.596  46.040  1.00 46.74      GAP  C
+ATOM   4994  O   THR G1030     -38.774  -0.577  46.047  1.00 43.90      GAP  O
+ATOM   4995  CB  THR G1030     -38.369   2.377  44.497  1.00 46.54      GAP  C
+ATOM   4996  OG1 THR G1030     -38.746   3.229  43.409  1.00 44.58      GAP  O
+ATOM   4997  CG2 THR G1030     -37.036   1.712  44.169  1.00 44.61      GAP  C
+ATOM   4998  H   THR G1030     -40.793   2.919  44.597  1.00 45.98      GAP  H   new
+ATOM   4999  HA  THR G1030     -39.457   0.590  43.899  1.00 46.84      GAP  H   new
+ATOM   5000  HB  THR G1030     -38.255   2.965  45.420  1.00 46.54      GAP  H   new
+ATOM   5001  HG1 THR G1030     -38.034   3.916  43.261  1.00 44.58      GAP  H   new
+ATOM   5002 1HG2 THR G1030     -36.269   2.485  44.012  1.00 44.61      GAP  H   new
+ATOM   5003 2HG2 THR G1030     -36.735   1.062  45.004  1.00 44.61      GAP  H   new
+ATOM   5004 3HG2 THR G1030     -37.141   1.109  43.255  1.00 44.61      GAP  H   new
+ATOM   5005  N   GLU G1031     -39.497   1.266  47.146  1.00 48.72      GAP  N
+ATOM   5006  CA  GLU G1031     -39.299   0.709  48.481  1.00 50.08      GAP  C
+ATOM   5007  C   GLU G1031     -40.249  -0.455  48.752  1.00 48.06      GAP  C
+ATOM   5008  O   GLU G1031     -39.858  -1.464  49.358  1.00 46.74      GAP  O
+ATOM   5009  CB  GLU G1031     -39.513   1.799  49.526  1.00 54.36      GAP  C
+ATOM   5010  CG  GLU G1031     -38.416   1.898  50.563  1.00 63.66      GAP  C
+ATOM   5011  CD  GLU G1031     -38.956   2.138  51.971  1.00 71.64      GAP  C
+ATOM   5012  OE1 GLU G1031     -40.199   2.227  52.141  1.00 70.49      GAP  O
+ATOM   5013  OE2 GLU G1031     -38.129   2.178  52.918  1.00 75.96      GAP  O
+ATOM   5014  H   GLU G1031     -39.883   2.189  47.143  1.00 48.72      GAP  H   new
+ATOM   5015  HA  GLU G1031     -38.269   0.326  48.540  1.00 50.08      GAP  H   new
+ATOM   5016 1HB  GLU G1031     -39.604   2.768  49.013  1.00 54.36      GAP  H   new
+ATOM   5017 2HB  GLU G1031     -40.469   1.615  50.038  1.00 54.36      GAP  H   new
+ATOM   5018 1HG  GLU G1031     -37.825   0.971  50.555  1.00 63.66      GAP  H   new
+ATOM   5019 2HG  GLU G1031     -37.734   2.717  50.292  1.00 63.66      GAP  H   new
+ATOM   5020  N   LEU G1032     -41.483  -0.333  48.272  1.00 46.13      GAP  N
+ATOM   5021  CA  LEU G1032     -42.485  -1.375  48.454  1.00 45.57      GAP  C
+ATOM   5022  C   LEU G1032     -42.121  -2.632  47.675  1.00 46.84      GAP  C
+ATOM   5023  O   LEU G1032     -42.450  -3.750  48.087  1.00 47.23      GAP  O
+ATOM   5024  CB  LEU G1032     -43.854  -0.871  48.008  1.00 43.07      GAP  C
+ATOM   5025  CG  LEU G1032     -45.030  -1.778  48.350  1.00 42.65      GAP  C
+ATOM   5026  CD1 LEU G1032     -45.244  -1.769  49.852  1.00 44.77      GAP  C
+ATOM   5027  CD2 LEU G1032     -46.279  -1.298  47.620  1.00 43.93      GAP  C
+ATOM   5028  H   LEU G1032     -41.806   0.465  47.763  1.00 46.13      GAP  H   new
+ATOM   5029  HA  LEU G1032     -42.519  -1.629  49.524  1.00 45.57      GAP  H   new
+ATOM   5030 1HB  LEU G1032     -44.029   0.115  48.464  1.00 43.07      GAP  H   new
+ATOM   5031 2HB  LEU G1032     -43.833  -0.722  46.918  1.00 43.07      GAP  H   new
+ATOM   5032  HG  LEU G1032     -44.818  -2.808  48.028  1.00 42.65      GAP  H   new
+ATOM   5033 1HD1 LEU G1032     -46.092  -2.422  50.106  1.00 44.77      GAP  H   new
+ATOM   5034 2HD1 LEU G1032     -44.336  -2.135  50.354  1.00 44.77      GAP  H   new
+ATOM   5035 3HD1 LEU G1032     -45.459  -0.743  50.186  1.00 44.77      GAP  H   new
+ATOM   5036 1HD2 LEU G1032     -47.125  -1.955  47.869  1.00 43.93      GAP  H   new
+ATOM   5037 2HD2 LEU G1032     -46.512  -0.268  47.929  1.00 43.93      GAP  H   new
+ATOM   5038 3HD2 LEU G1032     -46.103  -1.324  46.535  1.00 43.93      GAP  H   new
+ATOM   5039  N   LEU G1033     -41.470  -2.447  46.530  1.00 50.01      GAP  N
+ATOM   5040  CA  LEU G1033     -41.009  -3.571  45.721  1.00 52.39      GAP  C
+ATOM   5041  C   LEU G1033     -39.686  -4.103  46.256  1.00 51.47      GAP  C
+ATOM   5042  O   LEU G1033     -39.351  -5.281  46.061  1.00 49.41      GAP  O
+ATOM   5043  CB  LEU G1033     -40.851  -3.154  44.252  1.00 54.70      GAP  C
+ATOM   5044  CG  LEU G1033     -42.114  -2.760  43.475  1.00 53.27      GAP  C
+ATOM   5045  CD1 LEU G1033     -41.720  -2.240  42.112  1.00 52.39      GAP  C
+ATOM   5046  CD2 LEU G1033     -43.042  -3.952  43.334  1.00 54.55      GAP  C
+ATOM   5047  H   LEU G1033     -41.254  -1.548  46.149  1.00 50.01      GAP  H   new
+ATOM   5048  HA  LEU G1033     -41.764  -4.369  45.780  1.00 52.39      GAP  H   new
+ATOM   5049 1HB  LEU G1033     -40.154  -2.303  44.216  1.00 54.70      GAP  H   new
+ATOM   5050 2HB  LEU G1033     -40.371  -3.986  43.715  1.00 54.70      GAP  H   new
+ATOM   5051  HG  LEU G1033     -42.647  -1.972  44.027  1.00 53.27      GAP  H   new
+ATOM   5052 1HD1 LEU G1033     -42.623  -1.957  41.552  1.00 52.39      GAP  H   new
+ATOM   5053 2HD1 LEU G1033     -41.070  -1.360  42.228  1.00 52.39      GAP  H   new
+ATOM   5054 3HD1 LEU G1033     -41.179  -3.024  41.562  1.00 52.39      GAP  H   new
+ATOM   5055 1HD2 LEU G1033     -43.941  -3.653  42.775  1.00 54.55      GAP  H   new
+ATOM   5056 2HD2 LEU G1033     -42.525  -4.758  42.792  1.00 54.55      GAP  H   new
+ATOM   5057 3HD2 LEU G1033     -43.333  -4.311  44.332  1.00 54.55      GAP  H   new
+ATOM   5058  N   GLN G1034     -38.915  -3.218  46.883  1.00 51.17      GAP  N
+ATOM   5059  CA  GLN G1034     -37.752  -3.617  47.677  1.00 50.92      GAP  C
+ATOM   5060  C   GLN G1034     -38.147  -4.669  48.720  1.00 49.66      GAP  C
+ATOM   5061  O   GLN G1034     -37.621  -5.788  48.725  1.00 48.56      GAP  O
+ATOM   5062  CB  GLN G1034     -37.163  -2.392  48.384  1.00 54.06      GAP  C
+ATOM   5063  CG  GLN G1034     -35.931  -1.821  47.721  1.00 54.37      GAP  C
+ATOM   5064  CD  GLN G1034     -34.695  -2.641  48.017  1.00 56.34      GAP  C
+ATOM   5065  OE1 GLN G1034     -34.497  -3.738  47.444  1.00 54.51      GAP  O
+ATOM   5066  NE2 GLN G1034     -33.874  -2.157  48.947  1.00 61.09      GAP  N
+ATOM   5067  H   GLN G1034     -39.072  -2.231  46.857  1.00 51.17      GAP  H   new
+ATOM   5068  HA  GLN G1034     -37.000  -4.052  47.002  1.00 50.92      GAP  H   new
+ATOM   5069 1HB  GLN G1034     -37.933  -1.608  48.436  1.00 54.06      GAP  H   new
+ATOM   5070 2HB  GLN G1034     -36.913  -2.666  49.420  1.00 54.06      GAP  H   new
+ATOM   5071 1HG  GLN G1034     -36.088  -1.777  46.633  1.00 54.37      GAP  H   new
+ATOM   5072 2HG  GLN G1034     -35.776  -0.788  48.066  1.00 54.37      GAP  H   new
+ATOM   5073 1HE2 GLN G1034     -33.061  -2.674  49.214  1.00 61.09      GAP  H   new
+ATOM   5074 2HE2 GLN G1034     -34.071  -1.277  49.379  1.00 61.09      GAP  H   new
+ATOM   5075  N   GLN G1035     -39.131  -4.312  49.548  1.00 47.29      GAP  N
+ATOM   5076  CA  GLN G1035     -39.641  -5.163  50.634  1.00 49.34      GAP  C
+ATOM   5077  C   GLN G1035     -40.155  -6.514  50.132  1.00 51.29      GAP  C
+ATOM   5078  O   GLN G1035     -39.928  -7.554  50.771  1.00 49.32      GAP  O
+ATOM   5079  CB  GLN G1035     -40.772  -4.427  51.404  1.00 47.87      GAP  C
+ATOM   5080  CG  GLN G1035     -40.380  -3.588  52.597  1.00 54.73      GAP  C
+ATOM   5081  CD  GLN G1035     -41.533  -2.742  53.123  1.00 60.03      GAP  C
+ATOM   5082  OE1 GLN G1035     -42.720  -3.186  53.075  1.00 67.22      GAP  O
+ATOM   5083  NE2 GLN G1035     -41.234  -1.510  53.611  1.00 64.36      GAP  N
+ATOM   5084  H   GLN G1035     -39.596  -3.429  49.486  1.00 47.29      GAP  H   new
+ATOM   5085  HA  GLN G1035     -38.795  -5.363  51.308  1.00 49.34      GAP  H   new
+ATOM   5086 1HB  GLN G1035     -41.298  -3.776  50.691  1.00 47.87      GAP  H   new
+ATOM   5087 2HB  GLN G1035     -41.496  -5.182  51.745  1.00 47.87      GAP  H   new
+ATOM   5088 1HG  GLN G1035     -40.017  -4.246  53.400  1.00 54.73      GAP  H   new
+ATOM   5089 2HG  GLN G1035     -39.544  -2.929  52.319  1.00 54.73      GAP  H   new
+ATOM   5090 1HE2 GLN G1035     -41.964  -0.916  53.950  1.00 64.36      GAP  H   new
+ATOM   5091 2HE2 GLN G1035     -40.284  -1.197  53.631  1.00 64.36      GAP  H   new
+ATOM   5092  N   LYS G1036     -40.910  -6.470  49.035  1.00 55.15      GAP  N
+ATOM   5093  CA  LYS G1036     -41.615  -7.637  48.523  1.00 57.31      GAP  C
+ATOM   5094  C   LYS G1036     -40.714  -8.688  47.885  1.00 58.04      GAP  C
+ATOM   5095  O   LYS G1036     -41.171  -9.809  47.588  1.00 56.91      GAP  O
+ATOM   5096  CB  LYS G1036     -42.711  -7.225  47.534  1.00 58.96      GAP  C
+ATOM   5097  CG  LYS G1036     -43.971  -6.694  48.205  1.00 66.16      GAP  C
+ATOM   5098  CD  LYS G1036     -45.217  -6.853  47.336  1.00 70.93      GAP  C
+ATOM   5099  CE  LYS G1036     -45.774  -8.284  47.355  1.00 73.70      GAP  C
+ATOM   5100  NZ  LYS G1036     -46.181  -8.755  48.716  1.00 74.94      GAP  N
+ATOM   5101  H   LYS G1036     -41.045  -5.642  48.491  1.00 55.15      GAP  H   new
+ATOM   5102  HA  LYS G1036     -42.063  -8.110  49.409  1.00 57.31      GAP  H   new
+ATOM   5103 1HB  LYS G1036     -42.312  -6.453  46.859  1.00 58.96      GAP  H   new
+ATOM   5104 2HB  LYS G1036     -42.975  -8.092  46.911  1.00 58.96      GAP  H   new
+ATOM   5105 1HG  LYS G1036     -44.124  -7.223  49.157  1.00 66.16      GAP  H   new
+ATOM   5106 2HG  LYS G1036     -43.832  -5.630  48.447  1.00 66.16      GAP  H   new
+ATOM   5107 1HD  LYS G1036     -45.994  -6.157  47.685  1.00 70.93      GAP  H   new
+ATOM   5108 2HD  LYS G1036     -44.975  -6.572  46.300  1.00 70.93      GAP  H   new
+ATOM   5109 1HE  LYS G1036     -46.643  -8.338  46.683  1.00 73.70      GAP  H   new
+ATOM   5110 2HE  LYS G1036     -45.013  -8.969  46.952  1.00 73.70      GAP  H   new
+ATOM   5111 1HZ  LYS G1036     -46.532  -9.689  48.655  1.00 74.94      GAP  H + new
+ATOM   5112 2HZ  LYS G1036     -45.389  -8.737  49.326  1.00 74.94      GAP  H + new
+ATOM   5113 3HZ  LYS G1036     -46.894  -8.154  49.078  1.00 74.94      GAP  H + new
+ATOM   5114  N   GLN G1037     -39.449  -8.337  47.674  1.00 60.72      GAP  N
+ATOM   5115  CA  GLN G1037     -38.443  -9.302  47.247  1.00 63.73      GAP  C
+ATOM   5116  C   GLN G1037     -37.598  -9.768  48.438  1.00 67.37      GAP  C
+ATOM   5117  O   GLN G1037     -37.212 -10.962  48.441  1.00 68.93      GAP  O
+ATOM   5118  CB  GLN G1037     -37.553  -8.681  46.166  1.00 63.62      GAP  C
+ATOM   5119  CG  GLN G1037     -36.730  -9.693  45.373  1.00 65.98      GAP  C
+ATOM   5120  CD  GLN G1037     -35.948  -9.072  44.223  1.00 68.05      GAP  C
+ATOM   5121  OE1 GLN G1037     -35.328  -9.789  43.413  1.00 71.46      GAP  O
+ATOM   5122  NE2 GLN G1037     -35.959  -7.745  44.137  1.00 68.50      GAP  N
+ATOM   5123  OXT GLN G1037     -37.361  -8.948  49.364  1.00 67.55      GAP  O
+ATOM   5124  H   GLN G1037     -39.103  -7.406  47.790  1.00 60.72      GAP  H   new
+ATOM   5125  HA  GLN G1037     -38.953 -10.182  46.827  1.00 63.73      GAP  H   new
+ATOM   5126 1HB  GLN G1037     -38.186  -8.113  45.468  1.00 63.62      GAP  H   new
+ATOM   5127 2HB  GLN G1037     -36.870  -7.961  46.639  1.00 63.62      GAP  H   new
+ATOM   5128 1HG  GLN G1037     -36.028 -10.196  46.054  1.00 65.98      GAP  H   new
+ATOM   5129 2HG  GLN G1037     -37.402 -10.467  44.973  1.00 65.98      GAP  H   new
+ATOM   5130 1HE2 GLN G1037     -35.458  -7.287  43.403  1.00 68.50      GAP  H   new
+ATOM   5131 2HE2 GLN G1037     -36.469  -7.205  44.807  1.00 68.50      GAP  H   new

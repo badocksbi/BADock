@@ -1,0 +1,25 @@
+*********************************************************
+Program parameters
+
+baseParams	(Str)	4.0 13.0 2
+clusterParams	(Str)	0.1 4 2.0 9.0
+desolvationParams	(Str)	500.0 1.0
+distanceConstraintsFile	(Str)	/sbi/users/manuel/PPI_funnel_model/benchmark5_jobs/3LVK/distance_constraints.txt
+ligandGrid	(Str)	0.5 6.0 6.0
+ligandMs	(Str)	10.0 1.8
+ligandPdb	(Str)	/sbi/users/manuel/Databases/DockingBenchmark5/3LVK_l_b.pdb
+ligandSeg	(Str)	10.0 20.0 1.5 1 0 1 0
+log-file	(Str)	/sbi/users/manuel/PPI_funnel_model/benchmark5_jobs/3LVK/patchdock_direct_log.txt
+log-level	(Str)	2
+matchAlgorithm	(Str)	1
+matchingParams	(Str)	1.5 1.5 0.4 0.5 0.9
+protLib	(Str)	/soft/bio/structure/PatchDock/chem.lib
+receptorGrid	(Str)	0.5 6.0 6.0
+receptorMs	(Str)	10.0 1.8
+receptorPdb	(Str)	/sbi/users/manuel/Databases/DockingBenchmark5/3LVK_r_b.pdb
+receptorSeg	(Str)	10.0 20.0 1.5 1 0 1 0
+scoreParams	(Str)	0.3 -5.0 0.5 0.0 0.0 1500 -8 -4 0 1 0
+
+*********************************************************
+
+   # | score | pen.  | Area    | as1   | as2   | as12  | ACE     | hydroph | Energy  |cluster| dist. || Ligand Transformation

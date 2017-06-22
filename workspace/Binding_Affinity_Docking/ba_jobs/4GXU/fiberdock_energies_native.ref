@@ -1,0 +1,52 @@
+After Refinement: 
+########### Program Parameters ##################
+ACEWeight	(Str)	1.6
+HBWeight	(Str)	1.2
+Lambda	(Float)	0.05
+LigandAlignment	(Str)	
+ReceptorAlignment	(Str)	
+Sol2print	(Int)	0
+aliphWeight	(Str)	2.5
+attrElWeight	(Str)	0.21
+attrVdWWeight	(Str)	1.5
+catpiWeight	(Str)	0.7
+charmmParamFile	(Str)	/soft/bio/structure/FiberDock1.1/lib/par_all27_prot_na.prm
+confProbWeight	(Str)	0.0
+definitionsFile	(Str)	/soft/bio/structure/FiberDock1.1/lib/top_all27_prot_na.rtf
+energiesOutFileName	(Str)	ba_jobs_u/4GXU/fiberdock_energies_native
+exclusionsFile	(Str)	/soft/bio/structure/FiberDock1.1/lib/exclusions
+extraRotamers	(Int)	0
+flexibleLigandChains	(Str)	
+flexibleReceptorChains	(Str)	
+insidenessWeight	(Str)	0.7
+l_attrElWeight	(Str)	0.0
+l_repElWeight	(Str)	0.69
+ligandFixedResiduesFile	(Str)	
+ligandFlexibleResiduesFile	(Str)	
+ligandOnlyClashesMovable	(Int)	1
+ligandPDBFileName	(Str)	/home/manuel/Databases/AffinityBenchmark1/4GXU_l_b.pdb.HB
+log-file	(Str)	ba_jobs_u/4GXU/fiberdock_log_native.txt
+log-level	(Str)	2
+lpMethod	(Int)	2
+onlyEnergyCalculation	(Str)	1
+onlySolveClashes	(Int)	1
+pdbConventionFile	(Str)	
+performBackboneRef	(Int)	0
+pipiWeight	(Str)	1.0
+printRefinedComplexes	(Int)	0
+protLib	(Str)	/soft/bio/structure/FiberDock1.1/lib/chem.lib
+radiiScaling	(Str)	0.80
+receptorFixedResiduesFile	(Str)	
+receptorFlexibleResiduesFile	(Str)	
+receptorOnlyClashesMovable	(Int)	1
+receptorPDBFileName	(Str)	/home/manuel/Databases/AffinityBenchmark1/4GXU_r_b.pdb.HB
+repElWeight	(Str)	0.21
+repVdWWeight	(Str)	0.8
+rigidBodyMinimizationCycles	(Int)	0
+rotamerLibFile	(Str)	/soft/bio/structure/FiberDock1.1/lib/bbdep02.May.sortlib
+templateLigandPDBFileName	(Str)	
+templateReceptorPDBFileName	(Str)	
+transFileName	(Str)	ba_jobs_u/4GXU/patchdock_native.txt
+#################################################
+    Sol # |     glob |     aVdW |     rVdW |      ACE |   inside |    aElec |    rElec |   laElec |   lrElec |       hb |      piS |   catpiS |    aliph |     prob | BBdeform |
+1	|     5.83 |   -20.90 |     0.02 |    14.29 |    20.03 |   -20.45 |    27.99 |    -6.61 |    14.73 |    -0.39 |    -6.00 |     0.00 |    -2.00 |     0.00 |     0.00 |0.00 0.00 0.00 0.00 0.00 0.00 | | 

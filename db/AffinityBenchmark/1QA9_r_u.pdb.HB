@@ -1,0 +1,2922 @@
+USER  MOD reduceV2.21 H: found=0, std=0, add=1473, rem=0, adj=0
+ATOM      1  N   THR A   4      34.181  21.548  43.213  1.00 78.43      1HNF 1
+ATOM      2  CA  THR A   4      34.181  20.977  41.830  1.00 79.29      1HNF 1
+ATOM      3  C   THR A   4      32.768  20.581  41.310  1.00 76.90      1HNF 1
+ATOM      4  O   THR A   4      32.627  19.540  40.647  1.00 71.57      1HNF 1
+ATOM      5  CB  THR A   4      35.256  19.789  41.707  1.00 79.42      1HNF 1
+ATOM      6  OG1 THR A   4      35.101  19.071  40.472  1.00 75.94      1HNF 1
+ATOM      7  CG2 THR A   4      35.155  18.823  42.878  1.00 78.63      1HNF 1
+ATOM      8  HA  THR A   4      34.496  21.784  41.152  1.00 79.29      1HNF H   new
+ATOM      9  HB  THR A   4      36.252  20.256  41.723  1.00 79.42      1HNF H   new
+ATOM     10  HG1 THR A   4      35.781  18.340  40.423  1.00 75.94      1HNF H   new
+ATOM     11 1HG2 THR A   4      35.903  18.025  42.761  1.00 78.63      1HNF H   new
+ATOM     12 2HG2 THR A   4      35.340  19.364  43.818  1.00 78.63      1HNF H   new
+ATOM     13 3HG2 THR A   4      34.148  18.380  42.903  1.00 78.63      1HNF H   new
+ATOM     14  N   ASN A   5      31.750  21.418  41.624  1.00 73.26      1HNF 1
+ATOM     15  CA  ASN A   5      30.307  21.294  41.208  1.00 65.31      1HNF 1
+ATOM     16  C   ASN A   5      29.398  20.084  41.580  1.00 52.07      1HNF 1
+ATOM     17  O   ASN A   5      28.340  19.873  40.972  1.00 37.57      1HNF 1
+ATOM     18  CB  ASN A   5      30.183  21.552  39.690  1.00 80.29      1HNF 1
+ATOM     19  CG  ASN A   5      30.929  20.502  38.827  1.00 89.24      1HNF 1
+ATOM     20  OD1 ASN A   5      32.019  20.767  38.287  1.00 92.75      1HNF 1
+ATOM     21  ND2 ASN A   5      30.351  19.307  38.719  1.00 92.31      1HNF 1
+ATOM     22  H   ASN A   5      31.904  22.227  42.191  1.00 73.26      1HNF H   new
+ATOM     23  HA  ASN A   5      29.883  22.053  41.882  1.00 65.31      1HNF H   new
+ATOM     24 1HB  ASN A   5      29.119  21.556  39.412  1.00 80.29      1HNF H   new
+ATOM     25 2HB  ASN A   5      30.579  22.552  39.462  1.00 80.29      1HNF H   new
+ATOM     26 1HD2 ASN A   5      30.794  18.584  38.189  1.00 92.31      1HNF H   new
+ATOM     27 2HD2 ASN A   5      29.475  19.133  39.168  1.00 92.31      1HNF H   new
+ATOM     28  N   ALA A   6      29.787  19.334  42.604  1.00 45.07      1HNF 1
+ATOM     29  CA  ALA A   6      29.071  18.129  43.038  1.00 34.81      1HNF 1
+ATOM     30  C   ALA A   6      28.039  18.386  44.107  1.00 32.53      1HNF 1
+ATOM     31  O   ALA A   6      28.245  19.245  44.957  1.00 43.92      1HNF 1
+ATOM     32  CB  ALA A   6      30.071  17.109  43.561  1.00 29.28      1HNF 1
+ATOM     33  H   ALA A   6      30.597  19.538  43.153  1.00 45.07      1HNF H   new
+ATOM     34  HA  ALA A   6      28.533  17.754  42.155  1.00 34.81      1HNF H   new
+ATOM     35 1HB  ALA A   6      29.536  16.205  43.887  1.00 29.28      1HNF H   new
+ATOM     36 2HB  ALA A   6      30.780  16.847  42.762  1.00 29.28      1HNF H   new
+ATOM     37 3HB  ALA A   6      30.620  17.537  44.413  1.00 29.28      1HNF H   new
+ATOM     38  N   LEU A   7      26.964  17.598  44.103  1.00 25.20      1HNF 1
+ATOM     39  CA  LEU A   7      25.892  17.712  45.103  1.00 19.85      1HNF 2
+ATOM     40  C   LEU A   7      26.217  16.840  46.299  1.00 18.21      1HNF 2
+ATOM     41  O   LEU A   7      26.177  15.624  46.206  1.00 20.29      1HNF 2
+ATOM     42  CB  LEU A   7      24.559  17.248  44.530  1.00 18.45      1HNF 2
+ATOM     43  CG  LEU A   7      23.377  17.303  45.496  1.00 21.82      1HNF 2
+ATOM     44  CD1 LEU A   7      23.304  18.700  46.109  1.00 18.51      1HNF 2
+ATOM     45  CD2 LEU A   7      22.067  16.942  44.761  1.00 22.14      1HNF 2
+ATOM     46  H   LEU A   7      26.811  16.879  43.425  1.00 25.20      1HNF H   new
+ATOM     47  HA  LEU A   7      25.816  18.769  45.398  1.00 19.85      1HNF H   new
+ATOM     48 1HB  LEU A   7      24.322  17.866  43.651  1.00 18.45      1HNF H   new
+ATOM     49 2HB  LEU A   7      24.672  16.213  44.174  1.00 18.45      1HNF H   new
+ATOM     50  HG  LEU A   7      23.516  16.567  46.302  1.00 21.82      1HNF H   new
+ATOM     51 1HD1 LEU A   7      22.455  18.751  46.807  1.00 18.51      1HNF H   new
+ATOM     52 2HD1 LEU A   7      24.237  18.912  46.651  1.00 18.51      1HNF H   new
+ATOM     53 3HD1 LEU A   7      23.167  19.444  45.311  1.00 18.51      1HNF H   new
+ATOM     54 1HD2 LEU A   7      21.225  16.986  45.468  1.00 22.14      1HNF H   new
+ATOM     55 2HD2 LEU A   7      21.896  17.657  43.943  1.00 22.14      1HNF H   new
+ATOM     56 3HD2 LEU A   7      22.146  15.926  44.348  1.00 22.14      1HNF H   new
+ATOM     57  N   GLU A   8      26.562  17.466  47.413  1.00 24.40      1HNF 2
+ATOM     58  CA  GLU A   8      26.897  16.724  48.621  1.00 29.80      1HNF 2
+ATOM     59  C   GLU A   8      25.762  15.825  49.119  1.00 29.31      1HNF 2
+ATOM     60  O   GLU A   8      24.608  16.237  49.145  1.00 38.44      1HNF 2
+ATOM     61  CB  GLU A   8      27.308  17.681  49.717  1.00 30.21      1HNF 2
+ATOM     62  CG  GLU A   8      27.587  16.961  51.004  1.00 40.67      1HNF 2
+ATOM     63  CD  GLU A   8      28.226  17.846  52.047  1.00 47.00      1HNF 2
+ATOM     64  OE1 GLU A   8      27.520  18.712  52.617  1.00 47.68      1HNF 2
+ATOM     65  OE2 GLU A   8      29.438  17.667  52.300  1.00 53.90      1HNF 2
+ATOM     66  H   GLU A   8      26.617  18.460  47.505  1.00 24.40      1HNF H   new
+ATOM     67  HA  GLU A   8      27.733  16.060  48.357  1.00 29.80      1HNF H   new
+ATOM     68 1HB  GLU A   8      28.205  18.235  49.404  1.00 30.21      1HNF H   new
+ATOM     69 2HB  GLU A   8      26.511  18.422  49.876  1.00 30.21      1HNF H   new
+ATOM     70 1HG  GLU A   8      26.646  16.555  51.402  1.00 40.67      1HNF H   new
+ATOM     71 2HG  GLU A   8      28.247  16.104  50.803  1.00 40.67      1HNF H   new
+ATOM     72  N   THR A   9      26.100  14.613  49.546  1.00 24.06      1HNF 2
+ATOM     73  CA  THR A   9      25.107  13.660  50.009  1.00 18.43      1HNF 2
+ATOM     74  C   THR A   9      25.580  12.900  51.211  1.00 22.56      1HNF 2
+ATOM     75  O   THR A   9      26.731  12.468  51.253  1.00 24.94      1HNF 2
+ATOM     76  CB  THR A   9      24.858  12.638  48.954  1.00 17.47      1HNF 2
+ATOM     77  OG1 THR A   9      24.461  13.312  47.772  1.00 27.65      1HNF 2
+ATOM     78  CG2 THR A   9      23.755  11.712  49.339  1.00 24.62      1HNF 2
+ATOM     79  H   THR A   9      27.041  14.276  49.579  1.00 24.06      1HNF H   new
+ATOM     80  HA  THR A   9      24.206  14.241  50.253  1.00 18.43      1HNF H   new
+ATOM     81  HB  THR A   9      25.779  12.054  48.811  1.00 17.47      1HNF H   new
+ATOM     82  HG1 THR A   9      24.288  12.644  47.049  1.00 27.65      1HNF H   new
+ATOM     83 1HG2 THR A   9      23.600  10.973  48.539  1.00 24.62      1HNF H   new
+ATOM     84 2HG2 THR A   9      24.021  11.192  50.271  1.00 24.62      1HNF H   new
+ATOM     85 3HG2 THR A   9      22.830  12.287  49.492  1.00 24.62      1HNF H   new
+ATOM     86  N   TRP A  10      24.680  12.702  52.173  1.00 18.04      1HNF 2
+ATOM     87  CA  TRP A  10      25.019  11.955  53.371  1.00 15.79      1HNF 2
+ATOM     88  C   TRP A  10      24.395  10.594  53.372  1.00 11.67      1HNF 2
+ATOM     89  O   TRP A  10      23.226  10.457  53.032  1.00 18.62      1HNF 2
+ATOM     90  CB  TRP A  10      24.643  12.734  54.612  1.00 20.41      1HNF 2
+ATOM     91  CG  TRP A  10      25.531  13.891  54.732  1.00 21.97      1HNF 2
+ATOM     92  CD1 TRP A  10      25.297  15.149  54.261  1.00 20.71      1HNF 2
+ATOM     93  CD2 TRP A  10      26.873  13.896  55.255  1.00 18.23      1HNF 2
+ATOM     94  NE1 TRP A  10      26.412  15.930  54.445  1.00 22.31      1HNF 2
+ATOM     95  CE2 TRP A  10      27.394  15.187  55.052  1.00 15.14      1HNF 2
+ATOM     96  CE3 TRP A  10      27.683  12.931  55.865  1.00 19.06      1HNF 2
+ATOM     97  CZ2 TRP A  10      28.690  15.544  55.438  1.00 14.36      1HNF 2
+ATOM     98  CZ3 TRP A  10      28.970  13.289  56.247  1.00 20.48      1HNF 2
+ATOM     99  CH2 TRP A  10      29.461  14.587  56.032  1.00 15.31      1HNF 2
+ATOM    100  H   TRP A  10      23.739  13.040  52.143  1.00 18.04      1HNF H   new
+ATOM    101  HA  TRP A  10      26.109  11.809  53.376  1.00 15.79      1HNF H   new
+ATOM    102 1HB  TRP A  10      23.595  13.063  54.552  1.00 20.41      1HNF H   new
+ATOM    103 2HB  TRP A  10      24.729  12.095  55.503  1.00 20.41      1HNF H   new
+ATOM    104  HD1 TRP A  10      24.356  15.488  53.802  1.00 20.71      1HNF H   new
+ATOM    105  HE1 TRP A  10      26.495  16.890  54.178  1.00 22.31      1HNF H   new
+ATOM    106  HE3 TRP A  10      27.309  11.911  56.038  1.00 19.06      1HNF H   new
+ATOM    107  HZ2 TRP A  10      29.075  16.561  55.269  1.00 14.36      1HNF H   new
+ATOM    108  HZ3 TRP A  10      29.617  12.541  56.728  1.00 20.48      1HNF H   new
+ATOM    109  HH2 TRP A  10      30.485  14.837  56.348  1.00 15.31      1HNF H   new
+ATOM    110  N   GLY A  11      25.175   9.603  53.797  1.00  7.53      1HNF 2
+ATOM    111  CA  GLY A  11      24.718   8.229  53.805  1.00  6.30      1HNF 2
+ATOM    112  C   GLY A  11      25.153   7.564  55.086  1.00 17.77      1HNF 2
+ATOM    113  O   GLY A  11      26.129   7.976  55.701  1.00 18.11      1HNF 2
+ATOM    114  H   GLY A  11      26.108   9.731  54.133  1.00  7.53      1HNF H   new
+ATOM    115 1HA  GLY A  11      23.622   8.194  53.714  1.00  6.30      1HNF H   new
+ATOM    116 2HA  GLY A  11      25.130   7.689  52.940  1.00  6.30      1HNF H   new
+ATOM    117  N   ALA A  12      24.463   6.496  55.468  1.00 18.05      1HNF 2
+ATOM    118  CA  ALA A  12      24.770   5.818  56.714  1.00 12.50      1HNF 2
+ATOM    119  C   ALA A  12      25.504   4.502  56.579  1.00  9.30      1HNF 2
+ATOM    120  O   ALA A  12      25.053   3.571  55.939  1.00 11.49      1HNF 2
+ATOM    121  CB  ALA A  12      23.494   5.617  57.481  1.00 21.77      1HNF 2
+ATOM    122  H   ALA A  12      23.710   6.095  54.947  1.00 18.05      1HNF H   new
+ATOM    123  HA  ALA A  12      25.473   6.474  57.248  1.00 12.50      1HNF H   new
+ATOM    124 1HB  ALA A  12      23.712   5.103  58.429  1.00 21.77      1HNF H   new
+ATOM    125 2HB  ALA A  12      23.034   6.594  57.691  1.00 21.77      1HNF H   new
+ATOM    126 3HB  ALA A  12      22.800   5.006  56.885  1.00 21.77      1HNF H   new
+ATOM    127  N   LEU A  13      26.616   4.411  57.256  1.00  5.81      1HNF 2
+ATOM    128  CA  LEU A  13      27.402   3.216  57.215  1.00  8.49      1HNF 2
+ATOM    129  C   LEU A  13      26.498   2.084  57.548  1.00 16.49      1HNF 2
+ATOM    130  O   LEU A  13      25.864   2.100  58.590  1.00 34.96      1HNF 2
+ATOM    131  CB  LEU A  13      28.460   3.304  58.282  1.00 14.59      1HNF 2
+ATOM    132  CG  LEU A  13      29.441   2.150  58.372  1.00 28.85      1HNF 2
+ATOM    133  CD1 LEU A  13      30.603   2.393  57.407  1.00 28.44      1HNF 2
+ATOM    134  CD2 LEU A  13      29.965   2.055  59.796  1.00 31.55      1HNF 2
+ATOM    135  H   LEU A  13      26.988   5.139  57.831  1.00  5.81      1HNF H   new
+ATOM    136  HA  LEU A  13      27.869   3.080  56.228  1.00  8.49      1HNF H   new
+ATOM    137 1HB  LEU A  13      29.033   4.229  58.121  1.00 14.59      1HNF H   new
+ATOM    138 2HB  LEU A  13      27.957   3.403  59.255  1.00 14.59      1HNF H   new
+ATOM    139  HG  LEU A  13      28.939   1.210  58.101  1.00 28.85      1HNF H   new
+ATOM    140 1HD1 LEU A  13      31.315   1.557  57.472  1.00 28.44      1HNF H   new
+ATOM    141 2HD1 LEU A  13      30.218   2.467  56.379  1.00 28.44      1HNF H   new
+ATOM    142 3HD1 LEU A  13      31.113   3.330  57.675  1.00 28.44      1HNF H   new
+ATOM    143 1HD2 LEU A  13      30.677   1.220  59.870  1.00 31.55      1HNF H   new
+ATOM    144 2HD2 LEU A  13      30.472   2.994  60.064  1.00 31.55      1HNF H   new
+ATOM    145 3HD2 LEU A  13      29.125   1.882  60.485  1.00 31.55      1HNF H   new
+ATOM    146  N   GLY A  14      26.375   1.135  56.633  1.00 26.27      1HNF 2
+ATOM    147  CA  GLY A  14      25.542  -0.037  56.861  1.00 24.33      1HNF 2
+ATOM    148  C   GLY A  14      24.174   0.014  56.207  1.00 28.29      1HNF 2
+ATOM    149  O   GLY A  14      23.519  -1.015  56.035  1.00 31.19      1HNF 2
+ATOM    150  H   GLY A  14      26.832   1.152  55.744  1.00 26.27      1HNF H   new
+ATOM    151 1HA  GLY A  14      26.076  -0.925  56.492  1.00 24.33      1HNF H   new
+ATOM    152 2HA  GLY A  14      25.409  -0.169  57.945  1.00 24.33      1HNF H   new
+ATOM    153  N   GLN A  15      23.724   1.211  55.861  1.00 21.95      1HNF 2
+ATOM    154  CA  GLN A  15      22.427   1.367  55.246  1.00 22.79      1HNF 2
+ATOM    155  C   GLN A  15      22.618   1.544  53.767  1.00 24.02      1HNF 2
+ATOM    156  O   GLN A  15      23.737   1.679  53.297  1.00 28.32      1HNF 2
+ATOM    157  CB  GLN A  15      21.724   2.596  55.820  1.00 21.53      1HNF 2
+ATOM    158  CG  GLN A  15      21.726   2.622  57.323  1.00 32.80      1HNF 2
+ATOM    159  CD  GLN A  15      21.355   1.269  57.935  1.00 39.00      1HNF 2
+ATOM    160  OE1 GLN A  15      22.162   0.648  58.628  1.00 44.87      1HNF 2
+ATOM    161  NE2 GLN A  15      20.139   0.807  57.669  1.00 43.49      1HNF 2
+ATOM    162  H   GLN A  15      24.229   2.064  55.995  1.00 21.95      1HNF H   new
+ATOM    163  HA  GLN A  15      21.810   0.478  55.446  1.00 22.79      1HNF H   new
+ATOM    164 1HB  GLN A  15      22.217   3.504  55.442  1.00 21.53      1HNF H   new
+ATOM    165 2HB  GLN A  15      20.685   2.620  55.459  1.00 21.53      1HNF H   new
+ATOM    166 1HG  GLN A  15      22.723   2.921  57.680  1.00 32.80      1HNF H   new
+ATOM    167 2HG  GLN A  15      21.017   3.386  57.674  1.00 32.80      1HNF H   new
+ATOM    168 1HE2 GLN A  15      19.849  -0.077  58.036  1.00 43.49      1HNF H   new
+ATOM    169 2HE2 GLN A  15      19.514   1.343  57.102  1.00 43.49      1HNF H   new
+ATOM    170  N   ASP A  16      21.522   1.521  53.034  1.00 21.28      1HNF 2
+ATOM    171  CA  ASP A  16      21.574   1.727  51.607  1.00 24.95      1HNF 2
+ATOM    172  C   ASP A  16      21.326   3.208  51.391  1.00 25.27      1HNF 2
+ATOM    173  O   ASP A  16      20.944   3.914  52.325  1.00 27.01      1HNF 2
+ATOM    174  CB  ASP A  16      20.441   0.979  50.903  1.00 26.89      1HNF 2
+ATOM    175  CG  ASP A  16      20.433  -0.501  51.192  1.00 31.03      1HNF 2
+ATOM    176  OD1 ASP A  16      21.469  -1.056  51.650  1.00 26.62      1HNF 2
+ATOM    177  OD2 ASP A  16      19.356  -1.103  50.947  1.00 31.66      1HNF 2
+ATOM    178  H   ASP A  16      20.604   1.364  53.400  1.00 21.28      1HNF H   new
+ATOM    179  HA  ASP A  16      22.538   1.374  51.211  1.00 24.95      1HNF H   new
+ATOM    180 1HB  ASP A  16      19.478   1.411  51.213  1.00 26.89      1HNF H   new
+ATOM    181 2HB  ASP A  16      20.528   1.133  49.817  1.00 26.89      1HNF H   new
+ATOM    182  N   ILE A  17      21.578   3.666  50.164  1.00 20.37      1HNF 2
+ATOM    183  CA  ILE A  17      21.327   5.045  49.764  1.00 18.77      1HNF 2
+ATOM    184  C   ILE A  17      20.982   5.125  48.274  1.00 21.34      1HNF 2
+ATOM    185  O   ILE A  17      21.271   4.219  47.511  1.00 22.33      1HNF 2
+ATOM    186  CB  ILE A  17      22.446   6.029  50.153  1.00 12.77      1HNF 2
+ATOM    187  CG1 ILE A  17      22.031   7.435  49.748  1.00 10.69      1HNF 2
+ATOM    188  CG2 ILE A  17      23.707   5.700  49.454  1.00 18.03      1HNF 2
+ATOM    189  CD1 ILE A  17      22.704   8.487  50.527  1.00 11.10      1HNF 2
+ATOM    190  H   ILE A  17      21.956   3.097  49.434  1.00 20.37      1HNF H   new
+ATOM    191  HA  ILE A  17      20.452   5.376  50.343  1.00 18.77      1HNF H   new
+ATOM    192  HB  ILE A  17      22.607   5.960  51.239  1.00 12.77      1HNF H   new
+ATOM    193 1HG1 ILE A  17      22.251   7.582  48.680  1.00 10.69      1HNF H   new
+ATOM    194 2HG1 ILE A  17      20.943   7.538  49.869  1.00 10.69      1HNF H   new
+ATOM    195 1HG2 ILE A  17      24.488   6.416  49.749  1.00 18.03      1HNF H   new
+ATOM    196 2HG2 ILE A  17      24.023   4.682  49.726  1.00 18.03      1HNF H   new
+ATOM    197 3HG2 ILE A  17      23.550   5.757  48.367  1.00 18.03      1HNF H   new
+ATOM    198 1HD1 ILE A  17      22.360   9.474  50.185  1.00 11.10      1HNF H   new
+ATOM    199 2HD1 ILE A  17      22.464   8.365  51.593  1.00 11.10      1HNF H   new
+ATOM    200 3HD1 ILE A  17      23.792   8.409  50.386  1.00 11.10      1HNF H   new
+ATOM    201  N   ASN A  18      20.258   6.170  47.902  1.00 24.05      1HNF 2
+ATOM    202  CA  ASN A  18      19.819   6.363  46.547  1.00 18.36      1HNF 2
+ATOM    203  C   ASN A  18      20.310   7.639  45.956  1.00 24.50      1HNF 2
+ATOM    204  O   ASN A  18      20.056   8.704  46.514  1.00 29.28      1HNF 2
+ATOM    205  CB  ASN A  18      18.321   6.478  46.534  1.00 22.82      1HNF 2
+ATOM    206  CG  ASN A  18      17.653   5.173  46.592  1.00 23.35      1HNF 2
+ATOM    207  OD1 ASN A  18      18.266   4.164  46.921  1.00 29.35      1HNF 2
+ATOM    208  ND2 ASN A  18      16.384   5.160  46.247  1.00 20.29      1HNF 2
+ATOM    209  H   ASN A  18      19.968   6.892  48.530  1.00 24.05      1HNF H   new
+ATOM    210  HA  ASN A  18      20.206   5.509  45.972  1.00 18.36      1HNF H   new
+ATOM    211 1HB  ASN A  18      17.997   7.090  47.389  1.00 22.82      1HNF H   new
+ATOM    212 2HB  ASN A  18      18.006   7.007  45.622  1.00 22.82      1HNF H   new
+ATOM    213 1HD2 ASN A  18      15.875   4.299  46.245  1.00 20.29      1HNF H   new
+ATOM    214 2HD2 ASN A  18      15.928   6.011  45.986  1.00 20.29      1HNF H   new
+ATOM    215  N   LEU A  19      20.903   7.549  44.771  1.00 26.69      1HNF 2
+ATOM    216  CA  LEU A  19      21.371   8.731  44.055  1.00 22.64      1HNF 2
+ATOM    217  C   LEU A  19      20.349   8.899  42.930  1.00 25.57      1HNF 2
+ATOM    218  O   LEU A  19      20.249   8.045  42.052  1.00 28.73      1HNF 2
+ATOM    219  CB  LEU A  19      22.762   8.486  43.496  1.00 20.22      1HNF 2
+ATOM    220  CG  LEU A  19      23.747   8.080  44.581  1.00 23.91      1HNF 2
+ATOM    221  CD1 LEU A  19      25.132   7.937  44.007  1.00 21.90      1HNF 2
+ATOM    222  CD2 LEU A  19      23.741   9.114  45.658  1.00 13.19      1HNF 2
+ATOM    223  H   LEU A  19      21.068   6.686  44.294  1.00 26.69      1HNF H   new
+ATOM    224  HA  LEU A  19      21.447   9.625  44.691  1.00 22.64      1HNF H   new
+ATOM    225 1HB  LEU A  19      22.715   7.698  42.730  1.00 20.22      1HNF H   new
+ATOM    226 2HB  LEU A  19      23.122   9.398  42.997  1.00 20.22      1HNF H   new
+ATOM    227  HG  LEU A  19      23.446   7.109  45.000  1.00 23.91      1HNF H   new
+ATOM    228 1HD1 LEU A  19      25.831   7.643  44.804  1.00 21.90      1HNF H   new
+ATOM    229 2HD1 LEU A  19      25.126   7.166  43.222  1.00 21.90      1HNF H   new
+ATOM    230 3HD1 LEU A  19      25.451   8.897  43.575  1.00 21.90      1HNF H   new
+ATOM    231 1HD2 LEU A  19      24.452   8.827  46.447  1.00 13.19      1HNF H   new
+ATOM    232 2HD2 LEU A  19      24.036  10.086  45.236  1.00 13.19      1HNF H   new
+ATOM    233 3HD2 LEU A  19      22.731   9.192  46.086  1.00 13.19      1HNF H   new
+ATOM    234  N   ASP A  20      19.572   9.981  42.987  1.00 26.60      1HNF 2
+ATOM    235  CA  ASP A  20      18.519  10.250  42.017  1.00 25.73      1HNF 3
+ATOM    236  C   ASP A  20      18.795  11.470  41.184  1.00 29.23      1HNF 3
+ATOM    237  O   ASP A  20      19.379  12.453  41.649  1.00 28.88      1HNF 3
+ATOM    238  CB  ASP A  20      17.174  10.554  42.722  1.00 30.01      1HNF 3
+ATOM    239  CG  ASP A  20      16.724   9.471  43.707  1.00 33.44      1HNF 3
+ATOM    240  OD1 ASP A  20      16.130   8.459  43.271  1.00 32.52      1HNF 3
+ATOM    241  OD2 ASP A  20      16.891   9.673  44.935  1.00 38.94      1HNF 3
+ATOM    242  H   ASP A  20      19.656  10.681  43.696  1.00 26.60      1HNF H   new
+ATOM    243  HA  ASP A  20      18.477   9.345  41.394  1.00 25.73      1HNF H   new
+ATOM    244 1HB  ASP A  20      17.262  11.509  43.260  1.00 30.01      1HNF H   new
+ATOM    245 2HB  ASP A  20      16.394  10.686  41.958  1.00 30.01      1HNF H   new
+ATOM    246  N   ILE A  21      18.250  11.457  39.981  1.00 37.78      1HNF 3
+ATOM    247  CA  ILE A  21      18.373  12.611  39.114  1.00 46.29      1HNF 3
+ATOM    248  C   ILE A  21      16.956  13.002  38.748  1.00 51.98      1HNF 3
+ATOM    249  O   ILE A  21      16.298  12.353  37.950  1.00 55.91      1HNF 3
+ATOM    250  CB  ILE A  21      19.261  12.350  37.895  1.00 44.28      1HNF 3
+ATOM    251  CG1 ILE A  21      18.885  11.041  37.202  1.00 40.33      1HNF 3
+ATOM    252  CG2 ILE A  21      20.720  12.285  38.359  1.00 47.13      1HNF 3
+ATOM    253  CD1 ILE A  21      19.687   9.843  37.679  1.00 39.37      1HNF 3
+ATOM    254  H   ILE A  21      17.737  10.690  39.596  1.00 37.78      1HNF H   new
+ATOM    255  HA  ILE A  21      18.886  13.438  39.627  1.00 46.29      1HNF H   new
+ATOM    256  HB  ILE A  21      19.120  13.166  37.171  1.00 44.28      1HNF H   new
+ATOM    257 1HG1 ILE A  21      17.816  10.844  37.367  1.00 40.33      1HNF H   new
+ATOM    258 2HG1 ILE A  21      19.027  11.157  36.117  1.00 40.33      1HNF H   new
+ATOM    259 1HG2 ILE A  21      21.373  12.098  37.494  1.00 47.13      1HNF H   new
+ATOM    260 2HG2 ILE A  21      20.999  13.240  38.828  1.00 47.13      1HNF H   new
+ATOM    261 3HG2 ILE A  21      20.837  11.471  39.089  1.00 47.13      1HNF H   new
+ATOM    262 1HD1 ILE A  21      19.361   8.943  37.137  1.00 39.37      1HNF H   new
+ATOM    263 2HD1 ILE A  21      20.756  10.018  37.489  1.00 39.37      1HNF H   new
+ATOM    264 3HD1 ILE A  21      19.526   9.699  38.758  1.00 39.37      1HNF H   new
+ATOM    265  N   PRO A  22      16.428  14.018  39.433  1.00 57.45      1HNF 3
+ATOM    266  CA  PRO A  22      15.069  14.513  39.207  1.00 60.66      1HNF 3
+ATOM    267  C   PRO A  22      15.023  15.253  37.881  1.00 66.03      1HNF 3
+ATOM    268  O   PRO A  22      13.999  15.267  37.178  1.00 62.64      1HNF 3
+ATOM    269  CB  PRO A  22      14.866  15.475  40.378  1.00 60.92      1HNF 3
+ATOM    270  CG  PRO A  22      15.976  15.096  41.377  1.00 61.58      1HNF 3
+ATOM    271  CD  PRO A  22      17.109  14.809  40.468  1.00 58.23      1HNF 3
+ATOM    272  HA  PRO A  22      14.298  13.729  39.159  1.00 60.66      1HNF H   new
+ATOM    273 1HB  PRO A  22      14.955  16.523  40.057  1.00 60.92      1HNF H   new
+ATOM    274 2HB  PRO A  22      13.867  15.359  40.824  1.00 60.92      1HNF H   new
+ATOM    275 1HG  PRO A  22      16.203  15.916  42.074  1.00 61.58      1HNF H   new
+ATOM    276 2HG  PRO A  22      15.703  14.222  41.986  1.00 61.58      1HNF H   new
+ATOM    277 1HD  PRO A  22      17.563  15.725  40.063  1.00 58.23      1HNF H   new
+ATOM    278 2HD  PRO A  22      17.912  14.245  40.965  1.00 58.23      1HNF H   new
+ATOM    279  N   SER A  23      16.179  15.834  37.552  1.00 71.66      1HNF 3
+ATOM    280  CA  SER A  23      16.406  16.600  36.329  1.00 75.75      1HNF 3
+ATOM    281  C   SER A  23      16.187  15.713  35.096  1.00 78.78      1HNF 3
+ATOM    282  O   SER A  23      16.208  16.196  33.952  1.00 81.52      1HNF 3
+ATOM    283  CB  SER A  23      17.848  17.150  36.347  1.00 75.35      1HNF 3
+ATOM    284  OG  SER A  23      18.165  17.891  35.182  1.00 72.61      1HNF 3
+ATOM    285  H   SER A  23      16.989  15.783  38.136  1.00 71.66      1HNF H   new
+ATOM    286  HA  SER A  23      15.693  17.436  36.278  1.00 75.75      1HNF H   new
+ATOM    287 1HB  SER A  23      18.554  16.313  36.447  1.00 75.35      1HNF H   new
+ATOM    288 2HB  SER A  23      17.981  17.791  37.231  1.00 75.35      1HNF H   new
+ATOM    289  HG  SER A  23      19.106  18.223  35.244  1.00 72.61      1HNF H   new
+ATOM    290  N   PHE A  24      15.938  14.424  35.355  1.00 75.61      1HNF 3
+ATOM    291  CA  PHE A  24      15.731  13.411  34.324  1.00 66.44      1HNF 3
+ATOM    292  C   PHE A  24      14.316  12.849  34.303  1.00 66.47      1HNF 3
+ATOM    293  O   PHE A  24      13.559  12.970  35.266  1.00 66.39      1HNF 3
+ATOM    294  CB  PHE A  24      16.745  12.281  34.526  1.00 55.84      1HNF 3
+ATOM    295  CG  PHE A  24      16.719  11.224  33.469  1.00 45.50      1HNF 3
+ATOM    296  CD1 PHE A  24      16.677  11.559  32.123  1.00 48.03      1HNF 3
+ATOM    297  CD2 PHE A  24      16.784   9.887  33.822  1.00 43.70      1HNF 3
+ATOM    298  CE1 PHE A  24      16.706  10.564  31.133  1.00 47.85      1HNF 3
+ATOM    299  CE2 PHE A  24      16.819   8.882  32.853  1.00 45.77      1HNF 3
+ATOM    300  CZ  PHE A  24      16.780   9.219  31.502  1.00 46.41      1HNF 3
+ATOM    301  H   PHE A  24      15.876  14.061  36.285  1.00 75.61      1HNF H   new
+ATOM    302  HA  PHE A  24      15.879  13.899  33.350  1.00 66.44      1HNF H   new
+ATOM    303 1HB  PHE A  24      17.755  12.715  34.566  1.00 55.84      1HNF H   new
+ATOM    304 2HB  PHE A  24      16.559  11.809  35.502  1.00 55.84      1HNF H   new
+ATOM    305  HD1 PHE A  24      16.620  12.617  31.828  1.00 48.03      1HNF H   new
+ATOM    306  HD2 PHE A  24      16.809   9.611  34.886  1.00 43.70      1HNF H   new
+ATOM    307  HE1 PHE A  24      16.671  10.843  30.070  1.00 47.85      1HNF H   new
+ATOM    308  HE2 PHE A  24      16.877   7.826  33.156  1.00 45.77      1HNF H   new
+ATOM    309  HZ  PHE A  24      16.807   8.433  30.733  1.00 46.41      1HNF H   new
+ATOM    310  N   GLN A  25      13.997  12.239  33.168  1.00 70.39      1HNF 3
+ATOM    311  CA  GLN A  25      12.712  11.623  32.869  1.00 76.26      1HNF 3
+ATOM    312  C   GLN A  25      13.024  10.700  31.694  1.00 75.11      1HNF 3
+ATOM    313  O   GLN A  25      13.234  11.173  30.571  1.00 73.31      1HNF 3
+ATOM    314  CB  GLN A  25      11.720  12.714  32.430  1.00 83.43      1HNF 3
+ATOM    315  CG  GLN A  25      10.432  12.213  31.766  1.00 90.92      1HNF 3
+ATOM    316  CD  GLN A  25       9.574  11.337  32.682  1.00 95.21      1HNF 3
+ATOM    317  OE1 GLN A  25       9.115  10.263  32.277  1.00 94.02      1HNF 3
+ATOM    318  NE2 GLN A  25       9.340  11.802  33.915  1.00 98.73      1HNF 3
+ATOM    319  H   GLN A  25      14.645  12.159  32.411  1.00 70.39      1HNF H   new
+ATOM    320  HA  GLN A  25      12.267  11.092  33.724  1.00 76.26      1HNF H   new
+ATOM    321 1HB  GLN A  25      11.447  13.312  33.312  1.00 83.43      1HNF H   new
+ATOM    322 2HB  GLN A  25      12.233  13.390  31.730  1.00 83.43      1HNF H   new
+ATOM    323 1HG  GLN A  25       9.838  13.078  31.438  1.00 90.92      1HNF H   new
+ATOM    324 2HG  GLN A  25      10.693  11.641  30.864  1.00 90.92      1HNF H   new
+ATOM    325 1HE2 GLN A  25       8.774  11.275  34.549  1.00 98.73      1HNF H   new
+ATOM    326 2HE2 GLN A  25       9.731  12.676  34.202  1.00 98.73      1HNF H   new
+ATOM    327  N   MET A  26      13.043   9.392  31.939  1.00 72.76      1HNF 3
+ATOM    328  CA  MET A  26      13.385   8.440  30.884  1.00 71.58      1HNF 3
+ATOM    329  C   MET A  26      12.505   8.456  29.653  1.00 75.28      1HNF 3
+ATOM    330  O   MET A  26      11.438   9.074  29.654  1.00 78.90      1HNF 3
+ATOM    331  CB  MET A  26      13.470   7.028  31.429  1.00 70.75      1HNF 3
+ATOM    332  CG  MET A  26      14.722   6.339  30.968  1.00 72.60      1HNF 3
+ATOM    333  SD  MET A  26      14.406   4.795  30.149  1.00 78.45      1HNF 3
+ATOM    334  CE  MET A  26      15.900   3.828  30.664  1.00 73.38      1HNF 3
+ATOM    335  H   MET A  26      12.834   8.980  32.826  1.00 72.76      1HNF H   new
+ATOM    336  HA  MET A  26      14.369   8.789  30.537  1.00 71.58      1HNF H   new
+ATOM    337 1HB  MET A  26      13.447   7.055  32.528  1.00 70.75      1HNF H   new
+ATOM    338 2HB  MET A  26      12.591   6.453  31.103  1.00 70.75      1HNF H   new
+ATOM    339 1HG  MET A  26      15.269   7.005  30.284  1.00 72.60      1HNF H   new
+ATOM    340 2HG  MET A  26      15.376   6.160  31.835  1.00 72.60      1HNF H   new
+ATOM    341 1HE  MET A  26      15.854   2.820  30.226  1.00 73.38      1HNF H   new
+ATOM    342 2HE  MET A  26      16.808   4.339  30.311  1.00 73.38      1HNF H   new
+ATOM    343 3HE  MET A  26      15.927   3.750  31.761  1.00 73.38      1HNF H   new
+ATOM    344  N   SER A  27      12.983   7.805  28.590  1.00 77.37      1HNF 3
+ATOM    345  CA  SER A  27      12.260   7.722  27.316  1.00 77.50      1HNF 3
+ATOM    346  C   SER A  27      12.873   6.741  26.307  1.00 76.54      1HNF 3
+ATOM    347  O   SER A  27      13.720   5.913  26.654  1.00 72.37      1HNF 3
+ATOM    348  CB  SER A  27      12.124   9.106  26.667  1.00 77.65      1HNF 3
+ATOM    349  OG  SER A  27      13.377   9.625  26.260  1.00 82.06      1HNF 3
+ATOM    350  H   SER A  27      13.863   7.330  28.587  1.00 77.37      1HNF H   new
+ATOM    351  HA  SER A  27      11.267   7.327  27.578  1.00 77.50      1HNF H   new
+ATOM    352 1HB  SER A  27      11.654   9.800  27.380  1.00 77.65      1HNF H   new
+ATOM    353 2HB  SER A  27      11.456   9.038  25.796  1.00 77.65      1HNF H   new
+ATOM    354  HG  SER A  27      13.246  10.525  25.843  1.00 82.06      1HNF H   new
+ATOM    355  N   ASP A  28      12.417   6.845  25.059  1.00 78.13      1HNF 3
+ATOM    356  CA  ASP A  28      12.866   5.992  23.956  1.00 79.52      1HNF 3
+ATOM    357  C   ASP A  28      14.243   6.353  23.432  1.00 76.64      1HNF 3
+ATOM    358  O   ASP A  28      15.104   5.484  23.271  1.00 74.87      1HNF 3
+ATOM    359  CB  ASP A  28      11.876   6.098  22.791  1.00 83.25      1HNF 3
+ATOM    360  CG  ASP A  28      12.157   5.100  21.676  1.00 86.15      1HNF 3
+ATOM    361  OD1 ASP A  28      12.666   3.995  21.964  1.00 88.02      1HNF 3
+ATOM    362  OD2 ASP A  28      11.853   5.415  20.506  1.00 87.36      1HNF 3
+ATOM    363  H   ASP A  28      11.730   7.519  24.786  1.00 78.13      1HNF H   new
+ATOM    364  HA  ASP A  28      12.917   4.971  24.361  1.00 79.52      1HNF H   new
+ATOM    365 1HB  ASP A  28      10.855   5.938  23.169  1.00 83.25      1HNF H   new
+ATOM    366 2HB  ASP A  28      11.911   7.118  22.380  1.00 83.25      1HNF H   new
+ATOM    367  N   ASP A  29      14.409   7.643  23.145  1.00 72.77      1HNF 3
+ATOM    368  CA  ASP A  29      15.632   8.222  22.597  1.00 71.23      1HNF 3
+ATOM    369  C   ASP A  29      16.949   7.849  23.309  1.00 66.23      1HNF 3
+ATOM    370  O   ASP A  29      18.018   7.837  22.687  1.00 69.71      1HNF 3
+ATOM    371  CB  ASP A  29      15.463   9.749  22.552  1.00 79.72      1HNF 3
+ATOM    372  CG  ASP A  29      16.089  10.390  21.305  1.00 85.88      1HNF 3
+ATOM    373  OD1 ASP A  29      16.534   9.660  20.382  1.00 88.05      1HNF 3
+ATOM    374  OD2 ASP A  29      16.122  11.644  21.253  1.00 86.52      1HNF 3
+ATOM    375  H   ASP A  29      13.688   8.320  23.289  1.00 72.77      1HNF H   new
+ATOM    376  HA  ASP A  29      15.749   7.782  21.596  1.00 71.23      1HNF H   new
+ATOM    377 1HB  ASP A  29      14.391   9.994  22.583  1.00 79.72      1HNF H   new
+ATOM    378 2HB  ASP A  29      15.920  10.189  23.451  1.00 79.72      1HNF H   new
+ATOM    379  N   ILE A  30      16.854   7.497  24.588  1.00 54.20      1HNF 3
+ATOM    380  CA  ILE A  30      18.002   7.141  25.422  1.00 45.28      1HNF 3
+ATOM    381  C   ILE A  30      18.740   5.831  25.062  1.00 42.76      1HNF 3
+ATOM    382  O   ILE A  30      18.184   4.738  25.169  1.00 39.46      1HNF 3
+ATOM    383  CB  ILE A  30      17.570   7.109  26.911  1.00 43.72      1HNF 3
+ATOM    384  CG1 ILE A  30      16.784   8.381  27.274  1.00 44.40      1HNF 3
+ATOM    385  CG2 ILE A  30      18.763   6.985  27.812  1.00 40.38      1HNF 3
+ATOM    386  CD1 ILE A  30      17.506   9.685  27.013  1.00 36.75      1HNF 3
+ATOM    387  H   ILE A  30      15.981   7.451  25.074  1.00 54.20      1HNF H   new
+ATOM    388  HA  ILE A  30      18.742   7.930  25.223  1.00 45.28      1HNF H   new
+ATOM    389  HB  ILE A  30      16.923   6.231  27.053  1.00 43.72      1HNF H   new
+ATOM    390 1HG1 ILE A  30      15.841   8.383  26.707  1.00 44.40      1HNF H   new
+ATOM    391 2HG1 ILE A  30      16.518   8.336  28.340  1.00 44.40      1HNF H   new
+ATOM    392 1HG2 ILE A  30      18.431   6.965  28.860  1.00 40.38      1HNF H   new
+ATOM    393 2HG2 ILE A  30      19.303   6.055  27.581  1.00 40.38      1HNF H   new
+ATOM    394 3HG2 ILE A  30      19.431   7.845  27.657  1.00 40.38      1HNF H   new
+ATOM    395 1HD1 ILE A  30      16.861  10.527  27.305  1.00 36.75      1HNF H   new
+ATOM    396 2HD1 ILE A  30      18.435   9.714  27.601  1.00 36.75      1HNF H   new
+ATOM    397 3HD1 ILE A  30      17.748   9.763  25.943  1.00 36.75      1HNF H   new
+ATOM    398  N   ASP A  31      20.023   5.956  24.714  1.00 44.06      1HNF 3
+ATOM    399  CA  ASP A  31      20.854   4.817  24.331  1.00 43.47      1HNF 3
+ATOM    400  C   ASP A  31      21.796   4.270  25.400  1.00 37.18      1HNF 3
+ATOM    401  O   ASP A  31      22.108   3.084  25.384  1.00 40.18      1HNF 3
+ATOM    402  CB  ASP A  31      21.664   5.170  23.071  1.00 46.88      1HNF 3
+ATOM    403  CG  ASP A  31      22.690   4.109  22.715  1.00 47.94      1HNF 3
+ATOM    404  OD1 ASP A  31      22.285   3.024  22.243  1.00 53.04      1HNF 3
+ATOM    405  OD2 ASP A  31      23.898   4.365  22.918  1.00 45.98      1HNF 3
+ATOM    406  H   ASP A  31      20.503   6.833  24.691  1.00 44.06      1HNF H   new
+ATOM    407  HA  ASP A  31      20.135   4.004  24.151  1.00 43.47      1HNF H   new
+ATOM    408 1HB  ASP A  31      20.975   5.306  22.224  1.00 46.88      1HNF H   new
+ATOM    409 2HB  ASP A  31      22.176   6.131  23.227  1.00 46.88      1HNF H   new
+ATOM    410  N   ASP A  32      22.255   5.123  26.316  1.00 35.75      1HNF 3
+ATOM    411  CA  ASP A  32      23.201   4.696  27.351  1.00 32.70      1HNF 3
+ATOM    412  C   ASP A  32      23.139   5.580  28.584  1.00 28.37      1HNF 3
+ATOM    413  O   ASP A  32      23.072   6.790  28.454  1.00 31.06      1HNF 3
+ATOM    414  CB  ASP A  32      24.619   4.756  26.767  1.00 40.99      1HNF 3
+ATOM    415  CG  ASP A  32      25.693   4.411  27.775  1.00 46.05      1HNF 3
+ATOM    416  OD1 ASP A  32      25.537   3.404  28.494  1.00 51.71      1HNF 4
+ATOM    417  OD2 ASP A  32      26.705   5.140  27.836  1.00 49.78      1HNF 4
+ATOM    418  H   ASP A  32      21.996   6.088  26.363  1.00 35.75      1HNF H   new
+ATOM    419  HA  ASP A  32      22.935   3.674  27.659  1.00 32.70      1HNF H   new
+ATOM    420 1HB  ASP A  32      24.688   4.063  25.916  1.00 40.99      1HNF H   new
+ATOM    421 2HB  ASP A  32      24.805   5.767  26.374  1.00 40.99      1HNF H   new
+ATOM    422  N   ILE A  33      23.143   4.964  29.768  1.00 23.46      1HNF 4
+ATOM    423  CA  ILE A  33      23.125   5.665  31.068  1.00 21.75      1HNF 4
+ATOM    424  C   ILE A  33      24.319   5.073  31.791  1.00 22.42      1HNF 4
+ATOM    425  O   ILE A  33      24.297   3.882  32.145  1.00 16.63      1HNF 4
+ATOM    426  CB  ILE A  33      21.884   5.292  31.973  1.00 22.00      1HNF 4
+ATOM    427  CG1 ILE A  33      20.591   5.853  31.419  1.00 21.14      1HNF 4
+ATOM    428  CG2 ILE A  33      22.032   5.864  33.383  1.00 16.37      1HNF 4
+ATOM    429  CD1 ILE A  33      19.365   5.258  32.091  1.00 21.01      1HNF 4
+ATOM    430  H   ILE A  33      23.159   3.968  29.858  1.00 23.46      1HNF H   new
+ATOM    431  HA  ILE A  33      23.111   6.752  30.901  1.00 21.75      1HNF H   new
+ATOM    432  HB  ILE A  33      21.852   4.193  31.991  1.00 22.00      1HNF H   new
+ATOM    433 1HG1 ILE A  33      20.583   6.945  31.549  1.00 21.14      1HNF H   new
+ATOM    434 2HG1 ILE A  33      20.544   5.658  30.337  1.00 21.14      1HNF H   new
+ATOM    435 1HG2 ILE A  33      21.154   5.587  33.986  1.00 16.37      1HNF H   new
+ATOM    436 2HG2 ILE A  33      22.941   5.457  33.851  1.00 16.37      1HNF H   new
+ATOM    437 3HG2 ILE A  33      22.108   6.960  33.329  1.00 16.37      1HNF H   new
+ATOM    438 1HD1 ILE A  33      18.457   5.698  31.653  1.00 21.01      1HNF H   new
+ATOM    439 2HD1 ILE A  33      19.355   4.169  31.938  1.00 21.01      1HNF H   new
+ATOM    440 3HD1 ILE A  33      19.395   5.476  33.169  1.00 21.01      1HNF H   new
+ATOM    441  N   LYS A  34      25.342   5.886  32.047  1.00 16.26      1HNF 4
+ATOM    442  CA  LYS A  34      26.507   5.355  32.727  1.00 18.34      1HNF 4
+ATOM    443  C   LYS A  34      26.786   6.014  34.071  1.00 18.53      1HNF 4
+ATOM    444  O   LYS A  34      26.717   7.235  34.227  1.00 22.17      1HNF 4
+ATOM    445  CB  LYS A  34      27.743   5.410  31.830  1.00 19.80      1HNF 4
+ATOM    446  CG  LYS A  34      28.924   4.595  32.352  1.00 21.03      1HNF 4
+ATOM    447  CD  LYS A  34      30.227   5.350  32.123  1.00 27.28      1HNF 4
+ATOM    448  CE  LYS A  34      30.280   5.969  30.735  1.00 30.13      1HNF 4
+ATOM    449  NZ  LYS A  34      31.593   6.624  30.533  1.00 32.05      1HNF 4
+ATOM    450  H   LYS A  34      25.384   6.856  31.808  1.00 16.26      1HNF H   new
+ATOM    451  HA  LYS A  34      26.270   4.303  32.945  1.00 18.34      1HNF H   new
+ATOM    452 1HB  LYS A  34      27.473   5.045  30.828  1.00 19.80      1HNF H   new
+ATOM    453 2HB  LYS A  34      28.055   6.459  31.717  1.00 19.80      1HNF H   new
+ATOM    454 1HG  LYS A  34      28.793   4.391  33.425  1.00 21.03      1HNF H   new
+ATOM    455 2HG  LYS A  34      28.961   3.621  31.842  1.00 21.03      1HNF H   new
+ATOM    456 1HD  LYS A  34      30.333   6.139  32.882  1.00 27.28      1HNF H   new
+ATOM    457 2HD  LYS A  34      31.077   4.664  32.252  1.00 27.28      1HNF H   new
+ATOM    458 1HE  LYS A  34      30.123   5.194  29.970  1.00 30.13      1HNF H   new
+ATOM    459 2HE  LYS A  34      29.470   6.704  30.619  1.00 30.13      1HNF H   new
+ATOM    460 1HZ  LYS A  34      31.626   7.030  29.620  1.00 32.05      1HNF H + new
+ATOM    461 2HZ  LYS A  34      31.719   7.339  31.221  1.00 32.05      1HNF H + new
+ATOM    462 3HZ  LYS A  34      32.322   5.945  30.622  1.00 32.05      1HNF H + new
+ATOM    463  N   TRP A  35      27.050   5.155  35.048  1.00 14.75      1HNF 4
+ATOM    464  CA  TRP A  35      27.346   5.549  36.402  1.00 17.36      1HNF 4
+ATOM    465  C   TRP A  35      28.775   5.152  36.589  1.00 18.12      1HNF 4
+ATOM    466  O   TRP A  35      29.120   3.986  36.442  1.00 21.30      1HNF 4
+ATOM    467  CB  TRP A  35      26.491   4.747  37.403  1.00 21.08      1HNF 4
+ATOM    468  CG  TRP A  35      25.218   5.394  37.791  1.00 12.96      1HNF 4
+ATOM    469  CD1 TRP A  35      23.977   5.077  37.352  1.00 13.65      1HNF 4
+ATOM    470  CD2 TRP A  35      25.070   6.518  38.654  1.00 10.11      1HNF 4
+ATOM    471  NE1 TRP A  35      23.049   5.953  37.879  1.00 14.40      1HNF 4
+ATOM    472  CE2 TRP A  35      23.702   6.848  38.683  1.00 14.71      1HNF 4
+ATOM    473  CE3 TRP A  35      25.959   7.284  39.397  1.00 10.66      1HNF 4
+ATOM    474  CZ2 TRP A  35      23.205   7.912  39.427  1.00 14.93      1HNF 4
+ATOM    475  CZ3 TRP A  35      25.466   8.345  40.138  1.00  9.61      1HNF 4
+ATOM    476  CH2 TRP A  35      24.105   8.648  40.148  1.00 12.09      1HNF 4
+ATOM    477  H   TRP A  35      27.062   4.165  34.911  1.00 14.75      1HNF H   new
+ATOM    478  HA  TRP A  35      27.148   6.618  36.569  1.00 17.36      1HNF H   new
+ATOM    479 1HB  TRP A  35      26.267   3.763  36.966  1.00 21.08      1HNF H   new
+ATOM    480 2HB  TRP A  35      27.086   4.568  38.311  1.00 21.08      1HNF H   new
+ATOM    481  HD1 TRP A  35      23.742   4.243  36.674  1.00 13.65      1HNF H   new
+ATOM    482  HE1 TRP A  35      22.065   5.936  37.703  1.00 14.40      1HNF H   new
+ATOM    483  HE3 TRP A  35      27.034   7.052  39.397  1.00 10.66      1HNF H   new
+ATOM    484  HZ2 TRP A  35      22.132   8.152  39.436  1.00 14.93      1HNF H   new
+ATOM    485  HZ3 TRP A  35      26.161   8.960  40.729  1.00  9.61      1HNF H   new
+ATOM    486  HH2 TRP A  35      23.747   9.497  40.749  1.00 12.09      1HNF H   new
+ATOM    487  N   GLU A  36      29.576   6.088  37.052  1.00 14.66      1HNF 4
+ATOM    488  CA  GLU A  36      30.964   5.826  37.240  1.00 19.30      1HNF 4
+ATOM    489  C   GLU A  36      31.423   6.300  38.625  1.00 26.32      1HNF 4
+ATOM    490  O   GLU A  36      30.823   7.222  39.189  1.00 23.68      1HNF 4
+ATOM    491  CB  GLU A  36      31.697   6.571  36.133  1.00 32.13      1HNF 4
+ATOM    492  CG  GLU A  36      33.174   6.310  36.059  1.00 41.50      1HNF 4
+ATOM    493  CD  GLU A  36      33.838   7.204  35.055  1.00 44.57      1HNF 4
+ATOM    494  OE1 GLU A  36      33.653   6.949  33.846  1.00 53.47      1HNF 4
+ATOM    495  OE2 GLU A  36      34.525   8.161  35.472  1.00 40.09      1HNF 4
+ATOM    496  H   GLU A  36      29.285   7.013  37.296  1.00 14.66      1HNF H   new
+ATOM    497  HA  GLU A  36      31.176   4.748  37.192  1.00 19.30      1HNF H   new
+ATOM    498 1HB  GLU A  36      31.244   6.300  35.168  1.00 32.13      1HNF H   new
+ATOM    499 2HB  GLU A  36      31.538   7.651  36.271  1.00 32.13      1HNF H   new
+ATOM    500 1HG  GLU A  36      33.626   6.468  37.049  1.00 41.50      1HNF H   new
+ATOM    501 2HG  GLU A  36      33.349   5.258  35.789  1.00 41.50      1HNF H   new
+ATOM    502  N   LYS A  37      32.494   5.690  39.155  1.00 24.47      1HNF 4
+ATOM    503  CA  LYS A  37      33.049   6.041  40.468  1.00 28.71      1HNF 4
+ATOM    504  C   LYS A  37      34.422   6.693  40.274  1.00 30.04      1HNF 4
+ATOM    505  O   LYS A  37      35.387   5.996  40.048  1.00 37.58      1HNF 4
+ATOM    506  CB  LYS A  37      33.175   4.767  41.303  1.00 31.57      1HNF 4
+ATOM    507  CG  LYS A  37      33.512   4.916  42.778  1.00 29.20      1HNF 4
+ATOM    508  CD  LYS A  37      33.593   3.491  43.360  1.00 36.79      1HNF 4
+ATOM    509  CE  LYS A  37      33.906   3.422  44.859  1.00 40.06      1HNF 4
+ATOM    510  NZ  LYS A  37      35.273   3.907  45.227  1.00 43.62      1HNF 4
+ATOM    511  H   LYS A  37      32.989   4.954  38.693  1.00 24.47      1HNF H   new
+ATOM    512  HA  LYS A  37      32.390   6.751  40.989  1.00 28.71      1HNF H   new
+ATOM    513 1HB  LYS A  37      32.225   4.218  41.227  1.00 31.57      1HNF H   new
+ATOM    514 2HB  LYS A  37      33.949   4.136  40.842  1.00 31.57      1HNF H   new
+ATOM    515 1HG  LYS A  37      34.467   5.446  42.909  1.00 29.20      1HNF H   new
+ATOM    516 2HG  LYS A  37      32.742   5.507  43.297  1.00 29.20      1HNF H   new
+ATOM    517 1HD  LYS A  37      32.636   2.981  43.177  1.00 36.79      1HNF H   new
+ATOM    518 2HD  LYS A  37      34.366   2.931  42.813  1.00 36.79      1HNF H   new
+ATOM    519 1HE  LYS A  37      33.160   4.018  45.405  1.00 40.06      1HNF H   new
+ATOM    520 2HE  LYS A  37      33.796   2.381  45.197  1.00 40.06      1HNF H   new
+ATOM    521 1HZ  LYS A  37      35.399   3.830  46.216  1.00 43.62      1HNF H + new
+ATOM    522 2HZ  LYS A  37      35.961   3.352  44.759  1.00 43.62      1HNF H + new
+ATOM    523 3HZ  LYS A  37      35.373   4.863  44.952  1.00 43.62      1HNF H + new
+ATOM    524  N   THR A  38      34.491   8.020  40.403  1.00 32.05      1HNF 4
+ATOM    525  CA  THR A  38      35.699   8.838  40.217  1.00 32.58      1HNF 4
+ATOM    526  C   THR A  38      37.084   8.343  40.588  1.00 38.35      1HNF 4
+ATOM    527  O   THR A  38      37.931   8.181  39.708  1.00 40.90      1HNF 4
+ATOM    528  CB  THR A  38      35.509  10.233  40.849  1.00 37.01      1HNF 4
+ATOM    529  OG1 THR A  38      34.756  11.036  39.939  1.00 40.29      1HNF 4
+ATOM    530  CG2 THR A  38      36.861  10.942  41.193  1.00 34.26      1HNF 4
+ATOM    531  H   THR A  38      33.691   8.569  40.645  1.00 32.05      1HNF H   new
+ATOM    532  HA  THR A  38      35.743   8.808  39.118  1.00 32.58      1HNF H   new
+ATOM    533  HB  THR A  38      34.978  10.104  41.804  1.00 37.01      1HNF H   new
+ATOM    534  HG1 THR A  38      34.621  11.946  40.330  1.00 40.29      1HNF H   new
+ATOM    535 1HG2 THR A  38      36.656  11.927  41.638  1.00 34.26      1HNF H   new
+ATOM    536 2HG2 THR A  38      37.426  10.327  41.909  1.00 34.26      1HNF H   new
+ATOM    537 3HG2 THR A  38      37.452  11.071  40.274  1.00 34.26      1HNF H   new
+ATOM    538  N   SER A  39      37.340   8.183  41.884  1.00 42.13      1HNF 4
+ATOM    539  CA  SER A  39      38.653   7.757  42.353  1.00 46.39      1HNF 4
+ATOM    540  C   SER A  39      39.231   6.526  41.669  1.00 48.43      1HNF 4
+ATOM    541  O   SER A  39      40.397   6.535  41.292  1.00 49.28      1HNF 4
+ATOM    542  CB  SER A  39      38.651   7.586  43.866  1.00 45.06      1HNF 4
+ATOM    543  OG  SER A  39      38.420   8.840  44.492  1.00 58.87      1HNF 4
+ATOM    544  H   SER A  39      36.671   8.339  42.610  1.00 42.13      1HNF H   new
+ATOM    545  HA  SER A  39      39.331   8.573  42.064  1.00 46.39      1HNF H   new
+ATOM    546 1HB  SER A  39      39.614   7.171  44.199  1.00 45.06      1HNF H   new
+ATOM    547 2HB  SER A  39      37.872   6.868  44.162  1.00 45.06      1HNF H   new
+ATOM    548  HG  SER A  39      38.420   8.722  45.485  1.00 58.87      1HNF H   new
+ATOM    549  N   ASP A  40      38.422   5.483  41.490  1.00 49.33      1HNF 4
+ATOM    550  CA  ASP A  40      38.888   4.263  40.840  1.00 46.08      1HNF 4
+ATOM    551  C   ASP A  40      38.701   4.279  39.337  1.00 48.97      1HNF 4
+ATOM    552  O   ASP A  40      39.185   3.382  38.658  1.00 54.27      1HNF 4
+ATOM    553  CB  ASP A  40      38.182   3.047  41.422  1.00 48.26      1HNF 4
+ATOM    554  CG  ASP A  40      38.498   2.846  42.894  1.00 58.03      1HNF 4
+ATOM    555  OD1 ASP A  40      39.562   2.264  43.236  1.00 64.45      1HNF 4
+ATOM    556  OD2 ASP A  40      37.680   3.291  43.718  1.00 59.85      1HNF 4
+ATOM    557  H   ASP A  40      37.465   5.460  41.779  1.00 49.33      1HNF H   new
+ATOM    558  HA  ASP A  40      39.969   4.206  41.036  1.00 46.08      1HNF H   new
+ATOM    559 1HB  ASP A  40      37.095   3.161  41.295  1.00 48.26      1HNF H   new
+ATOM    560 2HB  ASP A  40      38.479   2.149  40.860  1.00 48.26      1HNF H   new
+ATOM    561  N   LYS A  41      38.057   5.329  38.819  1.00 51.26      1HNF 4
+ATOM    562  CA  LYS A  41      37.763   5.469  37.394  1.00 45.67      1HNF 4
+ATOM    563  C   LYS A  41      37.257   4.100  36.974  1.00 39.40      1HNF 4
+ATOM    564  O   LYS A  41      38.023   3.244  36.569  1.00 43.88      1HNF 4
+ATOM    565  CB  LYS A  41      39.016   5.898  36.618  1.00 53.54      1HNF 4
+ATOM    566  CG  LYS A  41      39.275   7.412  36.623  1.00 61.65      1HNF 4
+ATOM    567  CD  LYS A  41      40.508   7.796  35.777  1.00 70.60      1HNF 4
+ATOM    568  CE  LYS A  41      40.589   9.319  35.486  1.00 72.77      1HNF 4
+ATOM    569  NZ  LYS A  41      40.834  10.191  36.687  1.00 75.07      1HNF 4
+ATOM    570  H   LYS A  41      37.730   6.095  39.372  1.00 51.26      1HNF H   new
+ATOM    571  HA  LYS A  41      37.018   6.251  37.184  1.00 45.67      1HNF H   new
+ATOM    572 1HB  LYS A  41      39.891   5.387  37.046  1.00 53.54      1HNF H   new
+ATOM    573 2HB  LYS A  41      38.922   5.557  35.576  1.00 53.54      1HNF H   new
+ATOM    574 1HG  LYS A  41      38.389   7.935  36.234  1.00 61.65      1HNF H   new
+ATOM    575 2HG  LYS A  41      39.422   7.754  37.658  1.00 61.65      1HNF H   new
+ATOM    576 1HD  LYS A  41      41.421   7.479  36.303  1.00 70.60      1HNF H   new
+ATOM    577 2HD  LYS A  41      40.479   7.247  34.824  1.00 70.60      1HNF H   new
+ATOM    578 1HE  LYS A  41      41.394   9.494  34.757  1.00 72.77      1HNF H   new
+ATOM    579 2HE  LYS A  41      39.649   9.635  35.010  1.00 72.77      1HNF H   new
+ATOM    580 1HZ  LYS A  41      40.870  11.149  36.402  1.00 75.07      1HNF H + new
+ATOM    581 2HZ  LYS A  41      40.092  10.067  37.346  1.00 75.07      1HNF H + new
+ATOM    582 3HZ  LYS A  41      41.703   9.937  37.112  1.00 75.07      1HNF H + new
+ATOM    583  N   LYS A  42      35.979   3.855  37.192  1.00 31.70      1HNF 4
+ATOM    584  CA  LYS A  42      35.419   2.559  36.892  1.00 28.36      1HNF 4
+ATOM    585  C   LYS A  42      33.932   2.696  36.793  1.00 28.13      1HNF 4
+ATOM    586  O   LYS A  42      33.352   3.425  37.579  1.00 33.27      1HNF 4
+ATOM    587  CB  LYS A  42      35.775   1.616  38.043  1.00 33.32      1HNF 4
+ATOM    588  CG  LYS A  42      34.940   0.336  38.145  1.00 41.67      1HNF 4
+ATOM    589  CD  LYS A  42      35.700  -0.778  38.881  1.00 41.96      1HNF 4
+ATOM    590  CE  LYS A  42      36.265  -0.334  40.238  1.00 47.81      1HNF 4
+ATOM    591  NZ  LYS A  42      35.232  -0.187  41.314  1.00 44.27      1HNF 4
+ATOM    592  H   LYS A  42      35.330   4.519  37.565  1.00 31.70      1HNF H   new
+ATOM    593  HA  LYS A  42      35.814   2.164  35.945  1.00 28.36      1HNF H   new
+ATOM    594 1HB  LYS A  42      36.833   1.333  37.944  1.00 33.32      1HNF H   new
+ATOM    595 2HB  LYS A  42      35.677   2.170  38.988  1.00 33.32      1HNF H   new
+ATOM    596 1HG  LYS A  42      34.000   0.551  38.674  1.00 41.67      1HNF H   new
+ATOM    597 2HG  LYS A  42      34.670  -0.008  37.136  1.00 41.67      1HNF H   new
+ATOM    598 1HD  LYS A  42      35.025  -1.633  39.035  1.00 41.96      1HNF H   new
+ATOM    599 2HD  LYS A  42      36.526  -1.130  38.246  1.00 41.96      1HNF H   new
+ATOM    600 1HE  LYS A  42      37.018  -1.065  40.566  1.00 47.81      1HNF H   new
+ATOM    601 2HE  LYS A  42      36.784   0.627  40.110  1.00 47.81      1HNF H   new
+ATOM    602 1HZ  LYS A  42      35.673   0.103  42.163  1.00 44.27      1HNF H + new
+ATOM    603 2HZ  LYS A  42      34.558   0.498  41.038  1.00 44.27      1HNF H + new
+ATOM    604 3HZ  LYS A  42      34.774  -1.064  41.459  1.00 44.27      1HNF H + new
+ATOM    605  N   LYS A  43      33.306   2.059  35.804  1.00 27.88      1HNF 4
+ATOM    606  CA  LYS A  43      31.868   2.163  35.727  1.00 26.12      1HNF 4
+ATOM    607  C   LYS A  43      31.277   1.073  36.592  1.00 28.36      1HNF 4
+ATOM    608  O   LYS A  43      31.568  -0.120  36.439  1.00 28.95      1HNF 4
+ATOM    609  CB  LYS A  43      31.333   2.172  34.294  1.00 28.18      1HNF 4
+ATOM    610  CG  LYS A  43      31.602   0.985  33.443  1.00 31.15      1HNF 4
+ATOM    611  CD  LYS A  43      31.048   1.310  32.072  1.00 31.98      1HNF 4
+ATOM    612  CE  LYS A  43      31.167   0.147  31.130  1.00 32.27      1HNF 4
+ATOM    613  NZ  LYS A  43      30.948   0.643  29.772  1.00 30.36      1HNF 4
+ATOM    614  H   LYS A  43      33.745   1.505  35.096  1.00 27.88      1HNF H   new
+ATOM    615  HA  LYS A  43      31.550   3.142  36.114  1.00 26.12      1HNF H   new
+ATOM    616 1HB  LYS A  43      30.243   2.313  34.342  1.00 28.18      1HNF H   new
+ATOM    617 2HB  LYS A  43      31.749   3.054  33.784  1.00 28.18      1HNF H   new
+ATOM    618 1HG  LYS A  43      32.681   0.776  33.391  1.00 31.15      1HNF H   new
+ATOM    619 2HG  LYS A  43      31.120   0.087  33.858  1.00 31.15      1HNF H   new
+ATOM    620 1HD  LYS A  43      29.991   1.601  32.163  1.00 31.98      1HNF H   new
+ATOM    621 2HD  LYS A  43      31.585   2.175  31.656  1.00 31.98      1HNF H   new
+ATOM    622 1HE  LYS A  43      32.161  -0.317  31.215  1.00 32.27      1HNF H   new
+ATOM    623 2HE  LYS A  43      30.428  -0.628  31.380  1.00 32.27      1HNF H   new
+ATOM    624 1HZ  LYS A  43      31.022  -0.115  29.124  1.00 30.36      1HNF H + new
+ATOM    625 2HZ  LYS A  43      30.036   1.048  29.708  1.00 30.36      1HNF H + new
+ATOM    626 3HZ  LYS A  43      31.636   1.336  29.555  1.00 30.36      1HNF H + new
+ATOM    627  N   ILE A  44      30.534   1.528  37.591  1.00 27.37      1HNF 4
+ATOM    628  CA  ILE A  44      29.917   0.642  38.561  1.00 23.82      1HNF 5
+ATOM    629  C   ILE A  44      28.616   0.036  38.072  1.00 26.72      1HNF 5
+ATOM    630  O   ILE A  44      28.235  -1.057  38.489  1.00 28.68      1HNF 5
+ATOM    631  CB  ILE A  44      29.733   1.365  39.883  1.00 22.45      1HNF 5
+ATOM    632  CG1 ILE A  44      28.880   2.613  39.714  1.00 19.39      1HNF 5
+ATOM    633  CG2 ILE A  44      31.088   1.819  40.397  1.00 21.50      1HNF 5
+ATOM    634  CD1 ILE A  44      28.567   3.279  41.049  1.00 22.45      1HNF 5
+ATOM    635  H   ILE A  44      30.348   2.498  37.746  1.00 27.37      1HNF H   new
+ATOM    636  HA  ILE A  44      30.601  -0.206  38.709  1.00 23.82      1HNF H   new
+ATOM    637  HB  ILE A  44      29.243   0.669  40.580  1.00 22.45      1HNF H   new
+ATOM    638 1HG1 ILE A  44      29.404   3.328  39.063  1.00 19.39      1HNF H   new
+ATOM    639 2HG1 ILE A  44      27.940   2.347  39.209  1.00 19.39      1HNF H   new
+ATOM    640 1HG2 ILE A  44      30.960   2.344  41.355  1.00 21.50      1HNF H   new
+ATOM    641 2HG2 ILE A  44      31.738   0.943  40.543  1.00 21.50      1HNF H   new
+ATOM    642 3HG2 ILE A  44      31.549   2.499  39.666  1.00 21.50      1HNF H   new
+ATOM    643 1HD1 ILE A  44      27.950   4.174  40.877  1.00 22.45      1HNF H   new
+ATOM    644 2HD1 ILE A  44      28.019   2.574  41.691  1.00 22.45      1HNF H   new
+ATOM    645 3HD1 ILE A  44      29.506   3.570  41.543  1.00 22.45      1HNF H   new
+ATOM    646  N   ALA A  45      27.984   0.726  37.127  1.00 25.53      1HNF 5
+ATOM    647  CA  ALA A  45      26.737   0.270  36.517  1.00 25.28      1HNF 5
+ATOM    648  C   ALA A  45      26.460   1.034  35.219  1.00 20.43      1HNF 5
+ATOM    649  O   ALA A  45      26.830   2.197  35.080  1.00 18.01      1HNF 5
+ATOM    650  CB  ALA A  45      25.563   0.424  37.495  1.00 31.81      1HNF 5
+ATOM    651  H   ALA A  45      28.314   1.599  36.769  1.00 25.53      1HNF H   new
+ATOM    652  HA  ALA A  45      26.845  -0.798  36.275  1.00 25.28      1HNF H   new
+ATOM    653 1HB  ALA A  45      24.637   0.075  37.015  1.00 31.81      1HNF H   new
+ATOM    654 2HB  ALA A  45      25.756  -0.175  38.397  1.00 31.81      1HNF H   new
+ATOM    655 3HB  ALA A  45      25.454   1.482  37.774  1.00 31.81      1HNF H   new
+ATOM    656  N   GLN A  46      25.800   0.369  34.277  1.00 24.49      1HNF 5
+ATOM    657  CA  GLN A  46      25.489   0.982  33.003  1.00 28.32      1HNF 5
+ATOM    658  C   GLN A  46      24.276   0.370  32.364  1.00 32.97      1HNF 5
+ATOM    659  O   GLN A  46      24.080  -0.850  32.399  1.00 32.18      1HNF 5
+ATOM    660  CB  GLN A  46      26.654   0.822  32.044  1.00 27.86      1HNF 5
+ATOM    661  CG  GLN A  46      26.454   1.558  30.755  1.00 31.32      1HNF 5
+ATOM    662  CD  GLN A  46      27.668   1.465  29.904  1.00 35.49      1HNF 5
+ATOM    663  OE1 GLN A  46      28.369   0.459  29.937  1.00 40.69      1HNF 5
+ATOM    664  NE2 GLN A  46      27.963   2.521  29.164  1.00 38.16      1HNF 5
+ATOM    665  H   GLN A  46      25.480  -0.573  34.375  1.00 24.49      1HNF H   new
+ATOM    666  HA  GLN A  46      25.291   2.045  33.205  1.00 28.32      1HNF H   new
+ATOM    667 1HB  GLN A  46      27.573   1.184  32.528  1.00 27.86      1HNF H   new
+ATOM    668 2HB  GLN A  46      26.802  -0.247  31.831  1.00 27.86      1HNF H   new
+ATOM    669 1HG  GLN A  46      25.590   1.140  30.218  1.00 31.32      1HNF H   new
+ATOM    670 2HG  GLN A  46      26.224   2.614  30.961  1.00 31.32      1HNF H   new
+ATOM    671 1HE2 GLN A  46      28.788   2.521  28.599  1.00 38.16      1HNF H   new
+ATOM    672 2HE2 GLN A  46      27.361   3.319  29.169  1.00 38.16      1HNF H   new
+ATOM    673  N   PHE A  47      23.461   1.233  31.773  1.00 38.32      1HNF 5
+ATOM    674  CA  PHE A  47      22.279   0.794  31.066  1.00 46.33      1HNF 5
+ATOM    675  C   PHE A  47      22.574   0.981  29.593  1.00 49.90      1HNF 5
+ATOM    676  O   PHE A  47      22.304   2.039  29.034  1.00 53.87      1HNF 5
+ATOM    677  CB  PHE A  47      21.073   1.638  31.444  1.00 48.28      1HNF 5
+ATOM    678  CG  PHE A  47      19.924   1.464  30.516  1.00 52.02      1HNF 5
+ATOM    679  CD1 PHE A  47      19.176   0.292  30.538  1.00 53.93      1HNF 5
+ATOM    680  CD2 PHE A  47      19.625   2.441  29.575  1.00 52.37      1HNF 5
+ATOM    681  CE1 PHE A  47      18.145   0.094  29.634  1.00 54.89      1HNF 5
+ATOM    682  CE2 PHE A  47      18.601   2.255  28.665  1.00 55.44      1HNF 5
+ATOM    683  CZ  PHE A  47      17.856   1.078  28.692  1.00 56.03      1HNF 5
+ATOM    684  H   PHE A  47      23.600   2.223  31.773  1.00 38.32      1HNF H   new
+ATOM    685  HA  PHE A  47      22.046  -0.251  31.316  1.00 46.33      1HNF H   new
+ATOM    686 1HB  PHE A  47      20.755   1.376  32.464  1.00 48.28      1HNF H   new
+ATOM    687 2HB  PHE A  47      21.366   2.698  31.460  1.00 48.28      1HNF H   new
+ATOM    688  HD1 PHE A  47      19.405  -0.486  31.281  1.00 53.93      1HNF H   new
+ATOM    689  HD2 PHE A  47      20.209   3.373  29.554  1.00 52.37      1HNF H   new
+ATOM    690  HE1 PHE A  47      17.558  -0.836  29.660  1.00 54.89      1HNF H   new
+ATOM    691  HE2 PHE A  47      18.375   3.034  27.922  1.00 55.44      1HNF H   new
+ATOM    692  HZ  PHE A  47      17.040   0.926  27.970  1.00 56.03      1HNF H   new
+ATOM    693  N   ARG A  48      23.169  -0.029  28.971  1.00 55.24      1HNF 5
+ATOM    694  CA  ARG A  48      23.505   0.072  27.561  1.00 58.61      1HNF 5
+ATOM    695  C   ARG A  48      22.362  -0.469  26.741  1.00 57.89      1HNF 5
+ATOM    696  O   ARG A  48      22.538  -1.438  26.005  1.00 62.78      1HNF 5
+ATOM    697  CB  ARG A  48      24.780  -0.709  27.259  1.00 58.53      1HNF 5
+ATOM    698  CG  ARG A  48      25.353  -0.360  25.926  1.00 60.42      1HNF 5
+ATOM    699  CD  ARG A  48      25.783   1.103  25.865  1.00 61.04      1HNF 5
+ATOM    700  NE  ARG A  48      26.223   1.453  24.515  1.00 69.23      1HNF 5
+ATOM    701  CZ  ARG A  48      25.447   1.394  23.427  1.00 70.12      1HNF 5
+ATOM    702  NH1 ARG A  48      24.183   1.004  23.523  1.00 70.66      1HNF 5
+ATOM    703  NH2 ARG A  48      25.942   1.689  22.231  1.00 69.44      1HNF 5
+ATOM    704  H   ARG A  48      23.419  -0.895  29.404  1.00 55.24      1HNF H   new
+ATOM    705  HA  ARG A  48      23.678   1.128  27.305  1.00 58.61      1HNF H   new
+ATOM    706 1HB  ARG A  48      25.526  -0.506  28.041  1.00 58.53      1HNF H   new
+ATOM    707 2HB  ARG A  48      24.564  -1.787  27.292  1.00 58.53      1HNF H   new
+ATOM    708 1HG  ARG A  48      26.218  -1.007  25.717  1.00 60.42      1HNF H   new
+ATOM    709 2HG  ARG A  48      24.607  -0.557  25.142  1.00 60.42      1HNF H   new
+ATOM    710 1HD  ARG A  48      24.945   1.750  26.163  1.00 61.04      1HNF H   new
+ATOM    711 2HD  ARG A  48      26.599   1.282  26.581  1.00 61.04      1HNF H   new
+ATOM    712  HE  ARG A  48      27.168   1.757  24.397  1.00 69.23      1HNF H + new
+ATOM    713 1HH1 ARG A  48      23.804   0.752  24.413  1.00 70.66      1HNF H + new
+ATOM    714 2HH1 ARG A  48      23.609   0.962  22.705  1.00 70.66      1HNF H + new
+ATOM    715 1HH2 ARG A  48      26.901   1.957  22.139  1.00 69.44      1HNF H + new
+ATOM    716 2HH2 ARG A  48      25.356   1.643  21.422  1.00 69.44      1HNF H + new
+ATOM    717  N   LYS A  49      21.194   0.161  26.870  1.00 58.77      1HNF 5
+ATOM    718  CA  LYS A  49      20.004  -0.284  26.162  1.00 66.19      1HNF 5
+ATOM    719  C   LYS A  49      19.753  -1.725  26.572  1.00 76.74      1HNF 5
+ATOM    720  O   LYS A  49      20.478  -2.272  27.405  1.00 79.83      1HNF 5
+ATOM    721  CB  LYS A  49      20.228  -0.237  24.657  1.00 67.25      1HNF 5
+ATOM    722  CG  LYS A  49      19.717   0.998  23.984  1.00 70.61      1HNF 5
+ATOM    723  CD  LYS A  49      18.204   1.010  23.983  1.00 69.76      1HNF 5
+ATOM    724  CE  LYS A  49      17.685   2.127  23.096  1.00 71.80      1HNF 5
+ATOM    725  NZ  LYS A  49      16.204   2.122  22.986  1.00 69.80      1HNF 5
+ATOM    726  H   LYS A  49      21.054   0.965  27.448  1.00 58.77      1HNF H   new
+ATOM    727  HA  LYS A  49      19.152   0.367  26.409  1.00 66.19      1HNF H   new
+ATOM    728 1HB  LYS A  49      21.306  -0.326  24.458  1.00 67.25      1HNF H   new
+ATOM    729 2HB  LYS A  49      19.743  -1.113  24.201  1.00 67.25      1HNF H   new
+ATOM    730 1HG  LYS A  49      20.097   1.890  24.503  1.00 70.61      1HNF H   new
+ATOM    731 2HG  LYS A  49      20.092   1.042  22.951  1.00 70.61      1HNF H   new
+ATOM    732 1HD  LYS A  49      17.823   0.042  23.626  1.00 69.76      1HNF H   new
+ATOM    733 2HD  LYS A  49      17.831   1.144  25.009  1.00 69.76      1HNF H   new
+ATOM    734 1HE  LYS A  49      18.017   3.095  23.499  1.00 71.80      1HNF H   new
+ATOM    735 2HE  LYS A  49      18.125   2.029  22.092  1.00 71.80      1HNF H   new
+ATOM    736 1HZ  LYS A  49      15.911   2.873  22.394  1.00 69.80      1HNF H + new
+ATOM    737 2HZ  LYS A  49      15.901   1.253  22.596  1.00 69.80      1HNF H + new
+ATOM    738 3HZ  LYS A  49      15.801   2.237  23.894  1.00 69.80      1HNF H + new
+ATOM    739  N   GLU A  50      18.742  -2.351  25.975  1.00 87.09      1HNF 5
+ATOM    740  CA  GLU A  50      18.425  -3.756  26.270  1.00 93.68      1HNF 5
+ATOM    741  C   GLU A  50      19.591  -4.670  25.878  1.00 92.75      1HNF 5
+ATOM    742  O   GLU A  50      19.574  -5.862  26.181  1.00 90.13      1HNF 5
+ATOM    743  CB  GLU A  50      17.137  -4.198  25.552  1.00100.44      1HNF 5
+ATOM    744  CG  GLU A  50      17.203  -4.142  24.023  1.00107.39      1HNF 5
+ATOM    745  CD  GLU A  50      17.581  -2.761  23.503  1.00111.70      1HNF 5
+ATOM    746  OE1 GLU A  50      16.790  -1.815  23.710  1.00113.38      1HNF 5
+ATOM    747  OE2 GLU A  50      18.687  -2.612  22.929  1.00113.77      1HNF 5
+ATOM    748  H   GLU A  50      18.140  -1.924  25.300  1.00 87.09      1HNF H   new
+ATOM    749  HA  GLU A  50      18.261  -3.841  27.354  1.00 93.68      1HNF H   new
+ATOM    750 1HB  GLU A  50      16.899  -5.228  25.857  1.00100.44      1HNF H   new
+ATOM    751 2HB  GLU A  50      16.307  -3.561  25.893  1.00100.44      1HNF H   new
+ATOM    752 1HG  GLU A  50      17.937  -4.878  23.664  1.00107.39      1HNF H   new
+ATOM    753 2HG  GLU A  50      16.227  -4.432  23.607  1.00107.39      1HNF H   new
+ATOM    754  N   LYS A  51      20.596  -4.089  25.215  1.00 93.32      1HNF 5
+ATOM    755  CA  LYS A  51      21.795  -4.799  24.787  1.00 94.55      1HNF 5
+ATOM    756  C   LYS A  51      22.445  -5.481  25.982  1.00 99.97      1HNF 5
+ATOM    757  O   LYS A  51      23.257  -6.389  25.794  1.00103.17      1HNF 5
+ATOM    758  CB  LYS A  51      22.804  -3.836  24.161  1.00 91.68      1HNF 5
+ATOM    759  CG  LYS A  51      22.255  -2.963  23.059  1.00 91.01      1HNF 5
+ATOM    760  CD  LYS A  51      23.323  -2.009  22.536  1.00 90.92      1HNF 5
+ATOM    761  CE  LYS A  51      22.720  -0.913  21.666  1.00 91.10      1HNF 5
+ATOM    762  NZ  LYS A  51      21.846  -1.443  20.585  1.00 91.10      1HNF 5
+ATOM    763  H   LYS A  51      20.595  -3.121  24.965  1.00 93.32      1HNF H   new
+ATOM    764  HA  LYS A  51      21.499  -5.548  24.038  1.00 94.55      1HNF H   new
+ATOM    765 1HB  LYS A  51      23.210  -3.189  24.953  1.00 91.68      1HNF H   new
+ATOM    766 2HB  LYS A  51      23.645  -4.420  23.760  1.00 91.68      1HNF H   new
+ATOM    767 1HG  LYS A  51      21.885  -3.593  22.236  1.00 91.01      1HNF H   new
+ATOM    768 2HG  LYS A  51      21.396  -2.388  23.435  1.00 91.01      1HNF H   new
+ATOM    769 1HD  LYS A  51      23.856  -1.554  23.384  1.00 90.92      1HNF H   new
+ATOM    770 2HD  LYS A  51      24.067  -2.573  21.954  1.00 90.92      1HNF H   new
+ATOM    771 1HE  LYS A  51      22.136  -0.229  22.300  1.00 91.10      1HNF H   new
+ATOM    772 2HE  LYS A  51      23.531  -0.321  21.217  1.00 91.10      1HNF H   new
+ATOM    773 1HZ  LYS A  51      21.480  -0.682  20.049  1.00 91.10      1HNF H + new
+ATOM    774 2HZ  LYS A  51      22.379  -2.044  19.989  1.00 91.10      1HNF H + new
+ATOM    775 3HZ  LYS A  51      21.091  -1.959  20.989  1.00 91.10      1HNF H + new
+ATOM    776  N   GLU A  52      22.121  -4.999  27.195  1.00105.33      1HNF 5
+ATOM    777  CA  GLU A  52      22.622  -5.543  28.478  1.00107.85      1HNF 5
+ATOM    778  C   GLU A  52      22.527  -4.579  29.682  1.00102.43      1HNF 5
+ATOM    779  O   GLU A  52      22.602  -3.359  29.515  1.00105.98      1HNF 5
+ATOM    780  CB  GLU A  52      24.091  -5.997  28.350  1.00113.28      1HNF 5
+ATOM    781  CG  GLU A  52      24.366  -7.414  28.862  1.00117.96      1HNF 5
+ATOM    782  CD  GLU A  52      24.024  -7.585  30.331  1.00121.10      1HNF 5
+ATOM    783  OE1 GLU A  52      24.905  -7.304  31.178  1.00122.79      1HNF 5
+ATOM    784  OE2 GLU A  52      22.873  -7.984  30.634  1.00120.13      1HNF 5
+ATOM    785  H   GLU A  52      21.504  -4.221  27.315  1.00105.33      1HNF H   new
+ATOM    786  HA  GLU A  52      21.951  -6.390  28.685  1.00107.85      1HNF H   new
+ATOM    787 1HB  GLU A  52      24.388  -5.939  27.292  1.00113.28      1HNF H   new
+ATOM    788 2HB  GLU A  52      24.729  -5.291  28.902  1.00113.28      1HNF H   new
+ATOM    789 1HG  GLU A  52      23.783  -8.133  28.268  1.00117.96      1HNF H   new
+ATOM    790 2HG  GLU A  52      25.428  -7.655  28.707  1.00117.96      1HNF H   new
+ATOM    791  N   THR A  53      22.333  -5.127  30.884  1.00 92.97      1HNF 5
+ATOM    792  CA  THR A  53      22.315  -4.313  32.103  1.00 84.73      1HNF 5
+ATOM    793  C   THR A  53      23.548  -4.743  32.900  1.00 77.80      1HNF 5
+ATOM    794  O   THR A  53      23.548  -5.798  33.548  1.00 77.42      1HNF 5
+ATOM    795  CB  THR A  53      21.056  -4.522  32.993  1.00 86.65      1HNF 5
+ATOM    796  OG1 THR A  53      19.865  -4.404  32.204  1.00 89.88      1HNF 5
+ATOM    797  CG2 THR A  53      21.014  -3.458  34.097  1.00 81.73      1HNF 5
+ATOM    798  H   THR A  53      22.190  -6.105  31.037  1.00 92.97      1HNF H   new
+ATOM    799  HA  THR A  53      22.305  -3.251  31.817  1.00 84.73      1HNF H   new
+ATOM    800  HB  THR A  53      21.110  -5.527  33.437  1.00 86.65      1HNF H   new
+ATOM    801  HG1 THR A  53      19.064  -4.540  32.787  1.00 89.88      1HNF H   new
+ATOM    802 1HG2 THR A  53      20.122  -3.612  34.722  1.00 81.73      1HNF H   new
+ATOM    803 2HG2 THR A  53      21.916  -3.540  34.721  1.00 81.73      1HNF H   new
+ATOM    804 3HG2 THR A  53      20.974  -2.458  33.641  1.00 81.73      1HNF H   new
+ATOM    805  N   PHE A  54      24.617  -3.953  32.782  1.00 69.45      1HNF 5
+ATOM    806  CA  PHE A  54      25.883  -4.217  33.476  1.00 60.01      1HNF 5
+ATOM    807  C   PHE A  54      25.934  -3.599  34.887  1.00 56.41      1HNF 5
+ATOM    808  O   PHE A  54      25.525  -2.456  35.087  1.00 51.04      1HNF 5
+ATOM    809  CB  PHE A  54      27.062  -3.706  32.630  1.00 51.47      1HNF 5
+ATOM    810  CG  PHE A  54      28.344  -3.592  33.397  1.00 40.74      1HNF 5
+ATOM    811  CD1 PHE A  54      29.097  -4.723  33.688  1.00 38.59      1HNF 5
+ATOM    812  CD2 PHE A  54      28.763  -2.364  33.885  1.00 35.83      1HNF 5
+ATOM    813  CE1 PHE A  54      30.245  -4.631  34.462  1.00 35.98      1HNF 5
+ATOM    814  CE2 PHE A  54      29.905  -2.258  34.658  1.00 35.75      1HNF 5
+ATOM    815  CZ  PHE A  54      30.652  -3.397  34.952  1.00 38.47      1HNF 5
+ATOM    816  H   PHE A  54      24.631  -3.129  32.215  1.00 69.45      1HNF H   new
+ATOM    817  HA  PHE A  54      25.958  -5.307  33.604  1.00 60.01      1HNF H   new
+ATOM    818 1HB  PHE A  54      27.213  -4.385  31.778  1.00 51.47      1HNF H   new
+ATOM    819 2HB  PHE A  54      26.804  -2.721  32.214  1.00 51.47      1HNF H   new
+ATOM    820  HD1 PHE A  54      28.779  -5.702  33.300  1.00 38.59      1HNF H   new
+ATOM    821  HD2 PHE A  54      28.179  -1.461  33.654  1.00 35.83      1HNF H   new
+ATOM    822  HE1 PHE A  54      30.832  -5.534  34.687  1.00 35.98      1HNF H   new
+ATOM    823  HE2 PHE A  54      30.223  -1.277  35.040  1.00 35.75      1HNF H   new
+ATOM    824  HZ  PHE A  54      31.559  -3.319  35.569  1.00 38.47      1HNF H   new
+ATOM    825  N   LYS A  55      26.414  -4.381  35.854  1.00 55.71      1HNF 5
+ATOM    826  CA  LYS A  55      26.549  -3.953  37.251  1.00 56.98      1HNF 5
+ATOM    827  C   LYS A  55      27.818  -4.607  37.796  1.00 57.82      1HNF 5
+ATOM    828  O   LYS A  55      28.021  -5.821  37.650  1.00 56.28      1HNF 6
+ATOM    829  CB  LYS A  55      25.331  -4.385  38.080  1.00 60.08      1HNF 6
+ATOM    830  CG  LYS A  55      23.980  -3.907  37.518  1.00 66.22      1HNF 6
+ATOM    831  CD  LYS A  55      22.762  -4.432  38.276  1.00 68.89      1HNF 6
+ATOM    832  CE  LYS A  55      22.785  -5.956  38.407  1.00 74.98      1HNF 6
+ATOM    833  NZ  LYS A  55      23.551  -6.432  39.615  1.00 77.47      1HNF 6
+ATOM    834  H   LYS A  55      26.718  -5.320  35.694  1.00 55.71      1HNF H   new
+ATOM    835  HA  LYS A  55      26.609  -2.856  37.312  1.00 56.98      1HNF H   new
+ATOM    836 1HB  LYS A  55      25.319  -5.483  38.147  1.00 60.08      1HNF H   new
+ATOM    837 2HB  LYS A  55      25.445  -4.001  39.105  1.00 60.08      1HNF H   new
+ATOM    838 1HG  LYS A  55      23.959  -2.807  37.531  1.00 66.22      1HNF H   new
+ATOM    839 2HG  LYS A  55      23.904  -4.217  36.465  1.00 66.22      1HNF H   new
+ATOM    840 1HD  LYS A  55      22.730  -3.979  39.278  1.00 68.89      1HNF H   new
+ATOM    841 2HD  LYS A  55      21.844  -4.123  37.754  1.00 68.89      1HNF H   new
+ATOM    842 1HE  LYS A  55      21.752  -6.329  38.465  1.00 74.98      1HNF H   new
+ATOM    843 2HE  LYS A  55      23.234  -6.390  37.501  1.00 74.98      1HNF H   new
+ATOM    844 1HZ  LYS A  55      23.533  -7.431  39.649  1.00 77.47      1HNF H + new
+ATOM    845 2HZ  LYS A  55      24.499  -6.118  39.554  1.00 77.47      1HNF H + new
+ATOM    846 3HZ  LYS A  55      23.131  -6.063  40.444  1.00 77.47      1HNF H + new
+ATOM    847  N   GLU A  56      28.686  -3.799  38.399  1.00 56.23      1HNF 6
+ATOM    848  CA  GLU A  56      29.954  -4.295  38.939  1.00 58.27      1HNF 6
+ATOM    849  C   GLU A  56      29.783  -5.261  40.115  1.00 62.10      1HNF 6
+ATOM    850  O   GLU A  56      30.690  -6.050  40.422  1.00 64.28      1HNF 6
+ATOM    851  CB  GLU A  56      30.849  -3.132  39.380  1.00 52.40      1HNF 6
+ATOM    852  CG  GLU A  56      32.322  -3.371  39.112  1.00 50.35      1HNF 6
+ATOM    853  CD  GLU A  56      33.224  -3.083  40.303  1.00 52.44      1HNF 6
+ATOM    854  OE1 GLU A  56      33.002  -2.088  41.014  1.00 52.05      1HNF 6
+ATOM    855  OE2 GLU A  56      34.185  -3.850  40.523  1.00 59.43      1HNF 6
+ATOM    856  H   GLU A  56      28.540  -2.818  38.525  1.00 56.23      1HNF H   new
+ATOM    857  HA  GLU A  56      30.425  -4.854  38.117  1.00 58.27      1HNF H   new
+ATOM    858 1HB  GLU A  56      30.533  -2.217  38.858  1.00 52.40      1HNF H   new
+ATOM    859 2HB  GLU A  56      30.704  -2.955  40.456  1.00 52.40      1HNF H   new
+ATOM    860 1HG  GLU A  56      32.463  -4.418  38.804  1.00 50.35      1HNF H   new
+ATOM    861 2HG  GLU A  56      32.637  -2.742  38.267  1.00 50.35      1HNF H   new
+ATOM    862  N   LYS A  57      28.627  -5.204  40.769  1.00 59.56      1HNF 6
+ATOM    863  CA  LYS A  57      28.398  -6.074  41.896  1.00 56.83      1HNF 6
+ATOM    864  C   LYS A  57      26.960  -6.004  42.344  1.00 57.38      1HNF 6
+ATOM    865  O   LYS A  57      26.184  -5.180  41.854  1.00 55.92      1HNF 6
+ATOM    866  CB  LYS A  57      29.319  -5.653  43.032  1.00 62.15      1HNF 6
+ATOM    867  CG  LYS A  57      29.766  -6.773  43.951  1.00 68.39      1HNF 6
+ATOM    868  CD  LYS A  57      31.124  -6.444  44.610  1.00 71.81      1HNF 6
+ATOM    869  CE  LYS A  57      31.226  -4.987  45.115  1.00 68.53      1HNF 6
+ATOM    870  NZ  LYS A  57      31.489  -3.959  44.057  1.00 63.04      1HNF 6
+ATOM    871  H   LYS A  57      27.871  -4.589  40.543  1.00 59.56      1HNF H   new
+ATOM    872  HA  LYS A  57      28.611  -7.112  41.602  1.00 56.83      1HNF H   new
+ATOM    873 1HB  LYS A  57      30.212  -5.176  42.601  1.00 62.15      1HNF H   new
+ATOM    874 2HB  LYS A  57      28.806  -4.889  43.635  1.00 62.15      1HNF H   new
+ATOM    875 1HG  LYS A  57      29.007  -6.938  44.730  1.00 68.39      1HNF H   new
+ATOM    876 2HG  LYS A  57      29.849  -7.709  43.380  1.00 68.39      1HNF H   new
+ATOM    877 1HD  LYS A  57      31.288  -7.129  45.455  1.00 71.81      1HNF H   new
+ATOM    878 2HD  LYS A  57      31.929  -6.630  43.884  1.00 71.81      1HNF H   new
+ATOM    879 1HE  LYS A  57      30.289  -4.728  45.629  1.00 68.53      1HNF H   new
+ATOM    880 2HE  LYS A  57      32.030  -4.932  45.864  1.00 68.53      1HNF H   new
+ATOM    881 1HZ  LYS A  57      31.538  -3.053  44.477  1.00 63.04      1HNF H + new
+ATOM    882 2HZ  LYS A  57      32.356  -4.163  43.602  1.00 63.04      1HNF H + new
+ATOM    883 3HZ  LYS A  57      30.749  -3.975  43.385  1.00 63.04      1HNF H + new
+ATOM    884  N   ASP A  58      26.609  -6.934  43.232  1.00 61.85      1HNF 6
+ATOM    885  CA  ASP A  58      25.271  -7.026  43.822  1.00 64.44      1HNF 6
+ATOM    886  C   ASP A  58      25.028  -5.790  44.691  1.00 57.61      1HNF 6
+ATOM    887  O   ASP A  58      23.894  -5.389  44.937  1.00 61.11      1HNF 6
+ATOM    888  CB  ASP A  58      25.121  -8.325  44.650  1.00 75.08      1HNF 6
+ATOM    889  CG  ASP A  58      26.328  -8.609  45.583  1.00 82.06      1HNF 6
+ATOM    890  OD1 ASP A  58      27.035  -7.664  46.006  1.00 83.90      1HNF 6
+ATOM    891  OD2 ASP A  58      26.552  -9.803  45.907  1.00 85.02      1HNF 6
+ATOM    892  H   ASP A  58      27.239  -7.638  43.560  1.00 61.85      1HNF H   new
+ATOM    893  HA  ASP A  58      24.518  -7.062  43.021  1.00 64.44      1HNF H   new
+ATOM    894 1HB  ASP A  58      24.206  -8.259  45.257  1.00 75.08      1HNF H   new
+ATOM    895 2HB  ASP A  58      24.991  -9.175  43.964  1.00 75.08      1HNF H   new
+ATOM    896  N   THR A  59      26.129  -5.188  45.126  1.00 45.56      1HNF 6
+ATOM    897  CA  THR A  59      26.135  -3.987  45.925  1.00 29.30      1HNF 6
+ATOM    898  C   THR A  59      25.503  -2.886  45.121  1.00 26.67      1HNF 6
+ATOM    899  O   THR A  59      25.090  -1.887  45.672  1.00 28.65      1HNF 6
+ATOM    900  CB  THR A  59      27.581  -3.614  46.247  1.00 31.25      1HNF 6
+ATOM    901  OG1 THR A  59      28.032  -4.435  47.317  1.00 40.20      1HNF 6
+ATOM    902  CG2 THR A  59      27.739  -2.158  46.639  1.00 33.91      1HNF 6
+ATOM    903  H   THR A  59      27.046  -5.532  44.926  1.00 45.56      1HNF H   new
+ATOM    904  HA  THR A  59      25.579  -4.141  46.861  1.00 29.30      1HNF H   new
+ATOM    905  HB  THR A  59      28.178  -3.772  45.337  1.00 31.25      1HNF H   new
+ATOM    906  HG1 THR A  59      28.979  -4.203  47.540  1.00 40.20      1HNF H   new
+ATOM    907 1HG2 THR A  59      28.797  -1.949  46.858  1.00 33.91      1HNF H   new
+ATOM    908 2HG2 THR A  59      27.403  -1.516  45.811  1.00 33.91      1HNF H   new
+ATOM    909 3HG2 THR A  59      27.132  -1.950  47.533  1.00 33.91      1HNF H   new
+ATOM    910  N   TYR A  60      25.433  -3.051  43.809  1.00 23.47      1HNF 6
+ATOM    911  CA  TYR A  60      24.846  -2.016  42.985  1.00 25.90      1HNF 6
+ATOM    912  C   TYR A  60      23.565  -2.435  42.364  1.00 30.22      1HNF 6
+ATOM    913  O   TYR A  60      23.335  -3.621  42.147  1.00 39.23      1HNF 6
+ATOM    914  CB  TYR A  60      25.800  -1.611  41.872  1.00 29.70      1HNF 6
+ATOM    915  CG  TYR A  60      27.062  -1.000  42.391  1.00 26.46      1HNF 6
+ATOM    916  CD1 TYR A  60      27.026   0.207  43.075  1.00 24.77      1HNF 6
+ATOM    917  CD2 TYR A  60      28.292  -1.651  42.249  1.00 27.34      1HNF 6
+ATOM    918  CE1 TYR A  60      28.172   0.751  43.613  1.00 20.27      1HNF 6
+ATOM    919  CE2 TYR A  60      29.451  -1.110  42.791  1.00 17.50      1HNF 6
+ATOM    920  CZ  TYR A  60      29.364   0.092  43.470  1.00 19.34      1HNF 6
+ATOM    921  OH  TYR A  60      30.457   0.647  44.033  1.00 22.34      1HNF 6
+ATOM    922  H   TYR A  60      25.761  -3.856  43.315  1.00 23.47      1HNF H   new
+ATOM    923  HA  TYR A  60      24.649  -1.169  43.658  1.00 25.90      1HNF H   new
+ATOM    924 1HB  TYR A  60      26.047  -2.495  41.266  1.00 29.70      1HNF H   new
+ATOM    925 2HB  TYR A  60      25.297  -0.895  41.206  1.00 29.70      1HNF H   new
+ATOM    926  HD1 TYR A  60      26.069   0.737  43.189  1.00 24.77      1HNF H   new
+ATOM    927  HD2 TYR A  60      28.342  -2.604  41.701  1.00 27.34      1HNF H   new
+ATOM    928  HE1 TYR A  60      28.130   1.708  44.154  1.00 20.27      1HNF H   new
+ATOM    929  HE2 TYR A  60      30.416  -1.626  42.683  1.00 17.50      1HNF H   new
+ATOM    930  HH  TYR A  60      31.254   0.069  43.855  1.00 22.34      1HNF H   new
+ATOM    931  N   LYS A  61      22.750  -1.436  42.051  1.00 34.89      1HNF 6
+ATOM    932  CA  LYS A  61      21.466  -1.633  41.402  1.00 37.00      1HNF 6
+ATOM    933  C   LYS A  61      21.119  -0.338  40.676  1.00 35.57      1HNF 6
+ATOM    934  O   LYS A  61      21.234   0.743  41.236  1.00 47.03      1HNF 6
+ATOM    935  CB  LYS A  61      20.382  -1.971  42.421  1.00 39.35      1HNF 6
+ATOM    936  CG  LYS A  61      19.159  -2.666  41.805  1.00 50.83      1HNF 6
+ATOM    937  CD  LYS A  61      19.528  -4.035  41.209  1.00 57.08      1HNF 6
+ATOM    938  CE  LYS A  61      18.372  -4.704  40.467  1.00 61.67      1HNF 6
+ATOM    939  NZ  LYS A  61      17.946  -3.918  39.273  1.00 66.53      1HNF 6
+ATOM    940  H   LYS A  61      22.962  -0.477  42.240  1.00 34.89      1HNF H   new
+ATOM    941  HA  LYS A  61      21.525  -2.476  40.697  1.00 37.00      1HNF H   new
+ATOM    942 1HB  LYS A  61      20.810  -2.621  43.198  1.00 39.35      1HNF H   new
+ATOM    943 2HB  LYS A  61      20.056  -1.046  42.919  1.00 39.35      1HNF H   new
+ATOM    944 1HG  LYS A  61      18.384  -2.796  42.574  1.00 50.83      1HNF H   new
+ATOM    945 2HG  LYS A  61      18.729  -2.027  41.020  1.00 50.83      1HNF H   new
+ATOM    946 1HD  LYS A  61      20.374  -3.910  40.518  1.00 57.08      1HNF H   new
+ATOM    947 2HD  LYS A  61      19.869  -4.699  42.017  1.00 57.08      1HNF H   new
+ATOM    948 1HE  LYS A  61      18.675  -5.713  40.152  1.00 61.67      1HNF H   new
+ATOM    949 2HE  LYS A  61      17.518  -4.823  41.150  1.00 61.67      1HNF H   new
+ATOM    950 1HZ  LYS A  61      17.190  -4.388  38.817  1.00 66.53      1HNF H + new
+ATOM    951 2HZ  LYS A  61      17.647  -3.008  39.561  1.00 66.53      1HNF H + new
+ATOM    952 3HZ  LYS A  61      18.715  -3.830  38.639  1.00 66.53      1HNF H + new
+ATOM    953  N   LEU A  62      20.727  -0.439  39.419  1.00 33.32      1HNF 6
+ATOM    954  CA  LEU A  62      20.387   0.739  38.643  1.00 36.52      1HNF 6
+ATOM    955  C   LEU A  62      18.973   0.565  38.166  1.00 38.22      1HNF 6
+ATOM    956  O   LEU A  62      18.625  -0.484  37.638  1.00 45.04      1HNF 6
+ATOM    957  CB  LEU A  62      21.314   0.851  37.433  1.00 34.81      1HNF 6
+ATOM    958  CG  LEU A  62      20.813   1.685  36.256  1.00 34.81      1HNF 6
+ATOM    959  CD1 LEU A  62      20.923   3.169  36.577  1.00 31.39      1HNF 6
+ATOM    960  CD2 LEU A  62      21.610   1.315  35.019  1.00 28.66      1HNF 6
+ATOM    961  H   LEU A  62      20.638  -1.304  38.925  1.00 33.32      1HNF H   new
+ATOM    962  HA  LEU A  62      20.494   1.648  39.254  1.00 36.52      1HNF H   new
+ATOM    963 1HB  LEU A  62      22.270   1.276  37.772  1.00 34.81      1HNF H   new
+ATOM    964 2HB  LEU A  62      21.525  -0.165  37.068  1.00 34.81      1HNF H   new
+ATOM    965  HG  LEU A  62      19.751   1.473  36.065  1.00 34.81      1HNF H   new
+ATOM    966 1HD1 LEU A  62      20.559   3.758  35.722  1.00 31.39      1HNF H   new
+ATOM    967 2HD1 LEU A  62      20.315   3.399  37.465  1.00 31.39      1HNF H   new
+ATOM    968 3HD1 LEU A  62      21.974   3.425  36.777  1.00 31.39      1HNF H   new
+ATOM    969 1HD2 LEU A  62      21.258   1.910  34.164  1.00 28.66      1HNF H   new
+ATOM    970 2HD2 LEU A  62      22.676   1.521  35.194  1.00 28.66      1HNF H   new
+ATOM    971 3HD2 LEU A  62      21.475   0.245  34.801  1.00 28.66      1HNF H   new
+ATOM    972  N   PHE A  63      18.168   1.603  38.307  1.00 43.67      1HNF 6
+ATOM    973  CA  PHE A  63      16.777   1.528  37.882  1.00 52.72      1HNF 6
+ATOM    974  C   PHE A  63      16.526   2.171  36.531  1.00 50.03      1HNF 6
+ATOM    975  O   PHE A  63      17.340   2.947  36.028  1.00 47.78      1HNF 6
+ATOM    976  CB  PHE A  63      15.849   2.175  38.927  1.00 58.48      1HNF 6
+ATOM    977  CG  PHE A  63      16.063   1.671  40.322  1.00 62.19      1HNF 6
+ATOM    978  CD1 PHE A  63      16.340   0.327  40.560  1.00 64.49      1HNF 6
+ATOM    979  CD2 PHE A  63      16.042   2.547  41.396  1.00 65.42      1HNF 6
+ATOM    980  CE1 PHE A  63      16.600  -0.131  41.851  1.00 65.48      1HNF 6
+ATOM    981  CE2 PHE A  63      16.302   2.097  42.692  1.00 65.07      1HNF 6
+ATOM    982  CZ  PHE A  63      16.582   0.757  42.918  1.00 62.54      1HNF 6
+ATOM    983  H   PHE A  63      18.441   2.481  38.699  1.00 43.67      1HNF H   new
+ATOM    984  HA  PHE A  63      16.553   0.455  37.786  1.00 52.72      1HNF H   new
+ATOM    985 1HB  PHE A  63      16.001   3.264  38.914  1.00 58.48      1HNF H   new
+ATOM    986 2HB  PHE A  63      14.804   1.992  38.638  1.00 58.48      1HNF H   new
+ATOM    987  HD1 PHE A  63      16.354  -0.382  39.719  1.00 64.49      1HNF H   new
+ATOM    988  HD2 PHE A  63      15.818   3.610  41.225  1.00 65.42      1HNF H   new
+ATOM    989  HE1 PHE A  63      16.819  -1.195  42.024  1.00 65.48      1HNF H   new
+ATOM    990  HE2 PHE A  63      16.285   2.805  43.534  1.00 65.07      1HNF H   new
+ATOM    991  HZ  PHE A  63      16.789   0.400  43.938  1.00 62.54      1HNF H   new
+ATOM    992  N   LYS A  64      15.363   1.841  35.977  1.00 47.05      1HNF 6
+ATOM    993  CA  LYS A  64      14.903   2.354  34.705  1.00 43.84      1HNF 6
+ATOM    994  C   LYS A  64      14.845   3.874  34.794  1.00 39.85      1HNF 6
+ATOM    995  O   LYS A  64      15.031   4.554  33.803  1.00 45.39      1HNF 6
+ATOM    996  CB  LYS A  64      13.527   1.735  34.401  1.00 52.24      1HNF 6
+ATOM    997  CG  LYS A  64      12.668   2.385  33.294  1.00 64.22      1HNF 6
+ATOM    998  CD  LYS A  64      11.307   1.646  33.147  1.00 69.08      1HNF 6
+ATOM    999  CE  LYS A  64      10.212   2.494  32.463  1.00 70.92      1HNF 6
+ATOM   1000  NZ  LYS A  64      10.470   2.823  31.028  1.00 71.16      1HNF 6
+ATOM   1001  H   LYS A  64      14.718   1.208  36.406  1.00 47.05      1HNF H   new
+ATOM   1002  HA  LYS A  64      15.584   2.087  33.884  1.00 43.84      1HNF H   new
+ATOM   1003 1HB  LYS A  64      13.684   0.681  34.130  1.00 52.24      1HNF H   new
+ATOM   1004 2HB  LYS A  64      12.940   1.744  35.332  1.00 52.24      1HNF H   new
+ATOM   1005 1HG  LYS A  64      12.492   3.444  33.534  1.00 64.22      1HNF H   new
+ATOM   1006 2HG  LYS A  64      13.211   2.358  32.338  1.00 64.22      1HNF H   new
+ATOM   1007 1HD  LYS A  64      11.461   0.724  32.566  1.00 69.08      1HNF H   new
+ATOM   1008 2HD  LYS A  64      10.955   1.343  34.144  1.00 69.08      1HNF H   new
+ATOM   1009 1HE  LYS A  64       9.255   1.955  32.533  1.00 70.92      1HNF H   new
+ATOM   1010 2HE  LYS A  64      10.094   3.433  33.023  1.00 70.92      1HNF H   new
+ATOM   1011 1HZ  LYS A  64       9.714   3.371  30.670  1.00 71.16      1HNF H + new
+ATOM   1012 2HZ  LYS A  64      11.322   3.342  30.952  1.00 71.16      1HNF H + new
+ATOM   1013 3HZ  LYS A  64      10.547   1.977  30.500  1.00 71.16      1HNF H + new
+ATOM   1014  N   ASN A  65      14.671   4.422  35.990  1.00 40.72      1HNF 6
+ATOM   1015  CA  ASN A  65      14.610   5.875  36.105  1.00 43.64      1HNF 6
+ATOM   1016  C   ASN A  65      15.984   6.542  36.298  1.00 44.72      1HNF 6
+ATOM   1017  O   ASN A  65      16.085   7.758  36.501  1.00 47.16      1HNF 6
+ATOM   1018  CB  ASN A  65      13.543   6.345  37.139  1.00 39.30      1HNF 6
+ATOM   1019  CG  ASN A  65      13.887   5.986  38.566  1.00 39.10      1HNF 6
+ATOM   1020  OD1 ASN A  65      14.867   5.274  38.807  1.00 35.49      1HNF 6
+ATOM   1021  ND2 ASN A  65      13.083   6.483  39.517  1.00 40.08      1HNF 6
+ATOM   1022  H   ASN A  65      14.575   3.917  36.847  1.00 40.72      1HNF H   new
+ATOM   1023  HA  ASN A  65      14.265   6.236  35.125  1.00 43.64      1HNF H   new
+ATOM   1024 1HB  ASN A  65      13.425   7.436  37.062  1.00 39.30      1HNF H   new
+ATOM   1025 2HB  ASN A  65      12.572   5.898  36.881  1.00 39.30      1HNF H   new
+ATOM   1026 1HD2 ASN A  65      13.264   6.282  40.480  1.00 40.08      1HNF H   new
+ATOM   1027 2HD2 ASN A  65      12.303   7.055  39.263  1.00 40.08      1HNF H   new
+ATOM   1028  N   GLY A  66      17.044   5.747  36.188  1.00 41.77      1HNF 6
+ATOM   1029  CA  GLY A  66      18.389   6.287  36.310  1.00 40.21      1HNF 6
+ATOM   1030  C   GLY A  66      18.955   6.379  37.710  1.00 37.24      1HNF 6
+ATOM   1031  O   GLY A  66      20.102   6.789  37.898  1.00 35.45      1HNF 6
+ATOM   1032  H   GLY A  66      16.999   4.762  36.021  1.00 41.77      1HNF H   new
+ATOM   1033 1HA  GLY A  66      19.066   5.665  35.705  1.00 40.21      1HNF H   new
+ATOM   1034 2HA  GLY A  66      18.397   7.294  35.869  1.00 40.21      1HNF H   new
+ATOM   1035  N   THR A  67      18.162   5.979  38.694  1.00 35.56      1HNF 7
+ATOM   1036  CA  THR A  67      18.595   6.015  40.080  1.00 30.01      1HNF 7
+ATOM   1037  C   THR A  67      19.504   4.837  40.400  1.00 27.71      1HNF 7
+ATOM   1038  O   THR A  67      19.264   3.712  39.966  1.00 22.38      1HNF 7
+ATOM   1039  CB  THR A  67      17.373   6.103  41.030  1.00 29.20      1HNF 7
+ATOM   1040  OG1 THR A  67      16.799   7.408  40.896  1.00 33.62      1HNF 7
+ATOM   1041  CG2 THR A  67      17.748   5.857  42.481  1.00 14.96      1HNF 7
+ATOM   1042  H   THR A  67      17.234   5.633  38.559  1.00 35.56      1HNF H   new
+ATOM   1043  HA  THR A  67      19.194   6.924  40.241  1.00 30.01      1HNF H   new
+ATOM   1044  HB  THR A  67      16.655   5.319  40.748  1.00 29.20      1HNF H   new
+ATOM   1045  HG1 THR A  67      16.007   7.488  41.501  1.00 33.62      1HNF H   new
+ATOM   1046 1HG2 THR A  67      16.849   5.931  43.110  1.00 14.96      1HNF H   new
+ATOM   1047 2HG2 THR A  67      18.185   4.852  42.582  1.00 14.96      1HNF H   new
+ATOM   1048 3HG2 THR A  67      18.483   6.610  42.803  1.00 14.96      1HNF H   new
+ATOM   1049  N   LEU A  68      20.577   5.125  41.133  1.00 28.13      1HNF 7
+ATOM   1050  CA  LEU A  68      21.551   4.114  41.503  1.00 28.53      1HNF 7
+ATOM   1051  C   LEU A  68      21.477   3.932  42.990  1.00 31.94      1HNF 7
+ATOM   1052  O   LEU A  68      21.598   4.908  43.729  1.00 34.57      1HNF 7
+ATOM   1053  CB  LEU A  68      22.949   4.608  41.161  1.00 23.85      1HNF 7
+ATOM   1054  CG  LEU A  68      24.149   3.677  40.985  1.00 21.24      1HNF 7
+ATOM   1055  CD1 LEU A  68      25.270   4.119  41.895  1.00 19.61      1HNF 7
+ATOM   1056  CD2 LEU A  68      23.811   2.252  41.196  1.00 20.95      1HNF 7
+ATOM   1057  H   LEU A  68      20.786   6.041  41.475  1.00 28.13      1HNF H   new
+ATOM   1058  HA  LEU A  68      21.344   3.175  40.969  1.00 28.53      1HNF H   new
+ATOM   1059 1HB  LEU A  68      22.857   5.177  40.224  1.00 23.85      1HNF H   new
+ATOM   1060 2HB  LEU A  68      23.226   5.326  41.947  1.00 23.85      1HNF H   new
+ATOM   1061  HG  LEU A  68      24.479   3.752  39.938  1.00 21.24      1HNF H   new
+ATOM   1062 1HD1 LEU A  68      26.133   3.448  41.767  1.00 19.61      1HNF H   new
+ATOM   1063 2HD1 LEU A  68      25.565   5.148  41.641  1.00 19.61      1HNF H   new
+ATOM   1064 3HD1 LEU A  68      24.930   4.083  42.941  1.00 19.61      1HNF H   new
+ATOM   1065 1HD2 LEU A  68      24.712   1.636  41.056  1.00 20.95      1HNF H   new
+ATOM   1066 2HD2 LEU A  68      23.428   2.113  42.218  1.00 20.95      1HNF H   new
+ATOM   1067 3HD2 LEU A  68      23.042   1.946  40.472  1.00 20.95      1HNF H   new
+ATOM   1068  N   LYS A  69      21.244   2.693  43.418  1.00 31.05      1HNF 7
+ATOM   1069  CA  LYS A  69      21.186   2.371  44.832  1.00 33.55      1HNF 7
+ATOM   1070  C   LYS A  69      22.453   1.646  45.173  1.00 33.09      1HNF 7
+ATOM   1071  O   LYS A  69      22.877   0.754  44.439  1.00 30.60      1HNF 7
+ATOM   1072  CB  LYS A  69      19.991   1.467  45.200  1.00 35.81      1HNF 7
+ATOM   1073  CG  LYS A  69      19.994   1.015  46.692  1.00 37.77      1HNF 7
+ATOM   1074  CD  LYS A  69      18.836   0.070  47.087  1.00 43.05      1HNF 7
+ATOM   1075  CE  LYS A  69      17.471   0.779  47.374  1.00 52.66      1HNF 7
+ATOM   1076  NZ  LYS A  69      17.243   1.300  48.775  1.00 54.31      1HNF 7
+ATOM   1077  H   LYS A  69      21.095   1.912  42.811  1.00 31.05      1HNF H   new
+ATOM   1078  HA  LYS A  69      21.064   3.309  45.394  1.00 33.55      1HNF H   new
+ATOM   1079 1HB  LYS A  69      19.055   2.005  44.989  1.00 35.81      1HNF H   new
+ATOM   1080 2HB  LYS A  69      20.002   0.576  44.555  1.00 35.81      1HNF H   new
+ATOM   1081 1HG  LYS A  69      20.948   0.511  46.905  1.00 37.77      1HNF H   new
+ATOM   1082 2HG  LYS A  69      19.952   1.909  47.331  1.00 37.77      1HNF H   new
+ATOM   1083 1HD  LYS A  69      18.689  -0.662  46.279  1.00 43.05      1HNF H   new
+ATOM   1084 2HD  LYS A  69      19.134  -0.495  47.983  1.00 43.05      1HNF H   new
+ATOM   1085 1HE  LYS A  69      17.372   1.624  46.676  1.00 52.66      1HNF H   new
+ATOM   1086 2HE  LYS A  69      16.663   0.071  47.138  1.00 52.66      1HNF H   new
+ATOM   1087 1HZ  LYS A  69      16.341   1.728  48.829  1.00 54.31      1HNF H + new
+ATOM   1088 2HZ  LYS A  69      17.291   0.542  49.425  1.00 54.31      1HNF H + new
+ATOM   1089 3HZ  LYS A  69      17.946   1.975  48.999  1.00 54.31      1HNF H + new
+ATOM   1090  N   ILE A  70      23.046   2.049  46.292  1.00 30.86      1HNF 7
+ATOM   1091  CA  ILE A  70      24.259   1.448  46.805  1.00 22.85      1HNF 7
+ATOM   1092  C   ILE A  70      23.890   0.786  48.116  1.00 26.45      1HNF 7
+ATOM   1093  O   ILE A  70      23.496   1.434  49.074  1.00 26.80      1HNF 7
+ATOM   1094  CB  ILE A  70      25.309   2.490  47.068  1.00 21.12      1HNF 7
+ATOM   1095  CG1 ILE A  70      25.488   3.351  45.817  1.00 19.59      1HNF 7
+ATOM   1096  CG2 ILE A  70      26.585   1.819  47.490  1.00 11.71      1HNF 7
+ATOM   1097  CD1 ILE A  70      26.590   4.356  45.933  1.00 20.51      1HNF 7
+ATOM   1098  H   ILE A  70      22.697   2.795  46.858  1.00 30.86      1HNF H   new
+ATOM   1099  HA  ILE A  70      24.666   0.733  46.075  1.00 22.85      1HNF H   new
+ATOM   1100  HB  ILE A  70      25.001   3.155  47.888  1.00 21.12      1HNF H   new
+ATOM   1101 1HG1 ILE A  70      25.690   2.695  44.957  1.00 19.59      1HNF H   new
+ATOM   1102 2HG1 ILE A  70      24.545   3.876  45.606  1.00 19.59      1HNF H   new
+ATOM   1103 1HG2 ILE A  70      27.354   2.581  47.683  1.00 11.71      1HNF H   new
+ATOM   1104 2HG2 ILE A  70      26.408   1.237  48.407  1.00 11.71      1HNF H   new
+ATOM   1105 3HG2 ILE A  70      26.928   1.147  46.690  1.00 11.71      1HNF H   new
+ATOM   1106 1HD1 ILE A  70      26.659   4.935  45.000  1.00 20.51      1HNF H   new
+ATOM   1107 2HD1 ILE A  70      26.380   5.036  46.772  1.00 20.51      1HNF H   new
+ATOM   1108 3HD1 ILE A  70      27.543   3.837  46.113  1.00 20.51      1HNF H   new
+ATOM   1109  N   LYS A  71      24.016  -0.523  48.147  1.00 31.48      1HNF 7
+ATOM   1110  CA  LYS A  71      23.650  -1.270  49.318  1.00 34.94      1HNF 7
+ATOM   1111  C   LYS A  71      24.723  -1.378  50.362  1.00 35.88      1HNF 7
+ATOM   1112  O   LYS A  71      25.906  -1.409  50.050  1.00 33.14      1HNF 7
+ATOM   1113  CB  LYS A  71      23.213  -2.671  48.918  1.00 39.50      1HNF 7
+ATOM   1114  CG  LYS A  71      21.942  -2.724  48.084  1.00 46.36      1HNF 7
+ATOM   1115  CD  LYS A  71      21.639  -4.154  47.692  1.00 48.18      1HNF 7
+ATOM   1116  CE  LYS A  71      21.595  -5.023  48.946  1.00 58.60      1HNF 7
+ATOM   1117  NZ  LYS A  71      21.611  -6.478  48.635  1.00 65.76      1HNF 7
+ATOM   1118  H   LYS A  71      24.362  -1.075  47.388  1.00 31.48      1HNF H   new
+ATOM   1119  HA  LYS A  71      22.829  -0.701  49.778  1.00 34.94      1HNF H   new
+ATOM   1120 1HB  LYS A  71      24.027  -3.147  48.352  1.00 39.50      1HNF H   new
+ATOM   1121 2HB  LYS A  71      23.063  -3.268  49.830  1.00 39.50      1HNF H   new
+ATOM   1122 1HG  LYS A  71      21.101  -2.305  48.655  1.00 46.36      1HNF H   new
+ATOM   1123 2HG  LYS A  71      22.059  -2.104  47.183  1.00 46.36      1HNF H   new
+ATOM   1124 1HD  LYS A  71      20.676  -4.205  47.162  1.00 48.18      1HNF H   new
+ATOM   1125 2HD  LYS A  71      22.408  -4.528  46.999  1.00 48.18      1HNF H   new
+ATOM   1126 1HE  LYS A  71      22.455  -4.779  49.587  1.00 58.60      1HNF H   new
+ATOM   1127 2HE  LYS A  71      20.688  -4.785  49.521  1.00 58.60      1HNF H   new
+ATOM   1128 1HZ  LYS A  71      21.581  -7.002  49.486  1.00 65.76      1HNF H + new
+ATOM   1129 2HZ  LYS A  71      20.816  -6.708  48.074  1.00 65.76      1HNF H + new
+ATOM   1130 3HZ  LYS A  71      22.447  -6.703  48.135  1.00 65.76      1HNF H + new
+ATOM   1131  N   HIS A  72      24.282  -1.346  51.616  1.00 35.73      1HNF 7
+ATOM   1132  CA  HIS A  72      25.153  -1.523  52.746  1.00 31.10      1HNF 7
+ATOM   1133  C   HIS A  72      26.441  -0.705  52.688  1.00 24.67      1HNF 7
+ATOM   1134  O   HIS A  72      27.510  -1.257  52.593  1.00 20.73      1HNF 7
+ATOM   1135  CB  HIS A  72      25.463  -3.006  52.829  1.00 44.57      1HNF 7
+ATOM   1136  CG  HIS A  72      25.532  -3.519  54.222  1.00 61.14      1HNF 7
+ATOM   1137  ND1 HIS A  72      26.670  -3.421  54.994  1.00 64.47      1HNF 7
+ATOM   1138  CD2 HIS A  72      24.596  -4.116  54.996  1.00 68.77      1HNF 7
+ATOM   1139  CE1 HIS A  72      26.432  -3.935  56.187  1.00 71.78      1HNF 7
+ATOM   1140  NE2 HIS A  72      25.181  -4.364  56.215  1.00 75.60      1HNF 7
+ATOM   1141  H   HIS A  72      23.324  -1.198  51.860  1.00 35.73      1HNF H   new
+ATOM   1142  HA  HIS A  72      24.637  -1.151  53.644  1.00 31.10      1HNF H   new
+ATOM   1143 1HB  HIS A  72      24.692  -3.565  52.278  1.00 44.57      1HNF H   new
+ATOM   1144 2HB  HIS A  72      26.422  -3.201  52.327  1.00 44.57      1HNF H   new
+ATOM   1145  HD1 HIS A  72      27.538  -3.024  54.697  1.00 64.47      1HNF H   new
+ATOM   1146  HD2 HIS A  72      23.563  -4.357  54.705  1.00 68.77      1HNF H   new
+ATOM   1147  HE1 HIS A  72      27.152  -3.996  57.017  1.00 71.78      1HNF H   new
+ATOM   1148  HE2 HIS A  72      24.733  -4.798  56.997  1.00 75.60      1HNF H   new
+ATOM   1149  N   LEU A  73      26.332   0.609  52.835  1.00 21.67      1HNF 7
+ATOM   1150  CA  LEU A  73      27.475   1.500  52.775  1.00 15.86      1HNF 7
+ATOM   1151  C   LEU A  73      28.665   1.023  53.591  1.00 22.82      1HNF 7
+ATOM   1152  O   LEU A  73      28.493   0.382  54.607  1.00 26.93      1HNF 7
+ATOM   1153  CB  LEU A  73      27.021   2.904  53.166  1.00 16.72      1HNF 7
+ATOM   1154  CG  LEU A  73      26.103   3.498  52.083  1.00 18.62      1HNF 7
+ATOM   1155  CD1 LEU A  73      25.466   4.862  52.435  1.00 19.22      1HNF 7
+ATOM   1156  CD2 LEU A  73      26.945   3.655  50.834  1.00 16.56      1HNF 7
+ATOM   1157  H   LEU A  73      25.462   1.075  52.996  1.00 21.67      1HNF H   new
+ATOM   1158  HA  LEU A  73      27.850   1.510  51.741  1.00 15.86      1HNF H   new
+ATOM   1159 1HB  LEU A  73      26.488   2.869  54.128  1.00 16.72      1HNF H   new
+ATOM   1160 2HB  LEU A  73      27.898   3.553  53.308  1.00 16.72      1HNF H   new
+ATOM   1161  HG  LEU A  73      25.254   2.810  51.961  1.00 18.62      1HNF H   new
+ATOM   1162 1HD1 LEU A  73      24.832   5.197  51.601  1.00 19.22      1HNF H   new
+ATOM   1163 2HD1 LEU A  73      24.852   4.758  53.342  1.00 19.22      1HNF H   new
+ATOM   1164 3HD1 LEU A  73      26.259   5.603  52.613  1.00 19.22      1HNF H   new
+ATOM   1165 1HD2 LEU A  73      26.329   4.079  50.027  1.00 16.56      1HNF H   new
+ATOM   1166 2HD2 LEU A  73      27.789   4.329  51.043  1.00 16.56      1HNF H   new
+ATOM   1167 3HD2 LEU A  73      27.329   2.672  50.524  1.00 16.56      1HNF H   new
+ATOM   1168  N   LYS A  74      29.876   1.277  53.099  1.00 27.31      1HNF 7
+ATOM   1169  CA  LYS A  74      31.128   0.858  53.760  1.00 26.95      1HNF 7
+ATOM   1170  C   LYS A  74      32.101   2.040  53.648  1.00 24.65      1HNF 7
+ATOM   1171  O   LYS A  74      31.875   2.904  52.821  1.00 24.92      1HNF 7
+ATOM   1172  CB  LYS A  74      31.706  -0.368  53.041  1.00 30.07      1HNF 7
+ATOM   1173  CG  LYS A  74      30.663  -1.424  52.717  1.00 38.50      1HNF 7
+ATOM   1174  CD  LYS A  74      30.958  -2.170  51.412  1.00 40.79      1HNF 7
+ATOM   1175  CE  LYS A  74      29.658  -2.637  50.664  1.00 40.70      1HNF 7
+ATOM   1176  NZ  LYS A  74      28.831  -1.544  49.983  1.00 24.64      1HNF 7
+ATOM   1177  H   LYS A  74      30.023   1.772  52.243  1.00 27.31      1HNF H   new
+ATOM   1178  HA  LYS A  74      30.955   0.587  54.812  1.00 26.95      1HNF H   new
+ATOM   1179 1HB  LYS A  74      32.190  -0.043  52.108  1.00 30.07      1HNF H   new
+ATOM   1180 2HB  LYS A  74      32.489  -0.817  53.670  1.00 30.07      1HNF H   new
+ATOM   1181 1HG  LYS A  74      30.612  -2.148  53.544  1.00 38.50      1HNF H   new
+ATOM   1182 2HG  LYS A  74      29.675  -0.947  52.645  1.00 38.50      1HNF H   new
+ATOM   1183 1HD  LYS A  74      31.542  -1.517  50.747  1.00 40.79      1HNF H   new
+ATOM   1184 2HD  LYS A  74      31.583  -3.048  51.631  1.00 40.79      1HNF H   new
+ATOM   1185 1HE  LYS A  74      29.946  -3.376  49.902  1.00 40.70      1HNF H   new
+ATOM   1186 2HE  LYS A  74      29.012  -3.156  51.388  1.00 40.70      1HNF H   new
+ATOM   1187 1HZ  LYS A  74      28.033  -1.955  49.542  1.00 24.64      1HNF H + new
+ATOM   1188 2HZ  LYS A  74      28.528  -0.880  50.666  1.00 24.64      1HNF H + new
+ATOM   1189 3HZ  LYS A  74      29.390  -1.082  49.295  1.00 24.64      1HNF H + new
+ATOM   1190  N   THR A  75      33.173   2.091  54.447  1.00 26.32      1HNF 7
+ATOM   1191  CA  THR A  75      34.103   3.234  54.382  1.00 26.86      1HNF 7
+ATOM   1192  C   THR A  75      34.579   3.518  52.952  1.00 37.31      1HNF 7
+ATOM   1193  O   THR A  75      34.753   4.676  52.569  1.00 38.33      1HNF 7
+ATOM   1194  CB  THR A  75      35.375   3.047  55.282  1.00 28.20      1HNF 7
+ATOM   1195  OG1 THR A  75      35.004   2.729  56.631  1.00 29.81      1HNF 7
+ATOM   1196  CG2 THR A  75      36.242   4.327  55.277  1.00 21.45      1HNF 7
+ATOM   1197  H   THR A  75      33.413   1.390  55.118  1.00 26.32      1HNF H   new
+ATOM   1198  HA  THR A  75      33.515   4.084  54.759  1.00 26.86      1HNF H   new
+ATOM   1199  HB  THR A  75      35.959   2.214  54.864  1.00 28.20      1HNF H   new
+ATOM   1200  HG1 THR A  75      35.828   2.614  57.186  1.00 29.81      1HNF H   new
+ATOM   1201 1HG2 THR A  75      37.126   4.174  55.913  1.00 21.45      1HNF H   new
+ATOM   1202 2HG2 THR A  75      36.564   4.548  54.249  1.00 21.45      1HNF H   new
+ATOM   1203 3HG2 THR A  75      35.653   5.171  55.666  1.00 21.45      1HNF H   new
+ATOM   1204  N   ASP A  76      34.784   2.449  52.175  1.00 42.99      1HNF 7
+ATOM   1205  CA  ASP A  76      35.259   2.531  50.790  1.00 42.23      1HNF 7
+ATOM   1206  C   ASP A  76      34.350   3.251  49.798  1.00 38.14      1HNF 7
+ATOM   1207  O   ASP A  76      34.803   3.637  48.717  1.00 34.46      1HNF 7
+ATOM   1208  CB  ASP A  76      35.536   1.125  50.226  1.00 57.55      1HNF 7
+ATOM   1209  CG  ASP A  76      36.810   0.498  50.774  1.00 68.56      1HNF 7
+ATOM   1210  OD1 ASP A  76      36.993   0.502  52.014  1.00 75.08      1HNF 7
+ATOM   1211  OD2 ASP A  76      37.618  -0.020  49.960  1.00 73.63      1HNF 7
+ATOM   1212  H   ASP A  76      34.626   1.512  52.487  1.00 42.99      1HNF H   new
+ATOM   1213  HA  ASP A  76      36.169   3.143  50.878  1.00 42.23      1HNF H   new
+ATOM   1214 1HB  ASP A  76      34.684   0.470  50.458  1.00 57.55      1HNF H   new
+ATOM   1215 2HB  ASP A  76      35.607   1.184  49.130  1.00 57.55      1HNF H   new
+ATOM   1216  N   ASP A  77      33.078   3.418  50.152  1.00 30.41      1HNF 7
+ATOM   1217  CA  ASP A  77      32.110   4.049  49.260  1.00 22.10      1HNF 7
+ATOM   1218  C   ASP A  77      32.013   5.560  49.257  1.00 21.43      1HNF 7
+ATOM   1219  O   ASP A  77      31.209   6.118  48.493  1.00 17.72      1HNF 7
+ATOM   1220  CB  ASP A  77      30.734   3.468  49.498  1.00 21.89      1HNF 7
+ATOM   1221  CG  ASP A  77      30.725   1.972  49.429  1.00 22.51      1HNF 7
+ATOM   1222  OD1 ASP A  77      30.822   1.437  48.315  1.00 29.00      1HNF 7
+ATOM   1223  OD2 ASP A  77      30.612   1.318  50.486  1.00 34.44      1HNF 7
+ATOM   1224  H   ASP A  77      32.702   3.131  51.033  1.00 30.41      1HNF H   new
+ATOM   1225  HA  ASP A  77      32.514   3.813  48.264  1.00 22.10      1HNF H   new
+ATOM   1226 1HB  ASP A  77      30.370   3.789  50.485  1.00 21.89      1HNF H   new
+ATOM   1227 2HB  ASP A  77      30.035   3.871  48.750  1.00 21.89      1HNF H   new
+ATOM   1228  N   GLN A  78      32.790   6.211  50.125  1.00 23.64      1HNF 7
+ATOM   1229  CA  GLN A  78      32.808   7.672  50.215  1.00 28.87      1HNF 7
+ATOM   1230  C   GLN A  78      33.608   8.060  48.981  1.00 27.49      1HNF 7
+ATOM   1231  O   GLN A  78      34.780   7.728  48.860  1.00 36.85      1HNF 7
+ATOM   1232  CB  GLN A  78      33.489   8.128  51.531  1.00 30.34      1HNF 7
+ATOM   1233  CG  GLN A  78      33.525   9.652  51.796  1.00 44.41      1HNF 7
+ATOM   1234  CD  GLN A  78      33.838  10.022  53.265  1.00 45.54      1HNF 7
+ATOM   1235  OE1 GLN A  78      34.040   9.147  54.102  1.00 49.46      1HNF 7
+ATOM   1236  NE2 GLN A  78      33.864  11.324  53.571  1.00 46.88      1HNF 7
+ATOM   1237  H   GLN A  78      33.406   5.755  50.767  1.00 23.64      1HNF H   new
+ATOM   1238  HA  GLN A  78      31.813   8.141  50.240  1.00 28.87      1HNF H   new
+ATOM   1239 1HB  GLN A  78      32.971   7.644  52.372  1.00 30.34      1HNF H   new
+ATOM   1240 2HB  GLN A  78      34.523   7.754  51.531  1.00 30.34      1HNF H   new
+ATOM   1241 1HG  GLN A  78      34.282  10.111  51.143  1.00 44.41      1HNF H   new
+ATOM   1242 2HG  GLN A  78      32.554  10.086  51.517  1.00 44.41      1HNF H   new
+ATOM   1243 1HE2 GLN A  78      34.053  11.613  54.509  1.00 46.88      1HNF H   new
+ATOM   1244 2HE2 GLN A  78      33.694  12.008  52.861  1.00 46.88      1HNF H   new
+ATOM   1245  N   ASP A  79      32.942   8.658  48.011  1.00 28.15      1HNF 8
+ATOM   1246  CA  ASP A  79      33.616   9.044  46.777  1.00 28.34      1HNF 8
+ATOM   1247  C   ASP A  79      32.691   9.959  45.969  1.00 26.04      1HNF 8
+ATOM   1248  O   ASP A  79      31.516  10.163  46.298  1.00 27.63      1HNF 8
+ATOM   1249  CB  ASP A  79      33.901   7.770  45.955  1.00 30.75      1HNF 8
+ATOM   1250  CG  ASP A  79      35.184   7.843  45.123  1.00 30.38      1HNF 8
+ATOM   1251  OD1 ASP A  79      35.622   8.938  44.700  1.00 27.07      1HNF 8
+ATOM   1252  OD2 ASP A  79      35.739   6.751  44.885  1.00 29.70      1HNF 8
+ATOM   1253  H   ASP A  79      31.968   8.882  48.047  1.00 28.15      1HNF H   new
+ATOM   1254  HA  ASP A  79      34.555   9.569  47.005  1.00 28.34      1HNF H   new
+ATOM   1255 1HB  ASP A  79      33.968   6.911  46.639  1.00 30.75      1HNF H   new
+ATOM   1256 2HB  ASP A  79      33.051   7.581  45.284  1.00 30.75      1HNF H   new
+ATOM   1257  N   ILE A  80      33.239  10.507  44.907  1.00 19.38      1HNF 8
+ATOM   1258  CA  ILE A  80      32.494  11.355  44.025  1.00 19.66      1HNF 8
+ATOM   1259  C   ILE A  80      31.987  10.408  42.922  1.00 21.26      1HNF 8
+ATOM   1260  O   ILE A  80      32.755   9.587  42.436  1.00 25.90      1HNF 8
+ATOM   1261  CB  ILE A  80      33.436  12.428  43.517  1.00 19.37      1HNF 8
+ATOM   1262  CG1 ILE A  80      33.777  13.354  44.679  1.00 10.81      1HNF 8
+ATOM   1263  CG2 ILE A  80      32.840  13.155  42.333  1.00 21.18      1HNF 8
+ATOM   1264  CD1 ILE A  80      34.699  14.440  44.316  1.00 20.35      1HNF 8
+ATOM   1265  H   ILE A  80      34.194  10.375  44.642  1.00 19.38      1HNF H   new
+ATOM   1266  HA  ILE A  80      31.642  11.879  44.482  1.00 19.66      1HNF H   new
+ATOM   1267  HB  ILE A  80      34.370  11.980  43.147  1.00 19.37      1HNF H   new
+ATOM   1268 1HG1 ILE A  80      32.848  13.790  45.074  1.00 10.81      1HNF H   new
+ATOM   1269 2HG1 ILE A  80      34.224  12.761  45.490  1.00 10.81      1HNF H   new
+ATOM   1270 1HG2 ILE A  80      33.542  13.927  41.985  1.00 21.18      1HNF H   new
+ATOM   1271 2HG2 ILE A  80      32.650  12.439  41.520  1.00 21.18      1HNF H   new
+ATOM   1272 3HG2 ILE A  80      31.894  13.629  42.632  1.00 21.18      1HNF H   new
+ATOM   1273 1HD1 ILE A  80      34.898  15.064  45.200  1.00 20.35      1HNF H   new
+ATOM   1274 2HD1 ILE A  80      35.644  14.012  43.949  1.00 20.35      1HNF H   new
+ATOM   1275 3HD1 ILE A  80      34.246  15.058  43.527  1.00 20.35      1HNF H   new
+ATOM   1276  N   TYR A  81      30.682  10.443  42.630  1.00 17.08      1HNF 8
+ATOM   1277  CA  TYR A  81      30.033   9.576  41.626  1.00 10.56      1HNF 8
+ATOM   1278  C   TYR A  81      29.534  10.459  40.519  1.00 11.72      1HNF 8
+ATOM   1279  O   TYR A  81      29.165  11.601  40.773  1.00 21.22      1HNF 8
+ATOM   1280  CB  TYR A  81      28.845   8.775  42.253  1.00 15.39      1HNF 8
+ATOM   1281  CG  TYR A  81      29.266   7.759  43.336  1.00 10.60      1HNF 8
+ATOM   1282  CD1 TYR A  81      29.656   8.179  44.609  1.00  9.94      1HNF 8
+ATOM   1283  CD2 TYR A  81      29.388   6.409  43.040  1.00  6.06      1HNF 8
+ATOM   1284  CE1 TYR A  81      30.165   7.285  45.535  1.00  6.85      1HNF 8
+ATOM   1285  CE2 TYR A  81      29.895   5.515  43.954  1.00  9.95      1HNF 8
+ATOM   1286  CZ  TYR A  81      30.286   5.955  45.204  1.00 13.78      1HNF 8
+ATOM   1287  OH  TYR A  81      30.809   5.057  46.124  1.00 11.81      1HNF 8
+ATOM   1288  H   TYR A  81      30.045  11.070  43.080  1.00 17.08      1HNF H   new
+ATOM   1289  HA  TYR A  81      30.757   8.840  41.245  1.00 10.56      1HNF H   new
+ATOM   1290 1HB  TYR A  81      28.130   9.486  42.692  1.00 15.39      1HNF H   new
+ATOM   1291 2HB  TYR A  81      28.315   8.240  41.451  1.00 15.39      1HNF H   new
+ATOM   1292  HD1 TYR A  81      29.557   9.240  44.881  1.00  9.94      1HNF H   new
+ATOM   1293  HD2 TYR A  81      29.072   6.045  42.051  1.00  6.06      1HNF H   new
+ATOM   1294  HE1 TYR A  81      30.471   7.636  46.531  1.00  6.85      1HNF H   new
+ATOM   1295  HE2 TYR A  81      29.989   4.451  43.690  1.00  9.95      1HNF H   new
+ATOM   1296  HH  TYR A  81      30.826   4.141  45.724  1.00 11.81      1HNF H   new
+ATOM   1297  N   LYS A  82      29.481   9.928  39.296  1.00 20.67      1HNF 8
+ATOM   1298  CA  LYS A  82      29.056  10.716  38.127  1.00 20.98      1HNF 8
+ATOM   1299  C   LYS A  82      28.142   9.940  37.210  1.00 13.86      1HNF 8
+ATOM   1300  O   LYS A  82      28.380   8.763  36.954  1.00 16.95      1HNF 8
+ATOM   1301  CB  LYS A  82      30.311  11.148  37.350  1.00 27.53      1HNF 8
+ATOM   1302  CG  LYS A  82      30.088  11.737  35.952  1.00 35.49      1HNF 8
+ATOM   1303  CD  LYS A  82      31.421  11.854  35.210  1.00 36.24      1HNF 8
+ATOM   1304  CE  LYS A  82      31.659  13.247  34.607  1.00 44.42      1HNF 8
+ATOM   1305  NZ  LYS A  82      33.083  13.433  34.106  1.00 49.37      1HNF 8
+ATOM   1306  H   LYS A  82      29.720   8.979  39.089  1.00 20.67      1HNF H   new
+ATOM   1307  HA  LYS A  82      28.490  11.587  38.488  1.00 20.98      1HNF H   new
+ATOM   1308 1HB  LYS A  82      30.849  11.893  37.954  1.00 27.53      1HNF H   new
+ATOM   1309 2HB  LYS A  82      30.972  10.274  37.253  1.00 27.53      1HNF H   new
+ATOM   1310 1HG  LYS A  82      29.397  11.098  35.382  1.00 35.49      1HNF H   new
+ATOM   1311 2HG  LYS A  82      29.617  12.728  36.034  1.00 35.49      1HNF H   new
+ATOM   1312 1HD  LYS A  82      32.241  11.617  35.904  1.00 36.24      1HNF H   new
+ATOM   1313 2HD  LYS A  82      31.453  11.104  34.406  1.00 36.24      1HNF H   new
+ATOM   1314 1HE  LYS A  82      30.958  13.407  33.775  1.00 44.42      1HNF H   new
+ATOM   1315 2HE  LYS A  82      31.438  14.013  35.365  1.00 44.42      1HNF H   new
+ATOM   1316 1HZ  LYS A  82      33.185  14.352  33.725  1.00 49.37      1HNF H + new
+ATOM   1317 2HZ  LYS A  82      33.722  13.315  34.866  1.00 49.37      1HNF H + new
+ATOM   1318 3HZ  LYS A  82      33.279  12.755  33.398  1.00 49.37      1HNF H + new
+ATOM   1319  N   VAL A  83      27.073  10.580  36.759  1.00  7.36      1HNF 8
+ATOM   1320  CA  VAL A  83      26.163   9.922  35.847  1.00 15.47      1HNF 8
+ATOM   1321  C   VAL A  83      26.315  10.701  34.585  1.00 23.73      1HNF 8
+ATOM   1322  O   VAL A  83      26.251  11.923  34.621  1.00 28.85      1HNF 8
+ATOM   1323  CB  VAL A  83      24.671  10.178  36.099  1.00 21.99      1HNF 8
+ATOM   1324  CG1 VAL A  83      23.874   8.908  35.838  1.00 19.29      1HNF 8
+ATOM   1325  CG2 VAL A  83      24.425  10.853  37.409  1.00 20.93      1HNF 8
+ATOM   1326  H   VAL A  83      26.826  11.518  37.002  1.00  7.36      1HNF H   new
+ATOM   1327  HA  VAL A  83      26.390   8.847  35.896  1.00 15.47      1HNF H   new
+ATOM   1328  HB  VAL A  83      24.291  10.914  35.375  1.00 21.99      1HNF H   new
+ATOM   1329 1HG1 VAL A  83      22.806   9.100  36.021  1.00 19.29      1HNF H   new
+ATOM   1330 2HG1 VAL A  83      24.016   8.594  34.793  1.00 19.29      1HNF H   new
+ATOM   1331 3HG1 VAL A  83      24.223   8.111  36.511  1.00 19.29      1HNF H   new
+ATOM   1332 1HG2 VAL A  83      23.345  11.014  37.542  1.00 20.93      1HNF H   new
+ATOM   1333 2HG2 VAL A  83      24.804  10.220  38.225  1.00 20.93      1HNF H   new
+ATOM   1334 3HG2 VAL A  83      24.944  11.823  37.426  1.00 20.93      1HNF H   new
+ATOM   1335  N   SER A  84      26.370   9.993  33.467  1.00 21.54      1HNF 8
+ATOM   1336  CA  SER A  84      26.456  10.612  32.171  1.00 18.42      1HNF 8
+ATOM   1337  C   SER A  84      25.406   9.872  31.409  1.00 18.65      1HNF 8
+ATOM   1338  O   SER A  84      25.357   8.634  31.478  1.00 19.33      1HNF 8
+ATOM   1339  CB  SER A  84      27.801  10.297  31.529  1.00 18.15      1HNF 8
+ATOM   1340  OG  SER A  84      28.849  10.765  32.341  1.00 27.60      1HNF 8
+ATOM   1341  H   SER A  84      26.356   8.993  33.443  1.00 21.54      1HNF H   new
+ATOM   1342  HA  SER A  84      26.340  11.705  32.201  1.00 18.42      1HNF H   new
+ATOM   1343 1HB  SER A  84      27.860  10.765  30.535  1.00 18.15      1HNF H   new
+ATOM   1344 2HB  SER A  84      27.899   9.212  31.380  1.00 18.15      1HNF H   new
+ATOM   1345  HG  SER A  84      29.726  10.553  31.910  1.00 27.60      1HNF H   new
+ATOM   1346  N   ILE A  85      24.521  10.584  30.731  1.00 13.99      1HNF 8
+ATOM   1347  CA  ILE A  85      23.552   9.848  29.955  1.00 22.52      1HNF 8
+ATOM   1348  C   ILE A  85      23.395  10.451  28.573  1.00 25.24      1HNF 8
+ATOM   1349  O   ILE A  85      23.298  11.675  28.427  1.00 27.92      1HNF 8
+ATOM   1350  CB  ILE A  85      22.193   9.598  30.699  1.00 28.68      1HNF 8
+ATOM   1351  CG1 ILE A  85      21.059  10.311  29.999  1.00 28.89      1HNF 8
+ATOM   1352  CG2 ILE A  85      22.240  10.014  32.185  1.00 29.62      1HNF 8
+ATOM   1353  CD1 ILE A  85      19.819  10.281  30.796  1.00 42.55      1HNF 8
+ATOM   1354  H   ILE A  85      24.457  11.582  30.703  1.00 13.99      1HNF H   new
+ATOM   1355  HA  ILE A  85      23.956   8.834  29.819  1.00 22.52      1HNF H   new
+ATOM   1356  HB  ILE A  85      22.017   8.513  30.668  1.00 28.68      1HNF H   new
+ATOM   1357 1HG1 ILE A  85      21.346  11.355  29.806  1.00 28.89      1HNF H   new
+ATOM   1358 2HG1 ILE A  85      20.878   9.841  29.021  1.00 28.89      1HNF H   new
+ATOM   1359 1HG2 ILE A  85      21.264   9.817  32.653  1.00 29.62      1HNF H   new
+ATOM   1360 2HG2 ILE A  85      23.018   9.435  32.704  1.00 29.62      1HNF H   new
+ATOM   1361 3HG2 ILE A  85      22.471  11.087  32.259  1.00 29.62      1HNF H   new
+ATOM   1362 1HD1 ILE A  85      19.021  10.809  30.253  1.00 42.55      1HNF H   new
+ATOM   1363 2HD1 ILE A  85      19.517   9.237  30.967  1.00 42.55      1HNF H   new
+ATOM   1364 3HD1 ILE A  85      19.992  10.775  31.764  1.00 42.55      1HNF H   new
+ATOM   1365  N   TYR A  86      23.329   9.555  27.580  1.00 25.19      1HNF 8
+ATOM   1366  CA  TYR A  86      23.249   9.872  26.144  1.00 24.40      1HNF 8
+ATOM   1367  C   TYR A  86      22.082   9.280  25.337  1.00 23.59      1HNF 8
+ATOM   1368  O   TYR A  86      21.765   8.099  25.494  1.00 24.40      1HNF 8
+ATOM   1369  CB  TYR A  86      24.491   9.289  25.466  1.00 21.33      1HNF 8
+ATOM   1370  CG  TYR A  86      25.799   9.581  26.136  1.00 19.28      1HNF 8
+ATOM   1371  CD1 TYR A  86      26.495  10.758  25.860  1.00 24.89      1HNF 8
+ATOM   1372  CD2 TYR A  86      26.351   8.683  27.041  1.00 18.70      1HNF 8
+ATOM   1373  CE1 TYR A  86      27.720  11.038  26.481  1.00 23.73      1HNF 8
+ATOM   1374  CE2 TYR A  86      27.567   8.950  27.660  1.00 19.60      1HNF 8
+ATOM   1375  CZ  TYR A  86      28.245  10.135  27.370  1.00 22.28      1HNF 8
+ATOM   1376  OH  TYR A  86      29.458  10.419  27.963  1.00 29.46      1HNF 8
+ATOM   1377  H   TYR A  86      23.330   8.571  27.756  1.00 25.19      1HNF H   new
+ATOM   1378  HA  TYR A  86      23.130  10.966  26.136  1.00 24.40      1HNF H   new
+ATOM   1379 1HB  TYR A  86      24.371   8.198  25.400  1.00 21.33      1HNF H   new
+ATOM   1380 2HB  TYR A  86      24.536   9.671  24.435  1.00 21.33      1HNF H   new
+ATOM   1381  HD1 TYR A  86      26.075  11.479  25.143  1.00 24.89      1HNF H   new
+ATOM   1382  HD2 TYR A  86      25.819   7.748  27.271  1.00 18.70      1HNF H   new
+ATOM   1383  HE1 TYR A  86      28.255  11.973  26.258  1.00 23.73      1HNF H   new
+ATOM   1384  HE2 TYR A  86      27.993   8.231  28.375  1.00 19.60      1HNF H   new
+ATOM   1385  HH  TYR A  86      29.710   9.674  28.581  1.00 29.46      1HNF H   new
+ATOM   1386  N   ASP A  87      21.580  10.039  24.359  1.00 22.90      1HNF 8
+ATOM   1387  CA  ASP A  87      20.520   9.558  23.447  1.00 27.48      1HNF 8
+ATOM   1388  C   ASP A  87      21.094   8.633  22.358  1.00 29.93      1HNF 8
+ATOM   1389  O   ASP A  87      22.273   8.270  22.397  1.00 32.30      1HNF 8
+ATOM   1390  CB  ASP A  87      19.777  10.727  22.774  1.00 27.54      1HNF 8
+ATOM   1391  CG  ASP A  87      20.700  11.674  22.001  1.00 37.57      1HNF 8
+ATOM   1392  OD1 ASP A  87      21.724  11.218  21.449  1.00 42.95      1HNF 8
+ATOM   1393  OD2 ASP A  87      20.397  12.890  21.938  1.00 34.20      1HNF 8
+ATOM   1394  H   ASP A  87      21.881  10.975  24.176  1.00 22.90      1HNF H   new
+ATOM   1395  HA  ASP A  87      19.808   8.991  24.065  1.00 27.48      1HNF H   new
+ATOM   1396 1HB  ASP A  87      19.021  10.322  22.086  1.00 27.54      1HNF H   new
+ATOM   1397 2HB  ASP A  87      19.238  11.300  23.543  1.00 27.54      1HNF H   new
+ATOM   1398  N   THR A  88      20.276   8.271  21.372  1.00 34.01      1HNF 8
+ATOM   1399  CA  THR A  88      20.751   7.402  20.288  1.00 38.00      1HNF 8
+ATOM   1400  C   THR A  88      21.596   8.145  19.265  1.00 41.02      1HNF 8
+ATOM   1401  O   THR A  88      22.442   7.546  18.616  1.00 50.52      1HNF 8
+ATOM   1402  CB  THR A  88      19.622   6.735  19.548  1.00 35.15      1HNF 8
+ATOM   1403  OG1 THR A  88      18.553   7.672  19.396  1.00 33.39      1HNF 8
+ATOM   1404  CG2 THR A  88      19.171   5.491  20.288  1.00 34.44      1HNF 8
+ATOM   1405  H   THR A  88      19.319   8.551  21.299  1.00 34.01      1HNF H   new
+ATOM   1406  HA  THR A  88      21.367   6.644  20.794  1.00 38.00      1HNF H   new
+ATOM   1407  HB  THR A  88      19.959   6.418  18.550  1.00 35.15      1HNF H   new
+ATOM   1408  HG1 THR A  88      17.797   7.239  18.905  1.00 33.39      1HNF H   new
+ATOM   1409 1HG2 THR A  88      18.347   5.014  19.737  1.00 34.44      1HNF H   new
+ATOM   1410 2HG2 THR A  88      20.012   4.787  20.370  1.00 34.44      1HNF H   new
+ATOM   1411 3HG2 THR A  88      18.826   5.768  21.295  1.00 34.44      1HNF H   new
+ATOM   1412  N   LYS A  89      21.365   9.447  19.128  1.00 38.63      1HNF 8
+ATOM   1413  CA  LYS A  89      22.120  10.279  18.205  1.00 33.80      1HNF 8
+ATOM   1414  C   LYS A  89      23.463  10.699  18.835  1.00 36.58      1HNF 8
+ATOM   1415  O   LYS A  89      24.026  11.735  18.473  1.00 33.19      1HNF 8
+ATOM   1416  CB  LYS A  89      21.293  11.526  17.857  1.00 42.55      1HNF 8
+ATOM   1417  CG  LYS A  89      19.786  11.276  17.550  1.00 49.54      1HNF 8
+ATOM   1418  CD  LYS A  89      19.481  10.857  16.091  1.00 55.39      1HNF 8
+ATOM   1419  CE  LYS A  89      19.805   9.373  15.796  1.00 58.48      1HNF 8
+ATOM   1420  NZ  LYS A  89      19.454   8.943  14.405  1.00 57.19      1HNF 8
+ATOM   1421  H   LYS A  89      20.665   9.941  19.643  1.00 38.63      1HNF H   new
+ATOM   1422  HA  LYS A  89      22.329   9.706  17.290  1.00 33.80      1HNF H   new
+ATOM   1423 1HB  LYS A  89      21.364  12.235  18.695  1.00 42.55      1HNF H   new
+ATOM   1424 2HB  LYS A  89      21.750  12.013  16.983  1.00 42.55      1HNF H   new
+ATOM   1425 1HG  LYS A  89      19.414  10.493  18.227  1.00 49.54      1HNF H   new
+ATOM   1426 2HG  LYS A  89      19.223  12.193  17.778  1.00 49.54      1HNF H   new
+ATOM   1427 1HD  LYS A  89      18.417  11.041  15.880  1.00 55.39      1HNF H   new
+ATOM   1428 2HD  LYS A  89      20.060  11.494  15.406  1.00 55.39      1HNF H   new
+ATOM   1429 1HE  LYS A  89      20.879   9.202  15.963  1.00 58.48      1HNF H   new
+ATOM   1430 2HE  LYS A  89      19.263   8.739  16.513  1.00 58.48      1HNF H   new
+ATOM   1431 1HZ  LYS A  89      19.689   7.978  14.284  1.00 57.19      1HNF H + new
+ATOM   1432 2HZ  LYS A  89      18.473   9.068  14.254  1.00 57.19      1HNF H + new
+ATOM   1433 3HZ  LYS A  89      19.965   9.495  13.746  1.00 57.19      1HNF H + new
+ATOM   1434  N   GLY A  90      23.923   9.929  19.827  1.00 42.24      1HNF 8
+ATOM   1435  CA  GLY A  90      25.178  10.196  20.530  1.00 38.90      1HNF 8
+ATOM   1436  C   GLY A  90      25.302  11.353  21.529  1.00 36.28      1HNF 8
+ATOM   1437  O   GLY A  90      26.313  11.453  22.235  1.00 37.80      1HNF 8
+ATOM   1438  H   GLY A  90      23.442   9.117  20.158  1.00 42.24      1HNF H   new
+ATOM   1439 1HA  GLY A  90      25.445   9.276  21.071  1.00 38.90      1HNF H   new
+ATOM   1440 2HA  GLY A  90      25.949  10.352  19.761  1.00 38.90      1HNF H   new
+ATOM   1441  N   LYS A  91      24.297  12.217  21.615  1.00 33.12      1HNF 8
+ATOM   1442  CA  LYS A  91      24.349  13.365  22.519  1.00 39.29      1HNF 8
+ATOM   1443  C   LYS A  91      24.276  13.121  24.020  1.00 39.66      1HNF 9
+ATOM   1444  O   LYS A  91      23.577  12.230  24.492  1.00 40.21      1HNF 9
+ATOM   1445  CB  LYS A  91      23.311  14.422  22.119  1.00 45.76      1HNF 9
+ATOM   1446  CG  LYS A  91      23.869  15.500  21.174  1.00 52.67      1HNF 9
+ATOM   1447  CD  LYS A  91      22.842  16.550  20.724  1.00 58.68      1HNF 9
+ATOM   1448  CE  LYS A  91      21.859  16.022  19.665  1.00 59.68      1HNF 9
+ATOM   1449  NZ  LYS A  91      20.942  17.098  19.178  1.00 59.64      1HNF 9
+ATOM   1450  H   LYS A  91      23.454  12.148  21.082  1.00 33.12      1HNF H   new
+ATOM   1451  HA  LYS A  91      25.382  13.714  22.374  1.00 39.29      1HNF H   new
+ATOM   1452 1HB  LYS A  91      22.460  13.923  21.632  1.00 45.76      1HNF H   new
+ATOM   1453 2HB  LYS A  91      22.923  14.906  23.027  1.00 45.76      1HNF H   new
+ATOM   1454 1HG  LYS A  91      24.702  16.013  21.676  1.00 52.67      1HNF H   new
+ATOM   1455 2HG  LYS A  91      24.285  15.008  20.283  1.00 52.67      1HNF H   new
+ATOM   1456 1HD  LYS A  91      22.275  16.898  21.600  1.00 58.68      1HNF H   new
+ATOM   1457 2HD  LYS A  91      23.374  17.423  20.318  1.00 58.68      1HNF H   new
+ATOM   1458 1HE  LYS A  91      22.422  15.607  18.816  1.00 59.68      1HNF H   new
+ATOM   1459 2HE  LYS A  91      21.266  15.199  20.091  1.00 59.68      1HNF H   new
+ATOM   1460 1HZ  LYS A  91      20.319  16.721  18.493  1.00 59.64      1HNF H + new
+ATOM   1461 2HZ  LYS A  91      20.413  17.459  19.946  1.00 59.64      1HNF H + new
+ATOM   1462 3HZ  LYS A  91      21.480  17.835  18.769  1.00 59.64      1HNF H + new
+ATOM   1463  N   ASN A  92      25.022  13.935  24.762  1.00 36.07      1HNF 9
+ATOM   1464  CA  ASN A  92      25.062  13.854  26.216  1.00 35.86      1HNF 9
+ATOM   1465  C   ASN A  92      23.896  14.667  26.697  1.00 38.43      1HNF 9
+ATOM   1466  O   ASN A  92      23.930  15.892  26.642  1.00 40.23      1HNF 9
+ATOM   1467  CB  ASN A  92      26.354  14.461  26.753  1.00 33.81      1HNF 9
+ATOM   1468  CG  ASN A  92      26.334  14.658  28.259  1.00 32.55      1HNF 9
+ATOM   1469  OD1 ASN A  92      26.536  13.712  29.013  1.00 25.35      1HNF 9
+ATOM   1470  ND2 ASN A  92      26.116  15.902  28.701  1.00 32.66      1HNF 9
+ATOM   1471  H   ASN A  92      25.603  14.653  24.379  1.00 36.07      1HNF H   new
+ATOM   1472  HA  ASN A  92      25.017  12.809  26.558  1.00 35.86      1HNF H   new
+ATOM   1473 1HB  ASN A  92      27.198  13.809  26.485  1.00 33.81      1HNF H   new
+ATOM   1474 2HB  ASN A  92      26.528  15.431  26.264  1.00 33.81      1HNF H   new
+ATOM   1475 1HD2 ASN A  92      26.113  16.090  29.683  1.00 32.66      1HNF H   new
+ATOM   1476 2HD2 ASN A  92      25.956  16.643  28.049  1.00 32.66      1HNF H   new
+ATOM   1477  N   VAL A  93      22.873  13.980  27.182  1.00 35.70      1HNF 9
+ATOM   1478  CA  VAL A  93      21.678  14.645  27.652  1.00 35.05      1HNF 9
+ATOM   1479  C   VAL A  93      21.777  15.226  29.057  1.00 33.62      1HNF 9
+ATOM   1480  O   VAL A  93      21.201  16.280  29.356  1.00 36.12      1HNF 9
+ATOM   1481  CB  VAL A  93      20.516  13.698  27.609  1.00 39.68      1HNF 9
+ATOM   1482  CG1 VAL A  93      19.233  14.460  27.862  1.00 50.75      1HNF 9
+ATOM   1483  CG2 VAL A  93      20.476  12.996  26.265  1.00 47.18      1HNF 9
+ATOM   1484  H   VAL A  93      22.851  12.983  27.257  1.00 35.70      1HNF H   new
+ATOM   1485  HA  VAL A  93      21.538  15.497  26.970  1.00 35.05      1HNF H   new
+ATOM   1486  HB  VAL A  93      20.629  12.935  28.393  1.00 39.68      1HNF H   new
+ATOM   1487 1HG1 VAL A  93      18.381  13.765  27.830  1.00 50.75      1HNF H   new
+ATOM   1488 2HG1 VAL A  93      19.279  14.938  28.852  1.00 50.75      1HNF H   new
+ATOM   1489 3HG1 VAL A  93      19.105  15.231  27.088  1.00 50.75      1HNF H   new
+ATOM   1490 1HG2 VAL A  93      19.622  12.303  26.238  1.00 47.18      1HNF H   new
+ATOM   1491 2HG2 VAL A  93      20.367  13.742  25.464  1.00 47.18      1HNF H   new
+ATOM   1492 3HG2 VAL A  93      21.410  12.433  26.117  1.00 47.18      1HNF H   new
+ATOM   1493  N   LEU A  94      22.526  14.552  29.916  1.00 31.70      1HNF 9
+ATOM   1494  CA  LEU A  94      22.680  14.998  31.289  1.00 28.78      1HNF 9
+ATOM   1495  C   LEU A  94      23.921  14.429  31.924  1.00 29.62      1HNF 9
+ATOM   1496  O   LEU A  94      24.386  13.337  31.579  1.00 34.33      1HNF 9
+ATOM   1497  CB  LEU A  94      21.430  14.591  32.113  1.00 38.00      1HNF 9
+ATOM   1498  CG  LEU A  94      21.340  14.527  33.652  1.00 31.73      1HNF 9
+ATOM   1499  CD1 LEU A  94      19.884  14.680  34.080  1.00 29.96      1HNF 9
+ATOM   1500  CD2 LEU A  94      21.949  13.229  34.181  1.00 26.66      1HNF 9
+ATOM   1501  H   LEU A  94      23.024  13.715  29.691  1.00 31.70      1HNF H   new
+ATOM   1502  HA  LEU A  94      22.781  16.093  31.281  1.00 28.78      1HNF H   new
+ATOM   1503 1HB  LEU A  94      20.630  15.276  31.797  1.00 38.00      1HNF H   new
+ATOM   1504 2HB  LEU A  94      21.153  13.588  31.757  1.00 38.00      1HNF H   new
+ATOM   1505  HG  LEU A  94      21.922  15.354  34.085  1.00 31.73      1HNF H   new
+ATOM   1506 1HD1 LEU A  94      19.817  14.635  35.177  1.00 29.96      1HNF H   new
+ATOM   1507 2HD1 LEU A  94      19.498  15.648  33.729  1.00 29.96      1HNF H   new
+ATOM   1508 3HD1 LEU A  94      19.285  13.867  33.643  1.00 29.96      1HNF H   new
+ATOM   1509 1HD2 LEU A  94      21.873  13.208  35.278  1.00 26.66      1HNF H   new
+ATOM   1510 2HD2 LEU A  94      21.406  12.370  33.760  1.00 26.66      1HNF H   new
+ATOM   1511 3HD2 LEU A  94      23.007  13.173  33.887  1.00 26.66      1HNF H   new
+ATOM   1512  N   GLU A  95      24.423  15.175  32.895  1.00 31.57      1HNF 9
+ATOM   1513  CA  GLU A  95      25.587  14.786  33.655  1.00 29.70      1HNF 9
+ATOM   1514  C   GLU A  95      25.429  15.380  35.040  1.00 29.93      1HNF 9
+ATOM   1515  O   GLU A  95      25.362  16.606  35.193  1.00 27.40      1HNF 9
+ATOM   1516  CB  GLU A  95      26.842  15.316  32.997  1.00 31.60      1HNF 9
+ATOM   1517  CG  GLU A  95      28.085  14.747  33.588  1.00 36.40      1HNF 9
+ATOM   1518  CD  GLU A  95      29.261  14.904  32.665  1.00 45.58      1HNF 9
+ATOM   1519  OE1 GLU A  95      29.459  14.017  31.801  1.00 46.95      1HNF 9
+ATOM   1520  OE2 GLU A  95      29.982  15.917  32.812  1.00 51.38      1HNF 9
+ATOM   1521  H   GLU A  95      24.035  16.055  33.170  1.00 31.57      1HNF H   new
+ATOM   1522  HA  GLU A  95      25.675  13.691  33.706  1.00 29.70      1HNF H   new
+ATOM   1523 1HB  GLU A  95      26.813  15.085  31.922  1.00 31.60      1HNF H   new
+ATOM   1524 2HB  GLU A  95      26.865  16.412  33.090  1.00 31.60      1HNF H   new
+ATOM   1525 1HG  GLU A  95      28.299  15.247  34.544  1.00 36.40      1HNF H   new
+ATOM   1526 2HG  GLU A  95      27.932  13.681  33.810  1.00 36.40      1HNF H   new
+ATOM   1527  N   LYS A  96      25.232  14.508  36.022  1.00 28.17      1HNF 9
+ATOM   1528  CA  LYS A  96      25.086  14.951  37.396  1.00 30.46      1HNF 9
+ATOM   1529  C   LYS A  96      26.198  14.284  38.176  1.00 27.38      1HNF 9
+ATOM   1530  O   LYS A  96      26.682  13.218  37.798  1.00 26.23      1HNF 9
+ATOM   1531  CB  LYS A  96      23.692  14.622  37.969  1.00 36.16      1HNF 9
+ATOM   1532  CG  LYS A  96      22.574  15.646  37.632  1.00 36.76      1HNF 9
+ATOM   1533  CD  LYS A  96      22.230  16.526  38.834  1.00 40.17      1HNF 9
+ATOM   1534  CE  LYS A  96      20.939  17.309  38.633  1.00 42.59      1HNF 9
+ATOM   1535  NZ  LYS A  96      20.407  17.855  39.944  1.00 54.51      1HNF 9
+ATOM   1536  H   LYS A  96      25.172  13.518  35.893  1.00 28.17      1HNF H   new
+ATOM   1537  HA  LYS A  96      25.164  16.046  37.465  1.00 30.46      1HNF H   new
+ATOM   1538 1HB  LYS A  96      23.385  13.634  37.596  1.00 36.16      1HNF H   new
+ATOM   1539 2HB  LYS A  96      23.774  14.541  39.063  1.00 36.16      1HNF H   new
+ATOM   1540 1HG  LYS A  96      22.898  16.280  36.794  1.00 36.76      1HNF H   new
+ATOM   1541 2HG  LYS A  96      21.673  15.110  37.300  1.00 36.76      1HNF H   new
+ATOM   1542 1HD  LYS A  96      22.137  15.896  39.731  1.00 40.17      1HNF H   new
+ATOM   1543 2HD  LYS A  96      23.056  17.228  39.018  1.00 40.17      1HNF H   new
+ATOM   1544 1HE  LYS A  96      21.118  18.140  37.934  1.00 42.59      1HNF H   new
+ATOM   1545 2HE  LYS A  96      20.182  16.658  38.172  1.00 42.59      1HNF H   new
+ATOM   1546 1HZ  LYS A  96      19.562  18.362  39.776  1.00 54.51      1HNF H + new
+ATOM   1547 2HZ  LYS A  96      20.222  17.098  40.570  1.00 54.51      1HNF H + new
+ATOM   1548 3HZ  LYS A  96      21.086  18.466  40.351  1.00 54.51      1HNF H + new
+ATOM   1549  N   ILE A  97      26.662  14.967  39.215  1.00 27.18      1HNF 9
+ATOM   1550  CA  ILE A  97      27.751  14.464  40.032  1.00 28.26      1HNF 9
+ATOM   1551  C   ILE A  97      27.405  14.580  41.502  1.00 25.44      1HNF 9
+ATOM   1552  O   ILE A  97      26.951  15.623  41.951  1.00 24.30      1HNF 9
+ATOM   1553  CB  ILE A  97      29.042  15.233  39.727  1.00 33.98      1HNF 9
+ATOM   1554  CG1 ILE A  97      29.414  15.029  38.258  1.00 33.86      1HNF 9
+ATOM   1555  CG2 ILE A  97      30.162  14.766  40.635  1.00 30.97      1HNF 9
+ATOM   1556  CD1 ILE A  97      30.445  15.985  37.752  1.00 33.67      1HNF 9
+ATOM   1557  H   ILE A  97      26.305  15.855  39.504  1.00 27.18      1HNF H   new
+ATOM   1558  HA  ILE A  97      27.908  13.402  39.792  1.00 28.26      1HNF H   new
+ATOM   1559  HB  ILE A  97      28.882  16.306  39.912  1.00 33.98      1HNF H   new
+ATOM   1560 1HG1 ILE A  97      29.785  14.002  38.124  1.00 33.86      1HNF H   new
+ATOM   1561 2HG1 ILE A  97      28.506  15.126  37.644  1.00 33.86      1HNF H   new
+ATOM   1562 1HG2 ILE A  97      31.080  15.326  40.404  1.00 30.97      1HNF H   new
+ATOM   1563 2HG2 ILE A  97      29.881  14.940  41.684  1.00 30.97      1HNF H   new
+ATOM   1564 3HG2 ILE A  97      30.339  13.692  40.477  1.00 30.97      1HNF H   new
+ATOM   1565 1HD1 ILE A  97      30.655  15.772  36.693  1.00 33.67      1HNF H   new
+ATOM   1566 2HD1 ILE A  97      30.071  17.015  37.851  1.00 33.67      1HNF H   new
+ATOM   1567 3HD1 ILE A  97      31.369  15.873  38.338  1.00 33.67      1HNF H   new
+ATOM   1568  N   PHE A  98      27.688  13.516  42.247  1.00 22.72      1HNF 9
+ATOM   1569  CA  PHE A  98      27.363  13.437  43.658  1.00 21.40      1HNF 9
+ATOM   1570  C   PHE A  98      28.584  13.258  44.499  1.00 22.59      1HNF 9
+ATOM   1571  O   PHE A  98      29.446  12.487  44.142  1.00 28.79      1HNF 9
+ATOM   1572  CB  PHE A  98      26.447  12.249  43.863  1.00 24.47      1HNF 9
+ATOM   1573  CG  PHE A  98      25.175  12.337  43.083  1.00 27.54      1HNF 9
+ATOM   1574  CD1 PHE A  98      25.131  11.939  41.755  1.00 32.09      1HNF 9
+ATOM   1575  CD2 PHE A  98      24.022  12.833  43.673  1.00 28.79      1HNF 9
+ATOM   1576  CE1 PHE A  98      23.947  12.035  41.011  1.00 35.48      1HNF 9
+ATOM   1577  CE2 PHE A  98      22.833  12.938  42.955  1.00 30.46      1HNF 9
+ATOM   1578  CZ  PHE A  98      22.791  12.538  41.614  1.00 37.33      1HNF 9
+ATOM   1579  H   PHE A  98      28.142  12.700  41.890  1.00 22.72      1HNF H   new
+ATOM   1580  HA  PHE A  98      26.880  14.377  43.962  1.00 21.40      1HNF H   new
+ATOM   1581 1HB  PHE A  98      26.981  11.331  43.577  1.00 24.47      1HNF H   new
+ATOM   1582 2HB  PHE A  98      26.207  12.161  44.933  1.00 24.47      1HNF H   new
+ATOM   1583  HD1 PHE A  98      26.039  11.542  41.278  1.00 32.09      1HNF H   new
+ATOM   1584  HD2 PHE A  98      24.047  13.149  44.726  1.00 28.79      1HNF H   new
+ATOM   1585  HE1 PHE A  98      23.928  11.716  39.958  1.00 35.48      1HNF H   new
+ATOM   1586  HE2 PHE A  98      21.929  13.334  43.441  1.00 30.46      1HNF H   new
+ATOM   1587  HZ  PHE A  98      21.856  12.619  41.040  1.00 37.33      1HNF H   new
+ATOM   1588  N   ASP A  99      28.652  13.946  45.633  1.00 23.49      1HNF 9
+ATOM   1589  CA  ASP A  99      29.808  13.854  46.542  1.00 20.10      1HNF 9
+ATOM   1590  C   ASP A  99      29.357  13.146  47.825  1.00 25.23      1HNF 9
+ATOM   1591  O   ASP A  99      29.026  13.784  48.826  1.00 30.35      1HNF 9
+ATOM   1592  CB  ASP A  99      30.312  15.268  46.850  1.00 21.43      1HNF 9
+ATOM   1593  CG  ASP A  99      31.435  15.311  47.893  1.00 26.96      1HNF 9
+ATOM   1594  OD1 ASP A  99      32.020  14.262  48.257  1.00 29.61      1HNF 9
+ATOM   1595  OD2 ASP A  99      31.747  16.443  48.345  1.00 38.87      1HNF 9
+ATOM   1596  H   ASP A  99      27.934  14.567  45.947  1.00 23.49      1HNF H   new
+ATOM   1597  HA  ASP A  99      30.627  13.282  46.082  1.00 20.10      1HNF H   new
+ATOM   1598 1HB  ASP A  99      30.671  15.730  45.919  1.00 21.43      1HNF H   new
+ATOM   1599 2HB  ASP A  99      29.469  15.878  47.207  1.00 21.43      1HNF H   new
+ATOM   1600  N   LEU A 100      29.387  11.822  47.803  1.00 21.93      1HNF 9
+ATOM   1601  CA  LEU A 100      28.953  11.020  48.936  1.00 19.57      1HNF 9
+ATOM   1602  C   LEU A 100      29.905  10.884  50.106  1.00 23.00      1HNF 9
+ATOM   1603  O   LEU A 100      31.031  10.438  49.943  1.00 35.69      1HNF 9
+ATOM   1604  CB  LEU A 100      28.549   9.642  48.452  1.00 12.35      1HNF 9
+ATOM   1605  CG  LEU A 100      28.128   8.638  49.513  1.00 16.42      1HNF 9
+ATOM   1606  CD1 LEU A 100      26.771   8.978  50.107  1.00 13.93      1HNF 9
+ATOM   1607  CD2 LEU A 100      28.034   7.318  48.828  1.00 16.36      1HNF 9
+ATOM   1608  H   LEU A 100      29.704  11.287  47.020  1.00 21.93      1HNF H   new
+ATOM   1609  HA  LEU A 100      28.110  11.591  49.352  1.00 19.57      1HNF H   new
+ATOM   1610 1HB  LEU A 100      27.717   9.759  47.741  1.00 12.35      1HNF H   new
+ATOM   1611 2HB  LEU A 100      29.393   9.214  47.892  1.00 12.35      1HNF H   new
+ATOM   1612  HG  LEU A 100      28.857   8.640  50.337  1.00 16.42      1HNF H   new
+ATOM   1613 1HD1 LEU A 100      26.505   8.229  50.868  1.00 13.93      1HNF H   new
+ATOM   1614 2HD1 LEU A 100      26.813   9.974  50.572  1.00 13.93      1HNF H   new
+ATOM   1615 3HD1 LEU A 100      26.011   8.977  49.311  1.00 13.93      1HNF H   new
+ATOM   1616 1HD2 LEU A 100      27.731   6.549  49.553  1.00 16.36      1HNF H   new
+ATOM   1617 2HD2 LEU A 100      27.288   7.375  48.021  1.00 16.36      1HNF H   new
+ATOM   1618 3HD2 LEU A 100      29.014   7.054  48.403  1.00 16.36      1HNF H   new
+ATOM   1619  N   LYS A 101      29.462  11.334  51.276  1.00 25.00      1HNF 9
+ATOM   1620  CA  LYS A 101      30.241  11.229  52.503  1.00 22.21      1HNF 9
+ATOM   1621  C   LYS A 101      29.402  10.321  53.383  1.00 19.21      1HNF 9
+ATOM   1622  O   LYS A 101      28.192  10.262  53.201  1.00 21.81      1HNF 9
+ATOM   1623  CB  LYS A 101      30.367  12.596  53.162  1.00 26.90      1HNF 9
+ATOM   1624  CG  LYS A 101      30.645  13.715  52.195  1.00 27.33      1HNF 9
+ATOM   1625  CD  LYS A 101      31.195  14.924  52.900  1.00 30.56      1HNF 9
+ATOM   1626  CE  LYS A 101      31.758  15.923  51.902  1.00 32.50      1HNF 9
+ATOM   1627  NZ  LYS A 101      32.922  15.346  51.162  1.00 43.23      1HNF 9
+ATOM   1628  H   LYS A 101      28.571  11.772  51.397  1.00 25.00      1HNF H   new
+ATOM   1629  HA  LYS A 101      31.260  10.852  52.330  1.00 22.21      1HNF H   new
+ATOM   1630 1HB  LYS A 101      29.437  12.817  53.706  1.00 26.90      1HNF H   new
+ATOM   1631 2HB  LYS A 101      31.175  12.560  53.908  1.00 26.90      1HNF H   new
+ATOM   1632 1HG  LYS A 101      31.362  13.375  51.433  1.00 27.33      1HNF H   new
+ATOM   1633 2HG  LYS A 101      29.718  13.985  51.667  1.00 27.33      1HNF H   new
+ATOM   1634 1HD  LYS A 101      30.401  15.400  53.494  1.00 30.56      1HNF H   new
+ATOM   1635 2HD  LYS A 101      31.983  14.617  53.603  1.00 30.56      1HNF H   new
+ATOM   1636 1HE  LYS A 101      30.974  16.215  51.188  1.00 32.50      1HNF H   new
+ATOM   1637 2HE  LYS A 101      32.070  16.837  52.429  1.00 32.50      1HNF H   new
+ATOM   1638 1HZ  LYS A 101      33.273  16.021  50.513  1.00 43.23      1HNF H + new
+ATOM   1639 2HZ  LYS A 101      33.642  15.102  51.811  1.00 43.23      1HNF H + new
+ATOM   1640 3HZ  LYS A 101      32.630  14.528  50.666  1.00 43.23      1HNF H + new
+ATOM   1641  N   ILE A 102      30.018   9.530  54.250  1.00 17.75      1HNF 9
+ATOM   1642  CA  ILE A 102      29.200   8.674  55.129  1.00 23.44      1HNF 9
+ATOM   1643  C   ILE A 102      29.526   8.823  56.618  1.00 20.69      1HNF 9
+ATOM   1644  O   ILE A 102      30.626   9.219  57.000  1.00 22.44      1HNF 9
+ATOM   1645  CB  ILE A 102      29.235   7.138  54.779  1.00 26.13      1HNF 9
+ATOM   1646  CG1 ILE A 102      30.292   6.438  55.609  1.00 24.87      1HNF 9
+ATOM   1647  CG2 ILE A 102      29.487   6.877  53.291  1.00 23.53      1HNF 9
+ATOM   1648  CD1 ILE A 102      30.323   4.975  55.385  1.00 29.13      1HNF 9
+ATOM   1649  H   ILE A 102      31.008   9.456  54.368  1.00 17.75      1HNF H   new
+ATOM   1650  HA  ILE A 102      28.187   9.055  54.931  1.00 23.44      1HNF H   new
+ATOM   1651  HB  ILE A 102      28.241   6.733  55.018  1.00 26.13      1HNF H   new
+ATOM   1652 1HG1 ILE A 102      31.279   6.862  55.370  1.00 24.87      1HNF H   new
+ATOM   1653 2HG1 ILE A 102      30.106   6.637  56.675  1.00 24.87      1HNF H   new
+ATOM   1654 1HG2 ILE A 102      29.501   5.793  53.106  1.00 23.53      1HNF H   new
+ATOM   1655 2HG2 ILE A 102      28.686   7.340  52.696  1.00 23.53      1HNF H   new
+ATOM   1656 3HG2 ILE A 102      30.455   7.311  53.001  1.00 23.53      1HNF H   new
+ATOM   1657 1HD1 ILE A 102      31.106   4.524  56.012  1.00 29.13      1HNF H   new
+ATOM   1658 2HD1 ILE A 102      29.347   4.542  55.651  1.00 29.13      1HNF H   new
+ATOM   1659 3HD1 ILE A 102      30.538   4.770  54.326  1.00 29.13      1HNF H   new
+ATOM   1660  N   GLN A 103      28.546   8.517  57.452  1.00 23.29      1HNF10
+ATOM   1661  CA  GLN A 103      28.712   8.602  58.894  1.00 23.70      1HNF10
+ATOM   1662  C   GLN A 103      28.087   7.401  59.507  1.00 23.37      1HNF10
+ATOM   1663  O   GLN A 103      27.196   6.773  58.920  1.00 23.80      1HNF10
+ATOM   1664  CB  GLN A 103      27.987   9.801  59.475  1.00 22.43      1HNF10
+ATOM   1665  CG  GLN A 103      28.716  11.102  59.353  1.00 24.98      1HNF10
+ATOM   1666  CD  GLN A 103      27.904  12.237  59.914  1.00 25.38      1HNF10
+ATOM   1667  OE1 GLN A 103      26.698  12.109  60.101  1.00 23.65      1HNF10
+ATOM   1668  NE2 GLN A 103      28.558  13.356  60.193  1.00 22.77      1HNF10
+ATOM   1669  H   GLN A 103      27.640   8.212  57.159  1.00 23.29      1HNF H   new
+ATOM   1670  HA  GLN A 103      29.789   8.683  59.103  1.00 23.70      1HNF H   new
+ATOM   1671 1HB  GLN A 103      27.011   9.897  58.977  1.00 22.43      1HNF H   new
+ATOM   1672 2HB  GLN A 103      27.787   9.609  60.539  1.00 22.43      1HNF H   new
+ATOM   1673 1HG  GLN A 103      29.677  11.038  59.884  1.00 24.98      1HNF H   new
+ATOM   1674 2HG  GLN A 103      28.945  11.299  58.295  1.00 24.98      1HNF H   new
+ATOM   1675 1HE2 GLN A 103      28.067  14.141  60.572  1.00 22.77      1HNF H   new
+ATOM   1676 2HE2 GLN A 103      29.542  13.415  60.024  1.00 22.77      1HNF H   new
+ATOM   1677  N   GLU A 104      28.564   7.088  60.704  1.00 27.02      1HNF10
+ATOM   1678  CA  GLU A 104      28.027   5.978  61.472  1.00 21.25      1HNF10
+ATOM   1679  C   GLU A 104      26.782   6.516  62.163  1.00 19.05      1HNF10
+ATOM   1680  O   GLU A 104      26.782   7.673  62.634  1.00 14.24      1HNF10
+ATOM   1681  CB  GLU A 104      29.026   5.553  62.534  1.00 17.17      1HNF10
+ATOM   1682  CG  GLU A 104      28.658   4.246  63.143  1.00 16.59      1HNF10
+ATOM   1683  CD  GLU A 104      29.677   3.768  64.125  1.00 21.97      1HNF10
+ATOM   1684  OE1 GLU A 104      30.352   4.637  64.725  1.00 16.08      1HNF10
+ATOM   1685  OE2 GLU A 104      29.795   2.523  64.291  1.00 21.81      1HNF10
+ATOM   1686  H   GLU A 104      29.309   7.580  61.154  1.00 27.02      1HNF H   new
+ATOM   1687  HA  GLU A 104      27.811   5.113  60.827  1.00 21.25      1HNF H   new
+ATOM   1688 1HB  GLU A 104      30.029   5.481  62.087  1.00 17.17      1HNF H   new
+ATOM   1689 2HB  GLU A 104      29.078   6.322  63.319  1.00 17.17      1HNF H   new
+ATOM   1690 1HG  GLU A 104      27.684   4.340  63.646  1.00 16.59      1HNF H   new
+ATOM   1691 2HG  GLU A 104      28.538   3.495  62.348  1.00 16.59      1HNF H   new
+ATOM   1692  N   ARG A 105      25.697   5.743  62.110  1.00 22.23      1HNF10
+ATOM   1693  CA  ARG A 105      24.470   6.135  62.807  1.00 22.89      1HNF10
+ATOM   1694  C   ARG A 105      24.906   6.174  64.265  1.00 27.71      1HNF10
+ATOM   1695  O   ARG A 105      25.795   5.437  64.704  1.00 25.20      1HNF10
+ATOM   1696  CB  ARG A 105      23.370   5.072  62.718  1.00 19.71      1HNF10
+ATOM   1697  CG  ARG A 105      22.457   5.146  61.545  1.00 22.98      1HNF10
+ATOM   1698  CD  ARG A 105      21.193   4.371  61.825  1.00 27.10      1HNF10
+ATOM   1699  NE  ARG A 105      21.414   2.933  61.881  1.00 32.70      1HNF10
+ATOM   1700  CZ  ARG A 105      21.505   2.223  63.003  1.00 42.22      1HNF10
+ATOM   1701  NH1 ARG A 105      21.406   2.823  64.190  1.00 46.84      1HNF10
+ATOM   1702  NH2 ARG A 105      21.666   0.901  62.944  1.00 45.05      1HNF10
+ATOM   1703  H   ARG A 105      25.642   4.877  61.613  1.00 22.23      1HNF H   new
+ATOM   1704  HA  ARG A 105      24.065   7.067  62.385  1.00 22.89      1HNF H   new
+ATOM   1705 1HB  ARG A 105      23.850   4.082  62.717  1.00 19.71      1HNF H   new
+ATOM   1706 2HB  ARG A 105      22.760   5.133  63.631  1.00 19.71      1HNF H   new
+ATOM   1707 1HG  ARG A 105      22.213   6.196  61.325  1.00 22.98      1HNF H   new
+ATOM   1708 2HG  ARG A 105      22.957   4.739  60.654  1.00 22.98      1HNF H   new
+ATOM   1709 1HD  ARG A 105      20.765   4.709  62.780  1.00 27.10      1HNF H   new
+ATOM   1710 2HD  ARG A 105      20.451   4.593  61.044  1.00 27.10      1HNF H   new
+ATOM   1711  HE  ARG A 105      21.504   2.443  61.014  1.00 32.70      1HNF H + new
+ATOM   1712 1HH1 ARG A 105      21.263   3.811  64.240  1.00 46.84      1HNF H + new
+ATOM   1713 2HH1 ARG A 105      21.475   2.284  65.030  1.00 46.84      1HNF H + new
+ATOM   1714 1HH2 ARG A 105      21.718   0.443  62.057  1.00 45.05      1HNF H + new
+ATOM   1715 2HH2 ARG A 105      21.734   0.368  63.787  1.00 45.05      1HNF H + new
+ATOM   1716  N   VAL A 106      24.247   7.031  65.014  1.00 30.38      1HNF10
+ATOM   1717  CA  VAL A 106      24.509   7.206  66.420  1.00 18.31      1HNF10
+ATOM   1718  C   VAL A 106      23.757   6.102  67.207  1.00 17.03      1HNF10
+ATOM   1719  O   VAL A 106      22.790   5.519  66.727  1.00 18.63      1HNF10
+ATOM   1720  CB  VAL A 106      24.029   8.602  66.753  1.00 12.51      1HNF10
+ATOM   1721  CG1 VAL A 106      23.047   8.589  67.858  1.00 21.88      1HNF10
+ATOM   1722  CG2 VAL A 106      25.175   9.484  67.003  1.00  6.50      1HNF10
+ATOM   1723  H   VAL A 106      23.520   7.620  64.663  1.00 30.38      1HNF H   new
+ATOM   1724  HA  VAL A 106      25.572   7.110  66.688  1.00 18.31      1HNF H   new
+ATOM   1725  HB  VAL A 106      23.490   9.012  65.886  1.00 12.51      1HNF H   new
+ATOM   1726 1HG1 VAL A 106      22.721   9.618  68.072  1.00 21.88      1HNF H   new
+ATOM   1727 2HG1 VAL A 106      22.177   7.982  67.569  1.00 21.88      1HNF H   new
+ATOM   1728 3HG1 VAL A 106      23.511   8.158  68.757  1.00 21.88      1HNF H   new
+ATOM   1729 1HG2 VAL A 106      24.815  10.495  67.244  1.00  6.50      1HNF H   new
+ATOM   1730 2HG2 VAL A 106      25.762   9.093  67.848  1.00  6.50      1HNF H   new
+ATOM   1731 3HG2 VAL A 106      25.809   9.526  66.105  1.00  6.50      1HNF H   new
+ATOM   1732  N   SER A 107      24.246   5.759  68.385  1.00 22.14      1HNF10
+ATOM   1733  CA  SER A 107      23.575   4.748  69.201  1.00 25.20      1HNF10
+ATOM   1734  C   SER A 107      22.777   5.460  70.308  1.00 25.38      1HNF10
+ATOM   1735  O   SER A 107      22.955   6.665  70.502  1.00 25.77      1HNF10
+ATOM   1736  CB  SER A 107      24.617   3.845  69.835  1.00 20.60      1HNF10
+ATOM   1737  OG  SER A 107      25.517   4.639  70.569  1.00 23.16      1HNF10
+ATOM   1738  H   SER A 107      25.074   6.147  68.790  1.00 22.14      1HNF H   new
+ATOM   1739  HA  SER A 107      22.899   4.145  68.577  1.00 25.20      1HNF H   new
+ATOM   1740 1HB  SER A 107      25.153   3.279  69.059  1.00 20.60      1HNF H   new
+ATOM   1741 2HB  SER A 107      24.133   3.109  70.494  1.00 20.60      1HNF H   new
+ATOM   1742  HG  SER A 107      26.209   4.055  70.992  1.00 23.16      1HNF H   new
+ATOM   1743  N   LYS A 108      21.870   4.748  70.988  1.00 24.50      1HNF10
+ATOM   1744  CA  LYS A 108      21.094   5.357  72.079  1.00 22.09      1HNF10
+ATOM   1745  C   LYS A 108      22.101   5.759  73.131  1.00 16.54      1HNF10
+ATOM   1746  O   LYS A 108      22.927   4.958  73.523  1.00 16.39      1HNF10
+ATOM   1747  CB  LYS A 108      20.117   4.374  72.693  1.00 25.67      1HNF10
+ATOM   1748  CG  LYS A 108      18.741   4.484  72.120  1.00 38.56      1HNF10
+ATOM   1749  CD  LYS A 108      17.716   3.669  72.911  1.00 43.99      1HNF10
+ATOM   1750  CE  LYS A 108      16.360   3.628  72.180  1.00 48.25      1HNF10
+ATOM   1751  NZ  LYS A 108      16.414   2.986  70.806  1.00 43.93      1HNF10
+ATOM   1752  H   LYS A 108      21.661   3.786  70.812  1.00 24.50      1HNF H   new
+ATOM   1753  HA  LYS A 108      20.508   6.206  71.696  1.00 22.09      1HNF H   new
+ATOM   1754 1HB  LYS A 108      20.491   3.351  72.541  1.00 25.67      1HNF H   new
+ATOM   1755 2HB  LYS A 108      20.070   4.542  73.779  1.00 25.67      1HNF H   new
+ATOM   1756 1HG  LYS A 108      18.435   5.540  72.107  1.00 38.56      1HNF H   new
+ATOM   1757 2HG  LYS A 108      18.753   4.140  71.075  1.00 38.56      1HNF H   new
+ATOM   1758 1HD  LYS A 108      18.090   2.645  73.056  1.00 43.99      1HNF H   new
+ATOM   1759 2HD  LYS A 108      17.585   4.109  73.911  1.00 43.99      1HNF H   new
+ATOM   1760 1HE  LYS A 108      15.638   3.078  72.801  1.00 48.25      1HNF H   new
+ATOM   1761 2HE  LYS A 108      15.980   4.655  72.078  1.00 48.25      1HNF H   new
+ATOM   1762 1HZ  LYS A 108      15.502   2.996  70.397  1.00 43.93      1HNF H + new
+ATOM   1763 2HZ  LYS A 108      17.046   3.497  70.223  1.00 43.93      1HNF H + new
+ATOM   1764 3HZ  LYS A 108      16.730   2.041  70.891  1.00 43.93      1HNF H + new
+ATOM   1765  N   PRO A 109      22.067   7.015  73.588  1.00 10.67      1HNF10
+ATOM   1766  CA  PRO A 109      23.029   7.452  74.598  1.00  9.22      1HNF10
+ATOM   1767  C   PRO A 109      22.870   6.662  75.879  1.00 12.79      1HNF10
+ATOM   1768  O   PRO A 109      21.813   6.115  76.109  1.00 21.22      1HNF10
+ATOM   1769  CB  PRO A 109      22.664   8.916  74.787  1.00 10.80      1HNF10
+ATOM   1770  CG  PRO A 109      22.067   9.290  73.478  1.00  2.74      1HNF10
+ATOM   1771  CD  PRO A 109      21.211   8.134  73.173  1.00  9.68      1HNF10
+ATOM   1772  HA  PRO A 109      24.079   7.304  74.305  1.00  9.22      1HNF H   new
+ATOM   1773 1HB  PRO A 109      21.951   9.053  75.613  1.00 10.80      1HNF H   new
+ATOM   1774 2HB  PRO A 109      23.548   9.528  75.020  1.00 10.80      1HNF H   new
+ATOM   1775 1HG  PRO A 109      21.487  10.222  73.545  1.00  2.74      1HNF H   new
+ATOM   1776 2HG  PRO A 109      22.836   9.444  72.707  1.00  2.74      1HNF H   new
+ATOM   1777 1HD  PRO A 109      20.265   8.161  73.733  1.00  9.68      1HNF H   new
+ATOM   1778 2HD  PRO A 109      20.951   8.082  72.105  1.00  9.68      1HNF H   new
+ATOM   1779  N   LYS A 110      23.927   6.582  76.690  1.00 15.49      1HNF10
+ATOM   1780  CA  LYS A 110      23.914   5.849  77.951  1.00 14.58      1HNF10
+ATOM   1781  C   LYS A 110      24.135   6.827  79.069  1.00 19.98      1HNF10
+ATOM   1782  O   LYS A 110      25.106   7.573  79.071  1.00 29.12      1HNF10
+ATOM   1783  CB  LYS A 110      25.026   4.814  78.014  1.00 10.70      1HNF10
+ATOM   1784  CG  LYS A 110      25.079   4.073  79.343  1.00 17.35      1HNF10
+ATOM   1785  CD  LYS A 110      26.427   3.386  79.573  1.00 20.32      1HNF10
+ATOM   1786  CE  LYS A 110      26.457   2.543  80.853  1.00 31.90      1HNF10
+ATOM   1787  NZ  LYS A 110      27.832   2.023  81.187  1.00 39.18      1HNF10
+ATOM   1788  H   LYS A 110      24.804   7.020  76.490  1.00 15.49      1HNF H   new
+ATOM   1789  HA  LYS A 110      22.946   5.333  78.037  1.00 14.58      1HNF H   new
+ATOM   1790 1HB  LYS A 110      24.888   4.086  77.201  1.00 10.70      1HNF H   new
+ATOM   1791 2HB  LYS A 110      25.992   5.311  77.840  1.00 10.70      1HNF H   new
+ATOM   1792 1HG  LYS A 110      24.887   4.781  80.163  1.00 17.35      1HNF H   new
+ATOM   1793 2HG  LYS A 110      24.277   3.321  79.373  1.00 17.35      1HNF H   new
+ATOM   1794 1HD  LYS A 110      26.656   2.742  78.711  1.00 20.32      1HNF H   new
+ATOM   1795 2HD  LYS A 110      27.218   4.149  79.624  1.00 20.32      1HNF H   new
+ATOM   1796 1HE  LYS A 110      26.087   3.149  81.693  1.00 31.90      1HNF H   new
+ATOM   1797 2HE  LYS A 110      25.767   1.693  80.741  1.00 31.90      1HNF H   new
+ATOM   1798 1HZ  LYS A 110      27.790   1.483  82.028  1.00 39.18      1HNF H + new
+ATOM   1799 2HZ  LYS A 110      28.162   1.448  80.438  1.00 39.18      1HNF H + new
+ATOM   1800 3HZ  LYS A 110      28.457   2.792  81.317  1.00 39.18      1HNF H + new
+ATOM   1801  N   ILE A 111      23.243   6.799  80.046  1.00 24.51      1HNF10
+ATOM   1802  CA  ILE A 111      23.342   7.696  81.191  1.00 15.71      1HNF10
+ATOM   1803  C   ILE A 111      23.727   6.860  82.391  1.00 13.63      1HNF10
+ATOM   1804  O   ILE A 111      23.179   5.776  82.608  1.00 18.22      1HNF10
+ATOM   1805  CB  ILE A 111      22.005   8.400  81.437  1.00 18.53      1HNF10
+ATOM   1806  CG1 ILE A 111      21.495   9.011  80.134  1.00 14.55      1HNF10
+ATOM   1807  CG2 ILE A 111      22.188   9.507  82.423  1.00 20.68      1HNF10
+ATOM   1808  CD1 ILE A 111      20.075   9.492  80.144  1.00 16.25      1HNF10
+ATOM   1809  H   ILE A 111      22.459   6.179  80.071  1.00 24.51      1HNF H   new
+ATOM   1810  HA  ILE A 111      24.097   8.474  81.005  1.00 15.71      1HNF H   new
+ATOM   1811  HB  ILE A 111      21.287   7.661  81.821  1.00 18.53      1HNF H   new
+ATOM   1812 1HG1 ILE A 111      22.146   9.858  79.870  1.00 14.55      1HNF H   new
+ATOM   1813 2HG1 ILE A 111      21.602   8.262  79.335  1.00 14.55      1HNF H   new
+ATOM   1814 1HG2 ILE A 111      21.224  10.008  82.595  1.00 20.68      1HNF H   new
+ATOM   1815 2HG2 ILE A 111      22.561   9.095  83.372  1.00 20.68      1HNF H   new
+ATOM   1816 3HG2 ILE A 111      22.914  10.234  82.029  1.00 20.68      1HNF H   new
+ATOM   1817 1HD1 ILE A 111      19.822   9.909  79.158  1.00 16.25      1HNF H   new
+ATOM   1818 2HD1 ILE A 111      19.404   8.650  80.369  1.00 16.25      1HNF H   new
+ATOM   1819 3HD1 ILE A 111      19.956  10.270  80.912  1.00 16.25      1HNF H   new
+ATOM   1820  N   SER A 112      24.715   7.339  83.129  1.00 13.41      1HNF10
+ATOM   1821  CA  SER A 112      25.216   6.643  84.297  1.00 16.05      1HNF10
+ATOM   1822  C   SER A 112      25.267   7.662  85.401  1.00 15.60      1HNF10
+ATOM   1823  O   SER A 112      25.323   8.851  85.118  1.00 16.35      1HNF10
+ATOM   1824  CB  SER A 112      26.634   6.143  84.016  1.00 20.41      1HNF10
+ATOM   1825  OG  SER A 112      26.679   5.398  82.816  1.00 22.45      1HNF10
+ATOM   1826  H   SER A 112      25.181   8.203  82.937  1.00 13.41      1HNF H   new
+ATOM   1827  HA  SER A 112      24.581   5.785  84.561  1.00 16.05      1HNF H   new
+ATOM   1828 1HB  SER A 112      26.980   5.519  84.853  1.00 20.41      1HNF H   new
+ATOM   1829 2HB  SER A 112      27.322   6.999  83.947  1.00 20.41      1HNF H   new
+ATOM   1830  HG  SER A 112      27.614   5.083  82.654  1.00 22.45      1HNF H   new
+ATOM   1831  N   TRP A 113      25.242   7.212  86.659  1.00 24.12      1HNF10
+ATOM   1832  CA  TRP A 113      25.281   8.138  87.808  1.00 24.91      1HNF10
+ATOM   1833  C   TRP A 113      25.480   7.472  89.171  1.00 28.01      1HNF10
+ATOM   1834  O   TRP A 113      25.265   6.260  89.302  1.00 32.95      1HNF10
+ATOM   1835  CB  TRP A 113      23.979   8.941  87.837  1.00 26.66      1HNF10
+ATOM   1836  CG  TRP A 113      22.779   8.128  87.428  1.00 25.99      1HNF10
+ATOM   1837  CD1 TRP A 113      22.454   7.689  86.163  1.00 35.62      1HNF10
+ATOM   1838  CD2 TRP A 113      21.821   7.563  88.287  1.00 23.36      1HNF10
+ATOM   1839  NE1 TRP A 113      21.354   6.861  86.193  1.00 30.07      1HNF10
+ATOM   1840  CE2 TRP A 113      20.948   6.766  87.491  1.00 31.56      1HNF10
+ATOM   1841  CE3 TRP A 113      21.612   7.639  89.651  1.00 18.70      1HNF10
+ATOM   1842  CZ2 TRP A 113      19.898   6.061  88.027  1.00 32.53      1HNF10
+ATOM   1843  CZ3 TRP A 113      20.564   6.939  90.190  1.00 38.05      1HNF10
+ATOM   1844  CH2 TRP A 113      19.715   6.154  89.379  1.00 43.23      1HNF10
+ATOM   1845  H   TRP A 113      25.196   6.244  86.907  1.00 24.12      1HNF H   new
+ATOM   1846  HA  TRP A 113      26.165   8.774  87.653  1.00 24.91      1HNF H   new
+ATOM   1847 1HB  TRP A 113      23.820   9.335  88.852  1.00 26.66      1HNF H   new
+ATOM   1848 2HB  TRP A 113      24.074   9.808  87.166  1.00 26.66      1HNF H   new
+ATOM   1849  HD1 TRP A 113      23.001   7.964  85.249  1.00 35.62      1HNF H   new
+ATOM   1850  HE1 TRP A 113      20.930   6.412  85.406  1.00 30.07      1HNF H   new
+ATOM   1851  HE3 TRP A 113      22.271   8.247  90.289  1.00 18.70      1HNF H   new
+ATOM   1852  HZ2 TRP A 113      19.235   5.450  87.398  1.00 32.53      1HNF H   new
+ATOM   1853  HZ3 TRP A 113      20.381   6.990  91.273  1.00 38.05      1HNF H   new
+ATOM   1854  HH2 TRP A 113      18.885   5.603  89.847  1.00 43.23      1HNF H   new
+ATOM   1855  N   THR A 114      26.040   8.220  90.130  1.00 24.84      1HNF10
+ATOM   1856  CA  THR A 114      26.171   7.732  91.514  1.00 16.63      1HNF10
+ATOM   1857  C   THR A 114      25.405   8.776  92.275  1.00 18.15      1HNF10
+ATOM   1858  O   THR A 114      25.392   9.942  91.891  1.00 17.45      1HNF10
+ATOM   1859  CB  THR A 114      27.543   7.858  92.147  1.00 12.21      1HNF10
+ATOM   1860  OG1 THR A 114      28.319   8.779  91.403  1.00 17.11      1HNF11
+ATOM   1861  CG2 THR A 114      28.209   6.562  92.246  1.00 13.21      1HNF11
+ATOM   1862  H   THR A 114      26.401   9.141  89.981  1.00 24.84      1HNF H   new
+ATOM   1863  HA  THR A 114      25.879   6.672  91.529  1.00 16.63      1HNF H   new
+ATOM   1864  HB  THR A 114      27.426   8.233  93.174  1.00 12.21      1HNF H   new
+ATOM   1865  HG1 THR A 114      29.225   8.864  91.818  1.00 17.11      1HNF H   new
+ATOM   1866 1HG2 THR A 114      29.199   6.692  92.709  1.00 13.21      1HNF H   new
+ATOM   1867 2HG2 THR A 114      27.602   5.884  92.864  1.00 13.21      1HNF H   new
+ATOM   1868 3HG2 THR A 114      28.329   6.133  91.240  1.00 13.21      1HNF H   new
+ATOM   1869  N   CYS A 115      24.759   8.363  93.353  1.00 22.84      1HNF11
+ATOM   1870  CA  CYS A 115      24.041   9.306  94.185  1.00 13.89      1HNF11
+ATOM   1871  C   CYS A 115      25.070   9.690  95.255  1.00 10.57      1HNF11
+ATOM   1872  O   CYS A 115      25.180  10.857  95.645  1.00 16.46      1HNF11
+ATOM   1873  CB  CYS A 115      22.784   8.650  94.759  1.00 10.12      1HNF11
+ATOM   1874  SG  CYS A 115      21.416   8.472  93.564  1.00  9.43      1HNF11
+ATOM   1875  H   CYS A 115      24.719   7.412  93.661  1.00 22.84      1HNF H   new
+ATOM   1876  HA  CYS A 115      23.672  10.194  93.651  1.00 13.89      1HNF H   new
+ATOM   1877 1HB  CYS A 115      23.048   7.655  95.146  1.00 10.12      1HNF H   new
+ATOM   1878 2HB  CYS A 115      22.432   9.245  95.615  1.00 10.12      1HNF H   new
+ATOM   1879  N   ILE A 116      25.908   8.725  95.629  1.00  6.13      1HNF11
+ATOM   1880  CA  ILE A 116      26.946   8.958  96.638  1.00  7.09      1HNF11
+ATOM   1881  C   ILE A 116      27.851  10.090  96.240  1.00 11.02      1HNF11
+ATOM   1882  O   ILE A 116      28.191  10.944  97.065  1.00 23.02      1HNF11
+ATOM   1883  CB  ILE A 116      27.759   7.726  96.857  1.00  7.34      1HNF11
+ATOM   1884  CG1 ILE A 116      26.796   6.560  97.019  1.00  9.67      1HNF11
+ATOM   1885  CG2 ILE A 116      28.588   7.878  98.086  1.00 12.32      1HNF11
+ATOM   1886  CD1 ILE A 116      27.409   5.233  97.328  1.00 10.58      1HNF11
+ATOM   1887  H   ILE A 116      25.891   7.796  95.259  1.00  6.13      1HNF H   new
+ATOM   1888  HA  ILE A 116      26.436   9.227  97.575  1.00  7.09      1HNF H   new
+ATOM   1889  HB  ILE A 116      28.434   7.551  96.006  1.00  7.34      1HNF H   new
+ATOM   1890 1HG1 ILE A 116      26.086   6.808  97.822  1.00  9.67      1HNF H   new
+ATOM   1891 2HG1 ILE A 116      26.212   6.463  96.092  1.00  9.67      1HNF H   new
+ATOM   1892 1HG2 ILE A 116      29.184   6.967  98.242  1.00 12.32      1HNF H   new
+ATOM   1893 2HG2 ILE A 116      29.261   8.741  97.971  1.00 12.32      1HNF H   new
+ATOM   1894 3HG2 ILE A 116      27.932   8.039  98.954  1.00 12.32      1HNF H   new
+ATOM   1895 1HD1 ILE A 116      26.617   4.475  97.421  1.00 10.58      1HNF H   new
+ATOM   1896 2HD1 ILE A 116      28.095   4.948  96.517  1.00 10.58      1HNF H   new
+ATOM   1897 3HD1 ILE A 116      27.967   5.298  98.274  1.00 10.58      1HNF H   new
+ATOM   1898  N   ASN A 117      28.326  10.040  95.001  1.00 23.36      1HNF11
+ATOM   1899  CA  ASN A 117      29.141  11.121  94.456  1.00 26.66      1HNF11
+ATOM   1900  C   ASN A 117      28.095  11.714  93.606  1.00 28.62      1HNF11
+ATOM   1901  O   ASN A 117      27.346  11.017  92.941  1.00 36.82      1HNF11
+ATOM   1902  CB  ASN A 117      30.273  10.585  93.672  1.00 34.05      1HNF11
+ATOM   1903  CG  ASN A 117      31.182   9.830  94.532  1.00 49.92      1HNF11
+ATOM   1904  OD1 ASN A 117      31.311   8.615  94.422  1.00 51.46      1HNF11
+ATOM   1905  ND2 ASN A 117      31.730  10.542  95.503  1.00 68.19      1HNF11
+ATOM   1906  H   ASN A 117      28.165   9.282  94.369  1.00 23.36      1HNF H   new
+ATOM   1907  HA  ASN A 117      29.629  11.801  95.169  1.00 26.66      1HNF H   new
+ATOM   1908 1HB  ASN A 117      29.895   9.936  92.868  1.00 34.05      1HNF H   new
+ATOM   1909 2HB  ASN A 117      30.816  11.411  93.190  1.00 34.05      1HNF H   new
+ATOM   1910 1HD2 ASN A 117      32.286  10.091  96.201  1.00 68.19      1HNF H   new
+ATOM   1911 2HD2 ASN A 117      31.588  11.531  95.539  1.00 68.19      1HNF H   new
+ATOM   1912  N   THR A 118      27.882  12.981  93.810  1.00 23.51      1HNF11
+ATOM   1913  CA  THR A 118      26.823  13.607  93.106  1.00 22.60      1HNF11
+ATOM   1914  C   THR A 118      27.343  13.869  91.722  1.00 26.29      1HNF11
+ATOM   1915  O   THR A 118      27.887  14.938  91.435  1.00 31.60      1HNF11
+ATOM   1916  CB  THR A 118      26.424  14.804  93.900  1.00 20.46      1HNF11
+ATOM   1917  OG1 THR A 118      27.596  15.352  94.521  1.00 12.51      1HNF11
+ATOM   1918  CG2 THR A 118      25.524  14.354  94.989  1.00 15.85      1HNF11
+ATOM   1919  H   THR A 118      28.404  13.568  94.429  1.00 23.51      1HNF H   new
+ATOM   1920  HA  THR A 118      25.906  13.012  92.987  1.00 22.60      1HNF H   new
+ATOM   1921  HB  THR A 118      25.936  15.545  93.251  1.00 20.46      1HNF H   new
+ATOM   1922  HG1 THR A 118      27.344  16.157  95.058  1.00 12.51      1HNF H   new
+ATOM   1923 1HG2 THR A 118      25.214  15.221  95.591  1.00 15.85      1HNF H   new
+ATOM   1924 2HG2 THR A 118      24.635  13.873  94.555  1.00 15.85      1HNF H   new
+ATOM   1925 3HG2 THR A 118      26.054  13.634  95.629  1.00 15.85      1HNF H   new
+ATOM   1926  N   THR A 119      27.224  12.832  90.894  1.00 17.77      1HNF11
+ATOM   1927  CA  THR A 119      27.715  12.859  89.527  1.00 16.28      1HNF11
+ATOM   1928  C   THR A 119      26.862  12.053  88.560  1.00 16.88      1HNF11
+ATOM   1929  O   THR A 119      26.489  10.912  88.841  1.00 18.63      1HNF11
+ATOM   1930  CB  THR A 119      29.161  12.270  89.423  1.00 16.52      1HNF11
+ATOM   1931  OG1 THR A 119      30.104  13.044  90.187  1.00 16.24      1HNF11
+ATOM   1932  CG2 THR A 119      29.607  12.266  88.004  1.00 15.55      1HNF11
+ATOM   1933  H   THR A 119      26.792  11.968  91.152  1.00 17.77      1HNF H   new
+ATOM   1934  HA  THR A 119      27.686  13.924  89.252  1.00 16.28      1HNF H   new
+ATOM   1935  HB  THR A 119      29.126  11.246  89.824  1.00 16.52      1HNF H   new
+ATOM   1936  HG1 THR A 119      31.015  12.642  90.099  1.00 16.24      1HNF H   new
+ATOM   1937 1HG2 THR A 119      30.624  11.851  87.940  1.00 15.55      1HNF H   new
+ATOM   1938 2HG2 THR A 119      28.921  11.649  87.405  1.00 15.55      1HNF H   new
+ATOM   1939 3HG2 THR A 119      29.607  13.295  87.616  1.00 15.55      1HNF H   new
+ATOM   1940  N   LEU A 120      26.690  12.613  87.361  1.00 22.22      1HNF11
+ATOM   1941  CA  LEU A 120      25.917  12.014  86.256  1.00 19.89      1HNF11
+ATOM   1942  C   LEU A 120      26.696  12.185  84.936  1.00 15.42      1HNF11
+ATOM   1943  O   LEU A 120      27.219  13.258  84.621  1.00 18.87      1HNF11
+ATOM   1944  CB  LEU A 120      24.546  12.692  86.165  1.00 14.91      1HNF11
+ATOM   1945  CG  LEU A 120      23.459  12.351  85.125  1.00 18.69      1HNF11
+ATOM   1946  CD1 LEU A 120      23.833  12.723  83.715  1.00 12.22      1HNF11
+ATOM   1947  CD2 LEU A 120      23.115  10.902  85.212  1.00 22.40      1HNF11
+ATOM   1948  H   LEU A 120      27.084  13.501  87.124  1.00 22.22      1HNF H   new
+ATOM   1949  HA  LEU A 120      25.767  10.940  86.442  1.00 19.89      1HNF H   new
+ATOM   1950 1HB  LEU A 120      24.075  12.556  87.150  1.00 14.91      1HNF H   new
+ATOM   1951 2HB  LEU A 120      24.747  13.767  86.050  1.00 14.91      1HNF H   new
+ATOM   1952  HG  LEU A 120      22.580  12.963  85.373  1.00 18.69      1HNF H   new
+ATOM   1953 1HD1 LEU A 120      23.013  12.451  83.034  1.00 12.22      1HNF H   new
+ATOM   1954 2HD1 LEU A 120      24.013  13.807  83.657  1.00 12.22      1HNF H   new
+ATOM   1955 3HD1 LEU A 120      24.746  12.184  83.423  1.00 12.22      1HNF H   new
+ATOM   1956 1HD2 LEU A 120      22.340  10.663  84.469  1.00 22.40      1HNF H   new
+ATOM   1957 2HD2 LEU A 120      24.013  10.299  85.011  1.00 22.40      1HNF H   new
+ATOM   1958 3HD2 LEU A 120      22.738  10.674  86.220  1.00 22.40      1HNF H   new
+ATOM   1959  N   THR A 121      26.665  11.146  84.124  1.00 17.61      1HNF11
+ATOM   1960  CA  THR A 121      27.404  11.080  82.859  1.00 15.93      1HNF11
+ATOM   1961  C   THR A 121      26.536  10.623  81.693  1.00 18.14      1HNF11
+ATOM   1962  O   THR A 121      25.699   9.737  81.853  1.00 22.11      1HNF11
+ATOM   1963  CB  THR A 121      28.549  10.032  83.035  1.00 15.40      1HNF11
+ATOM   1964  OG1 THR A 121      29.785  10.694  83.322  1.00 19.07      1HNF11
+ATOM   1965  CG2 THR A 121      28.660   9.047  81.879  1.00 13.55      1HNF11
+ATOM   1966  H   THR A 121      26.131  10.323  84.316  1.00 17.61      1HNF H   new
+ATOM   1967  HA  THR A 121      27.775  12.090  82.630  1.00 15.93      1HNF H   new
+ATOM   1968  HB  THR A 121      28.287   9.405  83.900  1.00 15.40      1HNF H   new
+ATOM   1969  HG1 THR A 121      30.510  10.014  83.433  1.00 19.07      1HNF H   new
+ATOM   1970 1HG2 THR A 121      29.484   8.344  82.073  1.00 13.55      1HNF H   new
+ATOM   1971 2HG2 THR A 121      27.717   8.488  81.781  1.00 13.55      1HNF H   new
+ATOM   1972 3HG2 THR A 121      28.859   9.596  80.947  1.00 13.55      1HNF H   new
+ATOM   1973  N   CYS A 122      26.696  11.250  80.534  1.00 20.42      1HNF11
+ATOM   1974  CA  CYS A 122      25.975  10.803  79.331  1.00 20.52      1HNF11
+ATOM   1975  C   CYS A 122      27.032  10.587  78.271  1.00 20.87      1HNF11
+ATOM   1976  O   CYS A 122      27.856  11.466  78.034  1.00 28.62      1HNF11
+ATOM   1977  CB  CYS A 122      24.988  11.819  78.793  1.00 14.46      1HNF11
+ATOM   1978  SG  CYS A 122      24.273  11.175  77.243  1.00 16.85      1HNF11
+ATOM   1979  H   CYS A 122      27.293  12.040  80.397  1.00 20.42      1HNF H   new
+ATOM   1980  HA  CYS A 122      25.395   9.905  79.589  1.00 20.52      1HNF H   new
+ATOM   1981 1HB  CYS A 122      24.194  12.007  79.530  1.00 14.46      1HNF H   new
+ATOM   1982 2HB  CYS A 122      25.491  12.780  78.611  1.00 14.46      1HNF H   new
+ATOM   1983  N   GLU A 123      26.957   9.466  77.578  1.00 21.17      1HNF11
+ATOM   1984  CA  GLU A 123      27.958   9.116  76.581  1.00 22.31      1HNF11
+ATOM   1985  C   GLU A 123      27.305   8.347  75.432  1.00 26.63      1HNF11
+ATOM   1986  O   GLU A 123      26.277   7.717  75.626  1.00 30.14      1HNF11
+ATOM   1987  CB  GLU A 123      29.000   8.232  77.281  1.00 20.95      1HNF11
+ATOM   1988  CG  GLU A 123      30.055   7.628  76.389  1.00 31.85      1HNF11
+ATOM   1989  CD  GLU A 123      30.968   6.674  77.125  1.00 34.56      1HNF11
+ATOM   1990  OE1 GLU A 123      30.784   6.469  78.348  1.00 45.71      1HNF11
+ATOM   1991  OE2 GLU A 123      31.860   6.107  76.475  1.00 33.34      1HNF11
+ATOM   1992  H   GLU A 123      26.226   8.792  77.684  1.00 21.17      1HNF H   new
+ATOM   1993  HA  GLU A 123      28.427  10.018  76.162  1.00 22.31      1HNF H   new
+ATOM   1994 1HB  GLU A 123      29.501   8.832  78.055  1.00 20.95      1HNF H   new
+ATOM   1995 2HB  GLU A 123      28.473   7.416  77.798  1.00 20.95      1HNF H   new
+ATOM   1996 1HG  GLU A 123      29.566   7.095  75.560  1.00 31.85      1HNF H   new
+ATOM   1997 2HG  GLU A 123      30.657   8.434  75.943  1.00 31.85      1HNF H   new
+ATOM   1998  N   VAL A 124      27.852   8.437  74.223  1.00 31.39      1HNF11
+ATOM   1999  CA  VAL A 124      27.302   7.672  73.099  1.00 23.08      1HNF11
+ATOM   2000  C   VAL A 124      28.486   6.912  72.551  1.00 25.98      1HNF11
+ATOM   2001  O   VAL A 124      29.565   7.466  72.337  1.00 29.60      1HNF11
+ATOM   2002  CB  VAL A 124      26.594   8.563  72.054  1.00 20.61      1HNF11
+ATOM   2003  CG1 VAL A 124      27.555   9.386  71.295  1.00 23.76      1HNF11
+ATOM   2004  CG2 VAL A 124      25.734   7.741  71.146  1.00 20.77      1HNF11
+ATOM   2005  H   VAL A 124      28.643   9.007  73.999  1.00 31.39      1HNF H   new
+ATOM   2006  HA  VAL A 124      26.498   6.990  73.412  1.00 23.08      1HNF H   new
+ATOM   2007  HB  VAL A 124      25.939   9.259  72.599  1.00 20.61      1HNF H   new
+ATOM   2008 1HG1 VAL A 124      27.013  10.004  70.564  1.00 23.76      1HNF H   new
+ATOM   2009 2HG1 VAL A 124      28.107  10.038  71.988  1.00 23.76      1HNF H   new
+ATOM   2010 3HG1 VAL A 124      28.263   8.730  70.767  1.00 23.76      1HNF H   new
+ATOM   2011 1HG2 VAL A 124      25.242   8.397  70.413  1.00 20.77      1HNF H   new
+ATOM   2012 2HG2 VAL A 124      26.357   7.004  70.618  1.00 20.77      1HNF H   new
+ATOM   2013 3HG2 VAL A 124      24.970   7.217  71.739  1.00 20.77      1HNF H   new
+ATOM   2014  N   MET A 125      28.315   5.607  72.461  1.00 28.65      1HNF11
+ATOM   2015  CA  MET A 125      29.371   4.718  72.011  1.00 34.70      1HNF11
+ATOM   2016  C   MET A 125      29.606   4.701  70.495  1.00 32.58      1HNF11
+ATOM   2017  O   MET A 125      30.753   4.636  70.024  1.00 36.53      1HNF11
+ATOM   2018  CB  MET A 125      29.052   3.330  72.526  1.00 34.48      1HNF11
+ATOM   2019  CG  MET A 125      30.141   2.344  72.379  1.00 39.92      1HNF11
+ATOM   2020  SD  MET A 125      29.352   0.744  72.435  1.00 46.52      1HNF11
+ATOM   2021  CE  MET A 125      30.118   0.143  73.952  1.00 51.36      1HNF11
+ATOM   2022  H   MET A 125      27.460   5.143  72.692  1.00 28.65      1HNF H   new
+ATOM   2023  HA  MET A 125      30.319   5.099  72.419  1.00 34.70      1HNF H   new
+ATOM   2024 1HB  MET A 125      28.785   3.403  73.591  1.00 34.48      1HNF H   new
+ATOM   2025 2HB  MET A 125      28.164   2.954  71.997  1.00 34.48      1HNF H   new
+ATOM   2026 1HG  MET A 125      30.678   2.487  71.430  1.00 39.92      1HNF H   new
+ATOM   2027 2HG  MET A 125      30.881   2.449  73.186  1.00 39.92      1HNF H   new
+ATOM   2028 1HE  MET A 125      29.750  -0.870  74.173  1.00 51.36      1HNF H   new
+ATOM   2029 2HE  MET A 125      31.210   0.116  73.826  1.00 51.36      1HNF H   new
+ATOM   2030 3HE  MET A 125      29.862   0.815  74.784  1.00 51.36      1HNF H   new
+ATOM   2031  N   ASN A 126      28.520   4.726  69.742  1.00 27.86      1HNF11
+ATOM   2032  CA  ASN A 126      28.625   4.728  68.301  1.00 33.21      1HNF11
+ATOM   2033  C   ASN A 126      28.152   6.030  67.717  1.00 32.57      1HNF11
+ATOM   2034  O   ASN A 126      27.240   6.637  68.250  1.00 31.76      1HNF11
+ATOM   2035  CB  ASN A 126      27.778   3.634  67.698  1.00 35.96      1HNF11
+ATOM   2036  CG  ASN A 126      28.343   2.259  67.921  1.00 43.71      1HNF11
+ATOM   2037  OD1 ASN A 126      29.541   2.046  68.151  1.00 42.41      1HNF11
+ATOM   2038  ND2 ASN A 126      27.423   1.316  67.839  1.00 55.02      1HNF11
+ATOM   2039  H   ASN A 126      27.585   4.745  70.096  1.00 27.86      1HNF H   new
+ATOM   2040  HA  ASN A 126      29.688   4.571  68.066  1.00 33.21      1HNF H   new
+ATOM   2041 1HB  ASN A 126      26.767   3.682  68.128  1.00 35.96      1HNF H   new
+ATOM   2042 2HB  ASN A 126      27.676   3.811  66.617  1.00 35.96      1HNF H   new
+ATOM   2043 1HD2 ASN A 126      27.677   0.357  67.966  1.00 55.02      1HNF H   new
+ATOM   2044 2HD2 ASN A 126      26.472   1.560  67.650  1.00 55.02      1HNF H   new
+ATOM   2045  N   GLY A 127      28.718   6.390  66.566  1.00 28.02      1HNF11
+ATOM   2046  CA  GLY A 127      28.345   7.602  65.882  1.00 25.62      1HNF11
+ATOM   2047  C   GLY A 127      29.539   8.445  65.502  1.00 28.69      1HNF11
+ATOM   2048  O   GLY A 127      30.464   8.593  66.302  1.00 36.97      1HNF11
+ATOM   2049  H   GLY A 127      29.427   5.858  66.103  1.00 28.02      1HNF H   new
+ATOM   2050 1HA  GLY A 127      27.777   7.347  64.975  1.00 25.62      1HNF H   new
+ATOM   2051 2HA  GLY A 127      27.675   8.191  66.526  1.00 25.62      1HNF H   new
+ATOM   2052  N   THR A 128      29.505   9.004  64.289  1.00 24.74      1HNF11
+ATOM   2053  CA  THR A 128      30.577   9.847  63.776  1.00 16.58      1HNF11
+ATOM   2054  C   THR A 128      30.269  11.273  64.147  1.00 19.51      1HNF11
+ATOM   2055  O   THR A 128      29.138  11.710  63.948  1.00 19.64      1HNF11
+ATOM   2056  CB  THR A 128      30.618   9.796  62.235  1.00 19.86      1HNF11
+ATOM   2057  OG1 THR A 128      30.928   8.473  61.811  1.00 20.38      1HNF12
+ATOM   2058  CG2 THR A 128      31.634  10.758  61.674  1.00 14.73      1HNF12
+ATOM   2059  H   THR A 128      28.745   8.884  63.650  1.00 24.74      1HNF H   new
+ATOM   2060  HA  THR A 128      31.532   9.496  64.195  1.00 16.58      1HNF H   new
+ATOM   2061  HB  THR A 128      29.628  10.092  61.858  1.00 19.86      1HNF H   new
+ATOM   2062  HG1 THR A 128      30.954   8.440  60.812  1.00 20.38      1HNF H   new
+ATOM   2063 1HG2 THR A 128      31.634  10.693  60.576  1.00 14.73      1HNF H   new
+ATOM   2064 2HG2 THR A 128      31.377  11.783  61.980  1.00 14.73      1HNF H   new
+ATOM   2065 3HG2 THR A 128      32.633  10.501  62.056  1.00 14.73      1HNF H   new
+ATOM   2066  N   ASP A 129      31.273  11.995  64.653  1.00 20.55      1HNF12
+ATOM   2067  CA  ASP A 129      31.147  13.408  65.037  1.00 25.77      1HNF12
+ATOM   2068  C   ASP A 129      29.787  13.768  65.618  1.00 26.66      1HNF12
+ATOM   2069  O   ASP A 129      29.123  14.716  65.182  1.00 24.93      1HNF12
+ATOM   2070  CB  ASP A 129      31.450  14.311  63.841  1.00 37.47      1HNF12
+ATOM   2071  CG  ASP A 129      32.860  14.129  63.318  1.00 48.49      1HNF12
+ATOM   2072  OD1 ASP A 129      33.825  14.058  64.128  1.00 51.72      1HNF12
+ATOM   2073  OD2 ASP A 129      32.997  14.050  62.081  1.00 56.62      1HNF12
+ATOM   2074  H   ASP A 129      32.188  11.621  64.807  1.00 20.55      1HNF H   new
+ATOM   2075  HA  ASP A 129      31.884  13.570  65.837  1.00 25.77      1HNF H   new
+ATOM   2076 1HB  ASP A 129      30.733  14.098  63.034  1.00 37.47      1HNF H   new
+ATOM   2077 2HB  ASP A 129      31.304  15.361  64.133  1.00 37.47      1HNF H   new
+ATOM   2078  N   PRO A 130      29.413  13.092  66.708  1.00 25.31      1HNF12
+ATOM   2079  CA  PRO A 130      28.126  13.361  67.313  1.00 17.65      1HNF12
+ATOM   2080  C   PRO A 130      28.087  14.624  68.108  1.00 20.36      1HNF12
+ATOM   2081  O   PRO A 130      29.116  15.221  68.407  1.00 25.56      1HNF12
+ATOM   2082  CB  PRO A 130      27.969  12.173  68.224  1.00 18.87      1HNF12
+ATOM   2083  CG  PRO A 130      29.339  12.005  68.737  1.00 21.81      1HNF12
+ATOM   2084  CD  PRO A 130      30.165  12.112  67.509  1.00 23.36      1HNF12
+ATOM   2085  HA  PRO A 130      27.334  13.496  66.562  1.00 17.65      1HNF H   new
+ATOM   2086 1HB  PRO A 130      27.247  12.364  69.031  1.00 18.87      1HNF H   new
+ATOM   2087 2HB  PRO A 130      27.618  11.282  67.683  1.00 18.87      1HNF H   new
+ATOM   2088 1HG  PRO A 130      29.598  12.781  69.472  1.00 21.81      1HNF H   new
+ATOM   2089 2HG  PRO A 130      29.472  11.033  69.235  1.00 21.81      1HNF H   new
+ATOM   2090 1HD  PRO A 130      31.185  12.459  67.730  1.00 23.36      1HNF H   new
+ATOM   2091 2HD  PRO A 130      30.259  11.145  66.992  1.00 23.36      1HNF H   new
+ATOM   2092  N   GLU A 131      26.866  15.039  68.400  1.00 17.38      1HNF12
+ATOM   2093  CA  GLU A 131      26.597  16.185  69.242  1.00 18.75      1HNF12
+ATOM   2094  C   GLU A 131      25.674  15.705  70.387  1.00 19.83      1HNF12
+ATOM   2095  O   GLU A 131      24.662  15.051  70.141  1.00 18.35      1HNF12
+ATOM   2096  CB  GLU A 131      25.875  17.249  68.460  1.00 20.41      1HNF12
+ATOM   2097  CG  GLU A 131      25.447  18.346  69.357  1.00 38.65      1HNF12
+ATOM   2098  CD  GLU A 131      25.169  19.605  68.618  1.00 48.45      1HNF12
+ATOM   2099  OE1 GLU A 131      26.140  20.187  68.073  1.00 54.64      1HNF12
+ATOM   2100  OE2 GLU A 131      23.984  20.015  68.587  1.00 54.17      1HNF12
+ATOM   2101  H   GLU A 131      26.040  14.590  68.059  1.00 17.38      1HNF H   new
+ATOM   2102  HA  GLU A 131      27.540  16.603  69.624  1.00 18.75      1HNF H   new
+ATOM   2103 1HB  GLU A 131      26.533  17.645  67.673  1.00 20.41      1HNF H   new
+ATOM   2104 2HB  GLU A 131      24.999  16.814  67.958  1.00 20.41      1HNF H   new
+ATOM   2105 1HG  GLU A 131      24.544  18.038  69.904  1.00 38.65      1HNF H   new
+ATOM   2106 2HG  GLU A 131      26.230  18.530  70.107  1.00 38.65      1HNF H   new
+ATOM   2107  N   LEU A 132      26.034  16.002  71.631  1.00 22.14      1HNF12
+ATOM   2108  CA  LEU A 132      25.212  15.617  72.785  1.00 24.63      1HNF12
+ATOM   2109  C   LEU A 132      24.585  16.797  73.574  1.00 23.48      1HNF12
+ATOM   2110  O   LEU A 132      25.196  17.847  73.765  1.00 22.89      1HNF12
+ATOM   2111  CB  LEU A 132      26.007  14.706  73.734  1.00 22.74      1HNF12
+ATOM   2112  CG  LEU A 132      26.547  13.384  73.169  1.00 25.79      1HNF12
+ATOM   2113  CD1 LEU A 132      27.954  13.556  72.649  1.00 26.19      1HNF12
+ATOM   2114  CD2 LEU A 132      26.542  12.345  74.245  1.00 20.42      1HNF12
+ATOM   2115  H   LEU A 132      26.870  16.497  71.867  1.00 22.14      1HNF H   new
+ATOM   2116  HA  LEU A 132      24.359  15.072  72.354  1.00 24.63      1HNF H   new
+ATOM   2117 1HB  LEU A 132      26.860  15.282  74.121  1.00 22.74      1HNF H   new
+ATOM   2118 2HB  LEU A 132      25.363  14.469  74.594  1.00 22.74      1HNF H   new
+ATOM   2119  HG  LEU A 132      25.900  13.070  72.336  1.00 25.79      1HNF H   new
+ATOM   2120 1HD1 LEU A 132      28.318  12.597  72.250  1.00 26.19      1HNF H   new
+ATOM   2121 2HD1 LEU A 132      27.960  14.311  71.849  1.00 26.19      1HNF H   new
+ATOM   2122 3HD1 LEU A 132      28.611  13.885  73.468  1.00 26.19      1HNF H   new
+ATOM   2123 1HD2 LEU A 132      26.929  11.397  73.842  1.00 20.42      1HNF H   new
+ATOM   2124 2HD2 LEU A 132      27.180  12.676  75.078  1.00 20.42      1HNF H   new
+ATOM   2125 3HD2 LEU A 132      25.514  12.197  74.607  1.00 20.42      1HNF H   new
+ATOM   2126  N   ASN A 133      23.327  16.642  73.971  1.00 26.95      1HNF12
+ATOM   2127  CA  ASN A 133      22.643  17.666  74.764  1.00 29.02      1HNF12
+ATOM   2128  C   ASN A 133      22.049  17.020  76.049  1.00 27.16      1HNF12
+ATOM   2129  O   ASN A 133      21.500  15.922  76.002  1.00 27.86      1HNF12
+ATOM   2130  CB  ASN A 133      21.552  18.353  73.926  1.00 29.48      1HNF12
+ATOM   2131  CG  ASN A 133      22.116  19.365  72.931  1.00 29.64      1HNF12
+ATOM   2132  OD1 ASN A 133      22.152  20.572  73.184  1.00 21.63      1HNF12
+ATOM   2133  ND2 ASN A 133      22.528  18.871  71.785  1.00 27.13      1HNF12
+ATOM   2134  H   ASN A 133      22.770  15.838  73.764  1.00 26.95      1HNF H   new
+ATOM   2135  HA  ASN A 133      23.366  18.439  75.066  1.00 29.02      1HNF H   new
+ATOM   2136 1HB  ASN A 133      20.981  17.588  73.379  1.00 29.48      1HNF H   new
+ATOM   2137 2HB  ASN A 133      20.846  18.862  74.599  1.00 29.48      1HNF H   new
+ATOM   2138 1HD2 ASN A 133      22.888  19.480  71.078  1.00 27.13      1HNF H   new
+ATOM   2139 2HD2 ASN A 133      22.482  17.886  71.620  1.00 27.13      1HNF H   new
+ATOM   2140  N   LEU A 134      22.215  17.660  77.201  1.00 19.45      1HNF12
+ATOM   2141  CA  LEU A 134      21.677  17.102  78.444  1.00 19.01      1HNF12
+ATOM   2142  C   LEU A 134      20.580  18.008  78.971  1.00 20.50      1HNF12
+ATOM   2143  O   LEU A 134      20.789  19.211  79.089  1.00 19.47      1HNF12
+ATOM   2144  CB  LEU A 134      22.772  17.022  79.493  1.00 18.32      1HNF12
+ATOM   2145  CG  LEU A 134      22.439  16.366  80.825  1.00 13.72      1HNF12
+ATOM   2146  CD1 LEU A 134      22.324  14.898  80.557  1.00 13.70      1HNF12
+ATOM   2147  CD2 LEU A 134      23.535  16.612  81.867  1.00 13.20      1HNF12
+ATOM   2148  H   LEU A 134      22.697  18.530  77.302  1.00 19.45      1HNF H   new
+ATOM   2149  HA  LEU A 134      21.280  16.097  78.238  1.00 19.01      1HNF H   new
+ATOM   2150 1HB  LEU A 134      23.621  16.479  79.053  1.00 18.32      1HNF H   new
+ATOM   2151 2HB  LEU A 134      23.117  18.046  79.699  1.00 18.32      1HNF H   new
+ATOM   2152  HG  LEU A 134      21.508  16.789  81.231  1.00 13.72      1HNF H   new
+ATOM   2153 1HD1 LEU A 134      22.083  14.372  81.492  1.00 13.70      1HNF H   new
+ATOM   2154 2HD1 LEU A 134      21.526  14.721  79.821  1.00 13.70      1HNF H   new
+ATOM   2155 3HD1 LEU A 134      23.278  14.521  80.161  1.00 13.70      1HNF H   new
+ATOM   2156 1HD2 LEU A 134      23.258  16.124  82.813  1.00 13.20      1HNF H   new
+ATOM   2157 2HD2 LEU A 134      24.486  16.196  81.504  1.00 13.20      1HNF H   new
+ATOM   2158 3HD2 LEU A 134      23.648  17.694  82.033  1.00 13.20      1HNF H   new
+ATOM   2159  N   TYR A 135      19.417  17.433  79.275  1.00 18.61      1HNF12
+ATOM   2160  CA  TYR A 135      18.283  18.190  79.805  1.00 21.12      1HNF12
+ATOM   2161  C   TYR A 135      17.823  17.638  81.164  1.00 21.22      1HNF12
+ATOM   2162  O   TYR A 135      17.957  16.452  81.448  1.00 22.68      1HNF12
+ATOM   2163  CB  TYR A 135      17.104  18.154  78.829  1.00 22.91      1HNF12
+ATOM   2164  CG  TYR A 135      17.365  18.696  77.429  1.00 21.22      1HNF12
+ATOM   2165  CD1 TYR A 135      17.370  20.065  77.163  1.00 28.61      1HNF12
+ATOM   2166  CD2 TYR A 135      17.570  17.841  76.372  1.00 19.95      1HNF12
+ATOM   2167  CE1 TYR A 135      17.572  20.558  75.870  1.00 24.65      1HNF12
+ATOM   2168  CE2 TYR A 135      17.768  18.321  75.086  1.00 25.15      1HNF12
+ATOM   2169  CZ  TYR A 135      17.769  19.673  74.836  1.00 25.37      1HNF12
+ATOM   2170  OH  TYR A 135      17.968  20.106  73.538  1.00 36.27      1HNF12
+ATOM   2171  H   TYR A 135      19.238  16.455  79.164  1.00 18.61      1HNF H   new
+ATOM   2172  HA  TYR A 135      18.622  19.228  79.938  1.00 21.12      1HNF H   new
+ATOM   2173 1HB  TYR A 135      16.764  17.112  78.737  1.00 22.91      1HNF H   new
+ATOM   2174 2HB  TYR A 135      16.274  18.725  79.270  1.00 22.91      1HNF H   new
+ATOM   2175  HD1 TYR A 135      17.211  20.773  77.989  1.00 28.61      1HNF H   new
+ATOM   2176  HD2 TYR A 135      17.577  16.755  76.550  1.00 19.95      1HNF H   new
+ATOM   2177  HE1 TYR A 135      17.573  21.642  75.682  1.00 24.65      1HNF H   new
+ATOM   2178  HE2 TYR A 135      17.926  17.614  74.258  1.00 25.15      1HNF H   new
+ATOM   2179  HH  TYR A 135      18.091  19.316  72.938  1.00 36.27      1HNF H   new
+ATOM   2180  N   GLN A 136      17.310  18.496  82.026  1.00 20.11      1HNF12
+ATOM   2181  CA  GLN A 136      16.818  18.017  83.321  1.00 27.53      1HNF12
+ATOM   2182  C   GLN A 136      15.354  18.425  83.454  1.00 30.11      1HNF12
+ATOM   2183  O   GLN A 136      15.045  19.610  83.514  1.00 35.95      1HNF12
+ATOM   2184  CB  GLN A 136      17.637  18.623  84.449  1.00 28.24      1HNF12
+ATOM   2185  CG  GLN A 136      17.251  18.189  85.851  1.00 26.84      1HNF12
+ATOM   2186  CD  GLN A 136      18.202  18.772  86.872  1.00 29.16      1HNF12
+ATOM   2187  OE1 GLN A 136      18.745  19.853  86.684  1.00 39.27      1HNF12
+ATOM   2188  NE2 GLN A 136      18.453  18.039  87.922  1.00 33.91      1HNF12
+ATOM   2189  H   GLN A 136      17.222  19.480  81.872  1.00 20.11      1HNF H   new
+ATOM   2190  HA  GLN A 136      16.912  16.923  83.381  1.00 27.53      1HNF H   new
+ATOM   2191 1HB  GLN A 136      18.695  18.370  84.285  1.00 28.24      1HNF H   new
+ATOM   2192 2HB  GLN A 136      17.555  19.718  84.389  1.00 28.24      1HNF H   new
+ATOM   2193 1HG  GLN A 136      16.224  18.514  86.071  1.00 26.84      1HNF H   new
+ATOM   2194 2HG  GLN A 136      17.262  17.091  85.917  1.00 26.84      1HNF H   new
+ATOM   2195 1HE2 GLN A 136      19.109  18.355  88.607  1.00 33.91      1HNF H   new
+ATOM   2196 2HE2 GLN A 136      17.989  17.161  88.041  1.00 33.91      1HNF H   new
+ATOM   2197  N   ASP A 137      14.451  17.457  83.405  1.00 25.67      1HNF12
+ATOM   2198  CA  ASP A 137      13.036  17.749  83.507  1.00 29.78      1HNF12
+ATOM   2199  C   ASP A 137      12.733  18.746  82.396  1.00 33.30      1HNF12
+ATOM   2200  O   ASP A 137      12.082  19.764  82.618  1.00 42.71      1HNF12
+ATOM   2201  CB  ASP A 137      12.703  18.401  84.858  1.00 29.51      1HNF12
+ATOM   2202  CG  ASP A 137      12.730  17.422  86.026  1.00 32.83      1HNF12
+ATOM   2203  OD1 ASP A 137      12.042  16.368  85.984  1.00 35.16      1HNF12
+ATOM   2204  OD2 ASP A 137      13.417  17.750  87.016  1.00 26.98      1HNF12
+ATOM   2205  H   ASP A 137      14.671  16.487  83.298  1.00 25.67      1HNF H   new
+ATOM   2206  HA  ASP A 137      12.445  16.825  83.423  1.00 29.78      1HNF H   new
+ATOM   2207 1HB  ASP A 137      13.421  19.212  85.052  1.00 29.51      1HNF H   new
+ATOM   2208 2HB  ASP A 137      11.706  18.862  84.798  1.00 29.51      1HNF H   new
+ATOM   2209  N   GLY A 138      13.302  18.517  81.223  1.00 35.42      1HNF12
+ATOM   2210  CA  GLY A 138      13.058  19.423  80.114  1.00 31.78      1HNF12
+ATOM   2211  C   GLY A 138      13.785  20.760  80.069  1.00 27.61      1HNF12
+ATOM   2212  O   GLY A 138      13.273  21.688  79.462  1.00 37.37      1HNF12
+ATOM   2213  H   GLY A 138      13.908  17.748  81.021  1.00 35.42      1HNF H   new
+ATOM   2214 1HA  GLY A 138      13.301  18.883  79.187  1.00 31.78      1HNF H   new
+ATOM   2215 2HA  GLY A 138      11.978  19.633  80.090  1.00 31.78      1HNF H   new
+ATOM   2216  N   LYS A 139      14.927  20.912  80.729  1.00 27.53      1HNF12
+ATOM   2217  CA  LYS A 139      15.656  22.174  80.627  1.00 31.13      1HNF12
+ATOM   2218  C   LYS A 139      17.117  21.912  80.228  1.00 32.14      1HNF12
+ATOM   2219  O   LYS A 139      17.801  21.071  80.814  1.00 31.39      1HNF12
+ATOM   2220  CB  LYS A 139      15.554  23.005  81.914  1.00 38.84      1HNF12
+ATOM   2221  CG  LYS A 139      16.252  22.392  83.119  1.00 52.11      1HNF12
+ATOM   2222  CD  LYS A 139      15.794  23.022  84.442  1.00 56.84      1HNF12
+ATOM   2223  CE  LYS A 139      16.394  22.323  85.688  1.00 57.92      1HNF12
+ATOM   2224  NZ  LYS A 139      17.807  22.710  86.043  1.00 54.47      1HNF12
+ATOM   2225  H   LYS A 139      15.350  20.218  81.311  1.00 27.53      1HNF H   new
+ATOM   2226  HA  LYS A 139      15.186  22.776  79.835  1.00 31.13      1HNF H   new
+ATOM   2227 1HB  LYS A 139      15.981  24.001  81.727  1.00 38.84      1HNF H   new
+ATOM   2228 2HB  LYS A 139      14.491  23.151  82.157  1.00 38.84      1HNF H   new
+ATOM   2229 1HG  LYS A 139      16.054  21.310  83.143  1.00 52.11      1HNF H   new
+ATOM   2230 2HG  LYS A 139      17.340  22.518  83.013  1.00 52.11      1HNF H   new
+ATOM   2231 1HD  LYS A 139      16.078  24.085  84.453  1.00 56.84      1HNF H   new
+ATOM   2232 2HD  LYS A 139      14.696  22.982  84.500  1.00 56.84      1HNF H   new
+ATOM   2233 1HE  LYS A 139      15.748  22.538  86.552  1.00 57.92      1HNF H   new
+ATOM   2234 2HE  LYS A 139      16.362  21.236  85.525  1.00 57.92      1HNF H   new
+ATOM   2235 1HZ  LYS A 139      18.097  22.206  86.856  1.00 54.47      1HNF H + new
+ATOM   2236 2HZ  LYS A 139      18.415  22.490  85.280  1.00 54.47      1HNF H + new
+ATOM   2237 3HZ  LYS A 139      17.848  23.692  86.228  1.00 54.47      1HNF H + new
+ATOM   2238  N   HIS A 140      17.584  22.627  79.212  1.00 32.70      1HNF12
+ATOM   2239  CA  HIS A 140      18.943  22.452  78.707  1.00 31.71      1HNF12
+ATOM   2240  C   HIS A 140      20.079  22.637  79.725  1.00 28.79      1HNF12
+ATOM   2241  O   HIS A 140      20.175  23.665  80.378  1.00 31.69      1HNF12
+ATOM   2242  CB  HIS A 140      19.151  23.350  77.472  1.00 31.42      1HNF12
+ATOM   2243  CG  HIS A 140      20.303  22.931  76.623  1.00 25.24      1HNF12
+ATOM   2244  ND1 HIS A 140      21.525  23.561  76.680  1.00 25.81      1HNF12
+ATOM   2245  CD2 HIS A 140      20.460  21.868  75.802  1.00 24.93      1HNF12
+ATOM   2246  CE1 HIS A 140      22.390  22.895  75.941  1.00 31.19      1HNF13
+ATOM   2247  NE2 HIS A 140      21.769  21.863  75.400  1.00 29.92      1HNF13
+ATOM   2248  H   HIS A 140      17.052  23.322  78.729  1.00 32.70      1HNF H   new
+ATOM   2249  HA  HIS A 140      19.016  21.388  78.439  1.00 31.71      1HNF H   new
+ATOM   2250 1HB  HIS A 140      18.235  23.342  76.864  1.00 31.42      1HNF H   new
+ATOM   2251 2HB  HIS A 140      19.308  24.387  77.804  1.00 31.42      1HNF H   new
+ATOM   2252  HD1 HIS A 140      21.725  24.392  77.199  1.00 25.81      1HNF H   new
+ATOM   2253  HD2 HIS A 140      19.684  21.145  75.512  1.00 24.93      1HNF H   new
+ATOM   2254  HE1 HIS A 140      23.449  23.155  75.799  1.00 31.19      1HNF H   new
+ATOM   2255  HE2 HIS A 140      22.187  21.186  74.794  1.00 29.92      1HNF H   new
+ATOM   2256  N   LEU A 141      20.976  21.655  79.797  1.00 27.92      1HNF13
+ATOM   2257  CA  LEU A 141      22.106  21.696  80.721  1.00 25.42      1HNF13
+ATOM   2258  C   LEU A 141      23.420  22.004  80.047  1.00 29.22      1HNF13
+ATOM   2259  O   LEU A 141      24.084  22.987  80.383  1.00 37.75      1HNF13
+ATOM   2260  CB  LEU A 141      22.213  20.397  81.511  1.00 27.20      1HNF13
+ATOM   2261  CG  LEU A 141      21.116  20.250  82.573  1.00 25.24      1HNF13
+ATOM   2262  CD1 LEU A 141      21.465  19.174  83.606  1.00 16.60      1HNF13
+ATOM   2263  CD2 LEU A 141      20.952  21.598  83.257  1.00 24.89      1HNF13
+ATOM   2264  H   LEU A 141      20.941  20.831  79.232  1.00 27.92      1HNF H   new
+ATOM   2265  HA  LEU A 141      21.900  22.527  81.411  1.00 25.42      1HNF H   new
+ATOM   2266 1HB  LEU A 141      22.159  19.546  80.816  1.00 27.20      1HNF H   new
+ATOM   2267 2HB  LEU A 141      23.197  20.351  82.000  1.00 27.20      1HNF H   new
+ATOM   2268  HG  LEU A 141      20.180  19.936  82.089  1.00 25.24      1HNF H   new
+ATOM   2269 1HD1 LEU A 141      20.656  19.100  84.347  1.00 16.60      1HNF H   new
+ATOM   2270 2HD1 LEU A 141      21.587  18.205  83.100  1.00 16.60      1HNF H   new
+ATOM   2271 3HD1 LEU A 141      22.403  19.443  84.114  1.00 16.60      1HNF H   new
+ATOM   2272 1HD2 LEU A 141      20.170  21.526  84.027  1.00 24.89      1HNF H   new
+ATOM   2273 2HD2 LEU A 141      21.903  21.889  83.727  1.00 24.89      1HNF H   new
+ATOM   2274 3HD2 LEU A 141      20.665  22.355  82.512  1.00 24.89      1HNF H   new
+ATOM   2275  N   LYS A 142      23.860  21.110  79.175  1.00 32.94      1HNF13
+ATOM   2276  CA  LYS A 142      25.081  21.359  78.437  1.00 34.37      1HNF13
+ATOM   2277  C   LYS A 142      25.030  20.669  77.112  1.00 33.76      1HNF13
+ATOM   2278  O   LYS A 142      24.274  19.716  76.912  1.00 28.35      1HNF13
+ATOM   2279  CB  LYS A 142      26.365  20.974  79.183  1.00 41.98      1HNF13
+ATOM   2280  CG  LYS A 142      27.616  21.619  78.495  1.00 52.94      1HNF13
+ATOM   2281  CD  LYS A 142      28.947  21.440  79.242  1.00 56.69      1HNF13
+ATOM   2282  CE  LYS A 142      29.008  22.288  80.502  1.00 63.26      1HNF13
+ATOM   2283  NZ  LYS A 142      30.223  21.972  81.313  1.00 65.15      1HNF13
+ATOM   2284  H   LYS A 142      23.408  20.242  78.970  1.00 32.94      1HNF H   new
+ATOM   2285  HA  LYS A 142      25.131  22.450  78.302  1.00 34.37      1HNF H   new
+ATOM   2286 1HB  LYS A 142      26.302  21.307  80.229  1.00 41.98      1HNF H   new
+ATOM   2287 2HB  LYS A 142      26.472  19.879  79.200  1.00 41.98      1HNF H   new
+ATOM   2288 1HG  LYS A 142      27.721  21.190  77.488  1.00 52.94      1HNF H   new
+ATOM   2289 2HG  LYS A 142      27.429  22.695  78.368  1.00 52.94      1HNF H   new
+ATOM   2290 1HD  LYS A 142      29.079  20.381  79.507  1.00 56.69      1HNF H   new
+ATOM   2291 2HD  LYS A 142      29.780  21.712  78.577  1.00 56.69      1HNF H   new
+ATOM   2292 1HE  LYS A 142      29.013  23.354  80.229  1.00 63.26      1HNF H   new
+ATOM   2293 2HE  LYS A 142      28.106  22.115  81.107  1.00 63.26      1HNF H   new
+ATOM   2294 1HZ  LYS A 142      30.235  22.544  82.133  1.00 65.15      1HNF H + new
+ATOM   2295 2HZ  LYS A 142      30.205  21.008  81.580  1.00 65.15      1HNF H + new
+ATOM   2296 3HZ  LYS A 142      31.043  22.152  80.770  1.00 65.15      1HNF H + new
+ATOM   2297  N   LEU A 143      25.746  21.277  76.178  1.00 32.04      1HNF13
+ATOM   2298  CA  LEU A 143      25.880  20.799  74.821  1.00 28.54      1HNF13
+ATOM   2299  C   LEU A 143      27.350  20.450  74.795  1.00 27.59      1HNF13
+ATOM   2300  O   LEU A 143      28.158  21.141  75.402  1.00 37.00      1HNF13
+ATOM   2301  CB  LEU A 143      25.560  21.947  73.866  1.00 30.43      1HNF13
+ATOM   2302  CG  LEU A 143      25.788  21.853  72.366  1.00 30.77      1HNF13
+ATOM   2303  CD1 LEU A 143      24.976  22.954  71.717  1.00 31.86      1HNF13
+ATOM   2304  CD2 LEU A 143      27.260  22.022  72.026  1.00 30.89      1HNF13
+ATOM   2305  H   LEU A 143      26.251  22.122  76.350  1.00 32.04      1HNF H   new
+ATOM   2306  HA  LEU A 143      25.224  19.965  74.531  1.00 28.54      1HNF H   new
+ATOM   2307 1HB  LEU A 143      24.496  22.186  74.008  1.00 30.43      1HNF H   new
+ATOM   2308 2HB  LEU A 143      26.134  22.817  74.217  1.00 30.43      1HNF H   new
+ATOM   2309  HG  LEU A 143      25.478  20.864  71.998  1.00 30.77      1HNF H   new
+ATOM   2310 1HD1 LEU A 143      25.115  22.919  70.626  1.00 31.86      1HNF H   new
+ATOM   2311 2HD1 LEU A 143      23.911  22.814  71.955  1.00 31.86      1HNF H   new
+ATOM   2312 3HD1 LEU A 143      25.311  23.930  72.098  1.00 31.86      1HNF H   new
+ATOM   2313 1HD2 LEU A 143      27.396  21.950  70.937  1.00 30.89      1HNF H   new
+ATOM   2314 2HD2 LEU A 143      27.607  23.006  72.374  1.00 30.89      1HNF H   new
+ATOM   2315 3HD2 LEU A 143      27.844  21.232  72.521  1.00 30.89      1HNF H   new
+ATOM   2316  N   SER A 144      27.702  19.359  74.142  1.00 27.79      1HNF13
+ATOM   2317  CA  SER A 144      29.099  18.948  74.084  1.00 30.32      1HNF13
+ATOM   2318  C   SER A 144      29.300  17.914  72.983  1.00 31.76      1HNF13
+ATOM   2319  O   SER A 144      28.333  17.338  72.495  1.00 30.42      1HNF13
+ATOM   2320  CB  SER A 144      29.520  18.369  75.432  1.00 30.46      1HNF13
+ATOM   2321  OG  SER A 144      30.899  18.036  75.461  1.00 34.94      1HNF13
+ATOM   2322  H   SER A 144      27.065  18.758  73.659  1.00 27.79      1HNF H   new
+ATOM   2323  HA  SER A 144      29.722  19.826  73.857  1.00 30.32      1HNF H   new
+ATOM   2324 1HB  SER A 144      28.922  17.471  75.647  1.00 30.46      1HNF H   new
+ATOM   2325 2HB  SER A 144      29.303  19.098  76.227  1.00 30.46      1HNF H   new
+ATOM   2326  HG  SER A 144      31.133  17.661  76.358  1.00 34.94      1HNF H   new
+ATOM   2327  N   GLN A 145      30.546  17.724  72.556  1.00 33.30      1HNF13
+ATOM   2328  CA  GLN A 145      30.873  16.744  71.515  1.00 35.63      1HNF13
+ATOM   2329  C   GLN A 145      31.371  15.479  72.186  1.00 31.91      1HNF13
+ATOM   2330  O   GLN A 145      31.159  14.371  71.720  1.00 36.57      1HNF13
+ATOM   2331  CB  GLN A 145      31.975  17.293  70.645  1.00 41.09      1HNF13
+ATOM   2332  CG  GLN A 145      31.636  18.645  70.083  1.00 56.00      1HNF13
+ATOM   2333  CD  GLN A 145      31.230  18.583  68.627  1.00 60.80      1HNF13
+ATOM   2334  OE1 GLN A 145      31.433  19.547  67.884  1.00 64.13      1HNF13
+ATOM   2335  NE2 GLN A 145      30.667  17.446  68.201  1.00 61.84      1HNF13
+ATOM   2336  H   GLN A 145      31.336  18.227  72.908  1.00 33.30      1HNF H   new
+ATOM   2337  HA  GLN A 145      29.983  16.533  70.903  1.00 35.63      1HNF H   new
+ATOM   2338 1HB  GLN A 145      32.902  17.364  71.233  1.00 41.09      1HNF H   new
+ATOM   2339 2HB  GLN A 145      32.171  16.593  69.819  1.00 41.09      1HNF H   new
+ATOM   2340 1HG  GLN A 145      30.818  19.087  70.670  1.00 56.00      1HNF H   new
+ATOM   2341 2HG  GLN A 145      32.505  19.311  70.190  1.00 56.00      1HNF H   new
+ATOM   2342 1HE2 GLN A 145      30.392  17.352  67.244  1.00 61.84      1HNF H   new
+ATOM   2343 2HE2 GLN A 145      30.522  16.690  68.839  1.00 61.84      1HNF H   new
+ATOM   2344  N   ARG A 146      32.071  15.673  73.285  1.00 27.31      1HNF13
+ATOM   2345  CA  ARG A 146      32.603  14.581  74.049  1.00 31.28      1HNF13
+ATOM   2346  C   ARG A 146      31.572  14.227  75.156  1.00 35.48      1HNF13
+ATOM   2347  O   ARG A 146      30.453  14.740  75.152  1.00 36.16      1HNF13
+ATOM   2348  CB  ARG A 146      33.948  15.026  74.625  1.00 34.57      1HNF13
+ATOM   2349  CG  ARG A 146      33.859  16.300  75.463  1.00 47.83      1HNF13
+ATOM   2350  CD  ARG A 146      35.069  17.223  75.285  1.00 55.87      1HNF13
+ATOM   2351  NE  ARG A 146      35.138  18.267  76.317  1.00 67.87      1HNF13
+ATOM   2352  CZ  ARG A 146      34.222  19.224  76.509  1.00 77.77      1HNF13
+ATOM   2353  NH1 ARG A 146      33.139  19.293  75.739  1.00 83.05      1HNF13
+ATOM   2354  NH2 ARG A 146      34.388  20.127  77.475  1.00 78.61      1HNF13
+ATOM   2355  H   ARG A 146      32.279  16.577  73.660  1.00 27.31      1HNF H   new
+ATOM   2356  HA  ARG A 146      32.772  13.680  73.441  1.00 31.28      1HNF H   new
+ATOM   2357 1HB  ARG A 146      34.358  14.216  75.246  1.00 34.57      1HNF H   new
+ATOM   2358 2HB  ARG A 146      34.656  15.188  73.799  1.00 34.57      1HNF H   new
+ATOM   2359 1HG  ARG A 146      32.945  16.848  75.191  1.00 47.83      1HNF H   new
+ATOM   2360 2HG  ARG A 146      33.766  16.027  76.525  1.00 47.83      1HNF H   new
+ATOM   2361 1HD  ARG A 146      35.991  16.623  75.313  1.00 55.87      1HNF H   new
+ATOM   2362 2HD  ARG A 146      35.023  17.696  74.293  1.00 55.87      1HNF H   new
+ATOM   2363  HE  ARG A 146      35.933  18.262  76.924  1.00 67.87      1HNF H + new
+ATOM   2364 1HH1 ARG A 146      33.002  18.625  75.007  1.00 83.05      1HNF H + new
+ATOM   2365 2HH1 ARG A 146      32.462  20.013  75.892  1.00 83.05      1HNF H + new
+ATOM   2366 1HH2 ARG A 146      35.199  20.091  78.059  1.00 78.61      1HNF H + new
+ATOM   2367 2HH2 ARG A 146      33.702  20.841  77.616  1.00 78.61      1HNF H + new
+ATOM   2368  N   VAL A 147      31.954  13.336  76.073  1.00 30.15      1HNF13
+ATOM   2369  CA  VAL A 147      31.122  12.899  77.192  1.00 19.88      1HNF13
+ATOM   2370  C   VAL A 147      30.711  14.057  78.138  1.00 25.94      1HNF13
+ATOM   2371  O   VAL A 147      31.540  14.907  78.520  1.00 25.76      1HNF13
+ATOM   2372  CB  VAL A 147      31.883  11.852  78.025  1.00 19.84      1HNF13
+ATOM   2373  CG1 VAL A 147      31.067  11.417  79.240  1.00 19.15      1HNF13
+ATOM   2374  CG2 VAL A 147      32.267  10.662  77.168  1.00 14.82      1HNF13
+ATOM   2375  H   VAL A 147      32.853  12.898  76.057  1.00 30.15      1HNF H   new
+ATOM   2376  HA  VAL A 147      30.206  12.480  76.750  1.00 19.88      1HNF H   new
+ATOM   2377  HB  VAL A 147      32.808  12.317  78.396  1.00 19.84      1HNF H   new
+ATOM   2378 1HG1 VAL A 147      31.634  10.670  79.815  1.00 19.15      1HNF H   new
+ATOM   2379 2HG1 VAL A 147      30.862  12.291  79.876  1.00 19.15      1HNF H   new
+ATOM   2380 3HG1 VAL A 147      30.116  10.976  78.905  1.00 19.15      1HNF H   new
+ATOM   2381 1HG2 VAL A 147      32.809   9.927  77.782  1.00 14.82      1HNF H   new
+ATOM   2382 2HG2 VAL A 147      31.359  10.197  76.757  1.00 14.82      1HNF H   new
+ATOM   2383 3HG2 VAL A 147      32.913  10.997  76.343  1.00 14.82      1HNF H   new
+ATOM   2384  N   ILE A 148      29.432  14.077  78.520  1.00 15.94      1HNF13
+ATOM   2385  CA  ILE A 148      28.922  15.096  79.420  1.00 16.48      1HNF13
+ATOM   2386  C   ILE A 148      28.879  14.609  80.847  1.00 16.11      1HNF13
+ATOM   2387  O   ILE A 148      28.492  13.484  81.118  1.00 21.68      1HNF13
+ATOM   2388  CB  ILE A 148      27.524  15.534  79.035  1.00 16.54      1HNF13
+ATOM   2389  CG1 ILE A 148      27.548  15.982  77.588  1.00 11.74      1HNF13
+ATOM   2390  CG2 ILE A 148      27.057  16.686  79.945  1.00 15.35      1HNF13
+ATOM   2391  CD1 ILE A 148      26.322  16.646  77.159  1.00 12.61      1HNF13
+ATOM   2392  H   ILE A 148      28.750  13.409  78.222  1.00 15.94      1HNF H   new
+ATOM   2393  HA  ILE A 148      29.615  15.946  79.337  1.00 16.48      1HNF H   new
+ATOM   2394  HB  ILE A 148      26.820  14.698  79.157  1.00 16.54      1HNF H   new
+ATOM   2395 1HG1 ILE A 148      28.396  16.666  77.439  1.00 11.74      1HNF H   new
+ATOM   2396 2HG1 ILE A 148      27.724  15.107  76.945  1.00 11.74      1HNF H   new
+ATOM   2397 1HG2 ILE A 148      26.042  16.994  79.655  1.00 15.35      1HNF H   new
+ATOM   2398 2HG2 ILE A 148      27.052  16.348  80.992  1.00 15.35      1HNF H   new
+ATOM   2399 3HG2 ILE A 148      27.743  17.539  79.839  1.00 15.35      1HNF H   new
+ATOM   2400 1HD1 ILE A 148      26.414  16.941  76.103  1.00 12.61      1HNF H   new
+ATOM   2401 2HD1 ILE A 148      25.472  15.957  77.274  1.00 12.61      1HNF H   new
+ATOM   2402 3HD1 ILE A 148      26.154  17.541  77.776  1.00 12.61      1HNF H   new
+ATOM   2403  N   THR A 149      29.274  15.489  81.754  1.00 22.63      1HNF13
+ATOM   2404  CA  THR A 149      29.295  15.214  83.183  1.00 15.42      1HNF13
+ATOM   2405  C   THR A 149      28.412  16.250  83.857  1.00 21.08      1HNF13
+ATOM   2406  O   THR A 149      28.318  17.415  83.426  1.00 17.54      1HNF13
+ATOM   2407  CB  THR A 149      30.700  15.391  83.714  1.00 15.22      1HNF13
+ATOM   2408  OG1 THR A 149      31.591  14.641  82.891  1.00 21.04      1HNF13
+ATOM   2409  CG2 THR A 149      30.822  14.900  85.119  1.00  8.62      1HNF13
+ATOM   2410  H   THR A 149      29.587  16.409  81.520  1.00 22.63      1HNF H   new
+ATOM   2411  HA  THR A 149      28.949  14.188  83.377  1.00 15.42      1HNF H   new
+ATOM   2412  HB  THR A 149      30.946  16.463  83.700  1.00 15.22      1HNF H   new
+ATOM   2413  HG1 THR A 149      32.526  14.747  83.229  1.00 21.04      1HNF H   new
+ATOM   2414 1HG2 THR A 149      31.854  15.045  85.470  1.00  8.62      1HNF H   new
+ATOM   2415 2HG2 THR A 149      30.133  15.463  85.766  1.00  8.62      1HNF H   new
+ATOM   2416 3HG2 THR A 149      30.569  13.830  85.157  1.00  8.62      1HNF H   new
+ATOM   2417  N   HIS A 150      27.746  15.831  84.916  1.00 20.93      1HNF13
+ATOM   2418  CA  HIS A 150      26.905  16.757  85.624  1.00 21.13      1HNF13
+ATOM   2419  C   HIS A 150      26.873  16.433  87.113  1.00 20.34      1HNF13
+ATOM   2420  O   HIS A 150      26.482  15.356  87.507  1.00 23.94      1HNF13
+ATOM   2421  CB  HIS A 150      25.523  16.754  85.012  1.00 18.62      1HNF13
+ATOM   2422  CG  HIS A 150      24.584  17.694  85.690  1.00 25.10      1HNF13
+ATOM   2423  ND1 HIS A 150      23.623  17.269  86.578  1.00 20.63      1HNF13
+ATOM   2424  CD2 HIS A 150      24.497  19.043  85.657  1.00 26.48      1HNF13
+ATOM   2425  CE1 HIS A 150      22.984  18.315  87.063  1.00 15.93      1HNF13
+ATOM   2426  NE2 HIS A 150      23.494  19.402  86.521  1.00 19.18      1HNF13
+ATOM   2427  H   HIS A 150      27.772  14.902  85.284  1.00 20.93      1HNF H   new
+ATOM   2428  HA  HIS A 150      27.319  17.772  85.530  1.00 21.13      1HNF H   new
+ATOM   2429 1HB  HIS A 150      25.598  17.023  83.948  1.00 18.62      1HNF H   new
+ATOM   2430 2HB  HIS A 150      25.110  15.735  85.057  1.00 18.62      1HNF H   new
+ATOM   2431  HD1 HIS A 150      23.438  16.316  86.818  1.00 20.63      1HNF H   new
+ATOM   2432  HD2 HIS A 150      25.114  19.724  85.052  1.00 26.48      1HNF H   new
+ATOM   2433  HE1 HIS A 150      22.164  18.285  87.796  1.00 15.93      1HNF H   new
+ATOM   2434  HE2 HIS A 150      23.198  20.338  86.709  1.00 19.18      1HNF H   new
+ATOM   2435  N   LYS A 151      27.331  17.365  87.933  1.00 19.91      1HNF13
+ATOM   2436  CA  LYS A 151      27.364  17.172  89.370  1.00 19.41      1HNF13
+ATOM   2437  C   LYS A 151      26.345  18.046  90.096  1.00 24.72      1HNF13
+ATOM   2438  O   LYS A 151      26.068  19.150  89.656  1.00 30.22      1HNF13
+ATOM   2439  CB  LYS A 151      28.758  17.500  89.882  1.00 12.49      1HNF13
+ATOM   2440  CG  LYS A 151      29.850  16.795  89.133  1.00 15.03      1HNF13
+ATOM   2441  CD  LYS A 151      30.813  16.117  90.079  1.00 23.44      1HNF13
+ATOM   2442  CE  LYS A 151      32.222  16.043  89.480  1.00 29.10      1HNF13
+ATOM   2443  NZ  LYS A 151      32.900  17.409  89.407  1.00 31.58      1HNF13
+ATOM   2444  H   LYS A 151      27.680  18.251  87.629  1.00 19.91      1HNF H   new
+ATOM   2445  HA  LYS A 151      27.106  16.122  89.573  1.00 19.41      1HNF H   new
+ATOM   2446 1HB  LYS A 151      28.919  18.586  89.814  1.00 12.49      1HNF H   new
+ATOM   2447 2HB  LYS A 151      28.822  17.232  90.947  1.00 12.49      1HNF H   new
+ATOM   2448 1HG  LYS A 151      29.411  16.048  88.455  1.00 15.03      1HNF H   new
+ATOM   2449 2HG  LYS A 151      30.394  17.517  88.507  1.00 15.03      1HNF H   new
+ATOM   2450 1HD  LYS A 151      30.845  16.668  91.031  1.00 23.44      1HNF H   new
+ATOM   2451 2HD  LYS A 151      30.455  15.102  90.306  1.00 23.44      1HNF H   new
+ATOM   2452 1HE  LYS A 151      32.839  15.363  90.086  1.00 29.10      1HNF H   new
+ATOM   2453 2HE  LYS A 151      32.165  15.611  88.470  1.00 29.10      1HNF H   new
+ATOM   2454 1HZ  LYS A 151      33.813  17.308  89.011  1.00 31.58      1HNF H + new
+ATOM   2455 2HZ  LYS A 151      32.355  18.022  88.835  1.00 31.58      1HNF H + new
+ATOM   2456 3HZ  LYS A 151      32.977  17.793  90.327  1.00 31.58      1HNF H + new
+ATOM   2457  N   TRP A 152      25.737  17.540  91.168  1.00 29.18      1HNF13
+ATOM   2458  CA  TRP A 152      24.786  18.352  91.952  1.00 21.80      1HNF13
+ATOM   2459  C   TRP A 152      25.182  18.210  93.400  1.00 25.81      1HNF13
+ATOM   2460  O   TRP A 152      26.190  17.576  93.733  1.00 25.94      1HNF13
+ATOM   2461  CB  TRP A 152      23.346  17.889  91.777  1.00 17.34      1HNF13
+ATOM   2462  CG  TRP A 152      23.183  16.459  92.105  1.00 14.75      1HNF13
+ATOM   2463  CD1 TRP A 152      22.920  15.917  93.316  1.00 14.77      1HNF14
+ATOM   2464  CD2 TRP A 152      23.407  15.376  91.225  1.00 16.62      1HNF14
+ATOM   2465  NE1 TRP A 152      22.986  14.556  93.253  1.00 11.42      1HNF14
+ATOM   2466  CE2 TRP A 152      23.282  14.196  91.974  1.00 11.88      1HNF14
+ATOM   2467  CE3 TRP A 152      23.716  15.286  89.866  1.00 12.97      1HNF14
+ATOM   2468  CZ2 TRP A 152      23.453  12.942  91.415  1.00 20.89      1HNF14
+ATOM   2469  CZ3 TRP A 152      23.885  14.046  89.312  1.00 12.57      1HNF14
+ATOM   2470  CH2 TRP A 152      23.755  12.886  90.080  1.00 19.41      1HNF14
+ATOM   2471  H   TRP A 152      25.874  16.610  91.508  1.00 29.18      1HNF H   new
+ATOM   2472  HA  TRP A 152      24.829  19.395  91.606  1.00 21.80      1HNF H   new
+ATOM   2473 1HB  TRP A 152      22.687  18.490  92.421  1.00 17.34      1HNF H   new
+ATOM   2474 2HB  TRP A 152      23.028  18.065  90.739  1.00 17.34      1HNF H   new
+ATOM   2475  HD1 TRP A 152      22.686  16.493  94.224  1.00 14.77      1HNF H   new
+ATOM   2476  HE1 TRP A 152      22.841  13.928  94.018  1.00 11.42      1HNF H   new
+ATOM   2477  HE3 TRP A 152      23.821  16.193  89.253  1.00 12.97      1HNF H   new
+ATOM   2478  HZ2 TRP A 152      23.351  12.028  92.018  1.00 20.89      1HNF H   new
+ATOM   2479  HZ3 TRP A 152      24.128  13.961  88.242  1.00 12.57      1HNF H   new
+ATOM   2480  HH2 TRP A 152      23.898  11.906  89.602  1.00 19.41      1HNF H   new
+ATOM   2481  N   THR A 153      24.388  18.786  94.280  1.00 29.07      1HNF14
+ATOM   2482  CA  THR A 153      24.735  18.678  95.670  1.00 29.60      1HNF14
+ATOM   2483  C   THR A 153      23.575  18.229  96.513  1.00 29.73      1HNF14
+ATOM   2484  O   THR A 153      23.744  17.402  97.395  1.00 35.83      1HNF14
+ATOM   2485  CB  THR A 153      25.245  19.991  96.214  1.00 31.47      1HNF14
+ATOM   2486  OG1 THR A 153      26.304  20.479  95.386  1.00 27.29      1HNF14
+ATOM   2487  CG2 THR A 153      25.758  19.787  97.630  1.00 32.90      1HNF14
+ATOM   2488  H   THR A 153      23.555  19.299  94.071  1.00 29.07      1HNF H   new
+ATOM   2489  HA  THR A 153      25.529  17.919  95.724  1.00 29.60      1HNF H   new
+ATOM   2490  HB  THR A 153      24.425  20.725  96.222  1.00 31.47      1HNF H   new
+ATOM   2491  HG1 THR A 153      26.639  21.348  95.750  1.00 27.29      1HNF H   new
+ATOM   2492 1HG2 THR A 153      26.130  20.743  98.027  1.00 32.90      1HNF H   new
+ATOM   2493 2HG2 THR A 153      24.940  19.419  98.267  1.00 32.90      1HNF H   new
+ATOM   2494 3HG2 THR A 153      26.576  19.051  97.622  1.00 32.90      1HNF H   new
+ATOM   2495  N   THR A 154      22.389  18.746  96.225  1.00 28.11      1HNF14
+ATOM   2496  CA  THR A 154      21.234  18.385  97.021  1.00 24.62      1HNF14
+ATOM   2497  C   THR A 154      20.758  16.991  96.753  1.00 31.98      1HNF14
+ATOM   2498  O   THR A 154      21.344  16.247  95.962  1.00 37.88      1HNF14
+ATOM   2499  CB  THR A 154      20.044  19.369  96.855  1.00 24.34      1HNF14
+ATOM   2500  OG1 THR A 154      19.417  19.209  95.583  1.00 25.15      1HNF14
+ATOM   2501  CG2 THR A 154      20.516  20.775  96.977  1.00 20.47      1HNF14
+ATOM   2502  H   THR A 154      22.210  19.388  95.479  1.00 28.11      1HNF H   new
+ATOM   2503  HA  THR A 154      21.591  18.445  98.060  1.00 24.62      1HNF H   new
+ATOM   2504  HB  THR A 154      19.316  19.144  97.649  1.00 24.34      1HNF H   new
+ATOM   2505  HG1 THR A 154      18.656  19.853  95.503  1.00 25.15      1HNF H   new
+ATOM   2506 1HG2 THR A 154      19.664  21.460  96.857  1.00 20.47      1HNF H   new
+ATOM   2507 2HG2 THR A 154      20.970  20.925  97.967  1.00 20.47      1HNF H   new
+ATOM   2508 3HG2 THR A 154      21.263  20.981  96.196  1.00 20.47      1HNF H   new
+ATOM   2509  N   SER A 155      19.759  16.597  97.527  1.00 37.28      1HNF14
+ATOM   2510  CA  SER A 155      19.151  15.292  97.358  1.00 42.99      1HNF14
+ATOM   2511  C   SER A 155      18.465  15.545  96.011  1.00 38.99      1HNF14
+ATOM   2512  O   SER A 155      18.063  16.682  95.743  1.00 39.49      1HNF14
+ATOM   2513  CB  SER A 155      18.150  15.030  98.501  1.00 48.85      1HNF14
+ATOM   2514  OG  SER A 155      18.723  15.284  99.793  1.00 54.92      1HNF14
+ATOM   2515  H   SER A 155      19.363  17.150  98.260  1.00 37.28      1HNF H   new
+ATOM   2516  HA  SER A 155      19.815  14.415  97.379  1.00 42.99      1HNF H   new
+ATOM   2517 1HB  SER A 155      17.806  13.986  98.453  1.00 48.85      1HNF H   new
+ATOM   2518 2HB  SER A 155      17.264  15.667  98.363  1.00 48.85      1HNF H   new
+ATOM   2519  HG  SER A 155      18.042  15.102 100.502  1.00 54.92      1HNF H   new
+ATOM   2520  N   LEU A 156      18.364  14.533  95.153  1.00 37.18      1HNF14
+ATOM   2521  CA  LEU A 156      17.777  14.734  93.820  1.00 30.80      1HNF14
+ATOM   2522  C   LEU A 156      16.673  13.791  93.339  1.00 27.73      1HNF14
+ATOM   2523  O   LEU A 156      16.716  12.602  93.589  1.00 31.67      1HNF14
+ATOM   2524  CB  LEU A 156      18.923  14.676  92.812  1.00 31.71      1HNF14
+ATOM   2525  CG  LEU A 156      18.593  14.808  91.339  1.00 30.71      1HNF14
+ATOM   2526  CD1 LEU A 156      18.104  16.211  91.119  1.00 30.91      1HNF14
+ATOM   2527  CD2 LEU A 156      19.827  14.543  90.503  1.00 27.36      1HNF14
+ATOM   2528  H   LEU A 156      18.667  13.599  95.342  1.00 37.18      1HNF H   new
+ATOM   2529  HA  LEU A 156      17.255  15.699  93.903  1.00 30.80      1HNF H   new
+ATOM   2530 1HB  LEU A 156      19.636  15.473  93.069  1.00 31.71      1HNF H   new
+ATOM   2531 2HB  LEU A 156      19.446  13.719  92.954  1.00 31.71      1HNF H   new
+ATOM   2532  HG  LEU A 156      17.825  14.078  91.042  1.00 30.71      1HNF H   new
+ATOM   2533 1HD1 LEU A 156      17.852  16.350  90.057  1.00 30.91      1HNF H   new
+ATOM   2534 2HD1 LEU A 156      17.209  16.389  91.734  1.00 30.91      1HNF H   new
+ATOM   2535 3HD1 LEU A 156      18.892  16.923  91.405  1.00 30.91      1HNF H   new
+ATOM   2536 1HD2 LEU A 156      19.576  14.641  89.437  1.00 27.36      1HNF H   new
+ATOM   2537 2HD2 LEU A 156      20.610  15.270  90.764  1.00 27.36      1HNF H   new
+ATOM   2538 3HD2 LEU A 156      20.193  13.525  90.701  1.00 27.36      1HNF H   new
+ATOM   2539  N   SER A 157      15.685  14.317  92.635  1.00 25.31      1HNF14
+ATOM   2540  CA  SER A 157      14.646  13.464  92.074  1.00 30.37      1HNF14
+ATOM   2541  C   SER A 157      14.215  14.087  90.756  1.00 35.09      1HNF14
+ATOM   2542  O   SER A 157      13.107  14.615  90.631  1.00 43.47      1HNF14
+ATOM   2543  CB  SER A 157      13.448  13.298  93.007  1.00 36.17      1HNF14
+ATOM   2544  OG  SER A 157      12.511  12.342  92.471  1.00 45.44      1HNF14
+ATOM   2545  H   SER A 157      15.581  15.293  92.443  1.00 25.31      1HNF H   new
+ATOM   2546  HA  SER A 157      15.051  12.452  91.927  1.00 30.37      1HNF H   new
+ATOM   2547 1HB  SER A 157      12.949  14.268  93.148  1.00 36.17      1HNF H   new
+ATOM   2548 2HB  SER A 157      13.792  12.966  93.998  1.00 36.17      1HNF H   new
+ATOM   2549  HG  SER A 157      11.736  12.248  93.096  1.00 45.44      1HNF H   new
+ATOM   2550  N   ALA A 158      15.105  14.018  89.770  1.00 35.85      1HNF14
+ATOM   2551  CA  ALA A 158      14.861  14.607  88.453  1.00 30.96      1HNF14
+ATOM   2552  C   ALA A 158      14.716  13.601  87.338  1.00 31.99      1HNF14
+ATOM   2553  O   ALA A 158      14.935  12.408  87.527  1.00 38.48      1HNF14
+ATOM   2554  CB  ALA A 158      15.971  15.560  88.117  1.00 23.90      1HNF14
+ATOM   2555  H   ALA A 158      15.992  13.565  89.856  1.00 35.85      1HNF H   new
+ATOM   2556  HA  ALA A 158      13.894  15.126  88.528  1.00 30.96      1HNF H   new
+ATOM   2557 1HB  ALA A 158      15.788  16.003  87.127  1.00 23.90      1HNF H   new
+ATOM   2558 2HB  ALA A 158      16.011  16.358  88.873  1.00 23.90      1HNF H   new
+ATOM   2559 3HB  ALA A 158      16.928  15.019  88.104  1.00 23.90      1HNF H   new
+ATOM   2560  N   LYS A 159      14.293  14.096  86.183  1.00 35.16      1HNF14
+ATOM   2561  CA  LYS A 159      14.135  13.281  84.974  1.00 32.77      1HNF14
+ATOM   2562  C   LYS A 159      15.172  13.857  83.968  1.00 27.42      1HNF14
+ATOM   2563  O   LYS A 159      15.083  15.008  83.542  1.00 21.89      1HNF14
+ATOM   2564  CB  LYS A 159      12.703  13.417  84.445  1.00 35.02      1HNF14
+ATOM   2565  CG  LYS A 159      12.053  12.112  84.030  1.00 48.19      1HNF14
+ATOM   2566  CD  LYS A 159      10.635  12.341  83.484  1.00 61.83      1HNF14
+ATOM   2567  CE  LYS A 159      10.608  13.404  82.359  1.00 68.72      1HNF14
+ATOM   2568  NZ  LYS A 159       9.342  13.426  81.536  1.00 72.59      1HNF14
+ATOM   2569  H   LYS A 159      14.052  15.058  86.054  1.00 35.16      1HNF H   new
+ATOM   2570  HA  LYS A 159      14.304  12.209  85.151  1.00 32.77      1HNF H   new
+ATOM   2571 1HB  LYS A 159      12.083  13.888  85.222  1.00 35.02      1HNF H   new
+ATOM   2572 2HB  LYS A 159      12.709  14.098  83.581  1.00 35.02      1HNF H   new
+ATOM   2573 1HG  LYS A 159      12.669  11.621  83.262  1.00 48.19      1HNF H   new
+ATOM   2574 2HG  LYS A 159      12.010  11.431  84.892  1.00 48.19      1HNF H   new
+ATOM   2575 1HD  LYS A 159      10.234  11.392  83.099  1.00 61.83      1HNF H   new
+ATOM   2576 2HD  LYS A 159       9.975  12.660  84.304  1.00 61.83      1HNF H   new
+ATOM   2577 1HE  LYS A 159      10.752  14.397  82.809  1.00 68.72      1HNF H   new
+ATOM   2578 2HE  LYS A 159      11.461  13.228  81.688  1.00 68.72      1HNF H   new
+ATOM   2579 1HZ  LYS A 159       9.410  14.138  80.837  1.00 72.59      1HNF H + new
+ATOM   2580 2HZ  LYS A 159       9.215  12.538  81.095  1.00 72.59      1HNF H + new
+ATOM   2581 3HZ  LYS A 159       8.561  13.617  82.130  1.00 72.59      1HNF H + new
+ATOM   2582  N   PHE A 160      16.229  13.107  83.699  1.00 19.31      1HNF14
+ATOM   2583  CA  PHE A 160      17.248  13.587  82.777  1.00 20.41      1HNF14
+ATOM   2584  C   PHE A 160      17.057  13.010  81.382  1.00 19.41      1HNF14
+ATOM   2585  O   PHE A 160      16.701  11.837  81.241  1.00 23.92      1HNF14
+ATOM   2586  CB  PHE A 160      18.633  13.201  83.257  1.00 16.44      1HNF14
+ATOM   2587  CG  PHE A 160      19.125  14.007  84.389  1.00 10.94      1HNF14
+ATOM   2588  CD1 PHE A 160      18.897  13.593  85.697  1.00 13.24      1HNF14
+ATOM   2589  CD2 PHE A 160      19.872  15.135  84.162  1.00 12.62      1HNF14
+ATOM   2590  CE1 PHE A 160      19.414  14.283  86.749  1.00  8.35      1HNF14
+ATOM   2591  CE2 PHE A 160      20.400  15.847  85.210  1.00 16.01      1HNF14
+ATOM   2592  CZ  PHE A 160      20.172  15.417  86.516  1.00 15.42      1HNF14
+ATOM   2593  H   PHE A 160      16.400  12.202  84.088  1.00 19.31      1HNF H   new
+ATOM   2594  HA  PHE A 160      17.148  14.682  82.739  1.00 20.41      1HNF H   new
+ATOM   2595 1HB  PHE A 160      18.625  12.141  83.552  1.00 16.44      1HNF H   new
+ATOM   2596 2HB  PHE A 160      19.339  13.296  82.419  1.00 16.44      1HNF H   new
+ATOM   2597  HD1 PHE A 160      18.290  12.695  85.883  1.00 13.24      1HNF H   new
+ATOM   2598  HD2 PHE A 160      20.050  15.472  83.130  1.00 12.62      1HNF H   new
+ATOM   2599  HE1 PHE A 160      19.231  13.942  87.779  1.00  8.35      1HNF H   new
+ATOM   2600  HE2 PHE A 160      20.999  16.750  85.021  1.00 16.01      1HNF H   new
+ATOM   2601  HZ  PHE A 160      20.595  15.979  87.362  1.00 15.42      1HNF H   new
+ATOM   2602  N   LYS A 161      17.335  13.826  80.363  1.00 20.01      1HNF14
+ATOM   2603  CA  LYS A 161      17.206  13.428  78.961  1.00 22.63      1HNF14
+ATOM   2604  C   LYS A 161      18.505  13.768  78.233  1.00 20.83      1HNF14
+ATOM   2605  O   LYS A 161      19.042  14.873  78.355  1.00 22.76      1HNF14
+ATOM   2606  CB  LYS A 161      16.023  14.163  78.316  1.00 23.34      1HNF14
+ATOM   2607  CG  LYS A 161      15.724  13.778  76.877  1.00 25.51      1HNF14
+ATOM   2608  CD  LYS A 161      14.773  14.792  76.295  1.00 27.38      1HNF14
+ATOM   2609  CE  LYS A 161      14.240  14.380  74.964  1.00 26.57      1HNF14
+ATOM   2610  NZ  LYS A 161      13.397  15.507  74.479  1.00 39.52      1HNF14
+ATOM   2611  H   LYS A 161      17.651  14.767  80.486  1.00 20.01      1HNF H   new
+ATOM   2612  HA  LYS A 161      17.019  12.346  78.893  1.00 22.63      1HNF H   new
+ATOM   2613 1HB  LYS A 161      15.124  13.978  78.922  1.00 23.34      1HNF H   new
+ATOM   2614 2HB  LYS A 161      16.220  15.245  78.355  1.00 23.34      1HNF H   new
+ATOM   2615 1HG  LYS A 161      16.653  13.745  76.290  1.00 25.51      1HNF H   new
+ATOM   2616 2HG  LYS A 161      15.282  12.772  76.835  1.00 25.51      1HNF H   new
+ATOM   2617 1HD  LYS A 161      13.935  14.944  76.990  1.00 27.38      1HNF H   new
+ATOM   2618 2HD  LYS A 161      15.289  15.759  76.196  1.00 27.38      1HNF H   new
+ATOM   2619 1HE  LYS A 161      15.060  14.174  74.261  1.00 26.57      1HNF H   new
+ATOM   2620 2HE  LYS A 161      13.648  13.456  75.048  1.00 26.57      1HNF H   new
+ATOM   2621 1HZ  LYS A 161      13.015  15.277  73.584  1.00 39.52      1HNF H + new
+ATOM   2622 2HZ  LYS A 161      12.653  15.670  75.127  1.00 39.52      1HNF H + new
+ATOM   2623 3HZ  LYS A 161      13.956  16.332  74.400  1.00 39.52      1HNF H + new
+ATOM   2624  N   CYS A 162      19.051  12.790  77.531  1.00 23.66      1HNF14
+ATOM   2625  CA  CYS A 162      20.285  13.000  76.779  1.00 21.14      1HNF14
+ATOM   2626  C   CYS A 162      20.082  12.614  75.313  1.00 24.42      1HNF14
+ATOM   2627  O   CYS A 162      19.668  11.489  75.016  1.00 27.34      1HNF14
+ATOM   2628  CB  CYS A 162      21.415  12.167  77.364  1.00 21.73      1HNF14
+ATOM   2629  SG  CYS A 162      23.020  12.644  76.668  1.00 15.87      1HNF14
+ATOM   2630  H   CYS A 162      18.674  11.866  77.465  1.00 23.66      1HNF H   new
+ATOM   2631  HA  CYS A 162      20.550  14.066  76.845  1.00 21.14      1HNF H   new
+ATOM   2632 1HB  CYS A 162      21.436  12.290  78.457  1.00 21.73      1HNF H   new
+ATOM   2633 2HB  CYS A 162      21.229  11.101  77.164  1.00 21.73      1HNF H   new
+ATOM   2634  N   THR A 163      20.302  13.574  74.412  1.00 25.29      1HNF14
+ATOM   2635  CA  THR A 163      20.166  13.364  72.967  1.00 21.42      1HNF14
+ATOM   2636  C   THR A 163      21.515  13.292  72.280  1.00 15.71      1HNF14
+ATOM   2637  O   THR A 163      22.472  13.960  72.675  1.00  5.32      1HNF14
+ATOM   2638  CB  THR A 163      19.485  14.534  72.285  1.00 23.48      1HNF14
+ATOM   2639  OG1 THR A 163      20.194  15.735  72.610  1.00 29.52      1HNF14
+ATOM   2640  CG2 THR A 163      18.055  14.640  72.703  1.00 27.50      1HNF14
+ATOM   2641  H   THR A 163      20.575  14.504  74.659  1.00 25.29      1HNF H   new
+ATOM   2642  HA  THR A 163      19.592  12.430  72.879  1.00 21.42      1HNF H   new
+ATOM   2643  HB  THR A 163      19.500  14.377  71.196  1.00 23.48      1HNF H   new
+ATOM   2644  HG1 THR A 163      19.753  16.514  72.165  1.00 29.52      1HNF H   new
+ATOM   2645 1HG2 THR A 163      17.586  15.495  72.194  1.00 27.50      1HNF H   new
+ATOM   2646 2HG2 THR A 163      17.524  13.716  72.431  1.00 27.50      1HNF H   new
+ATOM   2647 3HG2 THR A 163      18.001  14.787  73.792  1.00 27.50      1HNF H   new
+ATOM   2648  N   ALA A 164      21.560  12.535  71.201  1.00 13.93      1HNF14
+ATOM   2649  CA  ALA A 164      22.781  12.427  70.429  1.00 17.24      1HNF14
+ATOM   2650  C   ALA A 164      22.347  12.415  68.995  1.00 18.65      1HNF14
+ATOM   2651  O   ALA A 164      21.318  11.823  68.645  1.00 25.20      1HNF14
+ATOM   2652  CB  ALA A 164      23.537  11.156  70.772  1.00 12.22      1HNF14
+ATOM   2653  H   ALA A 164      20.790  12.002  70.850  1.00 13.93      1HNF H   new
+ATOM   2654  HA  ALA A 164      23.467  13.260  70.643  1.00 17.24      1HNF H   new
+ATOM   2655 1HB  ALA A 164      24.457  11.103  70.171  1.00 12.22      1HNF H   new
+ATOM   2656 2HB  ALA A 164      23.797  11.161  71.841  1.00 12.22      1HNF H   new
+ATOM   2657 3HB  ALA A 164      22.905  10.283  70.553  1.00 12.22      1HNF H   new
+ATOM   2658  N   GLY A 165      23.072  13.157  68.177  1.00 21.75      1HNF14
+ATOM   2659  CA  GLY A 165      22.746  13.198  66.767  1.00 19.50      1HNF14
+ATOM   2660  C   GLY A 165      23.907  13.631  65.893  1.00 24.64      1HNF14
+ATOM   2661  O   GLY A 165      24.948  14.130  66.370  1.00 22.04      1HNF14
+ATOM   2662  H   GLY A 165      23.855  13.715  68.452  1.00 21.75      1HNF H   new
+ATOM   2663 1HA  GLY A 165      22.408  12.201  66.447  1.00 19.50      1HNF H   new
+ATOM   2664 2HA  GLY A 165      21.903  13.888  66.613  1.00 19.50      1HNF H   new
+ATOM   2665  N   ASN A 166      23.752  13.314  64.609  1.00 25.23      1HNF14
+ATOM   2666  CA  ASN A 166      24.697  13.684  63.572  1.00 22.11      1HNF14
+ATOM   2667  C   ASN A 166      23.890  13.876  62.293  1.00 23.92      1HNF15
+ATOM   2668  O   ASN A 166      22.662  14.019  62.348  1.00 22.35      1HNF15
+ATOM   2669  CB  ASN A 166      25.897  12.699  63.447  1.00 13.55      1HNF15
+ATOM   2670  CG  ASN A 166      25.492  11.279  63.191  1.00 10.31      1HNF15
+ATOM   2671  OD1 ASN A 166      24.370  10.996  62.757  1.00 25.37      1HNF15
+ATOM   2672  ND2 ASN A 166      26.433  10.362  63.407  1.00 13.76      1HNF15
+ATOM   2673  H   ASN A 166      22.968  12.795  64.267  1.00 25.23      1HNF H   new
+ATOM   2674  HA  ASN A 166      25.205  14.626  63.825  1.00 22.11      1HNF H   new
+ATOM   2675 1HB  ASN A 166      26.552  13.036  62.630  1.00 13.55      1HNF H   new
+ATOM   2676 2HB  ASN A 166      26.490  12.740  64.372  1.00 13.55      1HNF H   new
+ATOM   2677 1HD2 ASN A 166      26.245   9.398  63.217  1.00 13.76      1HNF H   new
+ATOM   2678 2HD2 ASN A 166      27.328  10.637  63.759  1.00 13.76      1HNF H   new
+ATOM   2679  N   LYS A 167      24.567  13.906  61.152  1.00 27.85      1HNF15
+ATOM   2680  CA  LYS A 167      23.902  14.133  59.878  1.00 20.82      1HNF15
+ATOM   2681  C   LYS A 167      22.920  13.078  59.462  1.00 19.27      1HNF15
+ATOM   2682  O   LYS A 167      21.939  13.396  58.805  1.00 24.20      1HNF15
+ATOM   2683  CB  LYS A 167      24.925  14.295  58.776  1.00 26.40      1HNF15
+ATOM   2684  CG  LYS A 167      25.800  15.509  58.906  1.00 35.00      1HNF15
+ATOM   2685  CD  LYS A 167      25.136  16.725  58.292  1.00 42.51      1HNF15
+ATOM   2686  CE  LYS A 167      25.870  17.998  58.706  1.00 53.23      1HNF15
+ATOM   2687  NZ  LYS A 167      27.371  17.884  58.612  1.00 54.58      1HNF15
+ATOM   2688  H   LYS A 167      25.557  13.778  61.085  1.00 27.85      1HNF H   new
+ATOM   2689  HA  LYS A 167      23.317  15.051  60.037  1.00 20.82      1HNF H   new
+ATOM   2690 1HB  LYS A 167      25.564  13.400  58.753  1.00 26.40      1HNF H   new
+ATOM   2691 2HB  LYS A 167      24.400  14.340  57.811  1.00 26.40      1HNF H   new
+ATOM   2692 1HG  LYS A 167      26.013  15.700  59.968  1.00 35.00      1HNF H   new
+ATOM   2693 2HG  LYS A 167      26.765  15.325  58.412  1.00 35.00      1HNF H   new
+ATOM   2694 1HD  LYS A 167      25.133  16.635  57.196  1.00 42.51      1HNF H   new
+ATOM   2695 2HD  LYS A 167      24.085  16.779  58.613  1.00 42.51      1HNF H   new
+ATOM   2696 1HE  LYS A 167      25.533  18.830  58.070  1.00 53.23      1HNF H   new
+ATOM   2697 2HE  LYS A 167      25.593  18.251  59.740  1.00 53.23      1HNF H   new
+ATOM   2698 1HZ  LYS A 167      27.790  18.747  58.895  1.00 54.58      1HNF H + new
+ATOM   2699 2HZ  LYS A 167      27.688  17.148  59.210  1.00 54.58      1HNF H + new
+ATOM   2700 3HZ  LYS A 167      27.632  17.682  57.668  1.00 54.58      1HNF H + new
+ATOM   2701  N   VAL A 168      23.123  11.846  59.902  1.00 12.86      1HNF15
+ATOM   2702  CA  VAL A 168      22.246  10.759  59.469  1.00 20.11      1HNF15
+ATOM   2703  C   VAL A 168      21.267  10.146  60.489  1.00 20.52      1HNF15
+ATOM   2704  O   VAL A 168      20.367   9.369  60.128  1.00 22.72      1HNF15
+ATOM   2705  CB  VAL A 168      23.135   9.620  58.931  1.00 19.74      1HNF15
+ATOM   2706  CG1 VAL A 168      23.777  10.023  57.615  1.00 21.28      1HNF15
+ATOM   2707  CG2 VAL A 168      24.214   9.333  59.929  1.00 18.00      1HNF15
+ATOM   2708  H   VAL A 168      23.853  11.578  60.531  1.00 12.86      1HNF H   new
+ATOM   2709  HA  VAL A 168      21.588  11.237  58.728  1.00 20.11      1HNF H   new
+ATOM   2710  HB  VAL A 168      22.513   8.728  58.768  1.00 19.74      1HNF H   new
+ATOM   2711 1HG1 VAL A 168      24.407   9.200  57.246  1.00 21.28      1HNF H   new
+ATOM   2712 2HG1 VAL A 168      22.993  10.243  56.876  1.00 21.28      1HNF H   new
+ATOM   2713 3HG1 VAL A 168      24.397  10.918  57.768  1.00 21.28      1HNF H   new
+ATOM   2714 1HG2 VAL A 168      24.854   8.521  59.554  1.00 18.00      1HNF H   new
+ATOM   2715 2HG2 VAL A 168      24.822  10.237  60.083  1.00 18.00      1HNF H   new
+ATOM   2716 3HG2 VAL A 168      23.760   9.030  60.884  1.00 18.00      1HNF H   new
+ATOM   2717  N   SER A 169      21.422  10.497  61.754  1.00 17.14      1HNF15
+ATOM   2718  CA  SER A 169      20.586   9.873  62.743  1.00 23.96      1HNF15
+ATOM   2719  C   SER A 169      20.420  10.701  63.981  1.00 25.27      1HNF15
+ATOM   2720  O   SER A 169      21.162  11.638  64.220  1.00 27.61      1HNF15
+ATOM   2721  CB  SER A 169      21.263   8.591  63.152  1.00 21.29      1HNF15
+ATOM   2722  OG  SER A 169      22.583   8.929  63.512  1.00 18.57      1HNF15
+ATOM   2723  H   SER A 169      22.079  11.169  62.096  1.00 17.14      1HNF H   new
+ATOM   2724  HA  SER A 169      19.590   9.726  62.300  1.00 23.96      1HNF H   new
+ATOM   2725 1HB  SER A 169      21.257   7.865  62.326  1.00 21.29      1HNF H   new
+ATOM   2726 2HB  SER A 169      20.736   8.122  63.996  1.00 21.29      1HNF H   new
+ATOM   2727  HG  SER A 169      23.074   8.104  63.792  1.00 18.57      1HNF H   new
+ATOM   2728  N   LYS A 170      19.480  10.271  64.809  1.00 27.10      1HNF15
+ATOM   2729  CA  LYS A 170      19.191  10.927  66.065  1.00 20.20      1HNF15
+ATOM   2730  C   LYS A 170      18.633   9.877  66.990  1.00 25.47      1HNF15
+ATOM   2731  O   LYS A 170      17.692   9.143  66.620  1.00 30.36      1HNF15
+ATOM   2732  CB  LYS A 170      18.131  11.985  65.866  1.00 19.55      1HNF15
+ATOM   2733  CG  LYS A 170      18.555  13.371  66.269  1.00 30.29      1HNF15
+ATOM   2734  CD  LYS A 170      19.267  14.056  65.118  1.00 39.90      1HNF15
+ATOM   2735  CE  LYS A 170      19.709  15.466  65.487  1.00 45.95      1HNF15
+ATOM   2736  NZ  LYS A 170      18.602  16.251  66.111  1.00 50.34      1HNF15
+ATOM   2737  H   LYS A 170      18.909   9.471  64.627  1.00 27.10      1HNF H   new
+ATOM   2738  HA  LYS A 170      20.101  11.397  66.468  1.00 20.20      1HNF H   new
+ATOM   2739 1HB  LYS A 170      17.837  11.998  64.806  1.00 19.55      1HNF H   new
+ATOM   2740 2HB  LYS A 170      17.238  11.705  66.444  1.00 19.55      1HNF H   new
+ATOM   2741 1HG  LYS A 170      17.675  13.959  66.568  1.00 30.29      1HNF H   new
+ATOM   2742 2HG  LYS A 170      19.220  13.320  67.143  1.00 30.29      1HNF H   new
+ATOM   2743 1HD  LYS A 170      20.144  13.462  64.823  1.00 39.90      1HNF H   new
+ATOM   2744 2HD  LYS A 170      18.599  14.097  64.245  1.00 39.90      1HNF H   new
+ATOM   2745 1HE  LYS A 170      20.559  15.413  66.184  1.00 45.95      1HNF H   new
+ATOM   2746 2HE  LYS A 170      20.064  15.986  64.585  1.00 45.95      1HNF H   new
+ATOM   2747 1HZ  LYS A 170      18.930  17.168  66.338  1.00 50.34      1HNF H + new
+ATOM   2748 2HZ  LYS A 170      17.839  16.320  65.469  1.00 50.34      1HNF H + new
+ATOM   2749 3HZ  LYS A 170      18.295  15.791  66.944  1.00 50.34      1HNF H + new
+ATOM   2750  N   GLU A 171      19.269   9.731  68.149  1.00 21.54      1HNF15
+ATOM   2751  CA  GLU A 171      18.790   8.794  69.164  1.00 19.72      1HNF15
+ATOM   2752  C   GLU A 171      18.562   9.544  70.502  1.00 15.07      1HNF15
+ATOM   2753  O   GLU A 171      18.991  10.679  70.695  1.00 11.99      1HNF15
+ATOM   2754  CB  GLU A 171      19.719   7.585  69.278  1.00 20.66      1HNF15
+ATOM   2755  CG  GLU A 171      19.027   6.241  69.006  1.00 24.62      1HNF15
+ATOM   2756  CD  GLU A 171      18.367   6.155  67.647  1.00 34.21      1HNF15
+ATOM   2757  OE1 GLU A 171      19.043   5.785  66.662  1.00 45.09      1HNF15
+ATOM   2758  OE2 GLU A 171      17.153   6.435  67.554  1.00 44.44      1HNF15
+ATOM   2759  H   GLU A 171      20.095  10.235  68.404  1.00 21.54      1HNF H   new
+ATOM   2760  HA  GLU A 171      17.816   8.381  68.863  1.00 19.72      1HNF H   new
+ATOM   2761 1HB  GLU A 171      20.552   7.707  68.570  1.00 20.66      1HNF H   new
+ATOM   2762 2HB  GLU A 171      20.155   7.564  70.288  1.00 20.66      1HNF H   new
+ATOM   2763 1HG  GLU A 171      19.769   5.434  69.094  1.00 24.62      1HNF H   new
+ATOM   2764 2HG  GLU A 171      18.268   6.067  69.783  1.00 24.62      1HNF H   new
+ATOM   2765  N   SER A 172      17.799   8.963  71.406  1.00 23.13      1HNF15
+ATOM   2766  CA  SER A 172      17.517   9.663  72.660  1.00 17.52      1HNF15
+ATOM   2767  C   SER A 172      17.245   8.752  73.835  1.00 19.10      1HNF15
+ATOM   2768  O   SER A 172      16.744   7.648  73.657  1.00 26.43      1HNF15
+ATOM   2769  CB  SER A 172      16.325  10.556  72.449  1.00 19.60      1HNF15
+ATOM   2770  OG  SER A 172      15.784  10.939  73.677  1.00 31.99      1HNF15
+ATOM   2771  H   SER A 172      17.381   8.059  71.313  1.00 23.13      1HNF H   new
+ATOM   2772  HA  SER A 172      18.424  10.230  72.916  1.00 17.52      1HNF H   new
+ATOM   2773 1HB  SER A 172      15.565  10.030  71.853  1.00 19.60      1HNF H   new
+ATOM   2774 2HB  SER A 172      16.622  11.447  71.877  1.00 19.60      1HNF H   new
+ATOM   2775  HG  SER A 172      14.993  11.532  73.523  1.00 31.99      1HNF H   new
+ATOM   2776  N   SER A 173      17.576   9.212  75.039  1.00 20.93      1HNF15
+ATOM   2777  CA  SER A 173      17.337   8.411  76.247  1.00 24.93      1HNF15
+ATOM   2778  C   SER A 173      16.966   9.230  77.476  1.00 21.99      1HNF15
+ATOM   2779  O   SER A 173      17.608  10.227  77.753  1.00 26.35      1HNF15
+ATOM   2780  CB  SER A 173      18.544   7.533  76.537  1.00 22.42      1HNF15
+ATOM   2781  OG  SER A 173      18.651   6.537  75.523  1.00 34.37      1HNF15
+ATOM   2782  H   SER A 173      17.996  10.104  75.205  1.00 20.93      1HNF H   new
+ATOM   2783  HA  SER A 173      16.457   7.787  76.030  1.00 24.93      1HNF H   new
+ATOM   2784 1HB  SER A 173      18.440   7.060  77.524  1.00 22.42      1HNF H   new
+ATOM   2785 2HB  SER A 173      19.459   8.143  76.567  1.00 22.42      1HNF H   new
+ATOM   2786  HG  SER A 173      19.444   5.956  75.708  1.00 34.37      1HNF H   new
+ATOM   2787  N   VAL A 174      15.894   8.835  78.172  1.00 25.92      1HNF15
+ATOM   2788  CA  VAL A 174      15.430   9.531  79.394  1.00 18.32      1HNF15
+ATOM   2789  C   VAL A 174      15.524   8.593  80.589  1.00 19.45      1HNF15
+ATOM   2790  O   VAL A 174      15.162   7.423  80.498  1.00 19.65      1HNF15
+ATOM   2791  CB  VAL A 174      13.985   9.995  79.284  1.00 15.38      1HNF15
+ATOM   2792  CG1 VAL A 174      13.822  10.907  78.099  1.00 15.74      1HNF15
+ATOM   2793  CG2 VAL A 174      13.085   8.818  79.121  1.00 16.60      1HNF15
+ATOM   2794  H   VAL A 174      15.334   8.047  77.918  1.00 25.92      1HNF H   new
+ATOM   2795  HA  VAL A 174      16.077  10.411  79.521  1.00 18.32      1HNF H   new
+ATOM   2796  HB  VAL A 174      13.720  10.539  80.203  1.00 15.38      1HNF H   new
+ATOM   2797 1HG1 VAL A 174      12.774  11.236  78.030  1.00 15.74      1HNF H   new
+ATOM   2798 2HG1 VAL A 174      14.474  11.785  78.219  1.00 15.74      1HNF H   new
+ATOM   2799 3HG1 VAL A 174      14.098  10.368  77.180  1.00 15.74      1HNF H   new
+ATOM   2800 1HG2 VAL A 174      12.043   9.161  79.042  1.00 16.60      1HNF H   new
+ATOM   2801 2HG2 VAL A 174      13.360   8.269  78.208  1.00 16.60      1HNF H   new
+ATOM   2802 3HG2 VAL A 174      13.187   8.154  79.992  1.00 16.60      1HNF H   new
+ATOM   2803  N   GLU A 175      16.035   9.088  81.707  1.00 21.14      1HNF15
+ATOM   2804  CA  GLU A 175      16.166   8.249  82.897  1.00 27.47      1HNF15
+ATOM   2805  C   GLU A 175      15.803   9.018  84.173  1.00 29.45      1HNF15
+ATOM   2806  O   GLU A 175      16.374  10.078  84.466  1.00 29.93      1HNF15
+ATOM   2807  CB  GLU A 175      17.594   7.707  83.004  1.00 29.42      1HNF15
+ATOM   2808  CG  GLU A 175      17.717   6.326  83.642  1.00 42.56      1HNF15
+ATOM   2809  CD  GLU A 175      17.316   5.182  82.711  1.00 47.71      1HNF15
+ATOM   2810  OE1 GLU A 175      16.130   5.108  82.307  1.00 52.24      1HNF15
+ATOM   2811  OE2 GLU A 175      18.189   4.342  82.396  1.00 49.56      1HNF15
+ATOM   2812  H   GLU A 175      16.355  10.029  81.817  1.00 21.14      1HNF H   new
+ATOM   2813  HA  GLU A 175      15.461   7.411  82.795  1.00 27.47      1HNF H   new
+ATOM   2814 1HB  GLU A 175      18.031   7.668  81.995  1.00 29.42      1HNF H   new
+ATOM   2815 2HB  GLU A 175      18.196   8.418  83.588  1.00 29.42      1HNF H   new
+ATOM   2816 1HG  GLU A 175      18.756   6.174  83.969  1.00 42.56      1HNF H   new
+ATOM   2817 2HG  GLU A 175      17.088   6.291  84.544  1.00 42.56      1HNF H   new
+ATOM   2818  N   PRO A 176      14.796   8.528  84.914  1.00 29.13      1HNF15
+ATOM   2819  CA  PRO A 176      14.368   9.176  86.160  1.00 26.01      1HNF15
+ATOM   2820  C   PRO A 176      15.402   8.928  87.266  1.00 24.58      1HNF15
+ATOM   2821  O   PRO A 176      15.720   7.783  87.618  1.00 29.58      1HNF15
+ATOM   2822  CB  PRO A 176      13.044   8.478  86.457  1.00 27.32      1HNF15
+ATOM   2823  CG  PRO A 176      13.268   7.102  85.933  1.00 27.13      1HNF15
+ATOM   2824  CD  PRO A 176      13.932   7.377  84.601  1.00 28.73      1HNF15
+ATOM   2825  HA  PRO A 176      14.267  10.269  86.091  1.00 26.01      1HNF H   new
+ATOM   2826 1HB  PRO A 176      12.819   8.473  87.534  1.00 27.32      1HNF H   new
+ATOM   2827 2HB  PRO A 176      12.200   8.973  85.954  1.00 27.32      1HNF H   new
+ATOM   2828 1HG  PRO A 176      13.911   6.507  86.599  1.00 27.13      1HNF H   new
+ATOM   2829 2HG  PRO A 176      12.325   6.547  85.816  1.00 27.13      1HNF H   new
+ATOM   2830 1HD  PRO A 176      14.512   6.513  84.245  1.00 28.73      1HNF H   new
+ATOM   2831 2HD  PRO A 176      13.198   7.616  83.818  1.00 28.73      1HNF H   new
+ATOM   2832  N   VAL A 177      15.954  10.007  87.792  1.00 11.75      1HNF15
+ATOM   2833  CA  VAL A 177      16.947   9.872  88.819  1.00 13.81      1HNF15
+ATOM   2834  C   VAL A 177      16.435  10.274  90.193  1.00 20.54      1HNF15
+ATOM   2835  O   VAL A 177      15.803  11.326  90.350  1.00 22.32      1HNF15
+ATOM   2836  CB  VAL A 177      18.178  10.697  88.445  1.00 15.12      1HNF15
+ATOM   2837  CG1 VAL A 177      19.114  10.835  89.638  1.00 10.64      1HNF15
+ATOM   2838  CG2 VAL A 177      18.886  10.043  87.252  1.00 11.27      1HNF15
+ATOM   2839  H   VAL A 177      15.735  10.947  87.530  1.00 11.75      1HNF H   new
+ATOM   2840  HA  VAL A 177      17.212   8.806  88.886  1.00 13.81      1HNF H   new
+ATOM   2841  HB  VAL A 177      17.864  11.711  88.155  1.00 15.12      1HNF H   new
+ATOM   2842 1HG1 VAL A 177      19.992  11.431  89.349  1.00 10.64      1HNF H   new
+ATOM   2843 2HG1 VAL A 177      18.586  11.337  90.463  1.00 10.64      1HNF H   new
+ATOM   2844 3HG1 VAL A 177      19.441   9.837  89.966  1.00 10.64      1HNF H   new
+ATOM   2845 1HG2 VAL A 177      19.772  10.635  86.981  1.00 11.27      1HNF H   new
+ATOM   2846 2HG2 VAL A 177      19.196   9.023  87.523  1.00 11.27      1HNF H   new
+ATOM   2847 3HG2 VAL A 177      18.198  10.001  86.395  1.00 11.27      1HNF H   new
+ATOM   2848  N   SER A 178      16.740   9.446  91.194  1.00 18.92      1HNF15
+ATOM   2849  CA  SER A 178      16.317   9.727  92.562  1.00 13.02      1HNF15
+ATOM   2850  C   SER A 178      17.442   9.470  93.545  1.00 15.54      1HNF15
+ATOM   2851  O   SER A 178      17.904   8.340  93.699  1.00 23.54      1HNF15
+ATOM   2852  CB  SER A 178      15.107   8.856  92.949  1.00 22.45      1HNF15
+ATOM   2853  OG  SER A 178      13.966   9.052  92.106  1.00 30.08      1HNF15
+ATOM   2854  H   SER A 178      17.263   8.601  91.085  1.00 18.92      1HNF H   new
+ATOM   2855  HA  SER A 178      16.035  10.789  92.605  1.00 13.02      1HNF H   new
+ATOM   2856 1HB  SER A 178      14.826   9.076  93.989  1.00 22.45      1HNF H   new
+ATOM   2857 2HB  SER A 178      15.402   7.797  92.912  1.00 22.45      1HNF H   new
+ATOM   2858  HG  SER A 178      13.220   8.460  92.411  1.00 30.08      1HNF H   new
+ATOM   2859  N   CYS A 179      17.969  10.525  94.142  1.00 10.93      1HNF15
+ATOM   2860  CA  CYS A 179      18.986  10.339  95.145  1.00 19.27      1HNF15
+ATOM   2861  C   CYS A 179      18.518  10.942  96.446  1.00 25.23      1HNF15
+ATOM   2862  O   CYS A 179      18.454  12.156  96.564  1.00 30.11      1HNF15
+ATOM   2863  CB  CYS A 179      20.289  11.008  94.741  1.00 20.94      1HNF15
+ATOM   2864  SG  CYS A 179      20.945  10.384  93.187  1.00 18.06      1HNF15
+ATOM   2865  H   CYS A 179      17.719  11.475  93.956  1.00 10.93      1HNF H   new
+ATOM   2866  HA  CYS A 179      19.163   9.259  95.256  1.00 19.27      1HNF H   new
+ATOM   2867 1HB  CYS A 179      20.127  12.093  94.655  1.00 20.94      1HNF H   new
+ATOM   2868 2HB  CYS A 179      21.035  10.856  95.535  1.00 20.94      1HNF H   new
+ATOM   2869  N   PRO A 180      18.095  10.103  97.406  1.00 32.60      1HNF16
+ATOM   2870  CA  PRO A 180      17.631  10.578  98.717  1.00 39.45      1HNF16
+ATOM   2871  C   PRO A 180      18.849  11.096  99.492  1.00 48.58      1HNF16
+ATOM   2872  O   PRO A 180      18.735  11.982 100.346  1.00 49.63      1HNF16
+ATOM   2873  CB  PRO A 180      17.089   9.305  99.363  1.00 34.18      1HNF16
+ATOM   2874  CG  PRO A 180      16.674   8.478  98.200  1.00 29.60      1HNF16
+ATOM   2875  CD  PRO A 180      17.796   8.673  97.234  1.00 29.86      1HNF16
+ATOM   2876  HA  PRO A 180      16.886  11.386  98.681  1.00 39.45      1HNF H   new
+ATOM   2877 1HB  PRO A 180      17.856   8.799  99.967  1.00 34.18      1HNF H   new
+ATOM   2878 2HB  PRO A 180      16.242   9.519 100.032  1.00 34.18      1HNF H   new
+ATOM   2879 1HG  PRO A 180      16.552   7.420  98.475  1.00 29.60      1HNF H   new
+ATOM   2880 2HG  PRO A 180      15.714   8.815  97.783  1.00 29.60      1HNF H   new
+ATOM   2881 1HD  PRO A 180      18.662   8.039  97.474  1.00 29.86      1HNF H   new
+ATOM   2882 2HD  PRO A 180      17.498   8.435  96.202  1.00 29.86      1HNF H   new
+ATOM   2883  N   GLU A 181      20.006  10.515  99.153  1.00 59.29      1HNF16
+ATOM   2884  CA  GLU A 181      21.321  10.812  99.730  1.00 66.91      1HNF16
+ATOM   2885  C   GLU A 181      21.367  11.030 101.246  1.00 73.14      1HNF16
+ATOM   2886  O   GLU A 181      21.561  12.163 101.725  1.00 76.53      1HNF16
+ATOM   2887  CB  GLU A 181      21.980  11.965  98.987  1.00 63.89      1HNF16
+ATOM   2888  CG  GLU A 181      22.236  11.653  97.531  1.00 65.92      1HNF16
+ATOM   2889  CD  GLU A 181      22.704  12.868  96.747  1.00 68.26      1HNF16
+ATOM   2890  OE1 GLU A 181      23.854  13.298  96.990  1.00 70.02      1HNF16
+ATOM   2891  OE2 GLU A 181      21.928  13.397  95.908  1.00 62.80      1HNF16
+ATOM   2892  H   GLU A 181      20.051   9.806  98.450  1.00 59.29      1HNF H   new
+ATOM   2893  HA  GLU A 181      21.897   9.886  99.587  1.00 66.91      1HNF H   new
+ATOM   2894 1HB  GLU A 181      21.339  12.856  99.059  1.00 63.89      1HNF H   new
+ATOM   2895 2HB  GLU A 181      22.933  12.214  99.477  1.00 63.89      1HNF H   new
+ATOM   2896 1HG  GLU A 181      22.994  10.859  97.458  1.00 65.92      1HNF H   new
+ATOM   2897 2HG  GLU A 181      21.314  11.260  97.076  1.00 65.92      1HNF H   new
+ATOM   2898  N   LYS A 182      21.228   9.918 101.978  1.00 76.23      1HNF16
+ATOM   2899  CA  LYS A 182      21.234   9.893 103.446  1.00 78.77      1HNF16
+ATOM   2900  C   LYS A 182      21.037   8.456 103.956  1.00 78.38      1HNF16
+ATOM   2901  O   LYS A 182      19.911   7.912 103.860  1.00 76.30      1HNF16
+ATOM   2902  CB  LYS A 182      20.140  10.828 103.991  1.00 80.84      1HNF16
+ATOM   2903  CG  LYS A 182      19.865  10.775 105.492  1.00 78.38      1HNF16
+ATOM   2904  CD  LYS A 182      18.917  11.908 105.893  1.00 78.06      1HNF16
+ATOM   2905  CE  LYS A 182      17.821  12.177 104.842  1.00 77.19      1HNF16
+ATOM   2906  NZ  LYS A 182      16.787  11.110 104.732  1.00 73.79      1HNF16
+ATOM   2907  OXT LYS A 182      22.034   7.879 104.434  1.00 78.80      1HNF16
+ATOM   2908  H   LYS A 182      21.109   9.014 101.569  1.00 76.23      1HNF H   new
+ATOM   2909  HA  LYS A 182      22.209  10.251 103.809  1.00 78.77      1HNF H   new
+ATOM   2910 1HB  LYS A 182      20.413  11.861 103.730  1.00 80.84      1HNF H   new
+ATOM   2911 2HB  LYS A 182      19.202  10.600 103.464  1.00 80.84      1HNF H   new
+ATOM   2912 1HG  LYS A 182      19.422   9.804 105.758  1.00 78.38      1HNF H   new
+ATOM   2913 2HG  LYS A 182      20.809  10.861 106.049  1.00 78.38      1HNF H   new
+ATOM   2914 1HD  LYS A 182      18.443  11.659 106.854  1.00 78.06      1HNF H   new
+ATOM   2915 2HD  LYS A 182      19.500  12.828 106.051  1.00 78.06      1HNF H   new
+ATOM   2916 1HE  LYS A 182      17.323  13.127 105.087  1.00 77.19      1HNF H   new
+ATOM   2917 2HE  LYS A 182      18.299  12.308 103.860  1.00 77.19      1HNF H   new
+ATOM   2918 1HZ  LYS A 182      16.119  11.363 104.032  1.00 73.79      1HNF H + new
+ATOM   2919 2HZ  LYS A 182      17.224  10.247 104.479  1.00 73.79      1HNF H + new
+ATOM   2920 3HZ  LYS A 182      16.323  11.003 105.611  1.00 73.79      1HNF H + new
+ENDA

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml>
+  <interaction>
+    <P1ID>1AVX_l_b</P1ID>
+    <P2ID>1AVX_r_b</P2ID>
+    <error_id>I_NO_SCORE</error_id>
+    <error>Due to the lack of scored interaction signatures</error>
+  </interaction>
+</xml>

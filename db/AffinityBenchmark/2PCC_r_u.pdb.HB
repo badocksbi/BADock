@@ -1,0 +1,4591 @@
+USER  MOD reduceV2.21 H: found=0, std=0, add=2207, rem=0, adj=0
+ATOM      1  N   THR A   2      -4.845  53.993  -6.119  1.00101.08      1CCP 1
+ATOM      2  CA  THR A   2      -6.410  53.352  -5.242  1.00101.34      1CCP 1
+ATOM      3  C   THR A   2      -5.856  52.839  -3.905  1.00100.73      1CCP 1
+ATOM      4  O   THR A   2      -5.922  53.531  -2.862  1.00103.35      1CCP 1
+ATOM      5  N   PRO A   3      -5.302  51.630  -3.963  1.00 97.67      1CCP 1
+ATOM      6  CA  PRO A   3      -4.656  51.049  -2.766  1.00 92.67      1CCP 1
+ATOM      7  C   PRO A   3      -3.343  51.807  -2.532  1.00 86.57      1CCP 1
+ATOM      8  O   PRO A   3      -2.636  52.217  -3.489  1.00 86.60      1CCP 1
+ATOM      9  CB  PRO A   3      -4.465  49.583  -3.154  1.00 94.57      1CCP 1
+ATOM     10  CG  PRO A   3      -4.332  49.576  -4.660  1.00 95.95      1CCP 1
+ATOM     11  CD  PRO A   3      -5.164  50.763  -5.148  1.00 97.13      1CCP 1
+ATOM     12  HA  PRO A   3      -5.219  51.124  -1.824  1.00 92.67      1CCP H   new
+ATOM     13 1HB  PRO A   3      -3.569  49.161  -2.676  1.00 94.57      1CCP H   new
+ATOM     14 2HB  PRO A   3      -5.321  48.973  -2.829  1.00 94.57      1CCP H   new
+ATOM     15 1HG  PRO A   3      -3.280  49.677  -4.965  1.00 95.95      1CCP H   new
+ATOM     16 2HG  PRO A   3      -4.701  48.631  -5.086  1.00 95.95      1CCP H   new
+ATOM     17 1HD  PRO A   3      -4.664  51.290  -5.974  1.00 97.13      1CCP H   new
+ATOM     18 2HD  PRO A   3      -6.146  50.437  -5.522  1.00 97.13      1CCP H   new
+ATOM     19  N   LEU A   4      -3.020  52.029  -1.261  1.00 77.58      1CCP 1
+ATOM     20  CA  LEU A   4      -1.734  52.662  -0.915  1.00 66.55      1CCP 1
+ATOM     21  C   LEU A   4      -0.699  51.813  -1.680  1.00 59.64      1CCP 1
+ATOM     22  O   LEU A   4      -1.024  50.663  -2.023  1.00 59.74      1CCP 1
+ATOM     23  CB  LEU A   4      -1.469  52.355   0.571  1.00 68.16      1CCP 1
+ATOM     24  CG  LEU A   4      -2.350  52.940   1.637  1.00 69.45      1CCP 1
+ATOM     25  CD1 LEU A   4      -1.896  54.388   1.885  1.00 71.55      1CCP 1
+ATOM     26  CD2 LEU A   4      -3.811  52.912   1.202  1.00 71.63      1CCP 1
+ATOM     27  H   LEU A   4      -3.598  51.794  -0.480  1.00 77.58      1CCP H   new
+ATOM     28  HA  LEU A   4      -1.708  53.741  -1.129  1.00 66.55      1CCP H   new
+ATOM     29 1HB  LEU A   4      -1.500  51.262   0.688  1.00 68.16      1CCP H   new
+ATOM     30 2HB  LEU A   4      -0.439  52.673   0.790  1.00 68.16      1CCP H   new
+ATOM     31  HG  LEU A   4      -2.266  52.349   2.561  1.00 69.45      1CCP H   new
+ATOM     32 1HD1 LEU A   4      -2.526  54.842   2.664  1.00 71.55      1CCP H   new
+ATOM     33 2HD1 LEU A   4      -0.847  54.392   2.214  1.00 71.55      1CCP H   new
+ATOM     34 3HD1 LEU A   4      -1.990  54.967   0.954  1.00 71.55      1CCP H   new
+ATOM     35 1HD2 LEU A   4      -4.439  53.344   1.995  1.00 71.63      1CCP H   new
+ATOM     36 2HD2 LEU A   4      -3.931  53.499   0.280  1.00 71.63      1CCP H   new
+ATOM     37 3HD2 LEU A   4      -4.119  51.872   1.017  1.00 71.63      1CCP H   new
+ATOM     38  N   VAL A   5       0.475  52.330  -1.845  1.00 52.68      1CCP 1
+ATOM     39  CA  VAL A   5       1.583  51.524  -2.422  1.00 47.89      1CCP 1
+ATOM     40  C   VAL A   5       2.669  51.727  -1.360  1.00 46.05      1CCP 1
+ATOM     41  O   VAL A   5       2.752  52.877  -0.898  1.00 47.71      1CCP 1
+ATOM     42  CB  VAL A   5       1.914  51.882  -3.848  1.00 46.89      1CCP 1
+ATOM     43  CG1 VAL A   5       2.854  50.884  -4.518  1.00 44.42      1CCP 1
+ATOM     44  CG2 VAL A   5       0.606  51.972  -4.645  1.00 50.24      1CCP 1
+ATOM     45  H   VAL A   5       0.718  53.271  -1.608  1.00 52.68      1CCP H   new
+ATOM     46  HA  VAL A   5       1.369  50.457  -2.580  1.00 47.89      1CCP H   new
+ATOM     47  HB  VAL A   5       2.442  52.847  -3.834  1.00 46.89      1CCP H   new
+ATOM     48 1HG1 VAL A   5       3.053  51.204  -5.551  1.00 44.42      1CCP H   new
+ATOM     49 2HG1 VAL A   5       3.801  50.839  -3.960  1.00 44.42      1CCP H   new
+ATOM     50 3HG1 VAL A   5       2.387  49.888  -4.527  1.00 44.42      1CCP H   new
+ATOM     51 1HG2 VAL A   5       0.830  52.233  -5.690  1.00 50.24      1CCP H   new
+ATOM     52 2HG2 VAL A   5       0.089  51.002  -4.613  1.00 50.24      1CCP H   new
+ATOM     53 3HG2 VAL A   5      -0.040  52.746  -4.205  1.00 50.24      1CCP H   new
+ATOM     54  N   HIS A   6       3.310  50.669  -0.963  1.00 41.22      1CCP 1
+ATOM     55  CA  HIS A   6       4.366  50.733   0.066  1.00 37.33      1CCP 1
+ATOM     56  C   HIS A   6       5.590  50.114  -0.597  1.00 35.78      1CCP 1
+ATOM     57  O   HIS A   6       5.572  48.887  -0.776  1.00 35.54      1CCP 1
+ATOM     58  CB  HIS A   6       4.103  49.905   1.320  1.00 37.84      1CCP 1
+ATOM     59  CG  HIS A   6       2.810  50.310   1.946  1.00 40.84      1CCP 1
+ATOM     60  ND1 HIS A   6       2.639  51.547   2.516  1.00 43.83      1CCP 1
+ATOM     61  CD2 HIS A   6       1.674  49.631   2.168  1.00 41.66      1CCP 1
+ATOM     62  CE1 HIS A   6       1.430  51.642   3.038  1.00 43.09      1CCP 1
+ATOM     63  NE2 HIS A   6       0.837  50.492   2.839  1.00 44.37      1CCP 1
+ATOM     64  H   HIS A   6       3.139  49.750  -1.318  1.00 41.22      1CCP H   new
+ATOM     65  HA  HIS A   6       4.455  51.779   0.393  1.00 37.33      1CCP H   new
+ATOM     66 1HB  HIS A   6       4.075  48.836   1.063  1.00 37.84      1CCP H   new
+ATOM     67 2HB  HIS A   6       4.925  50.042   2.038  1.00 37.84      1CCP H   new
+ATOM     68  HD1 HIS A   6       3.329  52.270   2.533  1.00 43.83      1CCP H   new
+ATOM     69  HD2 HIS A   6       1.456  48.594   1.873  1.00 41.66      1CCP H   new
+ATOM     70  HE1 HIS A   6       1.002  52.520   3.544  1.00 43.09      1CCP H   new
+ATOM     71  HE2 HIS A   6      -0.093  50.271   3.133  1.00 44.37      1CCP H   new
+ATOM     72  N   VAL A   7       6.482  50.988  -1.000  1.00 34.85      1CCP 1
+ATOM     73  CA  VAL A   7       7.678  50.471  -1.702  1.00 32.23      1CCP 1
+ATOM     74  C   VAL A   7       8.730  50.305  -0.618  1.00 29.28      1CCP 1
+ATOM     75  O   VAL A   7       8.872  51.191   0.247  1.00 29.07      1CCP 1
+ATOM     76  CB  VAL A   7       8.055  51.370  -2.875  1.00 35.98      1CCP 1
+ATOM     77  CG1 VAL A   7       9.235  50.770  -3.648  1.00 37.44      1CCP 1
+ATOM     78  CG2 VAL A   7       6.853  51.545  -3.805  1.00 37.89      1CCP 1
+ATOM     79  H   VAL A   7       6.432  51.979  -0.878  1.00 34.85      1CCP H   new
+ATOM     80  HA  VAL A   7       7.524  49.499  -2.193  1.00 32.23      1CCP H   new
+ATOM     81  HB  VAL A   7       8.354  52.354  -2.485  1.00 35.98      1CCP H   new
+ATOM     82 1HG1 VAL A   7       9.495  51.428  -4.490  1.00 37.44      1CCP H   new
+ATOM     83 2HG1 VAL A   7      10.102  50.673  -2.978  1.00 37.44      1CCP H   new
+ATOM     84 3HG1 VAL A   7       8.956  49.778  -4.032  1.00 37.44      1CCP H   new
+ATOM     85 1HG2 VAL A   7       7.132  52.194  -4.648  1.00 37.89      1CCP H   new
+ATOM     86 2HG2 VAL A   7       6.539  50.563  -4.188  1.00 37.89      1CCP H   new
+ATOM     87 3HG2 VAL A   7       6.022  52.004  -3.249  1.00 37.89      1CCP H   new
+ATOM     88  N   ALA A   8       9.357  49.170  -0.717  1.00 25.94      1CCP 1
+ATOM     89  CA  ALA A   8      10.419  48.872   0.299  1.00 29.92      1CCP 1
+ATOM     90  C   ALA A   8      11.606  49.795  -0.018  1.00 30.87      1CCP 1
+ATOM     91  O   ALA A   8      11.968  49.847  -1.209  1.00 33.51      1CCP 1
+ATOM     92  CB  ALA A   8      10.913  47.445   0.067  1.00 26.93      1CCP 1
+ATOM     93  H   ALA A   8       9.198  48.469  -1.412  1.00 25.94      1CCP H   new
+ATOM     94  HA  ALA A   8      10.036  49.005   1.322  1.00 29.92      1CCP H   new
+ATOM     95 1HB  ALA A   8      11.695  47.203   0.802  1.00 26.93      1CCP H   new
+ATOM     96 2HB  ALA A   8      10.074  46.743   0.180  1.00 26.93      1CCP H   new
+ATOM     97 3HB  ALA A   8      11.327  47.360  -0.949  1.00 26.93      1CCP H   new
+ATOM     98  N   SER A   9      12.190  50.387   0.970  1.00 30.81      1CCP 1
+ATOM     99  CA  SER A   9      13.381  51.244   0.722  1.00 32.62      1CCP 1
+ATOM    100  C   SER A   9      14.492  50.879   1.689  1.00 29.41      1CCP 1
+ATOM    101  O   SER A   9      14.365  51.141   2.918  1.00 27.57      1CCP 1
+ATOM    102  CB  SER A   9      12.967  52.724   0.822  1.00 34.48      1CCP 1
+ATOM    103  OG  SER A   9      14.122  53.441   0.415  1.00 43.05      1CCP 1
+ATOM    104  H   SER A   9      11.904  50.320   1.926  1.00 30.81      1CCP H   new
+ATOM    105  HA  SER A   9      13.774  51.075  -0.291  1.00 32.62      1CCP H   new
+ATOM    106 1HB  SER A   9      12.671  52.989   1.848  1.00 34.48      1CCP H   new
+ATOM    107 2HB  SER A   9      12.108  52.945   0.172  1.00 34.48      1CCP H   new
+ATOM    108  HG  SER A   9      13.936  54.423   0.452  1.00 43.05      1CCP H   new
+ATOM    109  N   VAL A  10      15.538  50.234   1.185  1.00 25.59      1CCP 1
+ATOM    110  CA  VAL A  10      16.638  49.857   2.066  1.00 28.79      1CCP 1
+ATOM    111  C   VAL A  10      17.129  51.051   2.896  1.00 30.87      1CCP 1
+ATOM    112  O   VAL A  10      17.331  52.139   2.363  1.00 33.07      1CCP 1
+ATOM    113  CB  VAL A  10      17.858  49.320   1.289  1.00 31.04      1CCP 1
+ATOM    114  CG1 VAL A  10      19.036  49.087   2.234  1.00 29.59      1CCP 1
+ATOM    115  CG2 VAL A  10      17.431  48.074   0.526  1.00 35.01      1CCP 1
+ATOM    116  H   VAL A  10      15.646  49.974   0.226  1.00 25.59      1CCP H   new
+ATOM    117  HA  VAL A  10      16.229  49.069   2.715  1.00 28.79      1CCP H   new
+ATOM    118  HB  VAL A  10      18.213  50.057   0.554  1.00 31.04      1CCP H   new
+ATOM    119 1HG1 VAL A  10      19.895  48.705   1.663  1.00 29.59      1CCP H   new
+ATOM    120 2HG1 VAL A  10      19.311  50.035   2.719  1.00 29.59      1CCP H   new
+ATOM    121 3HG1 VAL A  10      18.751  48.353   3.002  1.00 29.59      1CCP H   new
+ATOM    122 1HG2 VAL A  10      18.289  47.675  -0.036  1.00 35.01      1CCP H   new
+ATOM    123 2HG2 VAL A  10      17.073  47.314   1.236  1.00 35.01      1CCP H   new
+ATOM    124 3HG2 VAL A  10      16.623  48.331  -0.174  1.00 35.01      1CCP H   new
+ATOM    125  N   GLU A  11      17.398  50.753   4.149  1.00 29.95      1CCP 1
+ATOM    126  CA  GLU A  11      17.976  51.747   5.068  1.00 29.03      1CCP 1
+ATOM    127  C   GLU A  11      19.300  52.111   4.376  1.00 28.57      1CCP 1
+ATOM    128  O   GLU A  11      20.104  51.285   3.892  1.00 26.01      1CCP 1
+ATOM    129  CB  GLU A  11      18.154  51.174   6.468  1.00 28.34      1CCP 1
+ATOM    130  CG  GLU A  11      16.823  51.018   7.219  1.00 29.34      1CCP 1
+ATOM    131  CD  GLU A  11      16.162  49.640   7.120  1.00 26.47      1CCP 1
+ATOM    132  OE1 GLU A  11      15.344  49.308   8.008  1.00 26.33      1CCP 2
+ATOM    133  OE2 GLU A  11      16.484  48.949   6.129  1.00 20.43      1CCP 2
+ATOM    134  H   GLU A  11      17.235  49.855   4.558  1.00 29.95      1CCP H   new
+ATOM    135  HA  GLU A  11      17.342  52.630   5.236  1.00 29.03      1CCP H   new
+ATOM    136 1HB  GLU A  11      18.648  50.194   6.398  1.00 28.34      1CCP H   new
+ATOM    137 2HB  GLU A  11      18.822  51.830   7.046  1.00 28.34      1CCP H   new
+ATOM    138 1HG  GLU A  11      16.994  51.247   8.281  1.00 29.34      1CCP H   new
+ATOM    139 2HG  GLU A  11      16.118  51.771   6.837  1.00 29.34      1CCP H   new
+ATOM    140  N   LYS A  12      19.452  53.399   4.219  1.00 29.45      1CCP 2
+ATOM    141  CA  LYS A  12      20.573  53.963   3.451  1.00 29.31      1CCP 2
+ATOM    142  C   LYS A  12      21.936  53.461   3.848  1.00 27.73      1CCP 2
+ATOM    143  O   LYS A  12      22.437  53.659   4.980  1.00 23.35      1CCP 2
+ATOM    144  CB  LYS A  12      20.468  55.480   3.515  1.00 35.42      1CCP 2
+ATOM    145  CG  LYS A  12      20.832  56.100   2.150  1.00 44.01      1CCP 2
+ATOM    146  CD  LYS A  12      20.934  57.610   2.322  1.00 50.28      1CCP 2
+ATOM    147  CE  LYS A  12      19.722  58.154   3.084  1.00 55.06      1CCP 2
+ATOM    148  H   LYS A  12      18.831  54.083   4.601  1.00 29.45      1CCP H   new
+ATOM    149  HA  LYS A  12      20.480  53.612   2.413  1.00 29.31      1CCP H   new
+ATOM    150 1HB  LYS A  12      19.446  55.772   3.798  1.00 35.42      1CCP H   new
+ATOM    151 2HB  LYS A  12      21.141  55.869   4.294  1.00 35.42      1CCP H   new
+ATOM    152 1HG  LYS A  12      21.786  55.691   1.785  1.00 44.01      1CCP H   new
+ATOM    153 2HG  LYS A  12      20.067  55.851   1.400  1.00 44.01      1CCP H   new
+ATOM    154 1HD  LYS A  12      21.857  57.860   2.865  1.00 50.28      1CCP H   new
+ATOM    155 2HD  LYS A  12      21.000  58.093   1.336  1.00 50.28      1CCP H   new
+ATOM    156  N   GLY A  13      22.550  52.770   2.896  1.00 24.45      1CCP 2
+ATOM    157  CA  GLY A  13      23.895  52.262   3.038  1.00 28.63      1CCP 2
+ATOM    158  C   GLY A  13      24.126  51.076   3.939  1.00 33.47      1CCP 2
+ATOM    159  O   GLY A  13      25.311  50.773   4.288  1.00 34.02      1CCP 2
+ATOM    160  H   GLY A  13      22.127  52.553   2.016  1.00 24.45      1CCP H   new
+ATOM    161 1HA  GLY A  13      24.259  51.996   2.035  1.00 28.63      1CCP H   new
+ATOM    162 2HA  GLY A  13      24.527  53.086   3.401  1.00 28.63      1CCP H   new
+ATOM    163  N   ARG A  14      23.020  50.420   4.323  1.00 31.33      1CCP 2
+ATOM    164  CA  ARG A  14      23.231  49.223   5.196  1.00 28.99      1CCP 2
+ATOM    165  C   ARG A  14      23.249  47.998   4.302  1.00 29.09      1CCP 2
+ATOM    166  O   ARG A  14      22.606  48.030   3.236  1.00 29.57      1CCP 2
+ATOM    167  CB  ARG A  14      22.078  49.153   6.177  1.00 28.40      1CCP 2
+ATOM    168  CG  ARG A  14      21.968  50.433   6.999  1.00 29.23      1CCP 2
+ATOM    169  CD  ARG A  14      23.186  50.565   7.908  1.00 27.75      1CCP 2
+ATOM    170  NE  ARG A  14      23.045  51.941   8.434  1.00 30.66      1CCP 2
+ATOM    171  CZ  ARG A  14      23.875  52.523   9.297  1.00 28.37      1CCP 2
+ATOM    172  NH1 ARG A  14      24.925  51.819   9.679  1.00 25.89      1CCP 2
+ATOM    173  NH2 ARG A  14      23.575  53.754   9.711  1.00 26.40      1CCP 2
+ATOM    174  H   ARG A  14      22.076  50.649   4.086  1.00 31.33      1CCP H   new
+ATOM    175  HA  ARG A  14      24.177  49.280   5.755  1.00 28.99      1CCP H   new
+ATOM    176 1HB  ARG A  14      21.139  48.984   5.630  1.00 28.40      1CCP H   new
+ATOM    177 2HB  ARG A  14      22.218  48.294   6.850  1.00 28.40      1CCP H   new
+ATOM    178 1HG  ARG A  14      21.899  51.305   6.332  1.00 29.23      1CCP H   new
+ATOM    179 2HG  ARG A  14      21.048  50.416   7.602  1.00 29.23      1CCP H   new
+ATOM    180 1HD  ARG A  14      23.179  49.816   8.713  1.00 27.75      1CCP H   new
+ATOM    181 2HD  ARG A  14      24.127  50.433   7.354  1.00 27.75      1CCP H   new
+ATOM    182  HE  ARG A  14      22.263  52.477   8.115  1.00 30.66      1CCP H + new
+ATOM    183 1HH1 ARG A  14      25.065  50.896   9.321  1.00 25.89      1CCP H + new
+ATOM    184 2HH1 ARG A  14      25.580  52.209  10.326  1.00 25.89      1CCP H + new
+ATOM    185 1HH2 ARG A  14      22.750  54.208   9.373  1.00 26.40      1CCP H + new
+ATOM    186 2HH2 ARG A  14      24.175  54.224  10.359  1.00 26.40      1CCP H + new
+ATOM    187  N   SER A  15      24.002  46.989   4.685  1.00 29.28      1CCP 2
+ATOM    188  CA  SER A  15      23.963  45.731   3.905  1.00 32.41      1CCP 2
+ATOM    189  C   SER A  15      23.624  44.596   4.907  1.00 31.11      1CCP 2
+ATOM    190  O   SER A  15      23.249  44.755   6.088  1.00 27.29      1CCP 2
+ATOM    191  CB  SER A  15      25.217  45.519   3.106  1.00 31.76      1CCP 2
+ATOM    192  OG  SER A  15      26.244  45.413   4.123  1.00 40.52      1CCP 2
+ATOM    193  H   SER A  15      24.615  46.991   5.475  1.00 29.28      1CCP H   new
+ATOM    194  HA  SER A  15      23.184  45.759   3.129  1.00 32.41      1CCP H   new
+ATOM    195 1HB  SER A  15      25.409  46.358   2.421  1.00 31.76      1CCP H   new
+ATOM    196 2HB  SER A  15      25.158  44.609   2.492  1.00 31.76      1CCP H   new
+ATOM    197  HG  SER A  15      27.132  45.268   3.687  1.00 40.52      1CCP H   new
+ATOM    198  N   TYR A  16      23.751  43.404   4.380  1.00 31.81      1CCP 2
+ATOM    199  CA  TYR A  16      23.485  42.151   5.061  1.00 33.22      1CCP 2
+ATOM    200  C   TYR A  16      24.154  42.129   6.427  1.00 32.98      1CCP 2
+ATOM    201  O   TYR A  16      23.542  41.951   7.493  1.00 29.91      1CCP 2
+ATOM    202  CB  TYR A  16      23.878  40.997   4.120  1.00 37.26      1CCP 2
+ATOM    203  CG  TYR A  16      23.974  39.690   4.865  1.00 42.56      1CCP 2
+ATOM    204  CD1 TYR A  16      25.186  39.038   5.041  1.00 44.46      1CCP 2
+ATOM    205  CD2 TYR A  16      22.817  39.153   5.462  1.00 44.88      1CCP 2
+ATOM    206  CE1 TYR A  16      25.249  37.828   5.736  1.00 48.63      1CCP 2
+ATOM    207  CE2 TYR A  16      22.859  37.961   6.172  1.00 47.70      1CCP 2
+ATOM    208  CZ  TYR A  16      24.081  37.297   6.314  1.00 51.38      1CCP 2
+ATOM    209  OH  TYR A  16      24.118  36.126   7.034  1.00 53.20      1CCP 2
+ATOM    210  H   TYR A  16      24.052  43.272   3.436  1.00 31.81      1CCP H   new
+ATOM    211  HA  TYR A  16      22.415  42.029   5.283  1.00 33.22      1CCP H   new
+ATOM    212 1HB  TYR A  16      23.135  40.909   3.314  1.00 37.26      1CCP H   new
+ATOM    213 2HB  TYR A  16      24.844  41.222   3.644  1.00 37.26      1CCP H   new
+ATOM    214  HD1 TYR A  16      26.106  39.478   4.629  1.00 44.46      1CCP H   new
+ATOM    215  HD2 TYR A  16      21.861  39.689   5.364  1.00 44.88      1CCP H   new
+ATOM    216  HE1 TYR A  16      26.206  37.293   5.831  1.00 48.63      1CCP H   new
+ATOM    217  HE2 TYR A  16      21.943  37.545   6.617  1.00 47.70      1CCP H   new
+ATOM    218  HH  TYR A  16      23.200  35.908   7.364  1.00 53.20      1CCP H   new
+ATOM    219  N   GLU A  17      25.442  42.355   6.415  1.00 34.93      1CCP 2
+ATOM    220  CA  GLU A  17      26.289  42.373   7.609  1.00 34.75      1CCP 2
+ATOM    221  C   GLU A  17      25.702  43.274   8.668  1.00 31.53      1CCP 2
+ATOM    222  O   GLU A  17      25.738  42.875   9.845  1.00 30.50      1CCP 2
+ATOM    223  CB  GLU A  17      27.734  42.738   7.319  1.00 41.72      1CCP 2
+ATOM    224  CG  GLU A  17      28.417  41.923   6.198  1.00 54.31      1CCP 2
+ATOM    225  CD  GLU A  17      28.195  42.489   4.816  1.00 62.26      1CCP 2
+ATOM    226  OE1 GLU A  17      28.648  43.615   4.439  1.00 67.28      1CCP 2
+ATOM    227  OE2 GLU A  17      27.505  41.751   4.068  1.00 65.91      1CCP 2
+ATOM    228  H   GLU A  17      25.949  42.535   5.572  1.00 34.93      1CCP H   new
+ATOM    229  HA  GLU A  17      26.309  41.341   7.990  1.00 34.75      1CCP H   new
+ATOM    230 1HB  GLU A  17      27.777  43.804   7.051  1.00 41.72      1CCP H   new
+ATOM    231 2HB  GLU A  17      28.317  42.615   8.244  1.00 41.72      1CCP H   new
+ATOM    232 1HG  GLU A  17      29.498  41.877   6.397  1.00 54.31      1CCP H   new
+ATOM    233 2HG  GLU A  17      28.041  40.890   6.226  1.00 54.31      1CCP H   new
+ATOM    234  N   ASP A  18      25.136  44.414   8.294  1.00 30.14      1CCP 2
+ATOM    235  CA  ASP A  18      24.518  45.326   9.275  1.00 29.01      1CCP 2
+ATOM    236  C   ASP A  18      23.324  44.623   9.977  1.00 28.81      1CCP 2
+ATOM    237  O   ASP A  18      23.182  44.763  11.199  1.00 26.49      1CCP 2
+ATOM    238  CB  ASP A  18      24.056  46.656   8.667  1.00 31.99      1CCP 2
+ATOM    239  CG  ASP A  18      25.179  47.502   8.043  1.00 35.72      1CCP 2
+ATOM    240  OD1 ASP A  18      25.251  47.740   6.829  1.00 32.90      1CCP 2
+ATOM    241  OD2 ASP A  18      26.030  47.945   8.838  1.00 35.71      1CCP 2
+ATOM    242  H   ASP A  18      25.088  44.730   7.347  1.00 30.14      1CCP H   new
+ATOM    243  HA  ASP A  18      25.301  45.571  10.008  1.00 29.01      1CCP H   new
+ATOM    244 1HB  ASP A  18      23.301  46.448   7.895  1.00 31.99      1CCP H   new
+ATOM    245 2HB  ASP A  18      23.561  47.249   9.450  1.00 31.99      1CCP H   new
+ATOM    246  N   PHE A  19      22.497  43.974   9.165  1.00 25.58      1CCP 2
+ATOM    247  CA  PHE A  19      21.288  43.290   9.679  1.00 25.94      1CCP 2
+ATOM    248  C   PHE A  19      21.651  42.076  10.541  1.00 24.60      1CCP 2
+ATOM    249  O   PHE A  19      21.013  41.784  11.585  1.00 23.63      1CCP 2
+ATOM    250  CB  PHE A  19      20.350  42.957   8.533  1.00 22.04      1CCP 2
+ATOM    251  CG  PHE A  19      19.729  44.204   7.946  1.00 22.28      1CCP 2
+ATOM    252  CD1 PHE A  19      20.159  44.721   6.735  1.00 22.97      1CCP 2
+ATOM    253  CD2 PHE A  19      18.749  44.864   8.686  1.00 19.72      1CCP 2
+ATOM    254  CE1 PHE A  19      19.604  45.890   6.214  1.00 20.26      1CCP 2
+ATOM    255  CE2 PHE A  19      18.147  46.026   8.170  1.00 22.76      1CCP 2
+ATOM    256  CZ  PHE A  19      18.590  46.535   6.923  1.00 22.46      1CCP 2
+ATOM    257  H   PHE A  19      22.626  43.901   8.176  1.00 25.58      1CCP H   new
+ATOM    258  HA  PHE A  19      20.747  43.974  10.350  1.00 25.94      1CCP H   new
+ATOM    259 1HB  PHE A  19      20.902  42.417   7.750  1.00 22.04      1CCP H   new
+ATOM    260 2HB  PHE A  19      19.557  42.283   8.890  1.00 22.04      1CCP H   new
+ATOM    261  HD1 PHE A  19      20.951  44.202   6.175  1.00 22.97      1CCP H   new
+ATOM    262  HD2 PHE A  19      18.447  44.477   9.671  1.00 19.72      1CCP H   new
+ATOM    263  HE1 PHE A  19      19.961  46.298   5.257  1.00 20.26      1CCP H   new
+ATOM    264  HE2 PHE A  19      17.344  46.532   8.726  1.00 22.76      1CCP H   new
+ATOM    265  HZ  PHE A  19      18.131  47.446   6.511  1.00 22.46      1CCP H   new
+ATOM    266  N   GLN A  20      22.714  41.395  10.111  1.00 22.63      1CCP 2
+ATOM    267  CA  GLN A  20      23.163  40.219  10.862  1.00 25.81      1CCP 2
+ATOM    268  C   GLN A  20      23.548  40.637  12.277  1.00 27.82      1CCP 2
+ATOM    269  O   GLN A  20      23.409  39.802  13.173  1.00 30.73      1CCP 2
+ATOM    270  CB  GLN A  20      24.324  39.477  10.230  1.00 24.78      1CCP 2
+ATOM    271  CG  GLN A  20      24.782  38.326  11.125  1.00 27.43      1CCP 2
+ATOM    272  CD  GLN A  20      23.796  37.163  11.120  1.00 27.56      1CCP 2
+ATOM    273  OE1 GLN A  20      23.170  36.810  12.124  1.00 29.76      1CCP 2
+ATOM    274  NE2 GLN A  20      23.677  36.513   9.979  1.00 23.76      1CCP 2
+ATOM    275  H   GLN A  20      23.251  41.618   9.298  1.00 22.63      1CCP H   new
+ATOM    276  HA  GLN A  20      22.314  39.519  10.864  1.00 25.81      1CCP H   new
+ATOM    277 1HB  GLN A  20      24.024  39.087   9.246  1.00 24.78      1CCP H   new
+ATOM    278 2HB  GLN A  20      25.160  40.171  10.060  1.00 24.78      1CCP H   new
+ATOM    279 1HG  GLN A  20      25.767  37.971  10.787  1.00 27.43      1CCP H   new
+ATOM    280 2HG  GLN A  20      24.908  38.693  12.154  1.00 27.43      1CCP H   new
+ATOM    281 1HE2 GLN A  20      23.072  35.719   9.916  1.00 23.76      1CCP H   new
+ATOM    282 2HE2 GLN A  20      24.192  36.814   9.176  1.00 23.76      1CCP H   new
+ATOM    283  N   LYS A  21      24.042  41.855  12.409  1.00 28.54      1CCP 2
+ATOM    284  CA  LYS A  21      24.457  42.375  13.709  1.00 29.47      1CCP 2
+ATOM    285  C   LYS A  21      23.215  42.665  14.556  1.00 25.29      1CCP 2
+ATOM    286  O   LYS A  21      23.285  42.518  15.793  1.00 25.57      1CCP 2
+ATOM    287  CB  LYS A  21      25.269  43.658  13.696  1.00 37.20      1CCP 2
+ATOM    288  CG  LYS A  21      26.723  43.505  13.206  1.00 45.37      1CCP 2
+ATOM    289  CD  LYS A  21      27.267  44.864  12.766  1.00 52.43      1CCP 2
+ATOM    290  CE  LYS A  21      28.496  44.769  11.855  1.00 58.36      1CCP 2
+ATOM    291  NZ  LYS A  21      29.605  45.665  12.324  1.00 58.64      1CCP 2
+ATOM    292  H   LYS A  21      24.165  42.494  11.649  1.00 28.54      1CCP H   new
+ATOM    293  HA  LYS A  21      25.109  41.586  14.111  1.00 29.47      1CCP H   new
+ATOM    294 1HB  LYS A  21      24.757  44.391  13.055  1.00 37.20      1CCP H   new
+ATOM    295 2HB  LYS A  21      25.283  44.075  14.714  1.00 37.20      1CCP H   new
+ATOM    296 1HG  LYS A  21      27.349  43.092  14.010  1.00 45.37      1CCP H   new
+ATOM    297 2HG  LYS A  21      26.765  42.794  12.368  1.00 45.37      1CCP H   new
+ATOM    298 1HD  LYS A  21      26.473  45.414  12.240  1.00 52.43      1CCP H   new
+ATOM    299 2HD  LYS A  21      27.528  45.451  13.659  1.00 52.43      1CCP H   new
+ATOM    300 1HE  LYS A  21      28.852  43.729  11.826  1.00 58.36      1CCP H   new
+ATOM    301 2HE  LYS A  21      28.213  45.041  10.827  1.00 58.36      1CCP H   new
+ATOM    302 1HZ  LYS A  21      30.388  45.577  11.708  1.00 58.64      1CCP H + new
+ATOM    303 2HZ  LYS A  21      29.289  46.614  12.328  1.00 58.64      1CCP H + new
+ATOM    304 3HZ  LYS A  21      29.878  45.402  13.249  1.00 58.64      1CCP H + new
+ATOM    305  N   VAL A  22      22.175  43.150  13.909  1.00 20.07      1CCP 2
+ATOM    306  CA  VAL A  22      20.935  43.388  14.704  1.00 20.78      1CCP 2
+ATOM    307  C   VAL A  22      20.410  42.030  15.227  1.00 23.45      1CCP 2
+ATOM    308  O   VAL A  22      20.099  41.893  16.418  1.00 21.19      1CCP 2
+ATOM    309  CB  VAL A  22      19.891  44.144  13.894  1.00 20.04      1CCP 2
+ATOM    310  CG1 VAL A  22      18.675  44.445  14.766  1.00 15.40      1CCP 2
+ATOM    311  CG2 VAL A  22      20.514  45.455  13.384  1.00 23.30      1CCP 2
+ATOM    312  H   VAL A  22      22.134  43.375  12.936  1.00 20.07      1CCP H   new
+ATOM    313  HA  VAL A  22      21.165  44.030  15.567  1.00 20.78      1CCP H   new
+ATOM    314  HB  VAL A  22      19.566  43.532  13.040  1.00 20.04      1CCP H   new
+ATOM    315 1HG1 VAL A  22      17.925  44.991  14.175  1.00 15.40      1CCP H   new
+ATOM    316 2HG1 VAL A  22      18.240  43.502  15.128  1.00 15.40      1CCP H   new
+ATOM    317 3HG1 VAL A  22      18.982  45.060  15.625  1.00 15.40      1CCP H   new
+ATOM    318 1HG2 VAL A  22      19.769  46.011  12.796  1.00 23.30      1CCP H   new
+ATOM    319 2HG2 VAL A  22      20.836  46.066  14.240  1.00 23.30      1CCP H   new
+ATOM    320 3HG2 VAL A  22      21.383  45.226  12.750  1.00 23.30      1CCP H   new
+ATOM    321  N   TYR A  23      20.370  41.060  14.314  1.00 22.03      1CCP 2
+ATOM    322  CA  TYR A  23      19.938  39.687  14.606  1.00 20.76      1CCP 2
+ATOM    323  C   TYR A  23      20.712  39.111  15.787  1.00 23.14      1CCP 2
+ATOM    324  O   TYR A  23      20.115  38.623  16.770  1.00 23.35      1CCP 2
+ATOM    325  CB  TYR A  23      20.174  38.817  13.348  1.00 19.77      1CCP 3
+ATOM    326  CG  TYR A  23      19.889  37.359  13.554  1.00 22.11      1CCP 3
+ATOM    327  CD1 TYR A  23      18.736  36.762  13.000  1.00 21.80      1CCP 3
+ATOM    328  CD2 TYR A  23      20.721  36.604  14.397  1.00 20.76      1CCP 3
+ATOM    329  CE1 TYR A  23      18.456  35.409  13.198  1.00 24.65      1CCP 3
+ATOM    330  CE2 TYR A  23      20.449  35.234  14.593  1.00 24.25      1CCP 3
+ATOM    331  CZ  TYR A  23      19.315  34.660  14.012  1.00 24.06      1CCP 3
+ATOM    332  OH  TYR A  23      19.082  33.343  14.257  1.00 23.12      1CCP 3
+ATOM    333  H   TYR A  23      20.633  41.200  13.360  1.00 22.03      1CCP H   new
+ATOM    334  HA  TYR A  23      18.871  39.693  14.871  1.00 20.76      1CCP H   new
+ATOM    335 1HB  TYR A  23      19.540  39.192  12.531  1.00 19.77      1CCP H   new
+ATOM    336 2HB  TYR A  23      21.219  38.934  13.024  1.00 19.77      1CCP H   new
+ATOM    337  HD1 TYR A  23      18.046  37.374  12.401  1.00 21.80      1CCP H   new
+ATOM    338  HD2 TYR A  23      21.577  37.077  14.900  1.00 20.76      1CCP H   new
+ATOM    339  HE1 TYR A  23      17.580  34.941  12.725  1.00 24.65      1CCP H   new
+ATOM    340  HE2 TYR A  23      21.128  34.619  15.202  1.00 24.25      1CCP H   new
+ATOM    341  HH  TYR A  23      19.798  32.983  14.855  1.00 23.12      1CCP H   new
+ATOM    342  N   ASN A  24      22.043  39.211  15.702  1.00 21.13      1CCP 3
+ATOM    343  CA  ASN A  24      22.929  38.695  16.761  1.00 20.93      1CCP 3
+ATOM    344  C   ASN A  24      22.645  39.407  18.078  1.00 20.55      1CCP 3
+ATOM    345  O   ASN A  24      22.730  38.771  19.133  1.00 27.03      1CCP 3
+ATOM    346  CB  ASN A  24      24.400  38.872  16.435  1.00 20.04      1CCP 3
+ATOM    347  CG  ASN A  24      24.885  37.992  15.311  1.00 22.82      1CCP 3
+ATOM    348  OD1 ASN A  24      26.061  38.170  14.903  1.00 26.56      1CCP 3
+ATOM    349  ND2 ASN A  24      24.078  37.067  14.861  1.00 18.70      1CCP 3
+ATOM    350  H   ASN A  24      22.522  39.633  14.932  1.00 21.13      1CCP H   new
+ATOM    351  HA  ASN A  24      22.719  37.618  16.841  1.00 20.93      1CCP H   new
+ATOM    352 1HB  ASN A  24      24.583  39.924  16.170  1.00 20.04      1CCP H   new
+ATOM    353 2HB  ASN A  24      24.994  38.660  17.336  1.00 20.04      1CCP H   new
+ATOM    354 1HD2 ASN A  24      24.385  36.442  14.144  1.00 18.70      1CCP H   new
+ATOM    355 2HD2 ASN A  24      23.154  36.985  15.234  1.00 18.70      1CCP H   new
+ATOM    356  N   ALA A  25      22.357  40.682  18.048  1.00 22.83      1CCP 3
+ATOM    357  CA  ALA A  25      22.073  41.407  19.299  1.00 23.22      1CCP 3
+ATOM    358  C   ALA A  25      20.777  40.898  19.916  1.00 21.93      1CCP 3
+ATOM    359  O   ALA A  25      20.632  40.747  21.139  1.00 23.37      1CCP 3
+ATOM    360  CB  ALA A  25      21.988  42.919  19.038  1.00 20.76      1CCP 3
+ATOM    361  H   ALA A  25      22.310  41.236  17.217  1.00 22.83      1CCP H   new
+ATOM    362  HA  ALA A  25      22.896  41.225  20.006  1.00 23.22      1CCP H   new
+ATOM    363 1HB  ALA A  25      21.776  43.443  19.982  1.00 20.76      1CCP H   new
+ATOM    364 2HB  ALA A  25      22.945  43.275  18.628  1.00 20.76      1CCP H   new
+ATOM    365 3HB  ALA A  25      21.183  43.122  18.317  1.00 20.76      1CCP H   new
+ATOM    366  N   ILE A  26      19.768  40.658  19.101  1.00 25.06      1CCP 3
+ATOM    367  CA  ILE A  26      18.452  40.170  19.597  1.00 21.26      1CCP 3
+ATOM    368  C   ILE A  26      18.665  38.782  20.225  1.00 20.41      1CCP 3
+ATOM    369  O   ILE A  26      18.205  38.405  21.327  1.00 23.38      1CCP 3
+ATOM    370  CB  ILE A  26      17.422  40.091  18.417  1.00 20.70      1CCP 3
+ATOM    371  CG1 ILE A  26      17.048  41.503  17.900  1.00 19.32      1CCP 3
+ATOM    372  CG2 ILE A  26      16.133  39.307  18.860  1.00 16.15      1CCP 3
+ATOM    373  CD1 ILE A  26      16.261  41.505  16.531  1.00 16.38      1CCP 3
+ATOM    374  H   ILE A  26      19.812  40.784  18.110  1.00 25.06      1CCP H   new
+ATOM    375  HA  ILE A  26      18.046  40.863  20.348  1.00 21.26      1CCP H   new
+ATOM    376  HB  ILE A  26      17.899  39.544  17.590  1.00 20.70      1CCP H   new
+ATOM    377 1HG1 ILE A  26      16.437  42.010  18.662  1.00 19.32      1CCP H   new
+ATOM    378 2HG1 ILE A  26      17.969  42.093  17.781  1.00 19.32      1CCP H   new
+ATOM    379 1HG2 ILE A  26      15.424  39.262  18.020  1.00 16.15      1CCP H   new
+ATOM    380 2HG2 ILE A  26      16.410  38.286  19.161  1.00 16.15      1CCP H   new
+ATOM    381 3HG2 ILE A  26      15.663  39.824  19.709  1.00 16.15      1CCP H   new
+ATOM    382 1HD1 ILE A  26      16.036  42.541  16.238  1.00 16.38      1CCP H   new
+ATOM    383 2HD1 ILE A  26      16.877  41.030  15.753  1.00 16.38      1CCP H   new
+ATOM    384 3HD1 ILE A  26      15.321  40.945  16.647  1.00 16.38      1CCP H   new
+ATOM    385  N   ALA A  27      19.425  37.993  19.463  1.00 18.09      1CCP 3
+ATOM    386  CA  ALA A  27      19.717  36.618  19.834  1.00 17.75      1CCP 3
+ATOM    387  C   ALA A  27      20.497  36.536  21.124  1.00 21.86      1CCP 3
+ATOM    388  O   ALA A  27      20.158  35.643  21.941  1.00 25.77      1CCP 3
+ATOM    389  CB  ALA A  27      20.382  35.851  18.721  1.00 16.16      1CCP 3
+ATOM    390  H   ALA A  27      19.840  38.284  18.601  1.00 18.09      1CCP H   new
+ATOM    391  HA  ALA A  27      18.748  36.129  20.013  1.00 17.75      1CCP H   new
+ATOM    392 1HB  ALA A  27      20.580  34.821  19.052  1.00 16.16      1CCP H   new
+ATOM    393 2HB  ALA A  27      19.721  35.832  17.842  1.00 16.16      1CCP H   new
+ATOM    394 3HB  ALA A  27      21.331  36.339  18.455  1.00 16.16      1CCP H   new
+ATOM    395  N   LEU A  28      21.472  37.420  21.317  1.00 22.89      1CCP 3
+ATOM    396  CA  LEU A  28      22.286  37.334  22.549  1.00 21.47      1CCP 3
+ATOM    397  C   LEU A  28      21.388  37.745  23.706  1.00 22.13      1CCP 3
+ATOM    398  O   LEU A  28      21.547  37.195  24.797  1.00 21.42      1CCP 3
+ATOM    399  CB  LEU A  28      23.583  38.128  22.477  1.00 25.61      1CCP 3
+ATOM    400  CG  LEU A  28      24.704  37.593  21.602  1.00 30.43      1CCP 3
+ATOM    401  CD1 LEU A  28      25.756  38.659  21.311  1.00 30.87      1CCP 3
+ATOM    402  CD2 LEU A  28      25.378  36.400  22.301  1.00 28.99      1CCP 3
+ATOM    403  H   LEU A  28      21.714  38.160  20.689  1.00 22.89      1CCP H   new
+ATOM    404  HA  LEU A  28      22.637  36.302  22.694  1.00 21.47      1CCP H   new
+ATOM    405 1HB  LEU A  28      23.338  39.141  22.127  1.00 25.61      1CCP H   new
+ATOM    406 2HB  LEU A  28      23.974  38.227  23.500  1.00 25.61      1CCP H   new
+ATOM    407  HG  LEU A  28      24.260  37.279  20.646  1.00 30.43      1CCP H   new
+ATOM    408 1HD1 LEU A  28      26.547  38.231  20.677  1.00 30.87      1CCP H   new
+ATOM    409 2HD1 LEU A  28      25.286  39.506  20.789  1.00 30.87      1CCP H   new
+ATOM    410 3HD1 LEU A  28      26.195  39.010  22.257  1.00 30.87      1CCP H   new
+ATOM    411 1HD2 LEU A  28      26.189  36.013  21.667  1.00 28.99      1CCP H   new
+ATOM    412 2HD2 LEU A  28      25.792  36.726  23.267  1.00 28.99      1CCP H   new
+ATOM    413 3HD2 LEU A  28      24.636  35.606  22.470  1.00 28.99      1CCP H   new
+ATOM    414  N   LYS A  29      20.512  38.713  23.447  1.00 20.28      1CCP 3
+ATOM    415  CA  LYS A  29      19.625  39.107  24.577  1.00 22.59      1CCP 3
+ATOM    416  C   LYS A  29      18.614  37.986  24.864  1.00 25.53      1CCP 3
+ATOM    417  O   LYS A  29      18.262  37.755  26.052  1.00 24.38      1CCP 3
+ATOM    418  CB  LYS A  29      18.978  40.428  24.259  1.00 22.02      1CCP 3
+ATOM    419  CG  LYS A  29      18.258  41.075  25.467  1.00 25.03      1CCP 3
+ATOM    420  CD  LYS A  29      17.659  42.389  24.985  1.00 28.09      1CCP 3
+ATOM    421  CE  LYS A  29      16.818  43.132  26.000  1.00 31.25      1CCP 3
+ATOM    422  NZ  LYS A  29      17.281  42.854  27.385  1.00 35.58      1CCP 3
+ATOM    423  H   LYS A  29      20.390  39.197  22.581  1.00 20.28      1CCP H   new
+ATOM    424  HA  LYS A  29      20.206  39.244  25.501  1.00 22.59      1CCP H   new
+ATOM    425 1HB  LYS A  29      19.746  41.122  23.887  1.00 22.02      1CCP H   new
+ATOM    426 2HB  LYS A  29      18.252  40.284  23.445  1.00 22.02      1CCP H   new
+ATOM    427 1HG  LYS A  29      17.472  40.409  25.853  1.00 25.03      1CCP H   new
+ATOM    428 2HG  LYS A  29      18.965  41.250  26.292  1.00 25.03      1CCP H   new
+ATOM    429 1HD  LYS A  29      18.478  43.048  24.661  1.00 28.09      1CCP H   new
+ATOM    430 2HD  LYS A  29      17.039  42.186  24.099  1.00 28.09      1CCP H   new
+ATOM    431 1HE  LYS A  29      16.869  44.213  25.803  1.00 31.25      1CCP H   new
+ATOM    432 2HE  LYS A  29      15.764  42.835  25.896  1.00 31.25      1CCP H   new
+ATOM    433 1HZ  LYS A  29      16.710  43.356  28.035  1.00 35.58      1CCP H + new
+ATOM    434 2HZ  LYS A  29      17.212  41.874  27.569  1.00 35.58      1CCP H + new
+ATOM    435 3HZ  LYS A  29      18.232  43.145  27.484  1.00 35.58      1CCP H + new
+ATOM    436  N   LEU A  30      18.196  37.238  23.836  1.00 24.14      1CCP 3
+ATOM    437  CA  LEU A  30      17.245  36.147  24.112  1.00 28.08      1CCP 3
+ATOM    438  C   LEU A  30      17.879  35.144  25.117  1.00 29.39      1CCP 3
+ATOM    439  O   LEU A  30      17.234  34.645  26.055  1.00 27.32      1CCP 3
+ATOM    440  CB  LEU A  30      16.816  35.405  22.862  1.00 27.53      1CCP 3
+ATOM    441  CG  LEU A  30      15.688  36.010  22.040  1.00 32.12      1CCP 3
+ATOM    442  CD1 LEU A  30      15.533  35.164  20.774  1.00 32.55      1CCP 3
+ATOM    443  CD2 LEU A  30      14.393  36.001  22.851  1.00 29.63      1CCP 3
+ATOM    444  H   LEU A  30      18.472  37.350  22.881  1.00 24.14      1CCP H   new
+ATOM    445  HA  LEU A  30      16.343  36.609  24.540  1.00 28.08      1CCP H   new
+ATOM    446 1HB  LEU A  30      17.695  35.303  22.209  1.00 27.53      1CCP H   new
+ATOM    447 2HB  LEU A  30      16.514  34.389  23.157  1.00 27.53      1CCP H   new
+ATOM    448  HG  LEU A  30      15.914  37.053  21.774  1.00 32.12      1CCP H   new
+ATOM    449 1HD1 LEU A  30      14.722  35.575  20.154  1.00 32.55      1CCP H   new
+ATOM    450 2HD1 LEU A  30      16.474  35.180  20.204  1.00 32.55      1CCP H   new
+ATOM    451 3HD1 LEU A  30      15.291  34.128  21.052  1.00 32.55      1CCP H   new
+ATOM    452 1HD2 LEU A  30      13.581  36.439  22.252  1.00 29.63      1CCP H   new
+ATOM    453 2HD2 LEU A  30      14.134  34.966  23.117  1.00 29.63      1CCP H   new
+ATOM    454 3HD2 LEU A  30      14.530  36.591  23.769  1.00 29.63      1CCP H   new
+ATOM    455  N   ARG A  31      19.112  34.827  24.769  1.00 26.16      1CCP 3
+ATOM    456  CA  ARG A  31      19.938  33.882  25.508  1.00 24.59      1CCP 3
+ATOM    457  C   ARG A  31      20.151  34.288  26.946  1.00 24.62      1CCP 3
+ATOM    458  O   ARG A  31      20.140  33.524  27.924  1.00 28.15      1CCP 3
+ATOM    459  CB  ARG A  31      21.293  33.752  24.818  1.00 25.15      1CCP 3
+ATOM    460  CG  ARG A  31      22.148  32.696  25.523  1.00 28.39      1CCP 3
+ATOM    461  CD  ARG A  31      23.540  32.783  24.947  1.00 32.05      1CCP 3
+ATOM    462  NE  ARG A  31      23.642  32.254  23.594  1.00 30.93      1CCP 3
+ATOM    463  CZ  ARG A  31      24.835  32.245  22.967  1.00 28.79      1CCP 3
+ATOM    464  NH1 ARG A  31      25.844  32.928  23.494  1.00 30.30      1CCP 3
+ATOM    465  NH2 ARG A  31      24.942  31.554  21.857  1.00 28.11      1CCP 3
+ATOM    466  H   ARG A  31      19.569  35.216  23.969  1.00 26.16      1CCP H   new
+ATOM    467  HA  ARG A  31      19.404  32.920  25.516  1.00 24.59      1CCP H   new
+ATOM    468 1HB  ARG A  31      21.150  33.474  23.763  1.00 25.15      1CCP H   new
+ATOM    469 2HB  ARG A  31      21.812  34.722  24.828  1.00 25.15      1CCP H   new
+ATOM    470 1HG  ARG A  31      22.166  32.874  26.608  1.00 28.39      1CCP H   new
+ATOM    471 2HG  ARG A  31      21.727  31.691  25.369  1.00 28.39      1CCP H   new
+ATOM    472 1HD  ARG A  31      23.863  33.834  24.947  1.00 32.05      1CCP H   new
+ATOM    473 2HD  ARG A  31      24.234  32.234  25.600  1.00 32.05      1CCP H   new
+ATOM    474  HE  ARG A  31      22.830  31.899  23.132  1.00 30.93      1CCP H + new
+ATOM    475 1HH1 ARG A  31      25.712  33.439  24.344  1.00 30.30      1CCP H + new
+ATOM    476 2HH1 ARG A  31      26.736  32.932  23.041  1.00 30.30      1CCP H + new
+ATOM    477 1HH2 ARG A  31      24.152  31.055  21.501  1.00 28.11      1CCP H + new
+ATOM    478 2HH2 ARG A  31      25.813  31.527  21.367  1.00 28.11      1CCP H + new
+ATOM    479  N   GLU A  32      20.298  35.588  27.103  1.00 28.86      1CCP 3
+ATOM    480  CA  GLU A  32      20.588  36.150  28.410  1.00 31.80      1CCP 3
+ATOM    481  C   GLU A  32      19.388  36.367  29.277  1.00 33.27      1CCP 3
+ATOM    482  O   GLU A  32      19.531  36.114  30.500  1.00 32.47      1CCP 3
+ATOM    483  CB  GLU A  32      21.339  37.458  28.198  1.00 38.15      1CCP 3
+ATOM    484  CG  GLU A  32      21.278  38.495  29.304  1.00 47.19      1CCP 3
+ATOM    485  CD  GLU A  32      22.116  39.735  29.075  1.00 52.25      1CCP 3
+ATOM    486  OE1 GLU A  32      23.272  39.797  29.573  1.00 53.47      1CCP 3
+ATOM    487  OE2 GLU A  32      21.530  40.613  28.385  1.00 53.86      1CCP 3
+ATOM    488  H   GLU A  32      20.224  36.258  26.365  1.00 28.86      1CCP H   new
+ATOM    489  HA  GLU A  32      21.195  35.414  28.959  1.00 31.80      1CCP H   new
+ATOM    490 1HB  GLU A  32      22.397  37.215  28.020  1.00 38.15      1CCP H   new
+ATOM    491 2HB  GLU A  32      20.956  37.922  27.277  1.00 38.15      1CCP H   new
+ATOM    492 1HG  GLU A  32      20.230  38.801  29.440  1.00 47.19      1CCP H   new
+ATOM    493 2HG  GLU A  32      21.600  38.024  30.244  1.00 47.19      1CCP H   new
+ATOM    494  N   ASP A  33      18.299  36.882  28.760  1.00 32.66      1CCP 3
+ATOM    495  CA  ASP A  33      17.106  37.171  29.598  1.00 36.17      1CCP 3
+ATOM    496  C   ASP A  33      16.213  35.932  29.625  1.00 36.11      1CCP 3
+ATOM    497  O   ASP A  33      15.069  36.075  29.153  1.00 34.89      1CCP 3
+ATOM    498  CB  ASP A  33      16.321  38.335  28.984  1.00 37.93      1CCP 3
+ATOM    499  CG  ASP A  33      16.973  39.669  29.216  1.00 41.12      1CCP 3
+ATOM    500  OD1 ASP A  33      16.350  40.723  29.022  1.00 44.14      1CCP 3
+ATOM    501  OD2 ASP A  33      18.161  39.621  29.601  1.00 44.31      1CCP 3
+ATOM    502  H   ASP A  33      18.192  37.112  27.793  1.00 32.66      1CCP H   new
+ATOM    503  HA  ASP A  33      17.423  37.436  30.618  1.00 36.17      1CCP H   new
+ATOM    504 1HB  ASP A  33      16.215  38.168  27.902  1.00 37.93      1CCP H   new
+ATOM    505 2HB  ASP A  33      15.306  38.350  29.408  1.00 37.93      1CCP H   new
+ATOM    506  N   ASP A  34      16.765  34.851  30.130  1.00 36.88      1CCP 3
+ATOM    507  CA  ASP A  34      16.067  33.567  30.096  1.00 38.65      1CCP 3
+ATOM    508  C   ASP A  34      15.028  33.343  31.170  1.00 38.32      1CCP 3
+ATOM    509  O   ASP A  34      14.385  32.271  31.130  1.00 40.59      1CCP 3
+ATOM    510  CB  ASP A  34      17.132  32.457  30.009  1.00 40.37      1CCP 3
+ATOM    511  CG  ASP A  34      17.836  32.146  31.325  1.00 44.21      1CCP 3
+ATOM    512  OD1 ASP A  34      17.781  32.921  32.299  1.00 45.17      1CCP 3
+ATOM    513  OD2 ASP A  34      18.491  31.076  31.406  1.00 41.73      1CCP 3
+ATOM    514  H   ASP A  34      17.668  34.826  30.559  1.00 36.88      1CCP H   new
+ATOM    515  HA  ASP A  34      15.430  33.554  29.199  1.00 38.65      1CCP H   new
+ATOM    516 1HB  ASP A  34      16.655  31.538  29.638  1.00 40.37      1CCP H   new
+ATOM    517 2HB  ASP A  34      17.887  32.750  29.265  1.00 40.37      1CCP H   new
+ATOM    518  N   GLU A  35      14.856  34.241  32.099  1.00 36.08      1CCP 3
+ATOM    519  CA  GLU A  35      13.947  33.960  33.222  1.00 37.90      1CCP 3
+ATOM    520  C   GLU A  35      12.516  34.373  32.986  1.00 35.48      1CCP 3
+ATOM    521  O   GLU A  35      11.649  33.978  33.781  1.00 37.83      1CCP 3
+ATOM    522  CB  GLU A  35      14.421  34.694  34.501  1.00 38.32      1CCP 3
+ATOM    523  CG  GLU A  35      15.664  34.085  35.172  1.00 43.83      1CCP 4
+ATOM    524  H   GLU A  35      15.301  35.136  32.121  1.00 36.08      1CCP H   new
+ATOM    525  HA  GLU A  35      13.977  32.866  33.331  1.00 37.90      1CCP H   new
+ATOM    526 1HB  GLU A  35      14.636  35.742  34.246  1.00 38.32      1CCP H   new
+ATOM    527 2HB  GLU A  35      13.596  34.702  35.229  1.00 38.32      1CCP H   new
+ATOM    528  N   TYR A  36      12.324  35.150  31.939  1.00 32.07      1CCP 4
+ATOM    529  CA  TYR A  36      11.010  35.681  31.554  1.00 30.36      1CCP 4
+ATOM    530  C   TYR A  36       9.942  34.598  31.411  1.00 30.76      1CCP 4
+ATOM    531  O   TYR A  36      10.149  33.463  30.887  1.00 27.42      1CCP 4
+ATOM    532  CB  TYR A  36      11.220  36.527  30.284  1.00 28.91      1CCP 4
+ATOM    533  CG  TYR A  36       9.907  37.042  29.777  1.00 27.79      1CCP 4
+ATOM    534  CD1 TYR A  36       9.285  36.387  28.703  1.00 27.71      1CCP 4
+ATOM    535  CD2 TYR A  36       9.271  38.110  30.396  1.00 25.28      1CCP 4
+ATOM    536  CE1 TYR A  36       8.051  36.834  28.228  1.00 25.58      1CCP 4
+ATOM    537  CE2 TYR A  36       8.029  38.559  29.943  1.00 26.10      1CCP 4
+ATOM    538  CZ  TYR A  36       7.425  37.893  28.880  1.00 27.37      1CCP 4
+ATOM    539  OH  TYR A  36       6.197  38.319  28.430  1.00 28.53      1CCP 4
+ATOM    540  H   TYR A  36      13.064  35.435  31.329  1.00 32.07      1CCP H   new
+ATOM    541  HA  TYR A  36      10.605  36.317  32.355  1.00 30.36      1CCP H   new
+ATOM    542 1HB  TYR A  36      11.892  37.370  30.503  1.00 28.91      1CCP H   new
+ATOM    543 2HB  TYR A  36      11.708  35.920  29.507  1.00 28.91      1CCP H   new
+ATOM    544  HD1 TYR A  36       9.771  35.519  28.234  1.00 27.71      1CCP H   new
+ATOM    545  HD2 TYR A  36       9.751  38.607  31.252  1.00 25.28      1CCP H   new
+ATOM    546  HE1 TYR A  36       7.582  36.358  27.354  1.00 25.58      1CCP H   new
+ATOM    547  HE2 TYR A  36       7.538  39.422  30.417  1.00 26.10      1CCP H   new
+ATOM    548  HH  TYR A  36       5.880  39.080  28.996  1.00 28.53      1CCP H   new
+ATOM    549  N   ASP A  37       8.775  34.929  31.975  1.00 31.44      1CCP 4
+ATOM    550  CA  ASP A  37       7.607  34.016  31.943  1.00 31.83      1CCP 4
+ATOM    551  C   ASP A  37       7.998  32.647  32.492  1.00 32.37      1CCP 4
+ATOM    552  O   ASP A  37       7.927  31.648  31.746  1.00 29.17      1CCP 4
+ATOM    553  CB  ASP A  37       7.108  33.896  30.485  1.00 30.86      1CCP 4
+ATOM    554  CG  ASP A  37       5.582  33.843  30.425  1.00 36.34      1CCP 4
+ATOM    555  OD1 ASP A  37       4.964  33.997  31.503  1.00 37.71      1CCP 4
+ATOM    556  OD2 ASP A  37       4.979  33.673  29.337  1.00 34.81      1CCP 4
+ATOM    557  H   ASP A  37       8.609  35.795  32.447  1.00 31.44      1CCP H   new
+ATOM    558  HA  ASP A  37       6.799  34.418  32.572  1.00 31.83      1CCP H   new
+ATOM    559 1HB  ASP A  37       7.471  34.753  29.898  1.00 30.86      1CCP H   new
+ATOM    560 2HB  ASP A  37       7.528  32.990  30.024  1.00 30.86      1CCP H   new
+ATOM    561  N   ASN A  38       8.436  32.596  33.741  1.00 35.43      1CCP 4
+ATOM    562  CA  ASN A  38       8.858  31.315  34.312  1.00 34.93      1CCP 4
+ATOM    563  C   ASN A  38       9.864  30.592  33.446  1.00 33.44      1CCP 4
+ATOM    564  O   ASN A  38       9.579  29.388  33.297  1.00 30.78      1CCP 4
+ATOM    565  CB  ASN A  38       7.637  30.356  34.444  1.00 45.08      1CCP 4
+ATOM    566  CG  ASN A  38       6.892  30.866  35.682  1.00 52.91      1CCP 4
+ATOM    567  OD1 ASN A  38       7.518  30.809  36.765  1.00 58.19      1CCP 4
+ATOM    568  ND2 ASN A  38       5.700  31.394  35.420  1.00 54.83      1CCP 4
+ATOM    569  H   ASN A  38       8.508  33.382  34.355  1.00 35.43      1CCP H   new
+ATOM    570  HA  ASN A  38       9.308  31.558  35.286  1.00 34.93      1CCP H   new
+ATOM    571 1HB  ASN A  38       6.999  30.391  33.548  1.00 45.08      1CCP H   new
+ATOM    572 2HB  ASN A  38       7.958  29.311  34.570  1.00 45.08      1CCP H   new
+ATOM    573 1HD2 ASN A  38       5.172  31.825  36.152  1.00 54.83      1CCP H   new
+ATOM    574 2HD2 ASN A  38       5.331  31.360  34.491  1.00 54.83      1CCP H   new
+ATOM    575  N   TYR A  39      10.907  31.211  32.932  1.00 32.39      1CCP 4
+ATOM    576  CA  TYR A  39      11.885  30.457  32.149  1.00 34.03      1CCP 4
+ATOM    577  C   TYR A  39      11.485  30.014  30.776  1.00 33.66      1CCP 4
+ATOM    578  O   TYR A  39      12.165  29.139  30.178  1.00 35.37      1CCP 4
+ATOM    579  CB  TYR A  39      12.413  29.264  33.006  1.00 42.63      1CCP 4
+ATOM    580  CG  TYR A  39      13.116  29.936  34.194  1.00 49.93      1CCP 4
+ATOM    581  CD1 TYR A  39      12.444  30.293  35.355  1.00 52.08      1CCP 4
+ATOM    582  CD2 TYR A  39      14.454  30.290  34.052  1.00 54.12      1CCP 4
+ATOM    583  CE1 TYR A  39      13.120  30.952  36.385  1.00 57.28      1CCP 4
+ATOM    584  CE2 TYR A  39      15.140  30.943  35.070  1.00 57.99      1CCP 4
+ATOM    585  CZ  TYR A  39      14.468  31.281  36.241  1.00 59.28      1CCP 4
+ATOM    586  OH  TYR A  39      15.201  31.934  37.209  1.00 62.35      1CCP 4
+ATOM    587  H   TYR A  39      11.100  32.187  33.031  1.00 32.39      1CCP H   new
+ATOM    588  HA  TYR A  39      12.681  31.182  31.926  1.00 34.03      1CCP H   new
+ATOM    589 1HB  TYR A  39      11.591  28.615  33.341  1.00 42.63      1CCP H   new
+ATOM    590 2HB  TYR A  39      13.108  28.633  32.432  1.00 42.63      1CCP H   new
+ATOM    591  HD1 TYR A  39      11.375  30.056  35.464  1.00 52.08      1CCP H   new
+ATOM    592  HD2 TYR A  39      14.979  30.049  33.116  1.00 54.12      1CCP H   new
+ATOM    593  HE1 TYR A  39      12.588  31.212  37.312  1.00 57.28      1CCP H   new
+ATOM    594  HE2 TYR A  39      16.205  31.190  34.951  1.00 57.99      1CCP H   new
+ATOM    595  HH  TYR A  39      16.139  32.063  36.887  1.00 62.35      1CCP H   new
+ATOM    596  N   ILE A  40      10.429  30.615  30.245  1.00 29.77      1CCP 4
+ATOM    597  CA  ILE A  40      10.111  30.278  28.834  1.00 29.55      1CCP 4
+ATOM    598  C   ILE A  40      11.082  31.081  27.953  1.00 26.51      1CCP 4
+ATOM    599  O   ILE A  40      11.551  30.600  26.923  1.00 22.62      1CCP 4
+ATOM    600  CB  ILE A  40       8.634  30.641  28.496  1.00 29.09      1CCP 4
+ATOM    601  CG1 ILE A  40       7.727  29.660  29.317  1.00 28.51      1CCP 4
+ATOM    602  CG2 ILE A  40       8.284  30.560  26.981  1.00 28.39      1CCP 4
+ATOM    603  CD1 ILE A  40       6.224  30.072  29.167  1.00 26.40      1CCP 4
+ATOM    604  H   ILE A  40       9.826  31.271  30.699  1.00 29.77      1CCP H   new
+ATOM    605  HA  ILE A  40      10.223  29.198  28.658  1.00 29.55      1CCP H   new
+ATOM    606  HB  ILE A  40       8.467  31.694  28.765  1.00 29.09      1CCP H   new
+ATOM    607 1HG1 ILE A  40       7.871  28.629  28.962  1.00 28.51      1CCP H   new
+ATOM    608 2HG1 ILE A  40       8.018  29.678  30.378  1.00 28.51      1CCP H   new
+ATOM    609 1HG2 ILE A  40       7.228  30.830  26.833  1.00 28.39      1CCP H   new
+ATOM    610 2HG2 ILE A  40       8.923  31.257  26.419  1.00 28.39      1CCP H   new
+ATOM    611 3HG2 ILE A  40       8.454  29.535  26.619  1.00 28.39      1CCP H   new
+ATOM    612 1HD1 ILE A  40       5.594  29.380  29.745  1.00 26.40      1CCP H   new
+ATOM    613 2HD1 ILE A  40       6.085  31.096  29.544  1.00 26.40      1CCP H   new
+ATOM    614 3HD1 ILE A  40       5.936  30.030  28.106  1.00 26.40      1CCP H   new
+ATOM    615  N   GLY A  41      11.342  32.311  28.407  1.00 27.00      1CCP 4
+ATOM    616  CA  GLY A  41      12.209  33.238  27.582  1.00 27.51      1CCP 4
+ATOM    617  C   GLY A  41      11.297  34.147  26.735  1.00 28.72      1CCP 4
+ATOM    618  O   GLY A  41      10.054  33.932  26.731  1.00 29.90      1CCP 4
+ATOM    619  H   GLY A  41      11.006  32.689  29.270  1.00 27.00      1CCP H   new
+ATOM    620 1HA  GLY A  41      12.849  33.846  28.238  1.00 27.51      1CCP H   new
+ATOM    621 2HA  GLY A  41      12.877  32.656  26.931  1.00 27.51      1CCP H   new
+ATOM    622  N   TYR A  42      11.841  35.121  26.016  1.00 22.92      1CCP 4
+ATOM    623  CA  TYR A  42      11.062  36.043  25.222  1.00 20.75      1CCP 4
+ATOM    624  C   TYR A  42      10.784  35.580  23.802  1.00 17.34      1CCP 4
+ATOM    625  O   TYR A  42      10.034  36.263  23.102  1.00 21.87      1CCP 4
+ATOM    626  CB  TYR A  42      11.780  37.415  25.085  1.00 22.72      1CCP 4
+ATOM    627  CG  TYR A  42      11.706  38.269  26.328  1.00 22.76      1CCP 4
+ATOM    628  CD1 TYR A  42      12.649  38.081  27.359  1.00 24.21      1CCP 4
+ATOM    629  CD2 TYR A  42      10.722  39.248  26.463  1.00 24.16      1CCP 4
+ATOM    630  CE1 TYR A  42      12.582  38.851  28.508  1.00 23.66      1CCP 4
+ATOM    631  CE2 TYR A  42      10.644  40.048  27.606  1.00 24.19      1CCP 4
+ATOM    632  CZ  TYR A  42      11.600  39.833  28.594  1.00 25.83      1CCP 4
+ATOM    633  OH  TYR A  42      11.535  40.618  29.712  1.00 30.84      1CCP 4
+ATOM    634  H   TYR A  42      12.826  35.285  25.973  1.00 22.92      1CCP H   new
+ATOM    635  HA  TYR A  42      10.112  36.113  25.772  1.00 20.75      1CCP H   new
+ATOM    636 1HB  TYR A  42      12.837  37.242  24.833  1.00 22.72      1CCP H   new
+ATOM    637 2HB  TYR A  42      11.336  37.968  24.245  1.00 22.72      1CCP H   new
+ATOM    638  HD1 TYR A  42      13.438  37.322  27.251  1.00 24.21      1CCP H   new
+ATOM    639  HD2 TYR A  42       9.992  39.393  25.653  1.00 24.16      1CCP H   new
+ATOM    640  HE1 TYR A  42      13.290  38.690  29.335  1.00 23.66      1CCP H   new
+ATOM    641  HE2 TYR A  42       9.862  40.813  27.720  1.00 24.19      1CCP H   new
+ATOM    642  HH  TYR A  42      10.782  41.269  29.619  1.00 30.84      1CCP H   new
+ATOM    643  N   GLY A  43      11.348  34.468  23.410  1.00 17.80      1CCP 4
+ATOM    644  CA  GLY A  43      11.161  33.955  22.050  1.00 18.09      1CCP 4
+ATOM    645  C   GLY A  43       9.710  34.039  21.600  1.00 21.43      1CCP 4
+ATOM    646  O   GLY A  43       9.362  34.652  20.579  1.00 21.45      1CCP 4
+ATOM    647  H   GLY A  43      11.932  33.901  23.991  1.00 17.80      1CCP H   new
+ATOM    648 1HA  GLY A  43      11.793  34.526  21.354  1.00 18.09      1CCP H   new
+ATOM    649 2HA  GLY A  43      11.497  32.909  22.005  1.00 18.09      1CCP H   new
+ATOM    650  N   PRO A  44       8.855  33.362  22.355  1.00 22.61      1CCP 4
+ATOM    651  CA  PRO A  44       7.434  33.266  21.987  1.00 19.89      1CCP 4
+ATOM    652  C   PRO A  44       6.811  34.627  21.912  1.00 18.57      1CCP 4
+ATOM    653  O   PRO A  44       6.086  34.834  20.922  1.00 17.40      1CCP 4
+ATOM    654  CB  PRO A  44       6.809  32.288  22.978  1.00 20.10      1CCP 4
+ATOM    655  CG  PRO A  44       8.019  31.532  23.523  1.00 21.41      1CCP 4
+ATOM    656  CD  PRO A  44       9.151  32.545  23.558  1.00 20.08      1CCP 4
+ATOM    657  HA  PRO A  44       7.266  32.870  20.975  1.00 19.89      1CCP H   new
+ATOM    658 1HB  PRO A  44       6.262  32.811  23.776  1.00 20.10      1CCP H   new
+ATOM    659 2HB  PRO A  44       6.093  31.612  22.487  1.00 20.10      1CCP H   new
+ATOM    660 1HG  PRO A  44       7.816  31.131  24.527  1.00 21.41      1CCP H   new
+ATOM    661 2HG  PRO A  44       8.273  30.676  22.880  1.00 21.41      1CCP H   new
+ATOM    662 1HD  PRO A  44       9.140  33.146  24.479  1.00 20.08      1CCP H   new
+ATOM    663 2HD  PRO A  44      10.139  32.064  23.499  1.00 20.08      1CCP H   new
+ATOM    664  N   VAL A  45       7.057  35.512  22.866  1.00 17.40      1CCP 4
+ATOM    665  CA  VAL A  45       6.363  36.826  22.729  1.00 18.47      1CCP 4
+ATOM    666  C   VAL A  45       6.823  37.585  21.480  1.00 20.24      1CCP 4
+ATOM    667  O   VAL A  45       6.004  38.364  20.890  1.00 19.06      1CCP 4
+ATOM    668  CB  VAL A  45       6.470  37.563  24.067  1.00 24.25      1CCP 4
+ATOM    669  CG1 VAL A  45       7.883  38.106  24.374  1.00 22.94      1CCP 4
+ATOM    670  CG2 VAL A  45       5.463  38.715  24.111  1.00 22.36      1CCP 4
+ATOM    671  H   VAL A  45       7.653  35.391  23.659  1.00 17.40      1CCP H   new
+ATOM    672  HA  VAL A  45       5.287  36.702  22.535  1.00 18.47      1CCP H   new
+ATOM    673  HB  VAL A  45       6.246  36.816  24.842  1.00 24.25      1CCP H   new
+ATOM    674 1HG1 VAL A  45       7.876  38.619  25.347  1.00 22.94      1CCP H   new
+ATOM    675 2HG1 VAL A  45       8.598  37.271  24.406  1.00 22.94      1CCP H   new
+ATOM    676 3HG1 VAL A  45       8.183  38.815  23.588  1.00 22.94      1CCP H   new
+ATOM    677 1HG2 VAL A  45       5.546  39.239  25.075  1.00 22.36      1CCP H   new
+ATOM    678 2HG2 VAL A  45       5.674  39.419  23.292  1.00 22.36      1CCP H   new
+ATOM    679 3HG2 VAL A  45       4.444  38.316  23.998  1.00 22.36      1CCP H   new
+ATOM    680  N   LEU A  46       8.075  37.371  21.074  1.00 17.54      1CCP 4
+ATOM    681  CA  LEU A  46       8.614  38.039  19.884  1.00 20.45      1CCP 4
+ATOM    682  C   LEU A  46       7.912  37.494  18.650  1.00 21.19      1CCP 4
+ATOM    683  O   LEU A  46       7.575  38.281  17.733  1.00 21.33      1CCP 4
+ATOM    684  CB  LEU A  46      10.149  37.924  19.808  1.00 20.57      1CCP 4
+ATOM    685  CG  LEU A  46      10.878  38.597  20.955  1.00 23.81      1CCP 4
+ATOM    686  CD1 LEU A  46      12.393  38.558  20.733  1.00 27.68      1CCP 4
+ATOM    687  CD2 LEU A  46      10.400  40.043  21.049  1.00 26.17      1CCP 4
+ATOM    688  H   LEU A  46       8.718  36.760  21.535  1.00 17.54      1CCP H   new
+ATOM    689  HA  LEU A  46       8.411  39.118  19.944  1.00 20.45      1CCP H   new
+ATOM    690 1HB  LEU A  46      10.425  36.860  19.786  1.00 20.57      1CCP H   new
+ATOM    691 2HB  LEU A  46      10.492  38.365  18.861  1.00 20.57      1CCP H   new
+ATOM    692  HG  LEU A  46      10.660  38.063  21.892  1.00 23.81      1CCP H   new
+ATOM    693 1HD1 LEU A  46      12.900  39.051  21.575  1.00 27.68      1CCP H   new
+ATOM    694 2HD1 LEU A  46      12.727  37.512  20.665  1.00 27.68      1CCP H   new
+ATOM    695 3HD1 LEU A  46      12.641  39.083  19.799  1.00 27.68      1CCP H   new
+ATOM    696 1HD2 LEU A  46      10.919  40.548  21.877  1.00 26.17      1CCP H   new
+ATOM    697 2HD2 LEU A  46      10.621  40.565  20.106  1.00 26.17      1CCP H   new
+ATOM    698 3HD2 LEU A  46       9.315  40.060  21.232  1.00 26.17      1CCP H   new
+ATOM    699  N   VAL A  47       7.705  36.171  18.657  1.00 21.07      1CCP 4
+ATOM    700  CA  VAL A  47       6.993  35.621  17.458  1.00 20.69      1CCP 4
+ATOM    701  C   VAL A  47       5.599  36.223  17.329  1.00 22.38      1CCP 4
+ATOM    702  O   VAL A  47       5.083  36.610  16.268  1.00 21.93      1CCP 4
+ATOM    703  CB  VAL A  47       6.998  34.091  17.477  1.00 17.50      1CCP 4
+ATOM    704  CG1 VAL A  47       6.192  33.549  16.295  1.00 19.69      1CCP 4
+ATOM    705  CG2 VAL A  47       8.424  33.576  17.402  1.00 16.07      1CCP 4
+ATOM    706  H   VAL A  47       7.973  35.522  19.369  1.00 21.07      1CCP H   new
+ATOM    707  HA  VAL A  47       7.538  35.918  16.550  1.00 20.69      1CCP H   new
+ATOM    708  HB  VAL A  47       6.538  33.747  18.415  1.00 17.50      1CCP H   new
+ATOM    709 1HG1 VAL A  47       6.202  32.449  16.317  1.00 19.69      1CCP H   new
+ATOM    710 2HG1 VAL A  47       5.154  33.908  16.363  1.00 19.69      1CCP H   new
+ATOM    711 3HG1 VAL A  47       6.640  33.900  15.354  1.00 19.69      1CCP H   new
+ATOM    712 1HG2 VAL A  47       8.418  32.476  17.416  1.00 16.07      1CCP H   new
+ATOM    713 2HG2 VAL A  47       8.893  33.928  16.471  1.00 16.07      1CCP H   new
+ATOM    714 3HG2 VAL A  47       8.995  33.950  18.264  1.00 16.07      1CCP H   new
+ATOM    715  N   ARG A  48       4.921  36.260  18.461  1.00 20.95      1CCP 4
+ATOM    716  CA  ARG A  48       3.561  36.804  18.520  1.00 21.59      1CCP 4
+ATOM    717  C   ARG A  48       3.580  38.281  18.127  1.00 21.25      1CCP 5
+ATOM    718  O   ARG A  48       2.646  38.723  17.445  1.00 21.94      1CCP 5
+ATOM    719  CB  ARG A  48       2.979  36.634  19.943  1.00 16.97      1CCP 5
+ATOM    720  CG  ARG A  48       1.518  37.074  19.951  1.00 22.81      1CCP 5
+ATOM    721  CD  ARG A  48       0.886  36.920  21.285  1.00 26.05      1CCP 5
+ATOM    722  NE  ARG A  48      -0.340  37.675  21.444  1.00 31.86      1CCP 5
+ATOM    723  CZ  ARG A  48      -0.602  38.526  22.455  1.00 32.09      1CCP 5
+ATOM    724  NH1 ARG A  48      -1.828  39.030  22.447  1.00 30.83      1CCP 5
+ATOM    725  NH2 ARG A  48       0.229  38.866  23.448  1.00 29.66      1CCP 5
+ATOM    726  H   ARG A  48       5.274  35.930  19.336  1.00 20.95      1CCP H   new
+ATOM    727  HA  ARG A  48       2.922  36.254  17.814  1.00 21.59      1CCP H   new
+ATOM    728 1HB  ARG A  48       3.059  35.584  20.261  1.00 16.97      1CCP H   new
+ATOM    729 2HB  ARG A  48       3.558  37.233  20.662  1.00 16.97      1CCP H   new
+ATOM    730 1HG  ARG A  48       1.454  38.126  19.638  1.00 22.81      1CCP H   new
+ATOM    731 2HG  ARG A  48       0.956  36.483  19.212  1.00 22.81      1CCP H   new
+ATOM    732 1HD  ARG A  48       0.674  35.855  21.459  1.00 26.05      1CCP H   new
+ATOM    733 2HD  ARG A  48       1.602  37.236  22.058  1.00 26.05      1CCP H   new
+ATOM    734  HE  ARG A  48      -1.048  37.555  20.748  1.00 31.86      1CCP H + new
+ATOM    735 1HH1 ARG A  48      -2.471  38.769  21.727  1.00 30.83      1CCP H + new
+ATOM    736 2HH1 ARG A  48      -2.110  39.671  23.161  1.00 30.83      1CCP H + new
+ATOM    737 1HH2 ARG A  48       1.149  38.475  23.486  1.00 29.66      1CCP H + new
+ATOM    738 2HH2 ARG A  48      -0.070  39.511  24.151  1.00 29.66      1CCP H + new
+ATOM    739  N   LEU A  49       4.627  39.018  18.565  1.00 23.14      1CCP 5
+ATOM    740  CA  LEU A  49       4.682  40.452  18.206  1.00 22.40      1CCP 5
+ATOM    741  C   LEU A  49       4.749  40.586  16.688  1.00 19.65      1CCP 5
+ATOM    742  O   LEU A  49       4.024  41.389  16.102  1.00 19.54      1CCP 5
+ATOM    743  CB  LEU A  49       5.846  41.153  18.956  1.00 28.23      1CCP 5
+ATOM    744  CG  LEU A  49       6.181  42.589  18.455  1.00 28.20      1CCP 5
+ATOM    745  CD1 LEU A  49       4.959  43.478  18.623  1.00 30.54      1CCP 5
+ATOM    746  CD2 LEU A  49       7.318  43.181  19.283  1.00 30.66      1CCP 5
+ATOM    747  H   LEU A  49       5.385  38.678  19.121  1.00 23.14      1CCP H   new
+ATOM    748  HA  LEU A  49       3.768  40.971  18.531  1.00 22.40      1CCP H   new
+ATOM    749 1HB  LEU A  49       5.595  41.203  20.026  1.00 28.23      1CCP H   new
+ATOM    750 2HB  LEU A  49       6.748  40.530  18.866  1.00 28.23      1CCP H   new
+ATOM    751  HG  LEU A  49       6.478  42.534  17.397  1.00 28.20      1CCP H   new
+ATOM    752 1HD1 LEU A  49       5.192  44.493  18.270  1.00 30.54      1CCP H   new
+ATOM    753 2HD1 LEU A  49       4.124  43.069  18.036  1.00 30.54      1CCP H   new
+ATOM    754 3HD1 LEU A  49       4.676  43.516  19.685  1.00 30.54      1CCP H   new
+ATOM    755 1HD2 LEU A  49       7.547  44.194  18.921  1.00 30.66      1CCP H   new
+ATOM    756 2HD2 LEU A  49       7.016  43.229  20.340  1.00 30.66      1CCP H   new
+ATOM    757 3HD2 LEU A  49       8.212  42.547  19.186  1.00 30.66      1CCP H   new
+ATOM    758  N   ALA A  50       5.650  39.809  16.068  1.00 17.88      1CCP 5
+ATOM    759  CA  ALA A  50       5.811  39.923  14.594  1.00 22.00      1CCP 5
+ATOM    760  C   ALA A  50       4.514  39.552  13.867  1.00 23.29      1CCP 5
+ATOM    761  O   ALA A  50       4.291  40.065  12.746  1.00 26.62      1CCP 5
+ATOM    762  CB  ALA A  50       6.966  39.042  14.109  1.00 17.21      1CCP 5
+ATOM    763  H   ALA A  50       6.242  39.140  16.517  1.00 17.88      1CCP H   new
+ATOM    764  HA  ALA A  50       6.046  40.972  14.359  1.00 22.00      1CCP H   new
+ATOM    765 1HB  ALA A  50       7.069  39.140  13.018  1.00 17.21      1CCP H   new
+ATOM    766 2HB  ALA A  50       7.900  39.360  14.595  1.00 17.21      1CCP H   new
+ATOM    767 3HB  ALA A  50       6.760  37.992  14.365  1.00 17.21      1CCP H   new
+ATOM    768  N   TRP A  51       3.705  38.707  14.428  1.00 23.55      1CCP 5
+ATOM    769  CA  TRP A  51       2.441  38.280  13.772  1.00 22.58      1CCP 5
+ATOM    770  C   TRP A  51       1.397  39.362  13.966  1.00 20.76      1CCP 5
+ATOM    771  O   TRP A  51       0.676  39.729  13.004  1.00 20.58      1CCP 5
+ATOM    772  CB  TRP A  51       2.051  36.853  14.151  1.00 23.46      1CCP 5
+ATOM    773  CG  TRP A  51       0.678  36.653  14.661  1.00 24.69      1CCP 5
+ATOM    774  CD1 TRP A  51       0.280  36.476  15.958  1.00 25.75      1CCP 5
+ATOM    775  CD2 TRP A  51      -0.538  36.671  13.877  1.00 23.88      1CCP 5
+ATOM    776  NE1 TRP A  51      -1.092  36.347  16.034  1.00 25.21      1CCP 5
+ATOM    777  CE2 TRP A  51      -1.616  36.480  14.777  1.00 25.24      1CCP 5
+ATOM    778  CE3 TRP A  51      -0.785  36.810  12.520  1.00 25.34      1CCP 5
+ATOM    779  CZ2 TRP A  51      -2.938  36.473  14.361  1.00 24.46      1CCP 5
+ATOM    780  CZ3 TRP A  51      -2.103  36.799  12.077  1.00 25.54      1CCP 5
+ATOM    781  CH2 TRP A  51      -3.158  36.624  12.981  1.00 24.63      1CCP 5
+ATOM    782  H   TRP A  51       3.867  38.290  15.322  1.00 23.55      1CCP H   new
+ATOM    783  HA  TRP A  51       2.566  38.191  12.683  1.00 22.58      1CCP H   new
+ATOM    784 1HB  TRP A  51       2.185  36.214  13.266  1.00 23.46      1CCP H   new
+ATOM    785 2HB  TRP A  51       2.757  36.496  14.915  1.00 23.46      1CCP H   new
+ATOM    786  HD1 TRP A  51       0.960  36.441  16.822  1.00 25.75      1CCP H   new
+ATOM    787  HE1 TRP A  51      -1.616  36.183  16.870  1.00 25.21      1CCP H   new
+ATOM    788  HE3 TRP A  51       0.045  36.927  11.808  1.00 25.34      1CCP H   new
+ATOM    789  HZ2 TRP A  51      -3.769  36.356  15.072  1.00 24.46      1CCP H   new
+ATOM    790  HZ3 TRP A  51      -2.319  36.929  11.006  1.00 25.54      1CCP H   new
+ATOM    791  HH2 TRP A  51      -4.190  36.604  12.600  1.00 24.63      1CCP H   new
+ATOM    792  N   HIS A  52       1.332  39.948  15.136  1.00 21.05      1CCP 5
+ATOM    793  CA  HIS A  52       0.350  41.018  15.397  1.00 24.57      1CCP 5
+ATOM    794  C   HIS A  52       0.587  42.302  14.604  1.00 27.23      1CCP 5
+ATOM    795  O   HIS A  52      -0.392  42.999  14.254  1.00 24.49      1CCP 5
+ATOM    796  CB  HIS A  52       0.323  41.339  16.894  1.00 28.48      1CCP 5
+ATOM    797  CG  HIS A  52      -0.665  40.526  17.664  1.00 34.04      1CCP 5
+ATOM    798  ND1 HIS A  52      -1.592  41.048  18.542  1.00 34.68      1CCP 5
+ATOM    799  CD2 HIS A  52      -0.880  39.178  17.644  1.00 35.56      1CCP 5
+ATOM    800  CE1 HIS A  52      -2.273  40.053  19.090  1.00 35.65      1CCP 5
+ATOM    801  NE2 HIS A  52      -1.866  38.920  18.561  1.00 36.87      1CCP 5
+ATOM    802  H   HIS A  52       1.921  39.723  15.912  1.00 21.05      1CCP H   new
+ATOM    803  HA  HIS A  52      -0.620  40.626  15.057  1.00 24.57      1CCP H   new
+ATOM    804 1HB  HIS A  52       1.326  41.174  17.313  1.00 28.48      1CCP H   new
+ATOM    805 2HB  HIS A  52       0.090  42.406  17.027  1.00 28.48      1CCP H   new
+ATOM    806  HD1 HIS A  52      -1.728  42.020  18.734  1.00 34.68      1CCP H   new
+ATOM    807  HD2 HIS A  52      -0.362  38.441  17.013  1.00 35.56      1CCP H   new
+ATOM    808  HE1 HIS A  52      -3.051  40.157  19.861  1.00 35.65      1CCP H   new
+ATOM    809  HE2 HIS A  52      -2.220  38.013  18.791  1.00 36.87      1CCP H   new
+ATOM    810  N   ILE A  53       1.842  42.675  14.355  1.00 24.84      1CCP 5
+ATOM    811  CA  ILE A  53       2.113  43.926  13.608  1.00 26.08      1CCP 5
+ATOM    812  C   ILE A  53       1.829  43.684  12.135  1.00 28.81      1CCP 5
+ATOM    813  O   ILE A  53       1.455  44.602  11.402  1.00 30.03      1CCP 5
+ATOM    814  CB  ILE A  53       3.494  44.550  13.998  1.00 29.13      1CCP 5
+ATOM    815  CG1 ILE A  53       4.686  43.625  13.698  1.00 28.26      1CCP 5
+ATOM    816  CG2 ILE A  53       3.561  44.940  15.517  1.00 24.28      1CCP 5
+ATOM    817  CD1 ILE A  53       5.139  43.535  12.232  1.00 31.72      1CCP 5
+ATOM    818  H   ILE A  53       2.654  42.166  14.639  1.00 24.84      1CCP H   new
+ATOM    819  HA  ILE A  53       1.427  44.735  13.897  1.00 26.08      1CCP H   new
+ATOM    820  HB  ILE A  53       3.572  45.450  13.371  1.00 29.13      1CCP H   new
+ATOM    821 1HG1 ILE A  53       5.542  43.961  14.302  1.00 28.26      1CCP H   new
+ATOM    822 2HG1 ILE A  53       4.429  42.612  14.041  1.00 28.26      1CCP H   new
+ATOM    823 1HG2 ILE A  53       4.547  45.373  15.742  1.00 24.28      1CCP H   new
+ATOM    824 2HG2 ILE A  53       2.777  45.678  15.741  1.00 24.28      1CCP H   new
+ATOM    825 3HG2 ILE A  53       3.406  44.042  16.134  1.00 24.28      1CCP H   new
+ATOM    826 1HD1 ILE A  53       5.993  42.846  12.153  1.00 31.72      1CCP H   new
+ATOM    827 2HD1 ILE A  53       4.309  43.162  11.614  1.00 31.72      1CCP H   new
+ATOM    828 3HD1 ILE A  53       5.439  44.532  11.879  1.00 31.72      1CCP H   new
+ATOM    829  N   SER A  54       1.881  42.445  11.676  1.00 26.89      1CCP 5
+ATOM    830  CA  SER A  54       1.640  42.071  10.305  1.00 26.79      1CCP 5
+ATOM    831  C   SER A  54       0.173  41.717   9.987  1.00 27.56      1CCP 5
+ATOM    832  O   SER A  54      -0.214  41.763   8.802  1.00 25.61      1CCP 5
+ATOM    833  CB  SER A  54       2.426  40.788   9.974  1.00 25.37      1CCP 5
+ATOM    834  OG  SER A  54       3.811  41.007  10.140  1.00 27.79      1CCP 5
+ATOM    835  H   SER A  54       2.096  41.664  12.262  1.00 26.89      1CCP H   new
+ATOM    836  HA  SER A  54       1.941  42.954   9.722  1.00 26.79      1CCP H   new
+ATOM    837 1HB  SER A  54       2.218  40.478   8.939  1.00 25.37      1CCP H   new
+ATOM    838 2HB  SER A  54       2.096  39.968  10.628  1.00 25.37      1CCP H   new
+ATOM    839  HG  SER A  54       4.310  40.168   9.923  1.00 27.79      1CCP H   new
+ATOM    840  N   GLY A  55      -0.522  41.310  11.038  1.00 26.49      1CCP 5
+ATOM    841  CA  GLY A  55      -1.874  40.827  10.923  1.00 26.27      1CCP 5
+ATOM    842  C   GLY A  55      -2.972  41.841  10.758  1.00 28.43      1CCP 5
+ATOM    843  O   GLY A  55      -4.153  41.458  10.600  1.00 28.16      1CCP 5
+ATOM    844  H   GLY A  55      -0.165  41.308  11.972  1.00 26.49      1CCP H   new
+ATOM    845 1HA  GLY A  55      -1.916  40.142  10.063  1.00 26.27      1CCP H   new
+ATOM    846 2HA  GLY A  55      -2.097  40.231  11.820  1.00 26.27      1CCP H   new
+ATOM    847  N   THR A  56      -2.593  43.110  10.806  1.00 25.18      1CCP 5
+ATOM    848  CA  THR A  56      -3.626  44.149  10.627  1.00 24.75      1CCP 5
+ATOM    849  C   THR A  56      -3.794  44.435   9.151  1.00 24.43      1CCP 5
+ATOM    850  O   THR A  56      -4.602  45.311   8.813  1.00 29.74      1CCP 5
+ATOM    851  CB  THR A  56      -3.045  45.439  11.368  1.00 24.01      1CCP 5
+ATOM    852  OG1 THR A  56      -1.745  45.552  10.712  1.00 21.91      1CCP 5
+ATOM    853  CG2 THR A  56      -2.928  45.140  12.861  1.00 23.67      1CCP 5
+ATOM    854  H   THR A  56      -1.660  43.437  10.954  1.00 25.18      1CCP H   new
+ATOM    855  HA  THR A  56      -4.605  43.848  11.028  1.00 24.75      1CCP H   new
+ATOM    856  HB  THR A  56      -3.644  46.359  11.304  1.00 24.01      1CCP H   new
+ATOM    857  HG1 THR A  56      -1.251  46.338  11.083  1.00 21.91      1CCP H   new
+ATOM    858 1HG2 THR A  56      -2.528  46.023  13.382  1.00 23.67      1CCP H   new
+ATOM    859 2HG2 THR A  56      -3.921  44.895  13.265  1.00 23.67      1CCP H   new
+ATOM    860 3HG2 THR A  56      -2.250  44.287  13.013  1.00 23.67      1CCP H   new
+ATOM    861  N   TRP A  57      -3.043  43.752   8.308  1.00 22.74      1CCP 5
+ATOM    862  CA  TRP A  57      -3.124  44.009   6.873  1.00 23.56      1CCP 5
+ATOM    863  C   TRP A  57      -4.510  43.706   6.286  1.00 26.33      1CCP 5
+ATOM    864  O   TRP A  57      -5.169  42.710   6.614  1.00 28.00      1CCP 5
+ATOM    865  CB  TRP A  57      -2.057  43.243   6.095  1.00 21.50      1CCP 5
+ATOM    866  CG  TRP A  57      -1.960  43.628   4.647  1.00 22.81      1CCP 5
+ATOM    867  CD1 TRP A  57      -1.550  44.855   4.146  1.00 24.74      1CCP 5
+ATOM    868  CD2 TRP A  57      -2.106  42.775   3.516  1.00 24.83      1CCP 5
+ATOM    869  NE1 TRP A  57      -1.532  44.824   2.771  1.00 25.05      1CCP 5
+ATOM    870  CE2 TRP A  57      -1.834  43.545   2.370  1.00 24.32      1CCP 5
+ATOM    871  CE3 TRP A  57      -2.443  41.426   3.382  1.00 24.19      1CCP 5
+ATOM    872  CZ2 TRP A  57      -1.908  43.014   1.089  1.00 25.94      1CCP 5
+ATOM    873  CZ3 TRP A  57      -2.518  40.894   2.110  1.00 27.47      1CCP 5
+ATOM    874  CH2 TRP A  57      -2.270  41.666   0.971  1.00 29.52      1CCP 5
+ATOM    875  H   TRP A  57      -2.393  43.041   8.574  1.00 22.74      1CCP H   new
+ATOM    876  HA  TRP A  57      -2.941  45.088   6.761  1.00 23.56      1CCP H   new
+ATOM    877 1HB  TRP A  57      -1.080  43.408   6.573  1.00 21.50      1CCP H   new
+ATOM    878 2HB  TRP A  57      -2.271  42.166   6.163  1.00 21.50      1CCP H   new
+ATOM    879  HD1 TRP A  57      -1.279  45.727   4.760  1.00 24.74      1CCP H   new
+ATOM    880  HE1 TRP A  57      -1.334  45.597   2.169  1.00 25.05      1CCP H   new
+ATOM    881  HE3 TRP A  57      -2.643  40.804   4.267  1.00 24.19      1CCP H   new
+ATOM    882  HZ2 TRP A  57      -1.691  43.628   0.202  1.00 25.94      1CCP H   new
+ATOM    883  HZ3 TRP A  57      -2.780  39.833   1.989  1.00 27.47      1CCP H   new
+ATOM    884  HH2 TRP A  57      -2.360  41.211  -0.026  1.00 29.52      1CCP H   new
+ATOM    885  N   ASP A  58      -4.875  44.537   5.336  1.00 28.05      1CCP 5
+ATOM    886  CA  ASP A  58      -6.150  44.373   4.632  1.00 27.24      1CCP 5
+ATOM    887  C   ASP A  58      -5.865  44.364   3.138  1.00 28.46      1CCP 5
+ATOM    888  O   ASP A  58      -5.639  45.460   2.637  1.00 31.24      1CCP 5
+ATOM    889  CB  ASP A  58      -7.151  45.437   5.032  1.00 27.86      1CCP 5
+ATOM    890  CG  ASP A  58      -8.477  45.091   4.328  1.00 28.88      1CCP 5
+ATOM    891  OD1 ASP A  58      -8.452  44.418   3.301  1.00 28.14      1CCP 5
+ATOM    892  OD2 ASP A  58      -9.481  45.547   4.862  1.00 27.50      1CCP 5
+ATOM    893  H   ASP A  58      -4.329  45.318   5.032  1.00 28.05      1CCP H   new
+ATOM    894  HA  ASP A  58      -6.618  43.418   4.913  1.00 27.24      1CCP H   new
+ATOM    895 1HB  ASP A  58      -7.283  45.457   6.124  1.00 27.86      1CCP H   new
+ATOM    896 2HB  ASP A  58      -6.799  46.435   4.732  1.00 27.86      1CCP H   new
+ATOM    897  N   LYS A  59      -5.906  43.213   2.502  1.00 25.55      1CCP 5
+ATOM    898  CA  LYS A  59      -5.629  43.077   1.094  1.00 26.76      1CCP 5
+ATOM    899  C   LYS A  59      -6.586  43.915   0.250  1.00 31.17      1CCP 5
+ATOM    900  O   LYS A  59      -6.332  44.015  -0.972  1.00 29.86      1CCP 5
+ATOM    901  CB  LYS A  59      -5.709  41.656   0.571  1.00 29.88      1CCP 5
+ATOM    902  CG  LYS A  59      -7.186  41.154   0.517  1.00 33.22      1CCP 5
+ATOM    903  CD  LYS A  59      -7.279  39.803  -0.184  1.00 31.64      1CCP 5
+ATOM    904  CE  LYS A  59      -8.706  39.303  -0.184  1.00 35.33      1CCP 6
+ATOM    905  NZ  LYS A  59      -8.738  37.836  -0.450  1.00 36.56      1CCP 6
+ATOM    906  H   LYS A  59      -6.133  42.349   2.951  1.00 25.55      1CCP H   new
+ATOM    907  HA  LYS A  59      -4.590  43.427   1.000  1.00 26.76      1CCP H   new
+ATOM    908 1HB  LYS A  59      -5.266  41.607  -0.434  1.00 29.88      1CCP H   new
+ATOM    909 2HB  LYS A  59      -5.116  40.991   1.217  1.00 29.88      1CCP H   new
+ATOM    910 1HG  LYS A  59      -7.586  41.070   1.538  1.00 33.22      1CCP H   new
+ATOM    911 2HG  LYS A  59      -7.808  41.890  -0.013  1.00 33.22      1CCP H   new
+ATOM    912 1HD  LYS A  59      -6.916  39.894  -1.218  1.00 31.64      1CCP H   new
+ATOM    913 2HD  LYS A  59      -6.629  39.075   0.322  1.00 31.64      1CCP H   new
+ATOM    914 1HE  LYS A  59      -9.178  39.518   0.786  1.00 35.33      1CCP H   new
+ATOM    915 2HE  LYS A  59      -9.289  39.835  -0.950  1.00 35.33      1CCP H   new
+ATOM    916 1HZ  LYS A  59      -9.686  37.517  -0.448  1.00 36.56      1CCP H + new
+ATOM    917 2HZ  LYS A  59      -8.326  37.649  -1.342  1.00 36.56      1CCP H + new
+ATOM    918 3HZ  LYS A  59      -8.224  37.357   0.261  1.00 36.56      1CCP H + new
+ATOM    919  N   HIS A  60      -7.617  44.465   0.883  1.00 32.22      1CCP 6
+ATOM    920  CA  HIS A  60      -8.539  45.259   0.046  1.00 37.33      1CCP 6
+ATOM    921  C   HIS A  60      -8.007  46.674  -0.219  1.00 39.54      1CCP 6
+ATOM    922  O   HIS A  60      -8.120  47.067  -1.416  1.00 41.25      1CCP 6
+ATOM    923  CB  HIS A  60     -10.010  45.334   0.493  1.00 39.57      1CCP 6
+ATOM    924  CG  HIS A  60     -10.626  43.978   0.686  1.00 41.33      1CCP 6
+ATOM    925  ND1 HIS A  60     -10.832  43.375   1.905  1.00 40.89      1CCP 6
+ATOM    926  CD2 HIS A  60     -11.016  43.082  -0.273  1.00 42.36      1CCP 6
+ATOM    927  CE1 HIS A  60     -11.351  42.179   1.691  1.00 42.07      1CCP 6
+ATOM    928  NE2 HIS A  60     -11.472  41.969   0.385  1.00 42.50      1CCP 6
+ATOM    929  H   HIS A  60      -7.830  44.397   1.858  1.00 32.22      1CCP H   new
+ATOM    930  HA  HIS A  60      -8.560  44.671  -0.883  1.00 37.33      1CCP H   new
+ATOM    931 1HB  HIS A  60     -10.075  45.899   1.435  1.00 39.57      1CCP H   new
+ATOM    932 2HB  HIS A  60     -10.589  45.892  -0.257  1.00 39.57      1CCP H   new
+ATOM    933  HD1 HIS A  60     -10.625  43.773   2.799  1.00 40.89      1CCP H   new
+ATOM    934  HD2 HIS A  60     -10.972  43.227  -1.362  1.00 42.36      1CCP H   new
+ATOM    935  HE1 HIS A  60     -11.639  41.465   2.476  1.00 42.07      1CCP H   new
+ATOM    936  HE2 HIS A  60     -11.834  41.141  -0.044  1.00 42.50      1CCP H   new
+ATOM    937  N   ASP A  61      -7.482  47.414   0.735  1.00 34.39      1CCP 6
+ATOM    938  CA  ASP A  61      -7.041  48.793   0.442  1.00 33.17      1CCP 6
+ATOM    939  C   ASP A  61      -5.571  48.956   0.772  1.00 33.73      1CCP 6
+ATOM    940  O   ASP A  61      -5.046  50.077   0.890  1.00 33.15      1CCP 6
+ATOM    941  CB  ASP A  61      -7.951  49.780   1.195  1.00 30.77      1CCP 6
+ATOM    942  CG  ASP A  61      -7.904  49.409   2.672  1.00 33.73      1CCP 6
+ATOM    943  OD1 ASP A  61      -7.077  48.547   3.048  1.00 32.99      1CCP 6
+ATOM    944  OD2 ASP A  61      -8.655  50.018   3.455  1.00 36.53      1CCP 6
+ATOM    945  H   ASP A  61      -7.348  47.116   1.680  1.00 34.39      1CCP H   new
+ATOM    946  HA  ASP A  61      -7.136  49.012  -0.632  1.00 33.17      1CCP H   new
+ATOM    947 1HB  ASP A  61      -7.608  50.814   1.045  1.00 30.77      1CCP H   new
+ATOM    948 2HB  ASP A  61      -8.982  49.724   0.814  1.00 30.77      1CCP H   new
+ATOM    949  N   ASN A  62      -4.919  47.818   0.940  1.00 34.52      1CCP 6
+ATOM    950  CA  ASN A  62      -3.484  47.787   1.256  1.00 33.73      1CCP 6
+ATOM    951  C   ASN A  62      -3.135  48.511   2.546  1.00 31.59      1CCP 6
+ATOM    952  O   ASN A  62      -1.968  48.909   2.664  1.00 33.83      1CCP 6
+ATOM    953  CB  ASN A  62      -2.649  48.364   0.089  1.00 35.10      1CCP 6
+ATOM    954  CG  ASN A  62      -1.247  47.767   0.128  1.00 37.79      1CCP 6
+ATOM    955  OD1 ASN A  62      -0.956  46.942   1.000  1.00 37.86      1CCP 6
+ATOM    956  ND2 ASN A  62      -0.378  48.137  -0.802  1.00 39.72      1CCP 6
+ATOM    957  H   ASN A  62      -5.344  46.916   0.866  1.00 34.52      1CCP H   new
+ATOM    958  HA  ASN A  62      -3.232  46.726   1.403  1.00 33.73      1CCP H   new
+ATOM    959 1HB  ASN A  62      -3.132  48.133  -0.872  1.00 35.10      1CCP H   new
+ATOM    960 2HB  ASN A  62      -2.596  49.460   0.167  1.00 35.10      1CCP H   new
+ATOM    961 1HD2 ASN A  62       0.542  47.746  -0.810  1.00 39.72      1CCP H   new
+ATOM    962 2HD2 ASN A  62      -0.643  48.807  -1.495  1.00 39.72      1CCP H   new
+ATOM    963  N   THR A  63      -4.045  48.719   3.471  1.00 30.95      1CCP 6
+ATOM    964  CA  THR A  63      -3.679  49.379   4.759  1.00 30.11      1CCP 6
+ATOM    965  C   THR A  63      -3.178  48.322   5.742  1.00 31.60      1CCP 6
+ATOM    966  O   THR A  63      -3.410  47.098   5.557  1.00 31.37      1CCP 6
+ATOM    967  CB  THR A  63      -4.958  50.108   5.315  1.00 31.70      1CCP 6
+ATOM    968  OG1 THR A  63      -5.985  49.038   5.304  1.00 32.80      1CCP 6
+ATOM    969  CG2 THR A  63      -5.389  51.277   4.408  1.00 29.13      1CCP 6
+ATOM    970  H   THR A  63      -5.008  48.463   3.387  1.00 30.95      1CCP H   new
+ATOM    971  HA  THR A  63      -2.876  50.116   4.612  1.00 30.11      1CCP H   new
+ATOM    972  HB  THR A  63      -4.791  50.553   6.307  1.00 31.70      1CCP H   new
+ATOM    973  HG1 THR A  63      -6.851  49.403   5.645  1.00 32.80      1CCP H   new
+ATOM    974 1HG2 THR A  63      -6.283  51.759   4.830  1.00 29.13      1CCP H   new
+ATOM    975 2HG2 THR A  63      -4.573  52.012   4.344  1.00 29.13      1CCP H   new
+ATOM    976 3HG2 THR A  63      -5.619  50.896   3.402  1.00 29.13      1CCP H   new
+ATOM    977  N   GLY A  64      -2.517  48.755   6.794  1.00 28.41      1CCP 6
+ATOM    978  CA  GLY A  64      -1.953  47.864   7.840  1.00 27.84      1CCP 6
+ATOM    979  C   GLY A  64      -0.770  47.032   7.341  1.00 25.76      1CCP 6
+ATOM    980  O   GLY A  64      -0.193  47.348   6.277  1.00 28.12      1CCP 6
+ATOM    981  H   GLY A  64      -2.346  49.725   6.965  1.00 28.41      1CCP H   new
+ATOM    982 1HA  GLY A  64      -1.630  48.473   8.698  1.00 27.84      1CCP H   new
+ATOM    983 2HA  GLY A  64      -2.742  47.189   8.203  1.00 27.84      1CCP H   new
+ATOM    984  N   GLY A  65      -0.439  45.971   8.082  1.00 22.33      1CCP 6
+ATOM    985  CA  GLY A  65       0.719  45.129   7.686  1.00 22.42      1CCP 6
+ATOM    986  C   GLY A  65       1.961  45.706   8.425  1.00 22.81      1CCP 6
+ATOM    987  O   GLY A  65       1.868  46.737   9.140  1.00 19.14      1CCP 6
+ATOM    988  H   GLY A  65      -0.917  45.679   8.911  1.00 22.33      1CCP H   new
+ATOM    989 1HA  GLY A  65       0.552  44.078   7.964  1.00 22.42      1CCP H   new
+ATOM    990 2HA  GLY A  65       0.866  45.154   6.596  1.00 22.42      1CCP H   new
+ATOM    991  N   SER A  66       3.076  45.032   8.205  1.00 21.98      1CCP 6
+ATOM    992  CA  SER A  66       4.322  45.353   8.917  1.00 25.55      1CCP 6
+ATOM    993  C   SER A  66       5.031  46.603   8.445  1.00 26.93      1CCP 6
+ATOM    994  O   SER A  66       5.861  47.108   9.233  1.00 28.34      1CCP 6
+ATOM    995  CB  SER A  66       5.359  44.205   8.815  1.00 23.09      1CCP 6
+ATOM    996  OG  SER A  66       5.724  44.045   7.432  1.00 22.78      1CCP 6
+ATOM    997  H   SER A  66       3.153  44.275   7.556  1.00 21.98      1CCP H   new
+ATOM    998  HA  SER A  66       3.975  45.511   9.949  1.00 25.55      1CCP H   new
+ATOM    999 1HB  SER A  66       4.935  43.270   9.210  1.00 23.09      1CCP H   new
+ATOM   1000 2HB  SER A  66       6.247  44.437   9.421  1.00 23.09      1CCP H   new
+ATOM   1001  HG  SER A  66       6.394  43.307   7.347  1.00 22.78      1CCP H   new
+ATOM   1002  N   TYR A  67       4.757  47.013   7.216  1.00 26.86      1CCP 6
+ATOM   1003  CA  TYR A  67       5.505  48.138   6.646  1.00 27.28      1CCP 6
+ATOM   1004  C   TYR A  67       5.799  49.354   7.509  1.00 25.02      1CCP 6
+ATOM   1005  O   TYR A  67       6.982  49.770   7.641  1.00 27.53      1CCP 6
+ATOM   1006  CB  TYR A  67       4.951  48.549   5.287  1.00 27.51      1CCP 6
+ATOM   1007  CG  TYR A  67       5.731  49.573   4.479  1.00 29.40      1CCP 6
+ATOM   1008  CD1 TYR A  67       6.792  49.190   3.643  1.00 28.79      1CCP 6
+ATOM   1009  CD2 TYR A  67       5.364  50.930   4.543  1.00 29.51      1CCP 6
+ATOM   1010  CE1 TYR A  67       7.460  50.136   2.865  1.00 27.92      1CCP 6
+ATOM   1011  CE2 TYR A  67       6.007  51.871   3.772  1.00 29.77      1CCP 6
+ATOM   1012  CZ  TYR A  67       7.038  51.457   2.927  1.00 30.99      1CCP 6
+ATOM   1013  OH  TYR A  67       7.639  52.448   2.172  1.00 32.34      1CCP 6
+ATOM   1014  H   TYR A  67       4.062  46.613   6.618  1.00 26.86      1CCP H   new
+ATOM   1015  HA  TYR A  67       6.506  47.693   6.551  1.00 27.28      1CCP H   new
+ATOM   1016 1HB  TYR A  67       4.852  47.641   4.675  1.00 27.51      1CCP H   new
+ATOM   1017 2HB  TYR A  67       3.936  48.944   5.442  1.00 27.51      1CCP H   new
+ATOM   1018  HD1 TYR A  67       7.099  48.135   3.601  1.00 28.79      1CCP H   new
+ATOM   1019  HD2 TYR A  67       4.553  51.242   5.218  1.00 29.51      1CCP H   new
+ATOM   1020  HE1 TYR A  67       8.300  49.842   2.219  1.00 27.92      1CCP H   new
+ATOM   1021  HE2 TYR A  67       5.714  52.930   3.821  1.00 29.77      1CCP H   new
+ATOM   1022  HH  TYR A  67       7.194  53.324   2.357  1.00 32.34      1CCP H   new
+ATOM   1023  N   GLY A  68       4.779  49.951   8.056  1.00 23.37      1CCP 6
+ATOM   1024  CA  GLY A  68       4.829  51.178   8.781  1.00 25.59      1CCP 6
+ATOM   1025  C   GLY A  68       5.324  51.205  10.183  1.00 29.00      1CCP 6
+ATOM   1026  O   GLY A  68       5.575  52.354  10.665  1.00 28.26      1CCP 6
+ATOM   1027  H   GLY A  68       3.854  49.574   8.003  1.00 23.37      1CCP H   new
+ATOM   1028 1HA  GLY A  68       5.455  51.872   8.202  1.00 25.59      1CCP H   new
+ATOM   1029 2HA  GLY A  68       3.810  51.593   8.788  1.00 25.59      1CCP H   new
+ATOM   1030  N   GLY A  69       5.465  50.055  10.813  1.00 24.86      1CCP 6
+ATOM   1031  CA  GLY A  69       5.969  50.083  12.213  1.00 25.60      1CCP 6
+ATOM   1032  C   GLY A  69       4.987  50.830  13.103  1.00 28.95      1CCP 6
+ATOM   1033  O   GLY A  69       5.397  51.371  14.153  1.00 33.18      1CCP 6
+ATOM   1034  H   GLY A  69       5.263  49.152  10.435  1.00 24.86      1CCP H   new
+ATOM   1035 1HA  GLY A  69       6.106  49.056  12.584  1.00 25.60      1CCP H   new
+ATOM   1036 2HA  GLY A  69       6.954  50.571  12.248  1.00 25.60      1CCP H   new
+ATOM   1037  N   THR A  70       3.724  50.831  12.705  1.00 28.93      1CCP 6
+ATOM   1038  CA  THR A  70       2.676  51.559  13.418  1.00 29.77      1CCP 6
+ATOM   1039  C   THR A  70       2.458  51.140  14.840  1.00 30.77      1CCP 6
+ATOM   1040  O   THR A  70       1.946  51.982  15.612  1.00 30.86      1CCP 6
+ATOM   1041  CB  THR A  70       1.363  51.643  12.553  1.00 31.72      1CCP 6
+ATOM   1042  OG1 THR A  70       0.999  50.294  12.149  1.00 33.85      1CCP 6
+ATOM   1043  CG2 THR A  70       1.591  52.518  11.297  1.00 32.05      1CCP 6
+ATOM   1044  H   THR A  70       3.400  50.339  11.897  1.00 28.93      1CCP H   new
+ATOM   1045  HA  THR A  70       3.048  52.587  13.543  1.00 29.77      1CCP H   new
+ATOM   1046  HB  THR A  70       0.558  52.100  13.147  1.00 31.72      1CCP H   new
+ATOM   1047  HG1 THR A  70       0.166  50.324  11.597  1.00 33.85      1CCP H   new
+ATOM   1048 1HG2 THR A  70       0.663  52.563  10.708  1.00 32.05      1CCP H   new
+ATOM   1049 2HG2 THR A  70       1.880  53.534  11.605  1.00 32.05      1CCP H   new
+ATOM   1050 3HG2 THR A  70       2.393  52.079  10.685  1.00 32.05      1CCP H   new
+ATOM   1051  N   TYR A  71       2.826  49.922  15.199  1.00 30.55      1CCP 6
+ATOM   1052  CA  TYR A  71       2.650  49.416  16.571  1.00 30.48      1CCP 6
+ATOM   1053  C   TYR A  71       3.258  50.393  17.573  1.00 33.30      1CCP 6
+ATOM   1054  O   TYR A  71       2.894  50.468  18.762  1.00 32.64      1CCP 6
+ATOM   1055  CB  TYR A  71       3.201  47.983  16.707  1.00 30.67      1CCP 6
+ATOM   1056  CG  TYR A  71       3.267  47.464  18.119  1.00 31.89      1CCP 6
+ATOM   1057  CD1 TYR A  71       4.471  47.364  18.823  1.00 33.41      1CCP 6
+ATOM   1058  CD2 TYR A  71       2.083  47.117  18.800  1.00 33.12      1CCP 6
+ATOM   1059  CE1 TYR A  71       4.526  46.915  20.143  1.00 33.75      1CCP 6
+ATOM   1060  CE2 TYR A  71       2.108  46.664  20.122  1.00 33.21      1CCP 6
+ATOM   1061  CZ  TYR A  71       3.328  46.559  20.796  1.00 35.57      1CCP 6
+ATOM   1062  OH  TYR A  71       3.332  46.105  22.104  1.00 31.06      1CCP 6
+ATOM   1063  H   TYR A  71       3.245  49.264  14.573  1.00 30.55      1CCP H   new
+ATOM   1064  HA  TYR A  71       1.576  49.350  16.800  1.00 30.48      1CCP H   new
+ATOM   1065 1HB  TYR A  71       2.572  47.305  16.111  1.00 30.67      1CCP H   new
+ATOM   1066 2HB  TYR A  71       4.211  47.951  16.272  1.00 30.67      1CCP H   new
+ATOM   1067  HD1 TYR A  71       5.406  47.649  18.319  1.00 33.41      1CCP H   new
+ATOM   1068  HD2 TYR A  71       1.118  47.205  18.280  1.00 33.12      1CCP H   new
+ATOM   1069  HE1 TYR A  71       5.490  46.840  20.667  1.00 33.75      1CCP H   new
+ATOM   1070  HE2 TYR A  71       1.171  46.391  20.630  1.00 33.21      1CCP H   new
+ATOM   1071  HH  TYR A  71       2.395  45.904  22.391  1.00 31.06      1CCP H   new
+ATOM   1072  N   ARG A  72       4.185  51.204  17.080  1.00 34.70      1CCP 6
+ATOM   1073  CA  ARG A  72       4.884  52.213  17.888  1.00 36.93      1CCP 6
+ATOM   1074  C   ARG A  72       3.921  53.306  18.373  1.00 36.43      1CCP 6
+ATOM   1075  O   ARG A  72       4.241  53.961  19.385  1.00 37.34      1CCP 6
+ATOM   1076  CB  ARG A  72       6.113  52.830  17.227  1.00 35.11      1CCP 6
+ATOM   1077  CG  ARG A  72       5.911  53.764  16.052  1.00 35.88      1CCP 6
+ATOM   1078  CD  ARG A  72       7.237  54.276  15.546  1.00 35.72      1CCP 6
+ATOM   1079  NE  ARG A  72       7.036  55.382  14.598  1.00 36.55      1CCP 6
+ATOM   1080  CZ  ARG A  72       6.636  55.182  13.345  1.00 37.40      1CCP 6
+ATOM   1081  NH1 ARG A  72       6.336  53.937  12.929  1.00 37.23      1CCP 6
+ATOM   1082  NH2 ARG A  72       6.500  56.194  12.488  1.00 38.49      1CCP 6
+ATOM   1083  H   ARG A  72       4.474  51.186  16.123  1.00 34.70      1CCP H   new
+ATOM   1084  HA  ARG A  72       5.270  51.655  18.754  1.00 36.93      1CCP H   new
+ATOM   1085 1HB  ARG A  72       6.667  53.381  18.001  1.00 35.11      1CCP H   new
+ATOM   1086 2HB  ARG A  72       6.761  52.007  16.892  1.00 35.11      1CCP H   new
+ATOM   1087 1HG  ARG A  72       5.383  53.237  15.244  1.00 35.88      1CCP H   new
+ATOM   1088 2HG  ARG A  72       5.276  54.610  16.354  1.00 35.88      1CCP H   new
+ATOM   1089 1HD  ARG A  72       7.852  54.617  16.392  1.00 35.72      1CCP H   new
+ATOM   1090 2HD  ARG A  72       7.789  53.460  15.056  1.00 35.72      1CCP H   new
+ATOM   1091  HE  ARG A  72       7.206  56.318  14.906  1.00 36.55      1CCP H + new
+ATOM   1092 1HH1 ARG A  72       6.414  53.166  13.561  1.00 37.23      1CCP H + new
+ATOM   1093 2HH1 ARG A  72       6.035  53.783  11.988  1.00 37.23      1CCP H + new
+ATOM   1094 1HH2 ARG A  72       6.700  57.129  12.782  1.00 38.49      1CCP H + new
+ATOM   1095 2HH2 ARG A  72       6.198  56.019  11.551  1.00 38.49      1CCP H + new
+ATOM   1096  N   PHE A  73       2.801  53.434  17.685  1.00 35.14      1CCP 6
+ATOM   1097  CA  PHE A  73       1.810  54.458  18.062  1.00 35.77      1CCP 7
+ATOM   1098  C   PHE A  73       0.835  53.898  19.094  1.00 39.56      1CCP 7
+ATOM   1099  O   PHE A  73       0.484  52.701  19.053  1.00 38.53      1CCP 7
+ATOM   1100  CB  PHE A  73       1.131  55.056  16.844  1.00 34.02      1CCP 7
+ATOM   1101  CG  PHE A  73       2.110  55.683  15.882  1.00 38.03      1CCP 7
+ATOM   1102  CD1 PHE A  73       2.264  55.178  14.594  1.00 36.97      1CCP 7
+ATOM   1103  CD2 PHE A  73       2.928  56.751  16.324  1.00 35.39      1CCP 7
+ATOM   1104  CE1 PHE A  73       3.129  55.791  13.693  1.00 37.79      1CCP 7
+ATOM   1105  CE2 PHE A  73       3.827  57.339  15.439  1.00 37.53      1CCP 7
+ATOM   1106  CZ  PHE A  73       3.941  56.856  14.112  1.00 38.59      1CCP 7
+ATOM   1107  H   PHE A  73       2.552  52.874  16.895  1.00 35.14      1CCP H   new
+ATOM   1108  HA  PHE A  73       2.331  55.298  18.543  1.00 35.77      1CCP H   new
+ATOM   1109 1HB  PHE A  73       0.563  54.271  16.323  1.00 34.02      1CCP H   new
+ATOM   1110 2HB  PHE A  73       0.405  55.816  17.170  1.00 34.02      1CCP H   new
+ATOM   1111  HD1 PHE A  73       1.697  54.287  14.286  1.00 36.97      1CCP H   new
+ATOM   1112  HD2 PHE A  73       2.853  57.114  17.360  1.00 35.39      1CCP H   new
+ATOM   1113  HE1 PHE A  73       3.176  55.441  12.651  1.00 37.79      1CCP H   new
+ATOM   1114  HE2 PHE A  73       4.451  58.182  15.771  1.00 37.53      1CCP H   new
+ATOM   1115  HZ  PHE A  73       4.660  57.312  13.416  1.00 38.59      1CCP H   new
+ATOM   1116  N   LYS A  74       0.433  54.777  19.995  1.00 40.67      1CCP 7
+ATOM   1117  CA  LYS A  74      -0.483  54.468  21.080  1.00 44.31      1CCP 7
+ATOM   1118  C   LYS A  74      -1.714  53.701  20.654  1.00 43.09      1CCP 7
+ATOM   1119  O   LYS A  74      -2.023  52.665  21.284  1.00 42.82      1CCP 7
+ATOM   1120  CB  LYS A  74      -0.892  55.716  21.863  1.00 51.32      1CCP 7
+ATOM   1121  CG  LYS A  74       0.145  56.020  22.979  1.00 59.03      1CCP 7
+ATOM   1122  CD  LYS A  74      -0.408  57.047  23.986  1.00 62.70      1CCP 7
+ATOM   1123  H   LYS A  74       0.736  55.730  19.993  1.00 40.67      1CCP H   new
+ATOM   1124  HA  LYS A  74       0.093  53.802  21.739  1.00 44.31      1CCP H   new
+ATOM   1125 1HB  LYS A  74      -0.969  56.576  21.181  1.00 51.32      1CCP H   new
+ATOM   1126 2HB  LYS A  74      -1.887  55.568  22.308  1.00 51.32      1CCP H   new
+ATOM   1127 1HG  LYS A  74       0.406  55.090  23.505  1.00 59.03      1CCP H   new
+ATOM   1128 2HG  LYS A  74       1.071  56.406  22.528  1.00 59.03      1CCP H   new
+ATOM   1129  N   LYS A  75      -2.406  54.162  19.634  1.00 41.43      1CCP 7
+ATOM   1130  CA  LYS A  75      -3.621  53.455  19.166  1.00 43.21      1CCP 7
+ATOM   1131  C   LYS A  75      -3.424  51.950  18.975  1.00 43.05      1CCP 7
+ATOM   1132  O   LYS A  75      -4.180  51.123  19.516  1.00 41.94      1CCP 7
+ATOM   1133  CB  LYS A  75      -4.117  54.053  17.864  1.00 42.25      1CCP 7
+ATOM   1134  CG  LYS A  75      -5.401  53.483  17.299  1.00 44.01      1CCP 7
+ATOM   1135  CD  LYS A  75      -5.977  54.356  16.190  1.00 45.74      1CCP 7
+ATOM   1136  CE  LYS A  75      -5.276  54.171  14.858  1.00 46.96      1CCP 7
+ATOM   1137  NZ  LYS A  75      -6.026  54.897  13.795  1.00 50.55      1CCP 7
+ATOM   1138  H   LYS A  75      -2.175  54.988  19.120  1.00 41.43      1CCP H   new
+ATOM   1139  HA  LYS A  75      -4.365  53.589  19.965  1.00 43.21      1CCP H   new
+ATOM   1140 1HB  LYS A  75      -4.258  55.134  18.014  1.00 42.25      1CCP H   new
+ATOM   1141 2HB  LYS A  75      -3.327  53.934  17.108  1.00 42.25      1CCP H   new
+ATOM   1142 1HG  LYS A  75      -5.211  52.473  16.907  1.00 44.01      1CCP H   new
+ATOM   1143 2HG  LYS A  75      -6.142  53.381  18.106  1.00 44.01      1CCP H   new
+ATOM   1144 1HD  LYS A  75      -7.046  54.126  16.069  1.00 45.74      1CCP H   new
+ATOM   1145 2HD  LYS A  75      -5.907  55.412  16.490  1.00 45.74      1CCP H   new
+ATOM   1146 1HE  LYS A  75      -4.245  54.550  14.918  1.00 46.96      1CCP H   new
+ATOM   1147 2HE  LYS A  75      -5.212  53.101  14.611  1.00 46.96      1CCP H   new
+ATOM   1148 1HZ  LYS A  75      -5.563  54.775  12.917  1.00 50.55      1CCP H + new
+ATOM   1149 2HZ  LYS A  75      -6.956  54.534  13.735  1.00 50.55      1CCP H + new
+ATOM   1150 3HZ  LYS A  75      -6.063  55.871  14.019  1.00 50.55      1CCP H + new
+ATOM   1151  N   GLU A  76      -2.408  51.563  18.203  1.00 41.94      1CCP 7
+ATOM   1152  CA  GLU A  76      -2.161  50.138  17.922  1.00 38.77      1CCP 7
+ATOM   1153  C   GLU A  76      -1.537  49.424  19.097  1.00 38.19      1CCP 7
+ATOM   1154  O   GLU A  76      -1.662  48.227  19.358  1.00 37.25      1CCP 7
+ATOM   1155  CB  GLU A  76      -1.243  49.991  16.709  1.00 38.61      1CCP 7
+ATOM   1156  CG  GLU A  76      -0.804  48.582  16.321  1.00 37.92      1CCP 7
+ATOM   1157  CD  GLU A  76      -0.295  48.441  14.913  1.00 38.36      1CCP 7
+ATOM   1158  OE1 GLU A  76       0.145  47.358  14.473  1.00 36.60      1CCP 7
+ATOM   1159  OE2 GLU A  76      -0.387  49.495  14.234  1.00 34.45      1CCP 7
+ATOM   1160  H   GLU A  76      -1.760  52.191  17.772  1.00 41.94      1CCP H   new
+ATOM   1161  HA  GLU A  76      -3.139  49.678  17.719  1.00 38.77      1CCP H   new
+ATOM   1162 1HB  GLU A  76      -1.752  50.438  15.842  1.00 38.61      1CCP H   new
+ATOM   1163 2HB  GLU A  76      -0.338  50.589  16.894  1.00 38.61      1CCP H   new
+ATOM   1164 1HG  GLU A  76      -0.015  48.256  17.015  1.00 37.92      1CCP H   new
+ATOM   1165 2HG  GLU A  76      -1.655  47.898  16.458  1.00 37.92      1CCP H   new
+ATOM   1166  N   PHE A  77      -0.773  50.196  19.843  1.00 39.22      1CCP 7
+ATOM   1167  CA  PHE A  77      -0.007  49.678  20.988  1.00 38.44      1CCP 7
+ATOM   1168  C   PHE A  77      -0.970  49.280  22.096  1.00 38.91      1CCP 7
+ATOM   1169  O   PHE A  77      -0.718  48.308  22.821  1.00 37.97      1CCP 7
+ATOM   1170  CB  PHE A  77       1.074  50.681  21.368  1.00 37.01      1CCP 7
+ATOM   1171  CG  PHE A  77       2.014  50.275  22.453  1.00 36.52      1CCP 7
+ATOM   1172  CD1 PHE A  77       1.761  50.608  23.783  1.00 35.23      1CCP 7
+ATOM   1173  CD2 PHE A  77       3.162  49.550  22.132  1.00 38.73      1CCP 7
+ATOM   1174  CE1 PHE A  77       2.645  50.222  24.773  1.00 36.44      1CCP 7
+ATOM   1175  CE2 PHE A  77       4.079  49.164  23.117  1.00 37.54      1CCP 7
+ATOM   1176  CZ  PHE A  77       3.803  49.513  24.449  1.00 37.03      1CCP 7
+ATOM   1177  H   PHE A  77      -0.660  51.177  19.687  1.00 39.22      1CCP H   new
+ATOM   1178  HA  PHE A  77       0.539  48.756  20.742  1.00 38.44      1CCP H   new
+ATOM   1179 1HB  PHE A  77       1.665  50.906  20.468  1.00 37.01      1CCP H   new
+ATOM   1180 2HB  PHE A  77       0.582  51.617  21.672  1.00 37.01      1CCP H   new
+ATOM   1181  HD1 PHE A  77       0.857  51.178  24.045  1.00 35.23      1CCP H   new
+ATOM   1182  HD2 PHE A  77       3.350  49.276  21.083  1.00 38.73      1CCP H   new
+ATOM   1183  HE1 PHE A  77       2.435  50.475  25.823  1.00 36.44      1CCP H   new
+ATOM   1184  HE2 PHE A  77       4.989  48.604  22.855  1.00 37.54      1CCP H   new
+ATOM   1185  HZ  PHE A  77       4.506  49.225  25.245  1.00 37.03      1CCP H   new
+ATOM   1186  N   ASN A  78      -2.021  50.061  22.203  1.00 40.43      1CCP 7
+ATOM   1187  CA  ASN A  78      -3.043  49.850  23.247  1.00 43.30      1CCP 7
+ATOM   1188  C   ASN A  78      -4.205  49.003  22.739  1.00 42.00      1CCP 7
+ATOM   1189  O   ASN A  78      -5.273  48.932  23.392  1.00 43.49      1CCP 7
+ATOM   1190  CB  ASN A  78      -3.445  51.212  23.835  1.00 46.90      1CCP 7
+ATOM   1191  CG  ASN A  78      -2.324  51.801  24.691  1.00 50.03      1CCP 7
+ATOM   1192  OD1 ASN A  78      -1.603  51.084  25.406  1.00 51.73      1CCP 7
+ATOM   1193  ND2 ASN A  78      -2.168  53.119  24.597  1.00 52.04      1CCP 7
+ATOM   1194  H   ASN A  78      -2.202  50.838  21.600  1.00 40.43      1CCP H   new
+ATOM   1195  HA  ASN A  78      -2.627  49.255  24.073  1.00 43.30      1CCP H   new
+ATOM   1196 1HB  ASN A  78      -3.691  51.908  23.019  1.00 46.90      1CCP H   new
+ATOM   1197 2HB  ASN A  78      -4.353  51.097  24.445  1.00 46.90      1CCP H   new
+ATOM   1198 1HD2 ASN A  78      -1.445  53.575  25.116  1.00 52.04      1CCP H   new
+ATOM   1199 2HD2 ASN A  78      -2.774  53.653  24.008  1.00 52.04      1CCP H   new
+ATOM   1200  N   ASP A  79      -4.012  48.365  21.595  1.00 38.66      1CCP 7
+ATOM   1201  CA  ASP A  79      -5.060  47.482  21.043  1.00 34.98      1CCP 7
+ATOM   1202  C   ASP A  79      -5.227  46.349  22.078  1.00 34.79      1CCP 7
+ATOM   1203  O   ASP A  79      -4.260  45.666  22.487  1.00 33.23      1CCP 7
+ATOM   1204  CB  ASP A  79      -4.680  46.987  19.647  1.00 34.38      1CCP 7
+ATOM   1205  CG  ASP A  79      -5.800  46.151  19.041  1.00 35.80      1CCP 7
+ATOM   1206  OD1 ASP A  79      -6.784  45.823  19.721  1.00 34.87      1CCP 7
+ATOM   1207  OD2 ASP A  79      -5.696  45.818  17.848  1.00 36.65      1CCP 7
+ATOM   1208  H   ASP A  79      -3.181  48.429  21.043  1.00 38.66      1CCP H   new
+ATOM   1209  HA  ASP A  79      -6.019  48.001  20.895  1.00 34.98      1CCP H   new
+ATOM   1210 1HB  ASP A  79      -4.465  47.846  18.995  1.00 34.38      1CCP H   new
+ATOM   1211 2HB  ASP A  79      -3.759  46.388  19.704  1.00 34.38      1CCP H   new
+ATOM   1212  N   PRO A  80      -6.455  46.205  22.541  1.00 34.42      1CCP 7
+ATOM   1213  CA  PRO A  80      -6.790  45.148  23.524  1.00 33.47      1CCP 7
+ATOM   1214  C   PRO A  80      -6.257  43.816  23.028  1.00 31.54      1CCP 7
+ATOM   1215  O   PRO A  80      -5.689  43.041  23.832  1.00 31.66      1CCP 7
+ATOM   1216  CB  PRO A  80      -8.298  45.244  23.686  1.00 35.04      1CCP 7
+ATOM   1217  CG  PRO A  80      -8.631  46.659  23.272  1.00 35.83      1CCP 7
+ATOM   1218  CD  PRO A  80      -7.642  46.991  22.155  1.00 34.64      1CCP 7
+ATOM   1219  HA  PRO A  80      -6.325  45.261  24.514  1.00 33.47      1CCP H   new
+ATOM   1220 1HB  PRO A  80      -8.817  44.509  23.054  1.00 35.04      1CCP H   new
+ATOM   1221 2HB  PRO A  80      -8.603  45.048  24.724  1.00 35.04      1CCP H   new
+ATOM   1222 1HG  PRO A  80      -9.670  46.736  22.919  1.00 35.83      1CCP H   new
+ATOM   1223 2HG  PRO A  80      -8.526  47.356  24.117  1.00 35.83      1CCP H   new
+ATOM   1224 1HD  PRO A  80      -8.025  46.697  21.167  1.00 34.64      1CCP H   new
+ATOM   1225 2HD  PRO A  80      -7.423  48.068  22.107  1.00 34.64      1CCP H   new
+ATOM   1226  N   SER A  81      -6.365  43.554  21.726  1.00 30.87      1CCP 7
+ATOM   1227  CA  SER A  81      -5.825  42.283  21.186  1.00 32.75      1CCP 7
+ATOM   1228  C   SER A  81      -4.289  42.204  21.314  1.00 32.69      1CCP 7
+ATOM   1229  O   SER A  81      -3.736  41.095  21.112  1.00 31.27      1CCP 7
+ATOM   1230  CB  SER A  81      -6.152  42.139  19.699  1.00 34.08      1CCP 7
+ATOM   1231  OG  SER A  81      -7.481  42.456  19.399  1.00 38.76      1CCP 7
+ATOM   1232  H   SER A  81      -6.793  44.158  21.053  1.00 30.87      1CCP H   new
+ATOM   1233  HA  SER A  81      -6.294  41.482  21.777  1.00 32.75      1CCP H   new
+ATOM   1234 1HB  SER A  81      -5.947  41.106  19.382  1.00 34.08      1CCP H   new
+ATOM   1235 2HB  SER A  81      -5.485  42.792  19.118  1.00 34.08      1CCP H   new
+ATOM   1236  HG  SER A  81      -7.637  42.345  18.418  1.00 38.76      1CCP H   new
+ATOM   1237  N   ASN A  82      -3.624  43.304  21.621  1.00 29.52      1CCP 7
+ATOM   1238  CA  ASN A  82      -2.154  43.354  21.693  1.00 28.56      1CCP 7
+ATOM   1239  C   ASN A  82      -1.709  43.226  23.131  1.00 28.89      1CCP 7
+ATOM   1240  O   ASN A  82      -0.497  43.254  23.422  1.00 28.92      1CCP 7
+ATOM   1241  CB  ASN A  82      -1.576  44.604  20.989  1.00 28.26      1CCP 7
+ATOM   1242  CG  ASN A  82      -1.609  44.530  19.468  1.00 30.87      1CCP 7
+ATOM   1243  OD1 ASN A  82      -1.600  43.405  18.905  1.00 29.25      1CCP 7
+ATOM   1244  ND2 ASN A  82      -1.683  45.662  18.739  1.00 30.31      1CCP 7
+ATOM   1245  H   ASN A  82      -4.069  44.176  21.825  1.00 29.52      1CCP H   new
+ATOM   1246  HA  ASN A  82      -1.744  42.498  21.137  1.00 28.56      1CCP H   new
+ATOM   1247 1HB  ASN A  82      -2.141  45.490  21.315  1.00 28.26      1CCP H   new
+ATOM   1248 2HB  ASN A  82      -0.536  44.748  21.316  1.00 28.26      1CCP H   new
+ATOM   1249 1HD2 ASN A  82      -1.731  45.612  17.741  1.00 30.31      1CCP H   new
+ATOM   1250 2HD2 ASN A  82      -1.690  46.551  19.196  1.00 30.31      1CCP H   new
+ATOM   1251  N   ALA A  83      -2.674  43.076  24.025  1.00 29.37      1CCP 7
+ATOM   1252  CA  ALA A  83      -2.258  42.966  25.454  1.00 28.03      1CCP 7
+ATOM   1253  C   ALA A  83      -1.144  41.949  25.600  1.00 28.01      1CCP 7
+ATOM   1254  O   ALA A  83      -1.205  40.857  25.004  1.00 31.57      1CCP 7
+ATOM   1255  CB  ALA A  83      -3.487  42.606  26.256  1.00 31.67      1CCP 7
+ATOM   1256  H   ALA A  83      -3.655  43.029  23.838  1.00 29.37      1CCP H   new
+ATOM   1257  HA  ALA A  83      -1.852  43.917  25.830  1.00 28.03      1CCP H   new
+ATOM   1258 1HB  ALA A  83      -3.218  42.516  27.319  1.00 31.67      1CCP H   new
+ATOM   1259 2HB  ALA A  83      -4.247  43.392  26.136  1.00 31.67      1CCP H   new
+ATOM   1260 3HB  ALA A  83      -3.891  41.648  25.898  1.00 31.67      1CCP H   new
+ATOM   1261  N   GLY A  84      -0.136  42.278  26.378  1.00 24.48      1CCP 7
+ATOM   1262  CA  GLY A  84       1.032  41.454  26.671  1.00 23.88      1CCP 7
+ATOM   1263  C   GLY A  84       2.202  41.637  25.723  1.00 27.04      1CCP 7
+ATOM   1264  O   GLY A  84       3.316  41.196  26.064  1.00 28.05      1CCP 7
+ATOM   1265  H   GLY A  84      -0.102  43.162  26.845  1.00 24.48      1CCP H   new
+ATOM   1266 1HA  GLY A  84       1.371  41.676  27.694  1.00 23.88      1CCP H   new
+ATOM   1267 2HA  GLY A  84       0.729  40.397  26.655  1.00 23.88      1CCP H   new
+ATOM   1268  N   LEU A  85       2.024  42.291  24.592  1.00 24.65      1CCP 7
+ATOM   1269  CA  LEU A  85       3.087  42.548  23.618  1.00 25.95      1CCP 7
+ATOM   1270  C   LEU A  85       4.092  43.624  24.051  1.00 28.00      1CCP 7
+ATOM   1271  O   LEU A  85       5.245  43.662  23.570  1.00 23.47      1CCP 7
+ATOM   1272  CB  LEU A  85       2.420  42.878  22.254  1.00 23.38      1CCP 7
+ATOM   1273  CG  LEU A  85       1.787  41.668  21.555  1.00 25.38      1CCP 7
+ATOM   1274  CD1 LEU A  85       1.377  42.048  20.145  1.00 22.05      1CCP 7
+ATOM   1275  CD2 LEU A  85       2.780  40.500  21.562  1.00 22.49      1CCP 7
+ATOM   1276  H   LEU A  85       1.137  42.663  24.316  1.00 24.65      1CCP H   new
+ATOM   1277  HA  LEU A  85       3.702  41.640  23.533  1.00 25.95      1CCP H   new
+ATOM   1278 1HB  LEU A  85       1.645  43.642  22.413  1.00 23.38      1CCP H   new
+ATOM   1279 2HB  LEU A  85       3.175  43.319  21.587  1.00 23.38      1CCP H   new
+ATOM   1280  HG  LEU A  85       0.882  41.350  22.093  1.00 25.38      1CCP H   new
+ATOM   1281 1HD1 LEU A  85       0.924  41.178  19.647  1.00 22.05      1CCP H   new
+ATOM   1282 2HD1 LEU A  85       0.646  42.869  20.184  1.00 22.05      1CCP H   new
+ATOM   1283 3HD1 LEU A  85       2.263  42.373  19.580  1.00 22.05      1CCP H   new
+ATOM   1284 1HD2 LEU A  85       2.328  39.631  21.061  1.00 22.49      1CCP H   new
+ATOM   1285 2HD2 LEU A  85       3.696  40.794  21.029  1.00 22.49      1CCP H   new
+ATOM   1286 3HD2 LEU A  85       3.029  40.236  22.600  1.00 22.49      1CCP H   new
+ATOM   1287  N   GLN A  86       3.668  44.471  24.965  1.00 28.38      1CCP 8
+ATOM   1288  CA  GLN A  86       4.518  45.526  25.511  1.00 33.39      1CCP 8
+ATOM   1289  C   GLN A  86       5.797  44.868  26.043  1.00 31.15      1CCP 8
+ATOM   1290  O   GLN A  86       6.852  45.511  26.040  1.00 30.50      1CCP 8
+ATOM   1291  CB  GLN A  86       3.874  46.413  26.554  1.00 37.76      1CCP 8
+ATOM   1292  CG  GLN A  86       2.934  45.667  27.487  1.00 49.12      1CCP 8
+ATOM   1293  CD  GLN A  86       1.632  45.408  26.722  1.00 54.12      1CCP 8
+ATOM   1294  OE1 GLN A  86       0.796  46.304  26.590  1.00 57.41      1CCP 8
+ATOM   1295  NE2 GLN A  86       1.559  44.203  26.176  1.00 56.17      1CCP 8
+ATOM   1296  H   GLN A  86       2.744  44.454  25.347  1.00 28.38      1CCP H   new
+ATOM   1297  HA  GLN A  86       4.733  46.226  24.690  1.00 33.39      1CCP H   new
+ATOM   1298 1HB  GLN A  86       4.662  46.896  27.150  1.00 37.76      1CCP H   new
+ATOM   1299 2HB  GLN A  86       3.316  47.215  26.048  1.00 37.76      1CCP H   new
+ATOM   1300 1HG  GLN A  86       3.386  44.719  27.813  1.00 49.12      1CCP H   new
+ATOM   1301 2HG  GLN A  86       2.739  46.259  28.393  1.00 49.12      1CCP H   new
+ATOM   1302 1HE2 GLN A  86       0.777  43.961  25.602  1.00 56.17      1CCP H   new
+ATOM   1303 2HE2 GLN A  86       2.286  43.536  26.338  1.00 56.17      1CCP H   new
+ATOM   1304  N   ASN A  87       5.703  43.613  26.410  1.00 31.53      1CCP 8
+ATOM   1305  CA  ASN A  87       6.891  42.878  26.895  1.00 31.07      1CCP 8
+ATOM   1306  C   ASN A  87       7.865  42.648  25.724  1.00 30.15      1CCP 8
+ATOM   1307  O   ASN A  87       9.074  42.677  26.019  1.00 30.36      1CCP 8
+ATOM   1308  CB  ASN A  87       6.607  41.558  27.573  1.00 32.53      1CCP 8
+ATOM   1309  CG  ASN A  87       5.935  41.642  28.915  1.00 38.67      1CCP 8
+ATOM   1310  OD1 ASN A  87       6.039  42.639  29.635  1.00 42.32      1CCP 8
+ATOM   1311  ND2 ASN A  87       5.227  40.584  29.289  1.00 42.05      1CCP 8
+ATOM   1312  H   ASN A  87       4.857  43.080  26.391  1.00 31.53      1CCP H   new
+ATOM   1313  HA  ASN A  87       7.329  43.519  27.674  1.00 31.07      1CCP H   new
+ATOM   1314 1HB  ASN A  87       5.976  40.953  26.905  1.00 32.53      1CCP H   new
+ATOM   1315 2HB  ASN A  87       7.558  41.018  27.694  1.00 32.53      1CCP H   new
+ATOM   1316 1HD2 ASN A  87       4.761  40.582  30.174  1.00 42.05      1CCP H   new
+ATOM   1317 2HD2 ASN A  87       5.159  39.789  28.686  1.00 42.05      1CCP H   new
+ATOM   1318  N   GLY A  88       7.339  42.395  24.532  1.00 25.04      1CCP 8
+ATOM   1319  CA  GLY A  88       8.319  42.152  23.437  1.00 26.31      1CCP 8
+ATOM   1320  C   GLY A  88       8.939  43.512  23.043  1.00 27.34      1CCP 8
+ATOM   1321  O   GLY A  88      10.098  43.583  22.616  1.00 25.77      1CCP 8
+ATOM   1322  H   GLY A  88       6.368  42.352  24.298  1.00 25.04      1CCP H   new
+ATOM   1323 1HA  GLY A  88       9.102  41.454  23.769  1.00 26.31      1CCP H   new
+ATOM   1324 2HA  GLY A  88       7.822  41.690  22.571  1.00 26.31      1CCP H   new
+ATOM   1325  N   PHE A  89       8.128  44.539  23.176  1.00 25.83      1CCP 8
+ATOM   1326  CA  PHE A  89       8.482  45.913  22.817  1.00 28.03      1CCP 8
+ATOM   1327  C   PHE A  89       9.654  46.360  23.692  1.00 28.77      1CCP 8
+ATOM   1328  O   PHE A  89      10.724  46.659  23.165  1.00 29.43      1CCP 8
+ATOM   1329  CB  PHE A  89       7.284  46.827  22.939  1.00 30.52      1CCP 8
+ATOM   1330  CG  PHE A  89       7.588  48.218  22.476  1.00 34.90      1CCP 8
+ATOM   1331  CD1 PHE A  89       7.784  49.229  23.408  1.00 37.12      1CCP 8
+ATOM   1332  CD2 PHE A  89       7.712  48.458  21.109  1.00 36.73      1CCP 8
+ATOM   1333  CE1 PHE A  89       8.081  50.513  22.958  1.00 41.33      1CCP 8
+ATOM   1334  CE2 PHE A  89       8.009  49.744  20.634  1.00 40.32      1CCP 8
+ATOM   1335  CZ  PHE A  89       8.197  50.779  21.578  1.00 40.72      1CCP 8
+ATOM   1336  H   PHE A  89       7.200  44.451  23.537  1.00 25.83      1CCP H   new
+ATOM   1337  HA  PHE A  89       8.796  45.962  21.764  1.00 28.03      1CCP H   new
+ATOM   1338 1HB  PHE A  89       6.451  46.419  22.348  1.00 30.52      1CCP H   new
+ATOM   1339 2HB  PHE A  89       6.951  46.855  23.987  1.00 30.52      1CCP H   new
+ATOM   1340  HD1 PHE A  89       7.706  49.019  24.485  1.00 37.12      1CCP H   new
+ATOM   1341  HD2 PHE A  89       7.576  47.632  20.396  1.00 36.73      1CCP H   new
+ATOM   1342  HE1 PHE A  89       8.226  51.326  23.685  1.00 41.33      1CCP H   new
+ATOM   1343  HE2 PHE A  89       8.093  49.942  19.555  1.00 40.32      1CCP H   new
+ATOM   1344  HZ  PHE A  89       8.435  51.797  21.235  1.00 40.72      1CCP H   new
+ATOM   1345  N   LYS A  90       9.425  46.271  24.994  1.00 29.25      1CCP 8
+ATOM   1346  CA  LYS A  90      10.453  46.649  25.961  1.00 29.98      1CCP 8
+ATOM   1347  C   LYS A  90      11.696  45.813  25.740  1.00 28.38      1CCP 8
+ATOM   1348  O   LYS A  90      12.801  46.240  26.065  1.00 30.31      1CCP 8
+ATOM   1349  CB  LYS A  90       9.994  46.493  27.405  1.00 34.98      1CCP 8
+ATOM   1350  CG  LYS A  90       9.028  47.603  27.842  1.00 39.79      1CCP 8
+ATOM   1351  H   LYS A  90       8.567  45.952  25.396  1.00 29.25      1CCP H   new
+ATOM   1352  HA  LYS A  90      10.668  47.715  25.797  1.00 29.98      1CCP H   new
+ATOM   1353 1HB  LYS A  90       9.503  45.516  27.526  1.00 34.98      1CCP H   new
+ATOM   1354 2HB  LYS A  90      10.872  46.495  28.067  1.00 34.98      1CCP H   new
+ATOM   1355  N   PHE A  91      11.554  44.604  25.220  1.00 26.74      1CCP 8
+ATOM   1356  CA  PHE A  91      12.780  43.780  25.051  1.00 23.42      1CCP 8
+ATOM   1357  C   PHE A  91      13.592  44.361  23.873  1.00 24.69      1CCP 8
+ATOM   1358  O   PHE A  91      14.836  44.292  23.880  1.00 23.38      1CCP 8
+ATOM   1359  CB  PHE A  91      12.400  42.352  24.776  1.00 23.45      1CCP 8
+ATOM   1360  CG  PHE A  91      13.463  41.389  24.354  1.00 21.73      1CCP 8
+ATOM   1361  CD1 PHE A  91      13.873  41.361  23.037  1.00 19.63      1CCP 8
+ATOM   1362  CD2 PHE A  91      14.012  40.479  25.275  1.00 21.77      1CCP 8
+ATOM   1363  CE1 PHE A  91      14.845  40.450  22.618  1.00 21.52      1CCP 8
+ATOM   1364  CE2 PHE A  91      14.988  39.562  24.890  1.00 19.31      1CCP 8
+ATOM   1365  CZ  PHE A  91      15.393  39.552  23.529  1.00 20.04      1CCP 8
+ATOM   1366  H   PHE A  91      10.694  44.186  24.927  1.00 26.74      1CCP H   new
+ATOM   1367  HA  PHE A  91      13.388  43.802  25.968  1.00 23.42      1CCP H   new
+ATOM   1368 1HB  PHE A  91      11.931  41.951  25.687  1.00 23.45      1CCP H   new
+ATOM   1369 2HB  PHE A  91      11.627  42.358  23.993  1.00 23.45      1CCP H   new
+ATOM   1370  HD1 PHE A  91      13.431  42.061  22.312  1.00 19.63      1CCP H   new
+ATOM   1371  HD2 PHE A  91      13.665  40.491  26.319  1.00 21.77      1CCP H   new
+ATOM   1372  HE1 PHE A  91      15.177  40.442  21.569  1.00 21.52      1CCP H   new
+ATOM   1373  HE2 PHE A  91      15.431  38.867  25.618  1.00 19.31      1CCP H   new
+ATOM   1374  HZ  PHE A  91      16.148  38.827  23.191  1.00 20.04      1CCP H   new
+ATOM   1375  N   LEU A  92      12.906  44.840  22.857  1.00 21.00      1CCP 8
+ATOM   1376  CA  LEU A  92      13.570  45.321  21.665  1.00 26.14      1CCP 8
+ATOM   1377  C   LEU A  92      14.102  46.744  21.802  1.00 28.46      1CCP 8
+ATOM   1378  O   LEU A  92      15.041  47.056  21.045  1.00 30.28      1CCP 8
+ATOM   1379  CB  LEU A  92      12.630  45.134  20.459  1.00 24.17      1CCP 8
+ATOM   1380  CG  LEU A  92      12.370  43.682  20.036  1.00 26.97      1CCP 8
+ATOM   1381  CD1 LEU A  92      11.209  43.645  19.038  1.00 23.88      1CCP 8
+ATOM   1382  CD2 LEU A  92      13.584  43.001  19.416  1.00 22.38      1CCP 8
+ATOM   1383  H   LEU A  92      11.908  44.905  22.833  1.00 21.00      1CCP H   new
+ATOM   1384  HA  LEU A  92      14.476  44.719  21.501  1.00 26.14      1CCP H   new
+ATOM   1385 1HB  LEU A  92      11.665  45.606  20.694  1.00 24.17      1CCP H   new
+ATOM   1386 2HB  LEU A  92      13.053  45.676  19.601  1.00 24.17      1CCP H   new
+ATOM   1387  HG  LEU A  92      12.126  43.125  20.953  1.00 26.97      1CCP H   new
+ATOM   1388 1HD1 LEU A  92      11.020  42.605  18.733  1.00 23.88      1CCP H   new
+ATOM   1389 2HD1 LEU A  92      10.305  44.058  19.510  1.00 23.88      1CCP H   new
+ATOM   1390 3HD1 LEU A  92      11.466  44.245  18.153  1.00 23.88      1CCP H   new
+ATOM   1391 1HD2 LEU A  92      13.324  41.969  19.139  1.00 22.38      1CCP H   new
+ATOM   1392 2HD2 LEU A  92      13.896  43.554  18.518  1.00 22.38      1CCP H   new
+ATOM   1393 3HD2 LEU A  92      14.409  42.988  20.143  1.00 22.38      1CCP H   new
+ATOM   1394  N   GLU A  93      13.543  47.570  22.653  1.00 32.03      1CCP 8
+ATOM   1395  CA  GLU A  93      13.979  48.969  22.799  1.00 38.24      1CCP 8
+ATOM   1396  C   GLU A  93      15.501  49.137  22.856  1.00 34.64      1CCP 8
+ATOM   1397  O   GLU A  93      16.092  49.796  22.003  1.00 36.89      1CCP 8
+ATOM   1398  CB  GLU A  93      13.420  49.661  24.008  1.00 46.07      1CCP 8
+ATOM   1399  CG  GLU A  93      12.144  50.490  23.941  1.00 56.86      1CCP 8
+ATOM   1400  CD  GLU A  93      11.809  51.059  25.315  1.00 64.16      1CCP 8
+ATOM   1401  OE1 GLU A  93      10.670  51.470  25.635  1.00 67.09      1CCP 8
+ATOM   1402  OE2 GLU A  93      12.815  51.031  26.084  1.00 67.54      1CCP 8
+ATOM   1403  H   GLU A  93      12.789  47.313  23.258  1.00 32.03      1CCP H   new
+ATOM   1404  HA  GLU A  93      13.580  49.435  21.886  1.00 38.24      1CCP H   new
+ATOM   1405 1HB  GLU A  93      13.256  48.886  24.771  1.00 46.07      1CCP H   new
+ATOM   1406 2HB  GLU A  93      14.211  50.324  24.389  1.00 46.07      1CCP H   new
+ATOM   1407 1HG  GLU A  93      12.268  51.309  23.217  1.00 56.86      1CCP H   new
+ATOM   1408 2HG  GLU A  93      11.312  49.867  23.582  1.00 56.86      1CCP H   new
+ATOM   1409  N   PRO A  94      16.120  48.558  23.856  1.00 32.39      1CCP 8
+ATOM   1410  CA  PRO A  94      17.555  48.635  24.044  1.00 31.32      1CCP 8
+ATOM   1411  C   PRO A  94      18.250  48.306  22.728  1.00 31.91      1CCP 8
+ATOM   1412  O   PRO A  94      19.358  48.828  22.490  1.00 34.15      1CCP 8
+ATOM   1413  CB  PRO A  94      17.889  47.582  25.104  1.00 30.37      1CCP 8
+ATOM   1414  CG  PRO A  94      16.623  46.786  25.226  1.00 34.07      1CCP 8
+ATOM   1415  CD  PRO A  94      15.497  47.773  24.950  1.00 32.27      1CCP 8
+ATOM   1416  HA  PRO A  94      17.886  49.636  24.359  1.00 31.32      1CCP H   new
+ATOM   1417 1HB  PRO A  94      18.735  46.951  24.794  1.00 30.37      1CCP H   new
+ATOM   1418 2HB  PRO A  94      18.168  48.047  26.061  1.00 30.37      1CCP H   new
+ATOM   1419 1HG  PRO A  94      16.607  45.954  24.506  1.00 34.07      1CCP H   new
+ATOM   1420 2HG  PRO A  94      16.527  46.345  26.229  1.00 34.07      1CCP H   new
+ATOM   1421 1HD  PRO A  94      14.567  47.276  24.637  1.00 32.27      1CCP H   new
+ATOM   1422 2HD  PRO A  94      15.252  48.391  25.827  1.00 32.27      1CCP H   new
+ATOM   1423  N   ILE A  95      17.624  47.438  21.940  1.00 28.21      1CCP 8
+ATOM   1424  CA  ILE A  95      18.304  47.077  20.685  1.00 29.05      1CCP 8
+ATOM   1425  C   ILE A  95      18.227  48.175  19.628  1.00 28.76      1CCP 8
+ATOM   1426  O   ILE A  95      19.148  48.396  18.842  1.00 25.36      1CCP 8
+ATOM   1427  CB  ILE A  95      17.672  45.751  20.153  1.00 30.02      1CCP 8
+ATOM   1428  CG1 ILE A  95      17.787  44.765  21.338  1.00 33.52      1CCP 8
+ATOM   1429  CG2 ILE A  95      18.304  45.319  18.830  1.00 27.65      1CCP 8
+ATOM   1430  CD1 ILE A  95      18.091  43.306  20.994  1.00 35.18      1CCP 8
+ATOM   1431  H   ILE A  95      16.739  47.006  22.114  1.00 28.21      1CCP H   new
+ATOM   1432  HA  ILE A  95      19.375  46.942  20.896  1.00 29.05      1CCP H   new
+ATOM   1433  HB  ILE A  95      16.613  45.836  19.866  1.00 30.02      1CCP H   new
+ATOM   1434 1HG1 ILE A  95      18.576  45.130  22.012  1.00 33.52      1CCP H   new
+ATOM   1435 2HG1 ILE A  95      16.843  44.795  21.902  1.00 33.52      1CCP H   new
+ATOM   1436 1HG2 ILE A  95      17.835  44.385  18.487  1.00 27.65      1CCP H   new
+ATOM   1437 2HG2 ILE A  95      18.150  46.104  18.076  1.00 27.65      1CCP H   new
+ATOM   1438 3HG2 ILE A  95      19.382  45.156  18.974  1.00 27.65      1CCP H   new
+ATOM   1439 1HD1 ILE A  95      18.146  42.714  21.920  1.00 35.18      1CCP H   new
+ATOM   1440 2HD1 ILE A  95      17.293  42.906  20.351  1.00 35.18      1CCP H   new
+ATOM   1441 3HD1 ILE A  95      19.053  43.247  20.463  1.00 35.18      1CCP H   new
+ATOM   1442  N   HIS A  96      17.034  48.750  19.628  1.00 28.87      1CCP 8
+ATOM   1443  CA  HIS A  96      16.722  49.842  18.708  1.00 28.93      1CCP 8
+ATOM   1444  C   HIS A  96      17.703  50.998  19.051  1.00 27.95      1CCP 8
+ATOM   1445  O   HIS A  96      18.311  51.549  18.156  1.00 27.73      1CCP 8
+ATOM   1446  CB  HIS A  96      15.280  50.380  18.804  1.00 27.62      1CCP 8
+ATOM   1447  CG  HIS A  96      14.889  50.876  17.428  1.00 32.01      1CCP 8
+ATOM   1448  ND1 HIS A  96      13.622  51.185  16.986  1.00 31.57      1CCP 8
+ATOM   1449  CD2 HIS A  96      15.702  50.899  16.330  1.00 31.71      1CCP 8
+ATOM   1450  CE1 HIS A  96      13.696  51.509  15.704  1.00 34.23      1CCP 8
+ATOM   1451  NE2 HIS A  96      14.927  51.325  15.278  1.00 34.68      1CCP 8
+ATOM   1452  H   HIS A  96      16.284  48.489  20.236  1.00 28.87      1CCP H   new
+ATOM   1453  HA  HIS A  96      16.824  49.454  17.684  1.00 28.93      1CCP H   new
+ATOM   1454 1HB  HIS A  96      14.593  49.589  19.140  1.00 27.62      1CCP H   new
+ATOM   1455 2HB  HIS A  96      15.219  51.194  19.541  1.00 27.62      1CCP H   new
+ATOM   1456  HD1 HIS A  96      12.789  51.168  17.538  1.00 31.57      1CCP H   new
+ATOM   1457  HD2 HIS A  96      16.768  50.629  16.295  1.00 31.71      1CCP H   new
+ATOM   1458  HE1 HIS A  96      12.859  51.875  15.091  1.00 34.23      1CCP H   new
+ATOM   1459  HE2 HIS A  96      15.247  51.471  14.342  1.00 34.68      1CCP H   new
+ATOM   1460  N   LYS A  97      17.881  51.259  20.333  1.00 29.92      1CCP 8
+ATOM   1461  CA  LYS A  97      18.784  52.316  20.798  1.00 34.10      1CCP 8
+ATOM   1462  C   LYS A  97      20.198  52.042  20.294  1.00 34.20      1CCP 8
+ATOM   1463  O   LYS A  97      20.962  52.966  19.961  1.00 35.49      1CCP 8
+ATOM   1464  CB  LYS A  97      18.876  52.512  22.310  1.00 35.32      1CCP 8
+ATOM   1465  CG  LYS A  97      17.701  53.351  22.849  1.00 39.69      1CCP 8
+ATOM   1466  H   LYS A  97      17.420  50.762  21.069  1.00 29.92      1CCP H   new
+ATOM   1467  HA  LYS A  97      18.342  53.237  20.390  1.00 34.10      1CCP H   new
+ATOM   1468 1HB  LYS A  97      18.885  51.531  22.808  1.00 35.32      1CCP H   new
+ATOM   1469 2HB  LYS A  97      19.826  53.008  22.559  1.00 35.32      1CCP H   new
+ATOM   1470  N   GLU A  98      20.540  50.773  20.203  1.00 32.23      1CCP 8
+ATOM   1471  CA  GLU A  98      21.885  50.442  19.712  1.00 32.95      1CCP 8
+ATOM   1472  C   GLU A  98      22.025  50.543  18.204  1.00 32.62      1CCP 8
+ATOM   1473  O   GLU A  98      23.135  50.748  17.684  1.00 29.07      1CCP 9
+ATOM   1474  CB  GLU A  98      22.189  49.016  20.088  1.00 36.63      1CCP 9
+ATOM   1475  CG  GLU A  98      23.648  48.586  19.925  1.00 47.26      1CCP 9
+ATOM   1476  CD  GLU A  98      23.821  47.260  20.649  1.00 55.15      1CCP 9
+ATOM   1477  OE1 GLU A  98      24.686  46.427  20.298  1.00 58.56      1CCP 9
+ATOM   1478  OE2 GLU A  98      22.969  47.145  21.586  1.00 58.03      1CCP 9
+ATOM   1479  H   GLU A  98      19.958  49.995  20.442  1.00 32.23      1CCP H   new
+ATOM   1480  HA  GLU A  98      22.574  51.169  20.167  1.00 32.95      1CCP H   new
+ATOM   1481 1HB  GLU A  98      21.895  48.862  21.137  1.00 36.63      1CCP H   new
+ATOM   1482 2HB  GLU A  98      21.560  48.353  19.477  1.00 36.63      1CCP H   new
+ATOM   1483 1HG  GLU A  98      23.903  48.481  18.860  1.00 47.26      1CCP H   new
+ATOM   1484 2HG  GLU A  98      24.324  49.346  20.344  1.00 47.26      1CCP H   new
+ATOM   1485  N   PHE A  99      20.925  50.329  17.505  1.00 29.69      1CCP 9
+ATOM   1486  CA  PHE A  99      20.965  50.339  16.023  1.00 27.65      1CCP 9
+ATOM   1487  C   PHE A  99      19.807  51.224  15.572  1.00 29.57      1CCP 9
+ATOM   1488  O   PHE A  99      18.800  50.754  15.052  1.00 30.68      1CCP 9
+ATOM   1489  CB  PHE A  99      20.821  48.918  15.508  1.00 29.04      1CCP 9
+ATOM   1490  CG  PHE A  99      21.813  47.899  15.989  1.00 30.09      1CCP 9
+ATOM   1491  CD1 PHE A  99      21.576  47.175  17.183  1.00 28.61      1CCP 9
+ATOM   1492  CD2 PHE A  99      22.954  47.634  15.225  1.00 29.02      1CCP 9
+ATOM   1493  CE1 PHE A  99      22.490  46.234  17.600  1.00 29.33      1CCP 9
+ATOM   1494  CE2 PHE A  99      23.870  46.641  15.631  1.00 29.79      1CCP 9
+ATOM   1495  CZ  PHE A  99      23.629  45.948  16.830  1.00 29.41      1CCP 9
+ATOM   1496  H   PHE A  99      20.025  50.152  17.903  1.00 29.69      1CCP H   new
+ATOM   1497  HA  PHE A  99      21.915  50.730  15.630  1.00 27.65      1CCP H   new
+ATOM   1498 1HB  PHE A  99      19.814  48.562  15.773  1.00 29.04      1CCP H   new
+ATOM   1499 2HB  PHE A  99      20.873  48.949  14.410  1.00 29.04      1CCP H   new
+ATOM   1500  HD1 PHE A  99      20.667  47.363  17.773  1.00 28.61      1CCP H   new
+ATOM   1501  HD2 PHE A  99      23.138  48.203  14.302  1.00 29.02      1CCP H   new
+ATOM   1502  HE1 PHE A  99      22.326  45.700  18.548  1.00 29.33      1CCP H   new
+ATOM   1503  HE2 PHE A  99      24.756  46.413  15.021  1.00 29.79      1CCP H   new
+ATOM   1504  HZ  PHE A  99      24.337  45.177  17.167  1.00 29.41      1CCP H   new
+ATOM   1505  N   PRO A 100      19.967  52.513  15.825  1.00 30.17      1CCP 9
+ATOM   1506  CA  PRO A 100      18.908  53.479  15.546  1.00 29.03      1CCP 9
+ATOM   1507  C   PRO A 100      18.584  53.653  14.088  1.00 28.96      1CCP 9
+ATOM   1508  O   PRO A 100      17.510  54.218  13.776  1.00 33.75      1CCP 9
+ATOM   1509  CB  PRO A 100      19.364  54.766  16.228  1.00 31.63      1CCP 9
+ATOM   1510  CG  PRO A 100      20.653  54.462  16.916  1.00 31.86      1CCP 9
+ATOM   1511  CD  PRO A 100      21.152  53.101  16.487  1.00 29.43      1CCP 9
+ATOM   1512  HA  PRO A 100      17.945  53.125  15.941  1.00 29.03      1CCP H   new
+ATOM   1513 1HB  PRO A 100      19.497  55.571  15.490  1.00 31.63      1CCP H   new
+ATOM   1514 2HB  PRO A 100      18.610  55.112  16.950  1.00 31.63      1CCP H   new
+ATOM   1515 1HG  PRO A 100      21.401  55.231  16.672  1.00 31.86      1CCP H   new
+ATOM   1516 2HG  PRO A 100      20.512  54.485  18.007  1.00 31.86      1CCP H   new
+ATOM   1517 1HD  PRO A 100      22.008  53.178  15.800  1.00 29.43      1CCP H   new
+ATOM   1518 2HD  PRO A 100      21.482  52.498  17.346  1.00 29.43      1CCP H   new
+ATOM   1519  N   TRP A 101      19.425  53.222  13.173  1.00 23.78      1CCP 9
+ATOM   1520  CA  TRP A 101      19.091  53.372  11.740  1.00 24.06      1CCP 9
+ATOM   1521  C   TRP A 101      18.091  52.347  11.206  1.00 23.85      1CCP 9
+ATOM   1522  O   TRP A 101      17.632  52.519  10.053  1.00 24.94      1CCP 9
+ATOM   1523  CB  TRP A 101      20.427  53.178  11.015  1.00 24.12      1CCP 9
+ATOM   1524  CG  TRP A 101      21.177  51.962  11.435  1.00 25.40      1CCP 9
+ATOM   1525  CD1 TRP A 101      22.196  51.838  12.323  1.00 25.81      1CCP 9
+ATOM   1526  CD2 TRP A 101      20.920  50.621  10.937  1.00 28.38      1CCP 9
+ATOM   1527  NE1 TRP A 101      22.640  50.537  12.381  1.00 25.63      1CCP 9
+ATOM   1528  CE2 TRP A 101      21.864  49.768  11.552  1.00 26.52      1CCP 9
+ATOM   1529  CE3 TRP A 101      19.986  50.118  10.014  1.00 26.32      1CCP 9
+ATOM   1530  CZ2 TRP A 101      21.922  48.400  11.291  1.00 26.73      1CCP 9
+ATOM   1531  CZ3 TRP A 101      20.062  48.745   9.754  1.00 27.96      1CCP 9
+ATOM   1532  CH2 TRP A 101      20.980  47.902  10.379  1.00 26.28      1CCP 9
+ATOM   1533  H   TRP A 101      20.304  52.785  13.364  1.00 23.78      1CCP H   new
+ATOM   1534  HA  TRP A 101      18.609  54.348  11.581  1.00 24.06      1CCP H   new
+ATOM   1535 1HB  TRP A 101      20.240  53.124   9.932  1.00 24.12      1CCP H   new
+ATOM   1536 2HB  TRP A 101      21.058  54.062  11.189  1.00 24.12      1CCP H   new
+ATOM   1537  HD1 TRP A 101      22.611  52.666  12.916  1.00 25.81      1CCP H   new
+ATOM   1538  HE1 TRP A 101      23.403  50.206  12.936  1.00 25.63      1CCP H   new
+ATOM   1539  HE3 TRP A 101      19.241  50.764   9.526  1.00 26.32      1CCP H   new
+ATOM   1540  HZ2 TRP A 101      22.665  47.748  11.773  1.00 26.73      1CCP H   new
+ATOM   1541  HZ3 TRP A 101      19.365  48.311   9.022  1.00 27.96      1CCP H   new
+ATOM   1542  HH2 TRP A 101      20.965  46.826  10.152  1.00 26.28      1CCP H   new
+ATOM   1543  N   ILE A 102      17.793  51.295  11.969  1.00 22.83      1CCP 9
+ATOM   1544  CA  ILE A 102      16.827  50.276  11.448  1.00 21.90      1CCP 9
+ATOM   1545  C   ILE A 102      15.416  50.808  11.628  1.00 19.87      1CCP 9
+ATOM   1546  O   ILE A 102      15.139  51.356  12.715  1.00 20.61      1CCP 9
+ATOM   1547  CB  ILE A 102      17.002  48.887  12.158  1.00 24.11      1CCP 9
+ATOM   1548  CG1 ILE A 102      16.126  47.826  11.386  1.00 23.88      1CCP 9
+ATOM   1549  CG2 ILE A 102      16.597  48.911  13.668  1.00 20.98      1CCP 9
+ATOM   1550  CD1 ILE A 102      16.566  46.364  11.769  1.00 20.22      1CCP 9
+ATOM   1551  H   ILE A 102      18.163  51.117  12.881  1.00 22.83      1CCP H   new
+ATOM   1552  HA  ILE A 102      17.028  50.106  10.380  1.00 21.90      1CCP H   new
+ATOM   1553  HB  ILE A 102      18.070  48.624  12.130  1.00 24.11      1CCP H   new
+ATOM   1554 1HG1 ILE A 102      15.063  47.972  11.630  1.00 23.88      1CCP H   new
+ATOM   1555 2HG1 ILE A 102      16.230  47.975  10.301  1.00 23.88      1CCP H   new
+ATOM   1556 1HG2 ILE A 102      16.743  47.911  14.103  1.00 20.98      1CCP H   new
+ATOM   1557 2HG2 ILE A 102      17.223  49.639  14.205  1.00 20.98      1CCP H   new
+ATOM   1558 3HG2 ILE A 102      15.540  49.200  13.760  1.00 20.98      1CCP H   new
+ATOM   1559 1HD1 ILE A 102      15.946  45.639  11.222  1.00 20.22      1CCP H   new
+ATOM   1560 2HD1 ILE A 102      17.623  46.217  11.502  1.00 20.22      1CCP H   new
+ATOM   1561 3HD1 ILE A 102      16.438  46.213  12.851  1.00 20.22      1CCP H   new
+ATOM   1562  N   SER A 103      14.569  50.657  10.633  1.00 19.80      1CCP 9
+ATOM   1563  CA  SER A 103      13.163  51.109  10.813  1.00 23.14      1CCP 9
+ATOM   1564  C   SER A 103      12.460  50.186  11.823  1.00 25.46      1CCP 9
+ATOM   1565  O   SER A 103      12.881  49.037  12.097  1.00 26.11      1CCP 9
+ATOM   1566  CB  SER A 103      12.480  51.022   9.453  1.00 26.18      1CCP 9
+ATOM   1567  OG  SER A 103      12.239  49.648   9.073  1.00 22.46      1CCP 9
+ATOM   1568  H   SER A 103      14.786  50.256   9.743  1.00 19.80      1CCP H   new
+ATOM   1569  HA  SER A 103      13.120  52.140  11.195  1.00 23.14      1CCP H   new
+ATOM   1570 1HB  SER A 103      13.107  51.511   8.693  1.00 26.18      1CCP H   new
+ATOM   1571 2HB  SER A 103      11.526  51.569   9.483  1.00 26.18      1CCP H   new
+ATOM   1572  HG  SER A 103      11.791  49.622   8.179  1.00 22.46      1CCP H   new
+ATOM   1573  N   SER A 104      11.364  50.637  12.383  1.00 26.13      1CCP 9
+ATOM   1574  CA  SER A 104      10.550  49.865  13.342  1.00 26.96      1CCP 9
+ATOM   1575  C   SER A 104      10.043  48.559  12.754  1.00 27.17      1CCP 9
+ATOM   1576  O   SER A 104      10.174  47.493  13.345  1.00 29.90      1CCP 9
+ATOM   1577  CB  SER A 104       9.316  50.707  13.731  1.00 25.85      1CCP 9
+ATOM   1578  OG  SER A 104       9.835  51.702  14.599  1.00 33.05      1CCP 9
+ATOM   1579  H   SER A 104      10.997  51.549  12.197  1.00 26.13      1CCP H   new
+ATOM   1580  HA  SER A 104      11.190  49.635  14.206  1.00 26.96      1CCP H   new
+ATOM   1581 1HB  SER A 104       8.553  50.094  14.233  1.00 25.85      1CCP H   new
+ATOM   1582 2HB  SER A 104       8.839  51.154  12.846  1.00 25.85      1CCP H   new
+ATOM   1583  HG  SER A 104       9.093  52.300  14.903  1.00 33.05      1CCP H   new
+ATOM   1584  N   GLY A 105       9.397  48.710  11.605  1.00 26.45      1CCP 9
+ATOM   1585  CA  GLY A 105       8.798  47.516  10.960  1.00 27.03      1CCP 9
+ATOM   1586  C   GLY A 105       9.928  46.510  10.740  1.00 27.80      1CCP 9
+ATOM   1587  O   GLY A 105       9.673  45.309  10.943  1.00 28.77      1CCP 9
+ATOM   1588  H   GLY A 105       9.272  49.575  11.119  1.00 26.45      1CCP H   new
+ATOM   1589 1HA  GLY A 105       8.011  47.084  11.596  1.00 27.03      1CCP H   new
+ATOM   1590 2HA  GLY A 105       8.326  47.786  10.004  1.00 27.03      1CCP H   new
+ATOM   1591  N   ASP A 106      11.088  47.019  10.321  1.00 23.33      1CCP 9
+ATOM   1592  CA  ASP A 106      12.192  46.037  10.106  1.00 25.52      1CCP 9
+ATOM   1593  C   ASP A 106      12.553  45.368  11.445  1.00 24.44      1CCP 9
+ATOM   1594  O   ASP A 106      12.712  44.116  11.457  1.00 24.20      1CCP 9
+ATOM   1595  CB  ASP A 106      13.355  46.620   9.357  1.00 24.42      1CCP 9
+ATOM   1596  CG  ASP A 106      13.183  46.656   7.850  1.00 27.08      1CCP 9
+ATOM   1597  OD1 ASP A 106      12.129  46.262   7.348  1.00 24.56      1CCP 9
+ATOM   1598  OD2 ASP A 106      14.146  47.087   7.154  1.00 26.26      1CCP 9
+ATOM   1599  H   ASP A 106      11.291  47.981  10.138  1.00 23.33      1CCP H   new
+ATOM   1600  HA  ASP A 106      11.840  45.240   9.435  1.00 25.52      1CCP H   new
+ATOM   1601 1HB  ASP A 106      13.529  47.645   9.717  1.00 24.42      1CCP H   new
+ATOM   1602 2HB  ASP A 106      14.257  46.037   9.596  1.00 24.42      1CCP H   new
+ATOM   1603  N   LEU A 107      12.664  46.138  12.518  1.00 18.98      1CCP 9
+ATOM   1604  CA  LEU A 107      13.042  45.535  13.828  1.00 22.98      1CCP 9
+ATOM   1605  C   LEU A 107      12.031  44.531  14.384  1.00 23.43      1CCP 9
+ATOM   1606  O   LEU A 107      12.372  43.412  14.862  1.00 22.98      1CCP 9
+ATOM   1607  CB  LEU A 107      13.322  46.734  14.784  1.00 20.31      1CCP 9
+ATOM   1608  CG  LEU A 107      13.701  46.310  16.196  1.00 22.29      1CCP 9
+ATOM   1609  CD1 LEU A 107      15.115  45.685  16.257  1.00 20.53      1CCP 9
+ATOM   1610  CD2 LEU A 107      13.689  47.528  17.136  1.00 23.85      1CCP 9
+ATOM   1611  H   LEU A 107      12.512  47.126  12.531  1.00 18.98      1CCP H   new
+ATOM   1612  HA  LEU A 107      13.936  44.906  13.709  1.00 22.98      1CCP H   new
+ATOM   1613 1HB  LEU A 107      14.134  47.346  14.363  1.00 20.31      1CCP H   new
+ATOM   1614 2HB  LEU A 107      12.428  47.373  14.829  1.00 20.31      1CCP H   new
+ATOM   1615  HG  LEU A 107      12.960  45.559  16.508  1.00 22.29      1CCP H   new
+ATOM   1616 1HD1 LEU A 107      15.344  45.395  17.293  1.00 20.53      1CCP H   new
+ATOM   1617 2HD1 LEU A 107      15.151  44.795  15.611  1.00 20.53      1CCP H   new
+ATOM   1618 3HD1 LEU A 107      15.856  46.420  15.910  1.00 20.53      1CCP H   new
+ATOM   1619 1HD2 LEU A 107      13.964  47.210  18.152  1.00 23.85      1CCP H   new
+ATOM   1620 2HD2 LEU A 107      14.412  48.275  16.778  1.00 23.85      1CCP H   new
+ATOM   1621 3HD2 LEU A 107      12.682  47.971  17.151  1.00 23.85      1CCP H   new
+ATOM   1622  N   PHE A 108      10.764  44.910  14.404  1.00 20.28      1CCP 9
+ATOM   1623  CA  PHE A 108       9.659  44.113  14.909  1.00 20.66      1CCP 9
+ATOM   1624  C   PHE A 108       9.567  42.734  14.222  1.00 23.76      1CCP 9
+ATOM   1625  O   PHE A 108       9.401  41.690  14.852  1.00 25.68      1CCP 9
+ATOM   1626  CB  PHE A 108       8.317  44.785  14.662  1.00 21.60      1CCP 9
+ATOM   1627  CG  PHE A 108       8.167  46.012  15.503  1.00 22.92      1CCP 9
+ATOM   1628  CD1 PHE A 108       7.356  47.067  15.090  1.00 24.89      1CCP 9
+ATOM   1629  CD2 PHE A 108       8.941  46.101  16.652  1.00 24.41      1CCP 9
+ATOM   1630  CE1 PHE A 108       7.232  48.192  15.901  1.00 26.12      1CCP 9
+ATOM   1631  CE2 PHE A 108       8.857  47.229  17.484  1.00 28.48      1CCP 9
+ATOM   1632  CZ  PHE A 108       8.003  48.275  17.072  1.00 27.11      1CCP 9
+ATOM   1633  H   PHE A 108      10.471  45.802  14.061  1.00 20.28      1CCP H   new
+ATOM   1634  HA  PHE A 108       9.863  44.004  15.984  1.00 20.66      1CCP H   new
+ATOM   1635 1HB  PHE A 108       8.227  45.052  13.599  1.00 21.60      1CCP H   new
+ATOM   1636 2HB  PHE A 108       7.503  44.080  14.887  1.00 21.60      1CCP H   new
+ATOM   1637  HD1 PHE A 108       6.819  47.012  14.132  1.00 24.89      1CCP H   new
+ATOM   1638  HD2 PHE A 108       9.626  45.281  16.913  1.00 24.41      1CCP H   new
+ATOM   1639  HE1 PHE A 108       6.541  49.003  15.629  1.00 26.12      1CCP H   new
+ATOM   1640  HE2 PHE A 108       9.433  47.295  18.419  1.00 28.48      1CCP H   new
+ATOM   1641  HZ  PHE A 108       7.939  49.184  17.688  1.00 27.11      1CCP H   new
+ATOM   1642  N   SER A 109       9.720  42.792  12.923  1.00 21.00      1CCP 9
+ATOM   1643  CA  SER A 109       9.637  41.610  12.083  1.00 22.22      1CCP 9
+ATOM   1644  C   SER A 109      10.880  40.770  12.216  1.00 22.55      1CCP 9
+ATOM   1645  O   SER A 109      10.779  39.528  12.181  1.00 22.55      1CCP 9
+ATOM   1646  CB  SER A 109       9.323  41.970  10.638  1.00 22.78      1CCP 9
+ATOM   1647  OG  SER A 109      10.314  42.697   9.954  1.00 24.71      1CCP 9
+ATOM   1648  H   SER A 109       9.902  43.639  12.423  1.00 21.00      1CCP H   new
+ATOM   1649  HA  SER A 109       8.795  40.996  12.435  1.00 22.22      1CCP H   new
+ATOM   1650 1HB  SER A 109       8.391  42.554  10.621  1.00 22.78      1CCP H   new
+ATOM   1651 2HB  SER A 109       9.130  41.040  10.083  1.00 22.78      1CCP H   new
+ATOM   1652  HG  SER A 109      10.009  42.880   9.019  1.00 24.71      1CCP H   new
+ATOM   1653  N   LEU A 110      12.023  41.430  12.354  1.00 22.65      1CCP 9
+ATOM   1654  CA  LEU A 110      13.279  40.674  12.476  1.00 20.61      1CCP 9
+ATOM   1655  C   LEU A 110      13.315  39.927  13.796  1.00 19.42      1CCP 9
+ATOM   1656  O   LEU A 110      13.908  38.837  13.941  1.00 22.05      1CCP 9
+ATOM   1657  CB  LEU A 110      14.437  41.672  12.243  1.00 21.74      1CCP 9
+ATOM   1658  CG  LEU A 110      15.798  40.960  12.411  1.00 23.63      1CCP10
+ATOM   1659  CD1 LEU A 110      15.912  39.841  11.381  1.00 19.25      1CCP10
+ATOM   1660  CD2 LEU A 110      16.925  41.956  12.261  1.00 23.23      1CCP10
+ATOM   1661  H   LEU A 110      12.114  42.425  12.384  1.00 22.65      1CCP H   new
+ATOM   1662  HA  LEU A 110      13.376  39.881  11.720  1.00 20.61      1CCP H   new
+ATOM   1663 1HB  LEU A 110      14.362  42.103  11.234  1.00 21.74      1CCP H   new
+ATOM   1664 2HB  LEU A 110      14.361  42.507  12.956  1.00 21.74      1CCP H   new
+ATOM   1665  HG  LEU A 110      15.867  40.520  13.417  1.00 23.63      1CCP H   new
+ATOM   1666 1HD1 LEU A 110      16.880  39.332  11.498  1.00 19.25      1CCP H   new
+ATOM   1667 2HD1 LEU A 110      15.097  39.118  11.533  1.00 19.25      1CCP H   new
+ATOM   1668 3HD1 LEU A 110      15.841  40.265  10.369  1.00 19.25      1CCP H   new
+ATOM   1669 1HD2 LEU A 110      17.889  41.440  12.382  1.00 23.23      1CCP H   new
+ATOM   1670 2HD2 LEU A 110      16.878  42.416  11.263  1.00 23.23      1CCP H   new
+ATOM   1671 3HD2 LEU A 110      16.829  42.738  13.029  1.00 23.23      1CCP H   new
+ATOM   1672  N   GLY A 111      12.686  40.512  14.798  1.00 24.00      1CCP10
+ATOM   1673  CA  GLY A 111      12.608  39.904  16.155  1.00 25.49      1CCP10
+ATOM   1674  C   GLY A 111      11.973  38.499  16.043  1.00 27.30      1CCP10
+ATOM   1675  O   GLY A 111      12.441  37.503  16.616  1.00 28.57      1CCP10
+ATOM   1676  H   GLY A 111      12.222  41.394  14.720  1.00 24.00      1CCP H   new
+ATOM   1677 1HA  GLY A 111      13.613  39.832  16.597  1.00 25.49      1CCP H   new
+ATOM   1678 2HA  GLY A 111      12.007  40.540  16.822  1.00 25.49      1CCP H   new
+ATOM   1679  N   GLY A 112      10.886  38.438  15.288  1.00 27.61      1CCP10
+ATOM   1680  CA  GLY A 112      10.102  37.238  15.002  1.00 18.54      1CCP10
+ATOM   1681  C   GLY A 112      10.965  36.193  14.324  1.00 19.82      1CCP10
+ATOM   1682  O   GLY A 112      11.043  35.023  14.764  1.00 21.13      1CCP10
+ATOM   1683  H   GLY A 112      10.511  39.251  14.841  1.00 27.61      1CCP H   new
+ATOM   1684 1HA  GLY A 112       9.688  36.831  15.936  1.00 18.54      1CCP H   new
+ATOM   1685 2HA  GLY A 112       9.249  37.494  14.356  1.00 18.54      1CCP H   new
+ATOM   1686  N   VAL A 113      11.643  36.566  13.241  1.00 19.46      1CCP10
+ATOM   1687  CA  VAL A 113      12.560  35.653  12.534  1.00 17.97      1CCP10
+ATOM   1688  C   VAL A 113      13.634  35.100  13.482  1.00 20.10      1CCP10
+ATOM   1689  O   VAL A 113      14.014  33.905  13.444  1.00 18.29      1CCP10
+ATOM   1690  CB  VAL A 113      13.202  36.427  11.333  1.00 17.62      1CCP10
+ATOM   1691  CG1 VAL A 113      14.275  35.580  10.652  1.00 16.95      1CCP10
+ATOM   1692  CG2 VAL A 113      12.155  36.814  10.309  1.00 20.30      1CCP10
+ATOM   1693  H   VAL A 113      11.581  37.478  12.835  1.00 19.46      1CCP H   new
+ATOM   1694  HA  VAL A 113      11.999  34.786  12.154  1.00 17.97      1CCP H   new
+ATOM   1695  HB  VAL A 113      13.660  37.340  11.742  1.00 17.62      1CCP H   new
+ATOM   1696 1HG1 VAL A 113      14.710  36.144   9.814  1.00 16.95      1CCP H   new
+ATOM   1697 2HG1 VAL A 113      15.065  35.335  11.378  1.00 16.95      1CCP H   new
+ATOM   1698 3HG1 VAL A 113      13.824  34.651  10.274  1.00 16.95      1CCP H   new
+ATOM   1699 1HG2 VAL A 113      12.635  37.355   9.480  1.00 20.30      1CCP H   new
+ATOM   1700 2HG2 VAL A 113      11.668  35.907   9.922  1.00 20.30      1CCP H   new
+ATOM   1701 3HG2 VAL A 113      11.401  37.462  10.781  1.00 20.30      1CCP H   new
+ATOM   1702  N   THR A 114      14.197  36.027  14.269  1.00 18.81      1CCP10
+ATOM   1703  CA  THR A 114      15.296  35.658  15.173  1.00 18.32      1CCP10
+ATOM   1704  C   THR A 114      14.849  34.638  16.199  1.00 18.00      1CCP10
+ATOM   1705  O   THR A 114      15.552  33.649  16.436  1.00 18.18      1CCP10
+ATOM   1706  CB  THR A 114      15.925  36.916  15.884  1.00 20.19      1CCP10
+ATOM   1707  OG1 THR A 114      16.247  37.852  14.803  1.00 20.79      1CCP10
+ATOM   1708  CG2 THR A 114      17.188  36.518  16.666  1.00 19.98      1CCP10
+ATOM   1709  H   THR A 114      13.927  36.989  14.299  1.00 18.81      1CCP H   new
+ATOM   1710  HA  THR A 114      16.078  35.202  14.549  1.00 18.32      1CCP H   new
+ATOM   1711  HB  THR A 114      15.236  37.365  16.614  1.00 20.19      1CCP H   new
+ATOM   1712  HG1 THR A 114      16.654  38.680  15.189  1.00 20.79      1CCP H   new
+ATOM   1713 1HG2 THR A 114      17.613  37.407  17.155  1.00 19.98      1CCP H   new
+ATOM   1714 2HG2 THR A 114      16.927  35.770  17.429  1.00 19.98      1CCP H   new
+ATOM   1715 3HG2 THR A 114      17.929  36.092  15.974  1.00 19.98      1CCP H   new
+ATOM   1716  N   ALA A 115      13.711  34.936  16.799  1.00 19.19      1CCP10
+ATOM   1717  CA  ALA A 115      13.136  34.063  17.844  1.00 23.06      1CCP10
+ATOM   1718  C   ALA A 115      12.906  32.650  17.270  1.00 23.18      1CCP10
+ATOM   1719  O   ALA A 115      13.374  31.605  17.774  1.00 21.47      1CCP10
+ATOM   1720  CB  ALA A 115      11.841  34.729  18.326  1.00 21.73      1CCP10
+ATOM   1721  H   ALA A 115      13.169  35.752  16.597  1.00 19.19      1CCP H   new
+ATOM   1722  HA  ALA A 115      13.814  33.941  18.702  1.00 23.06      1CCP H   new
+ATOM   1723 1HB  ALA A 115      11.378  34.109  19.108  1.00 21.73      1CCP H   new
+ATOM   1724 2HB  ALA A 115      12.070  35.724  18.735  1.00 21.73      1CCP H   new
+ATOM   1725 3HB  ALA A 115      11.145  34.832  17.481  1.00 21.73      1CCP H   new
+ATOM   1726  N   VAL A 116      12.233  32.618  16.112  1.00 20.32      1CCP10
+ATOM   1727  CA  VAL A 116      12.004  31.310  15.488  1.00 19.07      1CCP10
+ATOM   1728  C   VAL A 116      13.301  30.535  15.292  1.00 22.05      1CCP10
+ATOM   1729  O   VAL A 116      13.325  29.319  15.637  1.00 26.21      1CCP10
+ATOM   1730  CB  VAL A 116      11.185  31.387  14.188  1.00 19.02      1CCP10
+ATOM   1731  CG1 VAL A 116      11.193  30.031  13.456  1.00 19.69      1CCP10
+ATOM   1732  CG2 VAL A 116       9.748  31.841  14.444  1.00 19.58      1CCP10
+ATOM   1733  H   VAL A 116      11.866  33.410  15.625  1.00 20.32      1CCP H   new
+ATOM   1734  HA  VAL A 116      11.386  30.746  16.202  1.00 19.07      1CCP H   new
+ATOM   1735  HB  VAL A 116      11.665  32.142  13.547  1.00 19.02      1CCP H   new
+ATOM   1736 1HG1 VAL A 116      10.602  30.109  12.531  1.00 19.69      1CCP H   new
+ATOM   1737 2HG1 VAL A 116      12.228  29.754  13.207  1.00 19.69      1CCP H   new
+ATOM   1738 3HG1 VAL A 116      10.754  29.260  14.106  1.00 19.69      1CCP H   new
+ATOM   1739 1HG2 VAL A 116       9.201  31.882  13.491  1.00 19.58      1CCP H   new
+ATOM   1740 2HG2 VAL A 116       9.253  31.129  15.120  1.00 19.58      1CCP H   new
+ATOM   1741 3HG2 VAL A 116       9.755  32.840  14.905  1.00 19.58      1CCP H   new
+ATOM   1742  N   GLN A 117      14.270  31.141  14.648  1.00 19.43      1CCP10
+ATOM   1743  CA  GLN A 117      15.525  30.479  14.331  1.00 19.24      1CCP10
+ATOM   1744  C   GLN A 117      16.326  30.121  15.570  1.00 19.94      1CCP10
+ATOM   1745  O   GLN A 117      16.873  29.013  15.587  1.00 19.42      1CCP10
+ATOM   1746  CB  GLN A 117      16.408  31.251  13.366  1.00 19.33      1CCP10
+ATOM   1747  CG  GLN A 117      15.782  31.596  12.049  1.00 18.98      1CCP10
+ATOM   1748  CD  GLN A 117      16.772  32.093  11.011  1.00 24.39      1CCP10
+ATOM   1749  OE1 GLN A 117      16.423  32.254   9.837  1.00 25.83      1CCP10
+ATOM   1750  NE2 GLN A 117      18.012  32.411  11.387  1.00 23.71      1CCP10
+ATOM   1751  H   GLN A 117      14.217  32.089  14.333  1.00 19.43      1CCP H   new
+ATOM   1752  HA  GLN A 117      15.213  29.554  13.824  1.00 19.24      1CCP H   new
+ATOM   1753 1HB  GLN A 117      16.727  32.183  13.855  1.00 19.33      1CCP H   new
+ATOM   1754 2HB  GLN A 117      17.316  30.660  13.176  1.00 19.33      1CCP H   new
+ATOM   1755 1HG  GLN A 117      15.267  30.708  11.655  1.00 18.98      1CCP H   new
+ATOM   1756 2HG  GLN A 117      15.015  32.368  12.209  1.00 18.98      1CCP H   new
+ATOM   1757 1HE2 GLN A 117      18.658  32.779  10.719  1.00 23.71      1CCP H   new
+ATOM   1758 2HE2 GLN A 117      18.295  32.281  12.337  1.00 23.71      1CCP H   new
+ATOM   1759  N   GLU A 118      16.328  31.003  16.561  1.00 21.39      1CCP10
+ATOM   1760  CA  GLU A 118      17.087  30.682  17.794  1.00 24.11      1CCP10
+ATOM   1761  C   GLU A 118      16.373  29.617  18.612  1.00 26.51      1CCP10
+ATOM   1762  O   GLU A 118      17.048  28.984  19.434  1.00 25.52      1CCP10
+ATOM   1763  CB  GLU A 118      17.400  31.907  18.659  1.00 24.10      1CCP10
+ATOM   1764  CG  GLU A 118      18.399  32.902  18.005  1.00 22.97      1CCP10
+ATOM   1765  CD  GLU A 118      19.762  32.305  17.744  1.00 23.23      1CCP10
+ATOM   1766  OE1 GLU A 118      20.239  32.180  16.591  1.00 20.17      1CCP10
+ATOM   1767  OE2 GLU A 118      20.312  31.860  18.790  1.00 22.81      1CCP10
+ATOM   1768  H   GLU A 118      15.856  31.884  16.556  1.00 21.39      1CCP H   new
+ATOM   1769  HA  GLU A 118      18.057  30.288  17.456  1.00 24.11      1CCP H   new
+ATOM   1770 1HB  GLU A 118      16.462  32.437  18.880  1.00 24.10      1CCP H   new
+ATOM   1771 2HB  GLU A 118      17.812  31.568  19.621  1.00 24.10      1CCP H   new
+ATOM   1772 1HG  GLU A 118      17.977  33.261  17.055  1.00 22.97      1CCP H   new
+ATOM   1773 2HG  GLU A 118      18.511  33.779  18.659  1.00 22.97      1CCP H   new
+ATOM   1774  N   MET A 119      15.080  29.410  18.371  1.00 25.55      1CCP10
+ATOM   1775  CA  MET A 119      14.300  28.377  19.078  1.00 24.53      1CCP10
+ATOM   1776  C   MET A 119      14.273  27.059  18.296  1.00 24.36      1CCP10
+ATOM   1777  O   MET A 119      13.423  26.181  18.453  1.00 24.63      1CCP10
+ATOM   1778  CB  MET A 119      12.858  28.829  19.375  1.00 23.15      1CCP10
+ATOM   1779  CG  MET A 119      12.908  29.764  20.574  1.00 21.86      1CCP10
+ATOM   1780  SD  MET A 119      11.242  30.159  21.106  1.00 26.33      1CCP10
+ATOM   1781  CE  MET A 119      10.584  30.978  19.646  1.00 21.45      1CCP10
+ATOM   1782  H   MET A 119      14.552  29.933  17.702  1.00 25.55      1CCP H   new
+ATOM   1783  HA  MET A 119      14.812  28.216  20.038  1.00 24.53      1CCP H   new
+ATOM   1784 1HB  MET A 119      12.426  29.342  18.503  1.00 23.15      1CCP H   new
+ATOM   1785 2HB  MET A 119      12.217  27.961  19.588  1.00 23.15      1CCP H   new
+ATOM   1786 1HG  MET A 119      13.464  29.291  21.397  1.00 21.86      1CCP H   new
+ATOM   1787 2HG  MET A 119      13.447  30.686  20.310  1.00 21.86      1CCP H   new
+ATOM   1788 1HE  MET A 119       9.544  31.282  19.833  1.00 21.45      1CCP H   new
+ATOM   1789 2HE  MET A 119      11.190  31.867  19.419  1.00 21.45      1CCP H   new
+ATOM   1790 3HE  MET A 119      10.615  30.286  18.791  1.00 21.45      1CCP H   new
+ATOM   1791  N   GLN A 120      15.235  26.916  17.427  1.00 25.22      1CCP10
+ATOM   1792  CA  GLN A 120      15.497  25.787  16.566  1.00 28.45      1CCP10
+ATOM   1793  C   GLN A 120      14.462  25.584  15.471  1.00 28.71      1CCP10
+ATOM   1794  O   GLN A 120      14.340  24.449  14.924  1.00 26.91      1CCP10
+ATOM   1795  CB  GLN A 120      15.793  24.527  17.395  1.00 34.46      1CCP10
+ATOM   1796  CG  GLN A 120      16.896  24.838  18.408  1.00 41.60      1CCP10
+ATOM   1797  CD  GLN A 120      17.115  23.685  19.354  1.00 50.59      1CCP10
+ATOM   1798  OE1 GLN A 120      16.981  23.799  20.580  1.00 55.47      1CCP10
+ATOM   1799  NE2 GLN A 120      17.459  22.508  18.802  1.00 53.37      1CCP10
+ATOM   1800  H   GLN A 120      15.910  27.641  17.291  1.00 25.22      1CCP H   new
+ATOM   1801  HA  GLN A 120      16.410  26.021  15.999  1.00 28.45      1CCP H   new
+ATOM   1802 1HB  GLN A 120      14.883  24.194  17.916  1.00 34.46      1CCP H   new
+ATOM   1803 2HB  GLN A 120      16.106  23.704  16.735  1.00 34.46      1CCP H   new
+ATOM   1804 1HG  GLN A 120      17.833  25.062  17.876  1.00 41.60      1CCP H   new
+ATOM   1805 2HG  GLN A 120      16.628  25.739  18.980  1.00 41.60      1CCP H   new
+ATOM   1806 1HE2 GLN A 120      17.611  21.708  19.383  1.00 53.37      1CCP H   new
+ATOM   1807 2HE2 GLN A 120      17.563  22.432  17.810  1.00 53.37      1CCP H   new
+ATOM   1808  N   GLY A 121      13.770  26.672  15.113  1.00 24.04      1CCP10
+ATOM   1809  CA  GLY A 121      12.754  26.523  14.030  1.00 23.97      1CCP10
+ATOM   1810  C   GLY A 121      13.505  26.552  12.684  1.00 24.22      1CCP10
+ATOM   1811  O   GLY A 121      14.732  26.426  12.608  1.00 23.55      1CCP10
+ATOM   1812  H   GLY A 121      13.869  27.587  15.505  1.00 24.04      1CCP H   new
+ATOM   1813 1HA  GLY A 121      12.202  25.579  14.145  1.00 23.97      1CCP H   new
+ATOM   1814 2HA  GLY A 121      12.015  27.336  14.078  1.00 23.97      1CCP H   new
+ATOM   1815  N   PRO A 122      12.730  26.667  11.610  1.00 22.04      1CCP10
+ATOM   1816  CA  PRO A 122      13.363  26.730  10.286  1.00 21.66      1CCP10
+ATOM   1817  C   PRO A 122      13.962  28.133  10.087  1.00 23.23      1CCP10
+ATOM   1818  O   PRO A 122      13.625  29.106  10.788  1.00 24.25      1CCP10
+ATOM   1819  CB  PRO A 122      12.167  26.601   9.326  1.00 19.53      1CCP10
+ATOM   1820  CG  PRO A 122      10.971  27.111  10.113  1.00 21.22      1CCP10
+ATOM   1821  CD  PRO A 122      11.260  26.800  11.582  1.00 19.29      1CCP10
+ATOM   1822  HA  PRO A 122      14.150  25.975  10.143  1.00 21.66      1CCP H   new
+ATOM   1823 1HB  PRO A 122      12.324  27.194   8.413  1.00 19.53      1CCP H   new
+ATOM   1824 2HB  PRO A 122      12.020  25.557   9.011  1.00 19.53      1CCP H   new
+ATOM   1825 1HG  PRO A 122      10.833  28.192   9.960  1.00 21.22      1CCP H   new
+ATOM   1826 2HG  PRO A 122      10.045  26.618   9.782  1.00 21.22      1CCP H   new
+ATOM   1827 1HD  PRO A 122      10.911  27.605  12.245  1.00 19.29      1CCP H   new
+ATOM   1828 2HD  PRO A 122      10.761  25.876  11.909  1.00 19.29      1CCP H   new
+ATOM   1829  N   LYS A 123      14.777  28.225   9.044  1.00 23.57      1CCP10
+ATOM   1830  CA  LYS A 123      15.312  29.506   8.578  1.00 25.76      1CCP10
+ATOM   1831  C   LYS A 123      14.141  30.160   7.789  1.00 25.88      1CCP10
+ATOM   1832  O   LYS A 123      13.523  29.474   6.958  1.00 24.33      1CCP10
+ATOM   1833  CB  LYS A 123      16.441  29.377   7.578  1.00 26.64      1CCP10
+ATOM   1834  CG  LYS A 123      17.766  28.912   8.183  1.00 30.13      1CCP10
+ATOM   1835  CD  LYS A 123      18.075  29.637   9.494  1.00 35.42      1CCP10
+ATOM   1836  CE  LYS A 123      19.464  29.227   9.983  1.00 40.87      1CCP10
+ATOM   1837  NZ  LYS A 123      20.543  29.787   9.084  1.00 39.91      1CCP10
+ATOM   1838  H   LYS A 123      15.081  27.437   8.508  1.00 23.57      1CCP H   new
+ATOM   1839  HA  LYS A 123      15.693  30.059   9.449  1.00 25.76      1CCP H   new
+ATOM   1840 1HB  LYS A 123      16.141  28.667   6.793  1.00 26.64      1CCP H   new
+ATOM   1841 2HB  LYS A 123      16.596  30.350   7.090  1.00 26.64      1CCP H   new
+ATOM   1842 1HG  LYS A 123      17.727  27.828   8.364  1.00 30.13      1CCP H   new
+ATOM   1843 2HG  LYS A 123      18.580  29.089   7.465  1.00 30.13      1CCP H   new
+ATOM   1844 1HD  LYS A 123      18.033  30.726   9.343  1.00 35.42      1CCP H   new
+ATOM   1845 2HD  LYS A 123      17.318  29.388  10.252  1.00 35.42      1CCP H   new
+ATOM   1846 1HE  LYS A 123      19.616  29.586  11.012  1.00 40.87      1CCP H   new
+ATOM   1847 2HE  LYS A 123      19.538  28.130  10.011  1.00 40.87      1CCP H   new
+ATOM   1848 1HZ  LYS A 123      21.440  29.506   9.424  1.00 39.91      1CCP H + new
+ATOM   1849 2HZ  LYS A 123      20.416  29.441   8.154  1.00 39.91      1CCP H + new
+ATOM   1850 3HZ  LYS A 123      20.488  30.785   9.078  1.00 39.91      1CCP H + new
+ATOM   1851  N   ILE A 124      13.945  31.415   8.106  1.00 23.43      1CCP10
+ATOM   1852  CA  ILE A 124      12.988  32.313   7.489  1.00 25.74      1CCP10
+ATOM   1853  C   ILE A 124      13.701  33.434   6.700  1.00 27.30      1CCP10
+ATOM   1854  O   ILE A 124      14.344  34.361   7.288  1.00 25.09      1CCP10
+ATOM   1855  CB  ILE A 124      12.134  33.024   8.604  1.00 27.54      1CCP10
+ATOM   1856  CG1 ILE A 124      11.819  32.049   9.769  1.00 31.59      1CCP10
+ATOM   1857  CG2 ILE A 124      10.898  33.754   8.020  1.00 30.23      1CCP10
+ATOM   1858  CD1 ILE A 124      10.699  31.044   9.484  1.00 34.53      1CCP10
+ATOM   1859  H   ILE A 124      14.469  31.860   8.832  1.00 23.43      1CCP H   new
+ATOM   1860  HA  ILE A 124      12.362  31.710   6.815  1.00 25.74      1CCP H   new
+ATOM   1861  HB  ILE A 124      12.740  33.829   9.046  1.00 27.54      1CCP H   new
+ATOM   1862 1HG1 ILE A 124      12.735  31.494  10.021  1.00 31.59      1CCP H   new
+ATOM   1863 2HG1 ILE A 124      11.546  32.638  10.657  1.00 31.59      1CCP H   new
+ATOM   1864 1HG2 ILE A 124      10.336  34.233   8.835  1.00 30.23      1CCP H   new
+ATOM   1865 2HG2 ILE A 124      11.229  34.520   7.303  1.00 30.23      1CCP H   new
+ATOM   1866 3HG2 ILE A 124      10.251  33.027   7.507  1.00 30.23      1CCP H   new
+ATOM   1867 1HD1 ILE A 124      10.550  30.401  10.364  1.00 34.53      1CCP H   new
+ATOM   1868 2HD1 ILE A 124       9.767  31.585   9.265  1.00 34.53      1CCP H   new
+ATOM   1869 3HD1 ILE A 124      10.974  30.423   8.619  1.00 34.53      1CCP H   new
+ATOM   1870  N   PRO A 125      13.569  33.383   5.393  1.00 25.76      1CCP11
+ATOM   1871  CA  PRO A 125      14.183  34.448   4.565  1.00 23.14      1CCP11
+ATOM   1872  C   PRO A 125      13.488  35.718   5.023  1.00 23.72      1CCP11
+ATOM   1873  O   PRO A 125      12.278  35.717   5.307  1.00 22.35      1CCP11
+ATOM   1874  CB  PRO A 125      13.963  34.015   3.143  1.00 25.47      1CCP11
+ATOM   1875  CG  PRO A 125      13.620  32.521   3.245  1.00 27.36      1CCP11
+ATOM   1876  CD  PRO A 125      12.872  32.398   4.583  1.00 25.70      1CCP11
+ATOM   1877  HA  PRO A 125      15.264  34.629   4.656  1.00 23.14      1CCP H   new
+ATOM   1878 1HB  PRO A 125      13.146  34.582   2.673  1.00 25.47      1CCP H   new
+ATOM   1879 2HB  PRO A 125      14.862  34.179   2.531  1.00 25.47      1CCP H   new
+ATOM   1880 1HG  PRO A 125      12.993  32.194   2.402  1.00 27.36      1CCP H   new
+ATOM   1881 2HG  PRO A 125      14.527  31.898   3.232  1.00 27.36      1CCP H   new
+ATOM   1882 1HD  PRO A 125      11.801  32.628   4.482  1.00 25.70      1CCP H   new
+ATOM   1883 2HD  PRO A 125      12.945  31.386   5.007  1.00 25.70      1CCP H   new
+ATOM   1884  N   TRP A 126      14.283  36.766   5.139  1.00 23.47      1CCP11
+ATOM   1885  CA  TRP A 126      13.815  38.088   5.561  1.00 22.54      1CCP11
+ATOM   1886  C   TRP A 126      14.292  39.210   4.628  1.00 23.75      1CCP11
+ATOM   1887  O   TRP A 126      15.424  39.195   4.137  1.00 27.26      1CCP11
+ATOM   1888  CB  TRP A 126      14.250  38.375   6.986  1.00 18.55      1CCP11
+ATOM   1889  CG  TRP A 126      13.745  39.669   7.531  1.00 19.14      1CCP11
+ATOM   1890  CD1 TRP A 126      12.525  39.926   8.111  1.00 19.90      1CCP11
+ATOM   1891  CD2 TRP A 126      14.489  40.891   7.619  1.00 19.89      1CCP11
+ATOM   1892  NE1 TRP A 126      12.475  41.243   8.569  1.00 18.92      1CCP11
+ATOM   1893  CE2 TRP A 126      13.672  41.838   8.280  1.00 19.17      1CCP11
+ATOM   1894  CE3 TRP A 126      15.791  41.241   7.207  1.00 20.50      1CCP11
+ATOM   1895  CZ2 TRP A 126      14.104  43.138   8.545  1.00 20.87      1CCP11
+ATOM   1896  CZ3 TRP A 126      16.198  42.519   7.479  1.00 19.28      1CCP11
+ATOM   1897  CH2 TRP A 126      15.381  43.450   8.102  1.00 21.63      1CCP11
+ATOM   1898  H   TRP A 126      15.264  36.731   4.946  1.00 23.47      1CCP H   new
+ATOM   1899  HA  TRP A 126      12.716  38.067   5.509  1.00 22.54      1CCP H   new
+ATOM   1900 1HB  TRP A 126      13.904  37.557   7.635  1.00 18.55      1CCP H   new
+ATOM   1901 2HB  TRP A 126      15.349  38.376   7.029  1.00 18.55      1CCP H   new
+ATOM   1902  HD1 TRP A 126      11.706  39.198   8.201  1.00 19.90      1CCP H   new
+ATOM   1903  HE1 TRP A 126      11.699  41.676   9.028  1.00 18.92      1CCP H   new
+ATOM   1904  HE3 TRP A 126      16.447  40.523   6.693  1.00 20.50      1CCP H   new
+ATOM   1905  HZ2 TRP A 126      13.472  43.869   9.071  1.00 20.87      1CCP H   new
+ATOM   1906  HZ3 TRP A 126      17.216  42.820   7.191  1.00 19.28      1CCP H   new
+ATOM   1907  HH2 TRP A 126      15.759  44.472   8.250  1.00 21.63      1CCP H   new
+ATOM   1908  N   ARG A 127      13.420  40.186   4.440  1.00 24.62      1CCP11
+ATOM   1909  CA  ARG A 127      13.724  41.349   3.591  1.00 24.90      1CCP11
+ATOM   1910  C   ARG A 127      13.626  42.633   4.410  1.00 24.30      1CCP11
+ATOM   1911  O   ARG A 127      12.681  42.802   5.201  1.00 21.96      1CCP11
+ATOM   1912  CB  ARG A 127      12.736  41.420   2.401  1.00 27.63      1CCP11
+ATOM   1913  CG  ARG A 127      12.903  40.251   1.449  1.00 33.01      1CCP11
+ATOM   1914  CD  ARG A 127      11.929  40.264   0.304  1.00 34.52      1CCP11
+ATOM   1915  NE  ARG A 127      12.613  40.796  -0.842  1.00 40.36      1CCP11
+ATOM   1916  CZ  ARG A 127      12.517  40.652  -2.153  1.00 41.43      1CCP11
+ATOM   1917  NH1 ARG A 127      11.672  39.768  -2.700  1.00 42.89      1CCP11
+ATOM   1918  NH2 ARG A 127      13.326  41.398  -2.934  1.00 39.00      1CCP11
+ATOM   1919  H   ARG A 127      12.509  40.205   4.852  1.00 24.62      1CCP H   new
+ATOM   1920  HA  ARG A 127      14.747  41.240   3.203  1.00 24.90      1CCP H   new
+ATOM   1921 1HB  ARG A 127      11.705  41.435   2.783  1.00 27.63      1CCP H   new
+ATOM   1922 2HB  ARG A 127      12.890  42.362   1.854  1.00 27.63      1CCP H   new
+ATOM   1923 1HG  ARG A 127      13.927  40.259   1.048  1.00 33.01      1CCP H   new
+ATOM   1924 2HG  ARG A 127      12.784  39.312   2.010  1.00 33.01      1CCP H   new
+ATOM   1925 1HD  ARG A 127      11.562  39.248   0.098  1.00 34.52      1CCP H   new
+ATOM   1926 2HD  ARG A 127      11.051  40.879   0.550  1.00 34.52      1CCP H   new
+ATOM   1927  HE  ARG A 127      13.341  41.432  -0.585  1.00 40.36      1CCP H + new
+ATOM   1928 1HH1 ARG A 127      11.096  39.199  -2.114  1.00 42.89      1CCP H + new
+ATOM   1929 2HH1 ARG A 127      11.618  39.678  -3.694  1.00 42.89      1CCP H + new
+ATOM   1930 1HH2 ARG A 127      13.974  42.036  -2.518  1.00 39.00      1CCP H + new
+ATOM   1931 2HH2 ARG A 127      13.278  41.313  -3.929  1.00 39.00      1CCP H + new
+ATOM   1932  N   CYS A 128      14.597  43.521   4.184  1.00 24.85      1CCP11
+ATOM   1933  CA  CYS A 128      14.621  44.860   4.824  1.00 25.28      1CCP11
+ATOM   1934  C   CYS A 128      13.838  45.833   3.913  1.00 25.31      1CCP11
+ATOM   1935  O   CYS A 128      13.494  45.454   2.765  1.00 22.25      1CCP11
+ATOM   1936  CB  CYS A 128      16.062  45.386   4.932  1.00 27.24      1CCP11
+ATOM   1937  SG  CYS A 128      17.004  45.501   3.355  1.00 32.44      1CCP11
+ATOM   1938  H   CYS A 128      15.370  43.349   3.573  1.00 24.85      1CCP H   new
+ATOM   1939  HA  CYS A 128      14.182  44.787   5.830  1.00 25.28      1CCP H   new
+ATOM   1940 1HB  CYS A 128      16.032  46.385   5.391  1.00 27.24      1CCP H   new
+ATOM   1941 2HB  CYS A 128      16.618  44.733   5.620  1.00 27.24      1CCP H   new
+ATOM   1942  HG  CYS A 128      18.197  45.958   3.595  1.00 32.44      1CCP H   new
+ATOM   1943  N   GLY A 129      13.635  47.063   4.381  1.00 22.86      1CCP11
+ATOM   1944  CA  GLY A 129      13.014  48.027   3.487  1.00 25.19      1CCP11
+ATOM   1945  C   GLY A 129      11.739  48.623   4.005  1.00 28.11      1CCP11
+ATOM   1946  O   GLY A 129      11.231  49.518   3.298  1.00 31.89      1CCP11
+ATOM   1947  H   GLY A 129      13.870  47.392   5.296  1.00 22.86      1CCP H   new
+ATOM   1948 1HA  GLY A 129      13.730  48.839   3.289  1.00 25.19      1CCP H   new
+ATOM   1949 2HA  GLY A 129      12.810  47.536   2.524  1.00 25.19      1CCP H   new
+ATOM   1950  N   ARG A 130      11.265  48.137   5.141  1.00 25.54      1CCP11
+ATOM   1951  CA  ARG A 130      10.019  48.705   5.718  1.00 24.55      1CCP11
+ATOM   1952  C   ARG A 130      10.386  50.133   6.087  1.00 25.80      1CCP11
+ATOM   1953  O   ARG A 130      11.548  50.408   6.468  1.00 24.68      1CCP11
+ATOM   1954  CB  ARG A 130       9.448  47.882   6.883  1.00 24.94      1CCP11
+ATOM   1955  CG  ARG A 130       8.952  46.475   6.492  1.00 23.56      1CCP11
+ATOM   1956  CD  ARG A 130       8.798  45.497   7.599  1.00 22.57      1CCP11
+ATOM   1957  NE  ARG A 130       8.587  44.121   7.122  1.00 22.03      1CCP11
+ATOM   1958  CZ  ARG A 130       9.574  43.356   6.651  1.00 24.23      1CCP11
+ATOM   1959  NH1 ARG A 130      10.877  43.687   6.756  1.00 21.52      1CCP11
+ATOM   1960  NH2 ARG A 130       9.270  42.166   6.118  1.00 22.09      1CCP11
+ATOM   1961  H   ARG A 130      11.682  47.396   5.667  1.00 25.54      1CCP H   new
+ATOM   1962  HA  ARG A 130       9.187  48.680   4.999  1.00 24.55      1CCP H   new
+ATOM   1963 1HB  ARG A 130      10.222  47.781   7.658  1.00 24.94      1CCP H   new
+ATOM   1964 2HB  ARG A 130       8.613  48.439   7.333  1.00 24.94      1CCP H   new
+ATOM   1965 1HG  ARG A 130       7.980  46.580   5.987  1.00 23.56      1CCP H   new
+ATOM   1966 2HG  ARG A 130       9.653  46.055   5.756  1.00 23.56      1CCP H   new
+ATOM   1967 1HD  ARG A 130       9.695  45.526   8.234  1.00 22.57      1CCP H   new
+ATOM   1968 2HD  ARG A 130       7.948  45.796   8.230  1.00 22.57      1CCP H   new
+ATOM   1969  HE  ARG A 130       7.662  43.742   7.152  1.00 22.03      1CCP H + new
+ATOM   1970 1HH1 ARG A 130      11.141  44.541   7.204  1.00 21.52      1CCP H + new
+ATOM   1971 2HH1 ARG A 130      11.579  43.078   6.386  1.00 21.52      1CCP H + new
+ATOM   1972 1HH2 ARG A 130       8.317  41.865   6.078  1.00 22.09      1CCP H + new
+ATOM   1973 2HH2 ARG A 130       9.996  41.579   5.760  1.00 22.09      1CCP H + new
+ATOM   1974  N   VAL A 131       9.435  51.041   5.933  1.00 28.05      1CCP11
+ATOM   1975  CA  VAL A 131       9.727  52.464   6.257  1.00 26.49      1CCP11
+ATOM   1976  C   VAL A 131       8.690  52.975   7.248  1.00 28.03      1CCP11
+ATOM   1977  O   VAL A 131       7.470  52.800   7.008  1.00 27.08      1CCP11
+ATOM   1978  CB  VAL A 131       9.647  53.270   4.932  1.00 28.39      1CCP11
+ATOM   1979  CG1 VAL A 131       9.704  54.759   5.244  1.00 27.43      1CCP11
+ATOM   1980  CG2 VAL A 131      10.646  52.786   3.915  1.00 25.34      1CCP11
+ATOM   1981  H   VAL A 131       8.508  50.854   5.609  1.00 28.05      1CCP H   new
+ATOM   1982  HA  VAL A 131      10.724  52.573   6.708  1.00 26.49      1CCP H   new
+ATOM   1983  HB  VAL A 131       8.679  53.093   4.440  1.00 28.39      1CCP H   new
+ATOM   1984 1HG1 VAL A 131       9.648  55.333   4.307  1.00 27.43      1CCP H   new
+ATOM   1985 2HG1 VAL A 131       8.858  55.031   5.892  1.00 27.43      1CCP H   new
+ATOM   1986 3HG1 VAL A 131      10.648  54.990   5.759  1.00 27.43      1CCP H   new
+ATOM   1987 1HG2 VAL A 131      10.553  53.384   2.996  1.00 25.34      1CCP H   new
+ATOM   1988 2HG2 VAL A 131      11.663  52.892   4.320  1.00 25.34      1CCP H   new
+ATOM   1989 3HG2 VAL A 131      10.452  51.728   3.685  1.00 25.34      1CCP H   new
+ATOM   1990  N   ASP A 132       9.215  53.582   8.286  1.00 27.04      1CCP11
+ATOM   1991  CA  ASP A 132       8.291  54.133   9.322  1.00 31.77      1CCP11
+ATOM   1992  C   ASP A 132       7.355  55.099   8.612  1.00 32.73      1CCP11
+ATOM   1993  O   ASP A 132       7.799  55.884   7.749  1.00 36.09      1CCP11
+ATOM   1994  CB  ASP A 132       9.121  54.700  10.471  1.00 35.48      1CCP11
+ATOM   1995  CG  ASP A 132       9.700  53.549  11.308  1.00 39.23      1CCP11
+ATOM   1996  OD1 ASP A 132       9.923  52.394  10.913  1.00 37.96      1CCP11
+ATOM   1997  OD2 ASP A 132       9.910  53.859  12.497  1.00 43.42      1CCP11
+ATOM   1998  H   ASP A 132      10.192  53.714   8.453  1.00 27.04      1CCP H   new
+ATOM   1999  HA  ASP A 132       7.647  53.382   9.802  1.00 31.77      1CCP H   new
+ATOM   2000 1HB  ASP A 132       9.935  55.325  10.075  1.00 35.48      1CCP H   new
+ATOM   2001 2HB  ASP A 132       8.496  55.348  11.103  1.00 35.48      1CCP H   new
+ATOM   2002  N   THR A 133       6.082  55.004   8.926  1.00 34.15      1CCP11
+ATOM   2003  CA  THR A 133       5.039  55.858   8.353  1.00 31.45      1CCP11
+ATOM   2004  C   THR A 133       4.435  56.602   9.548  1.00 33.65      1CCP11
+ATOM   2005  O   THR A 133       4.654  56.228  10.717  1.00 36.07      1CCP11
+ATOM   2006  CB  THR A 133       4.041  55.152   7.387  1.00 30.88      1CCP11
+ATOM   2007  OG1 THR A 133       3.275  54.154   8.164  1.00 29.88      1CCP11
+ATOM   2008  CG2 THR A 133       4.741  54.470   6.195  1.00 28.26      1CCP11
+ATOM   2009  H   THR A 133       5.733  54.336   9.584  1.00 34.15      1CCP H   new
+ATOM   2010  HA  THR A 133       5.460  56.576   7.634  1.00 31.45      1CCP H   new
+ATOM   2011  HB  THR A 133       3.377  55.917   6.958  1.00 30.88      1CCP H   new
+ATOM   2012  HG1 THR A 133       2.627  53.688   7.562  1.00 29.88      1CCP H   new
+ATOM   2013 1HG2 THR A 133       3.988  53.991   5.552  1.00 28.26      1CCP H   new
+ATOM   2014 2HG2 THR A 133       5.294  55.223   5.614  1.00 28.26      1CCP H   new
+ATOM   2015 3HG2 THR A 133       5.442  53.708   6.568  1.00 28.26      1CCP H   new
+ATOM   2016  N   PRO A 134       3.768  57.680   9.192  1.00 35.36      1CCP11
+ATOM   2017  CA  PRO A 134       3.187  58.598  10.158  1.00 38.45      1CCP11
+ATOM   2018  C   PRO A 134       2.109  57.979  11.011  1.00 41.10      1CCP11
+ATOM   2019  O   PRO A 134       1.466  56.989  10.633  1.00 41.57      1CCP11
+ATOM   2020  CB  PRO A 134       2.702  59.789   9.355  1.00 40.02      1CCP11
+ATOM   2021  CG  PRO A 134       2.964  59.499   7.922  1.00 39.97      1CCP11
+ATOM   2022  CD  PRO A 134       3.608  58.143   7.803  1.00 37.19      1CCP11
+ATOM   2023  HA  PRO A 134       3.939  58.901  10.901  1.00 38.45      1CCP H   new
+ATOM   2024 1HB  PRO A 134       1.629  59.959   9.525  1.00 40.02      1CCP H   new
+ATOM   2025 2HB  PRO A 134       3.226  60.705   9.666  1.00 40.02      1CCP H   new
+ATOM   2026 1HG  PRO A 134       2.024  59.524   7.352  1.00 39.97      1CCP H   new
+ATOM   2027 2HG  PRO A 134       3.621  60.270   7.493  1.00 39.97      1CCP H   new
+ATOM   2028 1HD  PRO A 134       2.980  57.452   7.222  1.00 37.19      1CCP H   new
+ATOM   2029 2HD  PRO A 134       4.578  58.205   7.289  1.00 37.19      1CCP H   new
+ATOM   2030  N   GLU A 135       1.942  58.581  12.175  1.00 45.03      1CCP11
+ATOM   2031  CA  GLU A 135       0.986  58.090  13.164  1.00 49.11      1CCP11
+ATOM   2032  C   GLU A 135      -0.427  57.980  12.612  1.00 51.63      1CCP11
+ATOM   2033  O   GLU A 135      -1.291  57.325  13.249  1.00 54.04      1CCP11
+ATOM   2034  CB  GLU A 135       0.907  58.972  14.392  1.00 51.74      1CCP11
+ATOM   2035  CG  GLU A 135       0.003  58.495  15.533  1.00 56.06      1CCP11
+ATOM   2036  CD  GLU A 135       0.133  59.321  16.783  1.00 58.71      1CCP11
+ATOM   2037  OE1 GLU A 135       0.619  60.481  16.760  1.00 61.70      1CCP11
+ATOM   2038  OE2 GLU A 135      -0.271  58.742  17.813  1.00 60.50      1CCP11
+ATOM   2039  H   GLU A 135       2.446  59.397  12.458  1.00 45.03      1CCP H   new
+ATOM   2040  HA  GLU A 135       1.370  57.095  13.433  1.00 49.11      1CCP H   new
+ATOM   2041 1HB  GLU A 135       1.925  59.095  14.791  1.00 51.74      1CCP H   new
+ATOM   2042 2HB  GLU A 135       0.563  59.968  14.076  1.00 51.74      1CCP H   new
+ATOM   2043 1HG  GLU A 135      -1.044  58.517  15.195  1.00 56.06      1CCP H   new
+ATOM   2044 2HG  GLU A 135       0.243  57.448  15.768  1.00 56.06      1CCP H   new
+ATOM   2045  N   ASP A 136      -0.639  58.612  11.470  1.00 50.67      1CCP11
+ATOM   2046  CA  ASP A 136      -1.994  58.628  10.898  1.00 50.63      1CCP11
+ATOM   2047  C   ASP A 136      -2.245  57.447   9.980  1.00 48.18      1CCP11
+ATOM   2048  O   ASP A 136      -3.388  57.309   9.480  1.00 47.04      1CCP11
+ATOM   2049  CB  ASP A 136      -2.297  60.010  10.355  1.00 56.80      1CCP11
+ATOM   2050  CG  ASP A 136      -1.746  60.352   8.993  1.00 61.96      1CCP11
+ATOM   2051  OD1 ASP A 136      -0.675  59.929   8.535  1.00 64.56      1CCP11
+ATOM   2052  OD2 ASP A 136      -2.459  61.139   8.314  1.00 65.85      1CCP11
+ATOM   2053  H   ASP A 136       0.058  59.096  10.941  1.00 50.67      1CCP H   new
+ATOM   2054  HA  ASP A 136      -2.750  58.462  11.680  1.00 50.63      1CCP H   new
+ATOM   2055 1HB  ASP A 136      -3.390  60.131  10.321  1.00 56.80      1CCP H   new
+ATOM   2056 2HB  ASP A 136      -1.914  60.750  11.073  1.00 56.80      1CCP H   new
+ATOM   2057  N   THR A 137      -1.201  56.650   9.770  1.00 42.21      1CCP11
+ATOM   2058  CA  THR A 137      -1.366  55.458   8.918  1.00 39.65      1CCP12
+ATOM   2059  C   THR A 137      -1.647  54.241   9.826  1.00 40.28      1CCP12
+ATOM   2060  O   THR A 137      -1.728  53.114   9.339  1.00 40.77      1CCP12
+ATOM   2061  CB  THR A 137      -0.111  55.224   8.006  1.00 36.82      1CCP12
+ATOM   2062  OG1 THR A 137       1.006  55.131   8.951  1.00 32.81      1CCP12
+ATOM   2063  CG2 THR A 137       0.075  56.317   6.959  1.00 36.45      1CCP12
+ATOM   2064  H   THR A 137      -0.285  56.787  10.148  1.00 42.21      1CCP H   new
+ATOM   2065  HA  THR A 137      -2.217  55.608   8.237  1.00 39.65      1CCP H   new
+ATOM   2066  HB  THR A 137      -0.206  54.314   7.395  1.00 36.82      1CCP H   new
+ATOM   2067  HG1 THR A 137       1.857  54.980   8.448  1.00 32.81      1CCP H   new
+ATOM   2068 1HG2 THR A 137       0.967  56.098   6.354  1.00 36.45      1CCP H   new
+ATOM   2069 2HG2 THR A 137      -0.810  56.355   6.307  1.00 36.45      1CCP H   new
+ATOM   2070 3HG2 THR A 137       0.202  57.288   7.460  1.00 36.45      1CCP H   new
+ATOM   2071  N   THR A 138      -1.720  54.493  11.125  1.00 38.12      1CCP12
+ATOM   2072  CA  THR A 138      -1.975  53.489  12.133  1.00 40.14      1CCP12
+ATOM   2073  C   THR A 138      -3.405  52.943  11.928  1.00 40.51      1CCP12
+ATOM   2074  O   THR A 138      -4.390  53.701  11.941  1.00 39.95      1CCP12
+ATOM   2075  CB  THR A 138      -1.838  54.008  13.609  1.00 40.86      1CCP12
+ATOM   2076  OG1 THR A 138      -0.606  54.777  13.732  1.00 42.59      1CCP12
+ATOM   2077  CG2 THR A 138      -1.943  52.857  14.623  1.00 41.76      1CCP12
+ATOM   2078  H   THR A 138      -1.602  55.411  11.504  1.00 38.12      1CCP H   new
+ATOM   2079  HA  THR A 138      -1.208  52.711  12.006  1.00 40.14      1CCP H   new
+ATOM   2080  HB  THR A 138      -2.677  54.679  13.847  1.00 40.86      1CCP H   new
+ATOM   2081  HG1 THR A 138      -0.513  55.110  14.670  1.00 42.59      1CCP H   new
+ATOM   2082 1HG2 THR A 138      -1.843  53.256  15.643  1.00 41.76      1CCP H   new
+ATOM   2083 2HG2 THR A 138      -2.920  52.363  14.517  1.00 41.76      1CCP H   new
+ATOM   2084 3HG2 THR A 138      -1.141  52.128  14.435  1.00 41.76      1CCP H   new
+ATOM   2085  N   PRO A 139      -3.463  51.627  11.750  1.00 39.91      1CCP12
+ATOM   2086  CA  PRO A 139      -4.771  50.971  11.542  1.00 38.50      1CCP12
+ATOM   2087  C   PRO A 139      -5.603  51.032  12.813  1.00 37.32      1CCP12
+ATOM   2088  O   PRO A 139      -5.066  51.000  13.940  1.00 35.34      1CCP12
+ATOM   2089  CB  PRO A 139      -4.421  49.559  11.108  1.00 40.01      1CCP12
+ATOM   2090  CG  PRO A 139      -2.948  49.380  11.310  1.00 40.70      1CCP12
+ATOM   2091  CD  PRO A 139      -2.325  50.700  11.702  1.00 39.18      1CCP12
+ATOM   2092  HA  PRO A 139      -5.396  51.462  10.782  1.00 38.50      1CCP H   new
+ATOM   2093 1HB  PRO A 139      -4.985  48.822  11.698  1.00 40.01      1CCP H   new
+ATOM   2094 2HB  PRO A 139      -4.689  49.400  10.053  1.00 40.01      1CCP H   new
+ATOM   2095 1HG  PRO A 139      -2.763  48.629  12.092  1.00 40.70      1CCP H   new
+ATOM   2096 2HG  PRO A 139      -2.484  49.004  10.387  1.00 40.70      1CCP H   new
+ATOM   2097 1HD  PRO A 139      -1.818  50.633  12.676  1.00 39.18      1CCP H   new
+ATOM   2098 2HD  PRO A 139      -1.572  51.024  10.969  1.00 39.18      1CCP H   new
+ATOM   2099  N   ASP A 140      -6.910  51.103  12.620  1.00 37.82      1CCP12
+ATOM   2100  CA  ASP A 140      -7.848  51.058  13.760  1.00 39.00      1CCP12
+ATOM   2101  C   ASP A 140      -7.807  49.634  14.368  1.00 35.86      1CCP12
+ATOM   2102  O   ASP A 140      -7.556  48.657  13.646  1.00 31.26      1CCP12
+ATOM   2103  CB  ASP A 140      -9.259  51.390  13.317  1.00 44.92      1CCP12
+ATOM   2104  CG  ASP A 140      -9.551  52.869  13.149  1.00 49.96      1CCP12
+ATOM   2105  OD1 ASP A 140     -10.041  53.249  12.074  1.00 53.50      1CCP12
+ATOM   2106  OD2 ASP A 140      -9.337  53.645  14.104  1.00 53.12      1CCP12
+ATOM   2107  H   ASP A 140      -7.344  51.189  11.723  1.00 37.82      1CCP H   new
+ATOM   2108  HA  ASP A 140      -7.548  51.805  14.509  1.00 39.00      1CCP H   new
+ATOM   2109 1HB  ASP A 140      -9.455  50.883  12.361  1.00 44.92      1CCP H   new
+ATOM   2110 2HB  ASP A 140      -9.964  50.974  14.052  1.00 44.92      1CCP H   new
+ATOM   2111  N   ASN A 141      -8.075  49.581  15.657  1.00 33.15      1CCP12
+ATOM   2112  CA  ASN A 141      -8.154  48.326  16.408  1.00 35.10      1CCP12
+ATOM   2113  C   ASN A 141      -9.287  47.441  15.855  1.00 36.52      1CCP12
+ATOM   2114  O   ASN A 141     -10.275  47.920  15.258  1.00 36.46      1CCP12
+ATOM   2115  CB  ASN A 141      -8.453  48.644  17.871  1.00 33.81      1CCP12
+ATOM   2116  CG  ASN A 141      -7.362  49.422  18.565  1.00 37.34      1CCP12
+ATOM   2117  OD1 ASN A 141      -6.231  49.575  18.048  1.00 37.66      1CCP12
+ATOM   2118  ND2 ASN A 141      -7.725  49.845  19.787  1.00 36.53      1CCP12
+ATOM   2119  H   ASN A 141      -8.244  50.394  16.214  1.00 33.15      1CCP H   new
+ATOM   2120  HA  ASN A 141      -7.197  47.791  16.314  1.00 35.10      1CCP H   new
+ATOM   2121 1HB  ASN A 141      -9.390  49.217  17.927  1.00 33.81      1CCP H   new
+ATOM   2122 2HB  ASN A 141      -8.619  47.702  18.414  1.00 33.81      1CCP H   new
+ATOM   2123 1HD2 ASN A 141      -7.067  50.327  20.365  1.00 36.53      1CCP H   new
+ATOM   2124 2HD2 ASN A 141      -8.654  49.678  20.119  1.00 36.53      1CCP H   new
+ATOM   2125  N   GLY A 142      -9.143  46.141  16.124  1.00 35.91      1CCP12
+ATOM   2126  CA  GLY A 142     -10.227  45.223  15.715  1.00 32.79      1CCP12
+ATOM   2127  C   GLY A 142      -9.924  44.492  14.442  1.00 33.43      1CCP12
+ATOM   2128  O   GLY A 142     -10.881  43.930  13.896  1.00 36.02      1CCP12
+ATOM   2129  H   GLY A 142      -8.360  45.721  16.583  1.00 35.91      1CCP H   new
+ATOM   2130 1HA  GLY A 142     -10.404  44.492  16.518  1.00 32.79      1CCP H   new
+ATOM   2131 2HA  GLY A 142     -11.158  45.796  15.590  1.00 32.79      1CCP H   new
+ATOM   2132  N   ARG A 143      -8.680  44.496  13.977  1.00 28.82      1CCP12
+ATOM   2133  CA  ARG A 143      -8.361  43.718  12.773  1.00 26.71      1CCP12
+ATOM   2134  C   ARG A 143      -7.730  42.359  13.131  1.00 25.36      1CCP12
+ATOM   2135  O   ARG A 143      -7.541  41.602  12.161  1.00 24.41      1CCP12
+ATOM   2136  CB  ARG A 143      -7.400  44.441  11.853  1.00 29.50      1CCP12
+ATOM   2137  CG  ARG A 143      -7.930  45.834  11.414  1.00 31.27      1CCP12
+ATOM   2138  CD  ARG A 143      -6.853  46.315  10.444  1.00 33.57      1CCP12
+ATOM   2139  NE  ARG A 143      -7.356  47.465   9.725  1.00 32.34      1CCP12
+ATOM   2140  CZ  ARG A 143      -6.914  47.939   8.574  1.00 28.83      1CCP12
+ATOM   2141  NH1 ARG A 143      -7.492  49.088   8.234  1.00 28.36      1CCP12
+ATOM   2142  NH2 ARG A 143      -6.005  47.344   7.808  1.00 25.02      1CCP12
+ATOM   2143  H   ARG A 143      -7.915  44.995  14.383  1.00 28.82      1CCP H   new
+ATOM   2144  HA  ARG A 143      -9.321  43.573  12.257  1.00 26.71      1CCP H   new
+ATOM   2145 1HB  ARG A 143      -6.433  44.564  12.362  1.00 29.50      1CCP H   new
+ATOM   2146 2HB  ARG A 143      -7.217  43.824  10.961  1.00 29.50      1CCP H   new
+ATOM   2147 1HG  ARG A 143      -8.914  45.762  10.928  1.00 31.27      1CCP H   new
+ATOM   2148 2HG  ARG A 143      -8.043  46.516  12.270  1.00 31.27      1CCP H   new
+ATOM   2149 1HD  ARG A 143      -5.937  46.579  10.992  1.00 33.57      1CCP H   new
+ATOM   2150 2HD  ARG A 143      -6.587  45.512   9.741  1.00 33.57      1CCP H   new
+ATOM   2151  HE  ARG A 143      -8.121  47.954  10.145  1.00 32.34      1CCP H + new
+ATOM   2152 1HH1 ARG A 143      -8.182  49.497   8.832  1.00 28.36      1CCP H + new
+ATOM   2153 2HH1 ARG A 143      -7.237  49.543   7.381  1.00 28.36      1CCP H + new
+ATOM   2154 1HH2 ARG A 143      -5.605  46.473   8.092  1.00 25.02      1CCP H + new
+ATOM   2155 2HH2 ARG A 143      -5.721  47.768   6.948  1.00 25.02      1CCP H + new
+ATOM   2156  N   LEU A 144      -7.388  42.128  14.373  1.00 23.95      1CCP12
+ATOM   2157  CA  LEU A 144      -6.766  40.853  14.809  1.00 27.54      1CCP12
+ATOM   2158  C   LEU A 144      -7.907  39.903  15.160  1.00 28.36      1CCP12
+ATOM   2159  O   LEU A 144      -9.008  40.367  15.526  1.00 32.01      1CCP12
+ATOM   2160  CB  LEU A 144      -5.726  41.207  15.850  1.00 23.26      1CCP12
+ATOM   2161  CG  LEU A 144      -4.498  41.953  15.352  1.00 28.68      1CCP12
+ATOM   2162  CD1 LEU A 144      -3.670  42.466  16.513  1.00 27.13      1CCP12
+ATOM   2163  CD2 LEU A 144      -3.690  41.040  14.422  1.00 26.39      1CCP12
+ATOM   2164  H   LEU A 144      -7.520  42.788  15.112  1.00 23.95      1CCP H   new
+ATOM   2165  HA  LEU A 144      -6.190  40.289  14.060  1.00 27.54      1CCP H   new
+ATOM   2166 1HB  LEU A 144      -6.209  41.818  16.626  1.00 23.26      1CCP H   new
+ATOM   2167 2HB  LEU A 144      -5.392  40.277  16.334  1.00 23.26      1CCP H   new
+ATOM   2168  HG  LEU A 144      -4.812  42.836  14.776  1.00 28.68      1CCP H   new
+ATOM   2169 1HD1 LEU A 144      -2.789  43.001  16.128  1.00 27.13      1CCP H   new
+ATOM   2170 2HD1 LEU A 144      -4.277  43.152  17.122  1.00 27.13      1CCP H   new
+ATOM   2171 3HD1 LEU A 144      -3.342  41.618  17.133  1.00 27.13      1CCP H   new
+ATOM   2172 1HD2 LEU A 144      -2.801  41.578  14.061  1.00 26.39      1CCP H   new
+ATOM   2173 2HD2 LEU A 144      -3.375  40.141  14.972  1.00 26.39      1CCP H   new
+ATOM   2174 3HD2 LEU A 144      -4.313  40.745  13.565  1.00 26.39      1CCP H   new
+ATOM   2175  N   PRO A 145      -7.718  38.609  14.991  1.00 30.88      1CCP12
+ATOM   2176  CA  PRO A 145      -8.793  37.615  15.186  1.00 31.61      1CCP12
+ATOM   2177  C   PRO A 145      -9.215  37.272  16.586  1.00 30.50      1CCP12
+ATOM   2178  O   PRO A 145      -8.417  37.341  17.534  1.00 31.31      1CCP12
+ATOM   2179  CB  PRO A 145      -8.235  36.378  14.435  1.00 30.46      1CCP12
+ATOM   2180  CG  PRO A 145      -6.740  36.476  14.720  1.00 29.28      1CCP12
+ATOM   2181  CD  PRO A 145      -6.464  37.975  14.532  1.00 30.31      1CCP12
+ATOM   2182  HA  PRO A 145      -9.742  38.030  14.814  1.00 31.61      1CCP H   new
+ATOM   2183 1HB  PRO A 145      -8.665  35.439  14.814  1.00 30.46      1CCP H   new
+ATOM   2184 2HB  PRO A 145      -8.452  36.419  13.357  1.00 30.46      1CCP H   new
+ATOM   2185 1HG  PRO A 145      -6.494  36.139  15.738  1.00 29.28      1CCP H   new
+ATOM   2186 2HG  PRO A 145      -6.149  35.860  14.026  1.00 29.28      1CCP H   new
+ATOM   2187 1HD  PRO A 145      -5.600  38.307  15.126  1.00 30.31      1CCP H   new
+ATOM   2188 2HD  PRO A 145      -6.246  38.220  13.482  1.00 30.31      1CCP H   new
+ATOM   2189  N   ASP A 146     -10.474  36.866  16.749  1.00 29.57      1CCP12
+ATOM   2190  CA  ASP A 146     -10.953  36.373  18.075  1.00 30.49      1CCP12
+ATOM   2191  C   ASP A 146     -10.580  34.889  18.213  1.00 25.59      1CCP12
+ATOM   2192  O   ASP A 146     -10.500  34.188  17.192  1.00 24.97      1CCP12
+ATOM   2193  CB  ASP A 146     -12.475  36.498  18.175  1.00 35.68      1CCP12
+ATOM   2194  CG  ASP A 146     -12.880  37.964  18.096  1.00 39.71      1CCP12
+ATOM   2195  OD1 ASP A 146     -12.203  38.797  18.734  1.00 45.19      1CCP12
+ATOM   2196  OD2 ASP A 146     -13.875  38.208  17.410  1.00 41.39      1CCP12
+ATOM   2197  H   ASP A 146     -11.164  36.861  16.025  1.00 29.57      1CCP H   new
+ATOM   2198  HA  ASP A 146     -10.486  36.974  18.869  1.00 30.49      1CCP H   new
+ATOM   2199 1HB  ASP A 146     -12.953  35.932  17.362  1.00 35.68      1CCP H   new
+ATOM   2200 2HB  ASP A 146     -12.827  36.061  19.121  1.00 35.68      1CCP H   new
+ATOM   2201  N   ALA A 147     -10.464  34.407  19.421  1.00 24.77      1CCP12
+ATOM   2202  CA  ALA A 147     -10.123  33.012  19.692  1.00 27.25      1CCP12
+ATOM   2203  C   ALA A 147     -11.322  32.087  19.884  1.00 27.02      1CCP12
+ATOM   2204  O   ALA A 147     -11.174  30.854  19.882  1.00 28.60      1CCP12
+ATOM   2205  CB  ALA A 147      -9.331  32.994  21.014  1.00 25.48      1CCP12
+ATOM   2206  H   ALA A 147     -10.600  34.956  20.246  1.00 24.77      1CCP H   new
+ATOM   2207  HA  ALA A 147      -9.569  32.642  18.816  1.00 27.25      1CCP H   new
+ATOM   2208 1HB  ALA A 147      -9.051  31.959  21.260  1.00 25.48      1CCP H   new
+ATOM   2209 2HB  ALA A 147      -8.422  33.603  20.906  1.00 25.48      1CCP H   new
+ATOM   2210 3HB  ALA A 147      -9.954  33.407  21.821  1.00 25.48      1CCP H   new
+ATOM   2211  N   ASP A 148     -12.470  32.676  20.123  1.00 28.28      1CCP12
+ATOM   2212  CA  ASP A 148     -13.677  31.894  20.460  1.00 31.13      1CCP12
+ATOM   2213  C   ASP A 148     -14.509  31.613  19.225  1.00 32.10      1CCP12
+ATOM   2214  O   ASP A 148     -15.716  31.887  19.311  1.00 35.52      1CCP12
+ATOM   2215  CB  ASP A 148     -14.452  32.708  21.517  1.00 31.92      1CCP12
+ATOM   2216  CG  ASP A 148     -14.965  33.987  20.883  1.00 35.55      1CCP12
+ATOM   2217  OD1 ASP A 148     -14.574  34.364  19.766  1.00 40.71      1CCP12
+ATOM   2218  OD2 ASP A 148     -15.767  34.667  21.554  1.00 39.22      1CCP12
+ATOM   2219  H   ASP A 148     -12.609  33.666  20.096  1.00 28.28      1CCP H   new
+ATOM   2220  HA  ASP A 148     -13.412  30.907  20.866  1.00 31.13      1CCP H   new
+ATOM   2221 1HB  ASP A 148     -15.292  32.116  21.910  1.00 31.92      1CCP H   new
+ATOM   2222 2HB  ASP A 148     -13.797  32.943  22.369  1.00 31.92      1CCP H   new
+ATOM   2223  N   LYS A 149     -13.929  31.189  18.134  1.00 29.90      1CCP12
+ATOM   2224  CA  LYS A 149     -14.754  31.012  16.923  1.00 29.24      1CCP12
+ATOM   2225  C   LYS A 149     -14.426  29.664  16.300  1.00 27.13      1CCP12
+ATOM   2226  O   LYS A 149     -13.579  28.944  16.840  1.00 28.34      1CCP12
+ATOM   2227  CB  LYS A 149     -14.483  32.073  15.888  1.00 32.13      1CCP12
+ATOM   2228  CG  LYS A 149     -14.512  33.520  16.335  1.00 33.55      1CCP12
+ATOM   2229  CD  LYS A 149     -15.912  33.901  16.771  1.00 38.06      1CCP12
+ATOM   2230  CE  LYS A 149     -16.205  35.380  16.594  1.00 39.62      1CCP12
+ATOM   2231  NZ  LYS A 149     -16.470  35.971  17.938  1.00 43.68      1CCP12
+ATOM   2232  H   LYS A 149     -12.958  30.968  18.039  1.00 29.90      1CCP H   new
+ATOM   2233  HA  LYS A 149     -15.809  31.081  17.228  1.00 29.24      1CCP H   new
+ATOM   2234 1HB  LYS A 149     -13.493  31.874  15.451  1.00 32.13      1CCP H   new
+ATOM   2235 2HB  LYS A 149     -15.221  31.954  15.081  1.00 32.13      1CCP H   new
+ATOM   2236 1HG  LYS A 149     -13.807  33.670  17.166  1.00 33.55      1CCP H   new
+ATOM   2237 2HG  LYS A 149     -14.184  34.173  15.513  1.00 33.55      1CCP H   new
+ATOM   2238 1HD  LYS A 149     -16.642  33.316  16.193  1.00 38.06      1CCP H   new
+ATOM   2239 2HD  LYS A 149     -16.048  33.630  17.828  1.00 38.06      1CCP H   new
+ATOM   2240 1HE  LYS A 149     -15.353  35.884  16.115  1.00 39.62      1CCP H   new
+ATOM   2241 2HE  LYS A 149     -17.074  35.522  15.935  1.00 39.62      1CCP H   new
+ATOM   2242 1HZ  LYS A 149     -16.665  36.947  17.841  1.00 43.68      1CCP H + new
+ATOM   2243 2HZ  LYS A 149     -17.256  35.514  18.355  1.00 43.68      1CCP H + new
+ATOM   2244 3HZ  LYS A 149     -15.667  35.849  18.521  1.00 43.68      1CCP H + new
+ATOM   2245  N   ASP A 150     -15.059  29.445  15.177  1.00 24.82      1CCP12
+ATOM   2246  CA  ASP A 150     -14.901  28.161  14.476  1.00 26.56      1CCP12
+ATOM   2247  C   ASP A 150     -14.059  28.319  13.217  1.00 28.22      1CCP12
+ATOM   2248  O   ASP A 150     -13.553  29.400  12.871  1.00 27.76      1CCP12
+ATOM   2249  CB  ASP A 150     -16.317  27.612  14.222  1.00 31.68      1CCP13
+ATOM   2250  CG  ASP A 150     -17.059  28.445  13.188  1.00 37.14      1CCP13
+ATOM   2251  OD1 ASP A 150     -16.884  29.661  13.116  1.00 39.64      1CCP13
+ATOM   2252  OD2 ASP A 150     -17.804  27.836  12.389  1.00 42.94      1CCP13
+ATOM   2253  H   ASP A 150     -15.669  30.100  14.730  1.00 24.82      1CCP H   new
+ATOM   2254  HA  ASP A 150     -14.343  27.432  15.082  1.00 26.56      1CCP H   new
+ATOM   2255 1HB  ASP A 150     -16.252  26.569  13.877  1.00 31.68      1CCP H   new
+ATOM   2256 2HB  ASP A 150     -16.884  27.604  15.165  1.00 31.68      1CCP H   new
+ATOM   2257  N   ALA A 151     -13.932  27.169  12.561  1.00 24.88      1CCP13
+ATOM   2258  CA  ALA A 151     -13.134  27.010  11.352  1.00 27.26      1CCP13
+ATOM   2259  C   ALA A 151     -13.568  27.973  10.250  1.00 26.76      1CCP13
+ATOM   2260  O   ALA A 151     -12.743  28.365   9.427  1.00 29.04      1CCP13
+ATOM   2261  CB  ALA A 151     -13.292  25.554  10.862  1.00 24.40      1CCP13
+ATOM   2262  H   ALA A 151     -14.380  26.325  12.855  1.00 24.88      1CCP H   new
+ATOM   2263  HA  ALA A 151     -12.084  27.238  11.588  1.00 27.26      1CCP H   new
+ATOM   2264 1HB  ALA A 151     -12.698  25.408   9.948  1.00 24.40      1CCP H   new
+ATOM   2265 2HB  ALA A 151     -12.939  24.864  11.642  1.00 24.40      1CCP H   new
+ATOM   2266 3HB  ALA A 151     -14.352  25.352  10.646  1.00 24.40      1CCP H   new
+ATOM   2267  N   GLY A 152     -14.855  28.280  10.233  1.00 26.86      1CCP13
+ATOM   2268  CA  GLY A 152     -15.409  29.145   9.166  1.00 26.72      1CCP13
+ATOM   2269  C   GLY A 152     -14.881  30.575   9.340  1.00 25.86      1CCP13
+ATOM   2270  O   GLY A 152     -14.455  31.243   8.394  1.00 24.14      1CCP13
+ATOM   2271  H   GLY A 152     -15.521  27.965  10.909  1.00 26.86      1CCP H   new
+ATOM   2272 1HA  GLY A 152     -15.124  28.755   8.178  1.00 26.72      1CCP H   new
+ATOM   2273 2HA  GLY A 152     -16.508  29.140   9.209  1.00 26.72      1CCP H   new
+ATOM   2274  N   TYR A 153     -14.930  30.990  10.600  1.00 25.60      1CCP13
+ATOM   2275  CA  TYR A 153     -14.428  32.321  10.958  1.00 26.19      1CCP13
+ATOM   2276  C   TYR A 153     -12.954  32.400  10.530  1.00 26.22      1CCP13
+ATOM   2277  O   TYR A 153     -12.525  33.339   9.844  1.00 27.95      1CCP13
+ATOM   2278  CB  TYR A 153     -14.546  32.518  12.471  1.00 25.32      1CCP13
+ATOM   2279  CG  TYR A 153     -13.899  33.799  12.934  1.00 24.50      1CCP13
+ATOM   2280  CD1 TYR A 153     -14.544  35.026  12.826  1.00 24.16      1CCP13
+ATOM   2281  CD2 TYR A 153     -12.600  33.767  13.500  1.00 25.77      1CCP13
+ATOM   2282  CE1 TYR A 153     -13.929  36.203  13.259  1.00 24.42      1CCP13
+ATOM   2283  CE2 TYR A 153     -11.994  34.932  13.945  1.00 26.29      1CCP13
+ATOM   2284  CZ  TYR A 153     -12.657  36.150  13.804  1.00 25.97      1CCP13
+ATOM   2285  OH  TYR A 153     -12.022  37.281  14.271  1.00 32.07      1CCP13
+ATOM   2286  H   TYR A 153     -15.294  30.455  11.362  1.00 25.60      1CCP H   new
+ATOM   2287  HA  TYR A 153     -15.011  33.106  10.455  1.00 26.19      1CCP H   new
+ATOM   2288 1HB  TYR A 153     -15.608  32.523  12.756  1.00 25.32      1CCP H   new
+ATOM   2289 2HB  TYR A 153     -14.078  31.666  12.987  1.00 25.32      1CCP H   new
+ATOM   2290  HD1 TYR A 153     -15.554  35.071  12.393  1.00 24.16      1CCP H   new
+ATOM   2291  HD2 TYR A 153     -12.067  32.809  13.587  1.00 25.77      1CCP H   new
+ATOM   2292  HE1 TYR A 153     -14.452  37.166  13.168  1.00 24.42      1CCP H   new
+ATOM   2293  HE2 TYR A 153     -10.996  34.895  14.406  1.00 26.29      1CCP H   new
+ATOM   2294  HH  TYR A 153     -11.119  37.035  14.623  1.00 32.07      1CCP H   new
+ATOM   2295  N   VAL A 154     -12.220  31.395  10.975  1.00 25.54      1CCP13
+ATOM   2296  CA  VAL A 154     -10.771  31.330  10.697  1.00 25.01      1CCP13
+ATOM   2297  C   VAL A 154     -10.401  31.469   9.220  1.00 26.74      1CCP13
+ATOM   2298  O   VAL A 154      -9.412  32.149   8.872  1.00 26.55      1CCP13
+ATOM   2299  CB  VAL A 154     -10.192  30.024  11.319  1.00 22.83      1CCP13
+ATOM   2300  CG1 VAL A 154      -8.691  29.898  10.942  1.00 22.40      1CCP13
+ATOM   2301  CG2 VAL A 154     -10.308  30.023  12.849  1.00 22.80      1CCP13
+ATOM   2302  H   VAL A 154     -12.577  30.632  11.513  1.00 25.54      1CCP H   new
+ATOM   2303  HA  VAL A 154     -10.311  32.210  11.171  1.00 25.01      1CCP H   new
+ATOM   2304  HB  VAL A 154     -10.773  29.178  10.922  1.00 22.83      1CCP H   new
+ATOM   2305 1HG1 VAL A 154      -8.279  28.977  11.380  1.00 22.40      1CCP H   new
+ATOM   2306 2HG1 VAL A 154      -8.589  29.861   9.847  1.00 22.40      1CCP H   new
+ATOM   2307 3HG1 VAL A 154      -8.140  30.767  11.332  1.00 22.40      1CCP H   new
+ATOM   2308 1HG2 VAL A 154      -9.890  29.087  13.248  1.00 22.80      1CCP H   new
+ATOM   2309 2HG2 VAL A 154      -9.751  30.878  13.260  1.00 22.80      1CCP H   new
+ATOM   2310 3HG2 VAL A 154     -11.367  30.103  13.137  1.00 22.80      1CCP H   new
+ATOM   2311  N   ARG A 155     -11.130  30.736   8.390  1.00 26.66      1CCP13
+ATOM   2312  CA  ARG A 155     -10.921  30.654   6.951  1.00 28.12      1CCP13
+ATOM   2313  C   ARG A 155     -11.146  32.040   6.335  1.00 27.83      1CCP13
+ATOM   2314  O   ARG A 155     -10.352  32.606   5.567  1.00 28.55      1CCP13
+ATOM   2315  CB  ARG A 155     -11.866  29.607   6.349  1.00 29.19      1CCP13
+ATOM   2316  CG  ARG A 155     -11.707  29.380   4.851  1.00 28.76      1CCP13
+ATOM   2317  CD  ARG A 155     -12.380  28.125   4.342  1.00 23.90      1CCP13
+ATOM   2318  NE  ARG A 155     -11.535  26.942   4.535  1.00 25.12      1CCP13
+ATOM   2319  CZ  ARG A 155     -11.814  25.996   5.425  1.00 26.41      1CCP13
+ATOM   2320  NH1 ARG A 155     -12.969  26.144   6.092  1.00 28.21      1CCP13
+ATOM   2321  NH2 ARG A 155     -11.072  24.916   5.665  1.00 26.29      1CCP13
+ATOM   2322  H   ARG A 155     -11.895  30.174   8.705  1.00 26.66      1CCP H   new
+ATOM   2323  HA  ARG A 155      -9.890  30.339   6.731  1.00 28.12      1CCP H   new
+ATOM   2324 1HB  ARG A 155     -11.707  28.650   6.868  1.00 29.19      1CCP H   new
+ATOM   2325 2HB  ARG A 155     -12.903  29.913   6.550  1.00 29.19      1CCP H   new
+ATOM   2326 1HG  ARG A 155     -12.118  30.247   4.314  1.00 28.76      1CCP H   new
+ATOM   2327 2HG  ARG A 155     -10.635  29.332   4.610  1.00 28.76      1CCP H   new
+ATOM   2328 1HD  ARG A 155     -13.337  27.983   4.866  1.00 23.90      1CCP H   new
+ATOM   2329 2HD  ARG A 155     -12.612  28.240   3.273  1.00 23.90      1CCP H   new
+ATOM   2330  HE  ARG A 155     -10.714  26.843   3.973  1.00 25.12      1CCP H + new
+ATOM   2331 1HH1 ARG A 155     -13.558  26.930   5.904  1.00 28.21      1CCP H + new
+ATOM   2332 2HH1 ARG A 155     -13.241  25.468   6.777  1.00 28.21      1CCP H + new
+ATOM   2333 1HH2 ARG A 155     -10.226  24.767   5.154  1.00 26.29      1CCP H + new
+ATOM   2334 2HH2 ARG A 155     -11.361  24.254   6.357  1.00 26.29      1CCP H + new
+ATOM   2335  N   THR A 156     -12.243  32.605   6.723  1.00 25.02      1CCP13
+ATOM   2336  CA  THR A 156     -12.747  33.904   6.291  1.00 29.42      1CCP13
+ATOM   2337  C   THR A 156     -11.768  35.004   6.678  1.00 30.07      1CCP13
+ATOM   2338  O   THR A 156     -11.349  35.796   5.822  1.00 32.52      1CCP13
+ATOM   2339  CB  THR A 156     -14.233  34.078   6.803  1.00 28.81      1CCP13
+ATOM   2340  OG1 THR A 156     -14.988  33.526   5.662  1.00 31.74      1CCP13
+ATOM   2341  CG2 THR A 156     -14.725  35.485   7.079  1.00 30.50      1CCP13
+ATOM   2342  H   THR A 156     -12.853  32.164   7.382  1.00 25.02      1CCP H   new
+ATOM   2343  HA  THR A 156     -12.808  33.977   5.195  1.00 29.42      1CCP H   new
+ATOM   2344  HB  THR A 156     -14.344  33.600   7.788  1.00 28.81      1CCP H   new
+ATOM   2345  HG1 THR A 156     -15.968  33.575   5.855  1.00 31.74      1CCP H   new
+ATOM   2346 1HG2 THR A 156     -15.768  35.448   7.426  1.00 30.50      1CCP H   new
+ATOM   2347 2HG2 THR A 156     -14.097  35.948   7.855  1.00 30.50      1CCP H   new
+ATOM   2348 3HG2 THR A 156     -14.667  36.082   6.157  1.00 30.50      1CCP H   new
+ATOM   2349  N   PHE A 157     -11.395  35.006   7.926  1.00 27.01      1CCP13
+ATOM   2350  CA  PHE A 157     -10.426  35.956   8.480  1.00 27.22      1CCP13
+ATOM   2351  C   PHE A 157      -9.119  35.960   7.676  1.00 26.54      1CCP13
+ATOM   2352  O   PHE A 157      -8.613  36.955   7.181  1.00 25.98      1CCP13
+ATOM   2353  CB  PHE A 157     -10.155  35.546   9.970  1.00 25.26      1CCP13
+ATOM   2354  CG  PHE A 157      -9.051  36.429  10.488  1.00 26.66      1CCP13
+ATOM   2355  CD1 PHE A 157      -9.427  37.671  11.010  1.00 27.10      1CCP13
+ATOM   2356  CD2 PHE A 157      -7.715  36.046  10.383  1.00 24.74      1CCP13
+ATOM   2357  CE1 PHE A 157      -8.453  38.548  11.461  1.00 29.66      1CCP13
+ATOM   2358  CE2 PHE A 157      -6.730  36.925  10.811  1.00 30.31      1CCP13
+ATOM   2359  CZ  PHE A 157      -7.102  38.192  11.330  1.00 29.69      1CCP13
+ATOM   2360  H   PHE A 157     -11.745  34.355   8.600  1.00 27.01      1CCP H   new
+ATOM   2361  HA  PHE A 157     -10.835  36.976   8.426  1.00 27.22      1CCP H   new
+ATOM   2362 1HB  PHE A 157     -11.065  35.668  10.576  1.00 25.26      1CCP H   new
+ATOM   2363 2HB  PHE A 157      -9.865  34.487  10.033  1.00 25.26      1CCP H   new
+ATOM   2364  HD1 PHE A 157     -10.490  37.950  11.062  1.00 27.10      1CCP H   new
+ATOM   2365  HD2 PHE A 157      -7.446  35.064   9.968  1.00 24.74      1CCP H   new
+ATOM   2366  HE1 PHE A 157      -8.735  39.509  11.915  1.00 29.66      1CCP H   new
+ATOM   2367  HE2 PHE A 157      -5.669  36.642  10.748  1.00 30.31      1CCP H   new
+ATOM   2368  HZ  PHE A 157      -6.321  38.905  11.634  1.00 29.69      1CCP H   new
+ATOM   2369  N   PHE A 158      -8.539  34.776   7.554  1.00 26.22      1CCP13
+ATOM   2370  CA  PHE A 158      -7.236  34.589   6.916  1.00 27.43      1CCP13
+ATOM   2371  C   PHE A 158      -7.218  34.974   5.450  1.00 27.83      1CCP13
+ATOM   2372  O   PHE A 158      -6.173  35.238   4.821  1.00 25.85      1CCP13
+ATOM   2373  CB  PHE A 158      -6.624  33.245   7.282  1.00 27.00      1CCP13
+ATOM   2374  CG  PHE A 158      -5.811  33.331   8.566  1.00 28.15      1CCP13
+ATOM   2375  CD1 PHE A 158      -6.316  32.782   9.750  1.00 29.72      1CCP13
+ATOM   2376  CD2 PHE A 158      -4.595  33.991   8.597  1.00 28.43      1CCP13
+ATOM   2377  CE1 PHE A 158      -5.583  32.830  10.930  1.00 28.85      1CCP13
+ATOM   2378  CE2 PHE A 158      -3.832  34.067   9.771  1.00 29.29      1CCP13
+ATOM   2379  CZ  PHE A 158      -4.340  33.487  10.941  1.00 29.04      1CCP13
+ATOM   2380  H   PHE A 158      -8.949  33.928   7.888  1.00 26.22      1CCP H   new
+ATOM   2381  HA  PHE A 158      -6.537  35.324   7.342  1.00 27.43      1CCP H   new
+ATOM   2382 1HB  PHE A 158      -7.422  32.498   7.401  1.00 27.00      1CCP H   new
+ATOM   2383 2HB  PHE A 158      -5.979  32.899   6.461  1.00 27.00      1CCP H   new
+ATOM   2384  HD1 PHE A 158      -7.307  32.306   9.747  1.00 29.72      1CCP H   new
+ATOM   2385  HD2 PHE A 158      -4.218  34.467   7.680  1.00 28.43      1CCP H   new
+ATOM   2386  HE1 PHE A 158      -5.971  32.359  11.845  1.00 28.85      1CCP H   new
+ATOM   2387  HE2 PHE A 158      -2.855  34.572   9.773  1.00 29.29      1CCP H   new
+ATOM   2388  HZ  PHE A 158      -3.762  33.546  11.875  1.00 29.04      1CCP H   new
+ATOM   2389  N   GLN A 159      -8.435  34.986   4.955  1.00 28.88      1CCP13
+ATOM   2390  CA  GLN A 159      -8.662  35.347   3.544  1.00 29.12      1CCP13
+ATOM   2391  C   GLN A 159      -8.336  36.829   3.344  1.00 26.51      1CCP13
+ATOM   2392  O   GLN A 159      -7.915  37.207   2.235  1.00 24.48      1CCP13
+ATOM   2393  CB  GLN A 159     -10.095  34.997   3.107  1.00 32.70      1CCP13
+ATOM   2394  CG  GLN A 159     -10.050  33.684   2.329  1.00 36.81      1CCP13
+ATOM   2395  CD  GLN A 159      -9.054  33.867   1.198  1.00 42.92      1CCP13
+ATOM   2396  OE1 GLN A 159      -9.349  34.528   0.201  1.00 46.08      1CCP13
+ATOM   2397  NE2 GLN A 159      -7.850  33.312   1.367  1.00 45.63      1CCP13
+ATOM   2398  H   GLN A 159      -9.261  34.762   5.472  1.00 28.88      1CCP H   new
+ATOM   2399  HA  GLN A 159      -7.992  34.758   2.900  1.00 29.12      1CCP H   new
+ATOM   2400 1HB  GLN A 159     -10.751  34.900   3.985  1.00 32.70      1CCP H   new
+ATOM   2401 2HB  GLN A 159     -10.512  35.800   2.481  1.00 32.70      1CCP H   new
+ATOM   2402 1HG  GLN A 159      -9.746  32.855   2.984  1.00 36.81      1CCP H   new
+ATOM   2403 2HG  GLN A 159     -11.045  33.433   1.933  1.00 36.81      1CCP H   new
+ATOM   2404 1HE2 GLN A 159      -7.144  33.426   0.667  1.00 45.63      1CCP H   new
+ATOM   2405 2HE2 GLN A 159      -7.655  32.783   2.193  1.00 45.63      1CCP H   new
+ATOM   2406  N   ARG A 160      -8.517  37.610   4.392  1.00 25.31      1CCP13
+ATOM   2407  CA  ARG A 160      -8.241  39.047   4.318  1.00 25.37      1CCP13
+ATOM   2408  C   ARG A 160      -6.734  39.278   4.169  1.00 29.16      1CCP13
+ATOM   2409  O   ARG A 160      -6.359  40.351   3.653  1.00 29.34      1CCP13
+ATOM   2410  CB  ARG A 160      -8.747  39.820   5.519  1.00 26.35      1CCP13
+ATOM   2411  CG  ARG A 160      -8.810  41.338   5.314  1.00 28.60      1CCP13
+ATOM   2412  CD  ARG A 160      -8.903  42.003   6.671  1.00 30.41      1CCP13
+ATOM   2413  NE  ARG A 160      -7.647  41.917   7.394  1.00 32.82      1CCP13
+ATOM   2414  CZ  ARG A 160      -7.486  41.871   8.723  1.00 31.90      1CCP13
+ATOM   2415  NH1 ARG A 160      -8.545  41.819   9.550  1.00 32.54      1CCP13
+ATOM   2416  NH2 ARG A 160      -6.267  41.899   9.239  1.00 25.85      1CCP13
+ATOM   2417  H   ARG A 160      -8.844  37.292   5.282  1.00 25.31      1CCP H   new
+ATOM   2418  HA  ARG A 160      -8.785  39.424   3.439  1.00 25.37      1CCP H   new
+ATOM   2419 1HB  ARG A 160      -9.752  39.455   5.778  1.00 26.35      1CCP H   new
+ATOM   2420 2HB  ARG A 160      -8.096  39.605   6.379  1.00 26.35      1CCP H   new
+ATOM   2421 1HG  ARG A 160      -7.916  41.689   4.777  1.00 28.60      1CCP H   new
+ATOM   2422 2HG  ARG A 160      -9.681  41.605   4.697  1.00 28.60      1CCP H   new
+ATOM   2423 1HD  ARG A 160      -9.183  43.059   6.545  1.00 30.41      1CCP H   new
+ATOM   2424 2HD  ARG A 160      -9.700  41.527   7.260  1.00 30.41      1CCP H   new
+ATOM   2425  HE  ARG A 160      -6.814  41.889   6.841  1.00 32.82      1CCP H + new
+ATOM   2426 1HH1 ARG A 160      -9.472  41.814   9.175  1.00 32.54      1CCP H + new
+ATOM   2427 2HH1 ARG A 160      -8.405  41.785  10.540  1.00 32.54      1CCP H + new
+ATOM   2428 1HH2 ARG A 160      -5.470  41.954   8.637  1.00 25.85      1CCP H + new
+ATOM   2429 2HH2 ARG A 160      -6.143  41.865  10.231  1.00 25.85      1CCP H + new
+ATOM   2430  N   LEU A 161      -5.955  38.312   4.630  1.00 25.17      1CCP13
+ATOM   2431  CA  LEU A 161      -4.491  38.380   4.568  1.00 23.31      1CCP13
+ATOM   2432  C   LEU A 161      -4.012  37.553   3.380  1.00 22.92      1CCP13
+ATOM   2433  O   LEU A 161      -2.810  37.245   3.358  1.00 22.44      1CCP13
+ATOM   2434  CB  LEU A 161      -3.800  37.784   5.815  1.00 23.26      1CCP13
+ATOM   2435  CG  LEU A 161      -4.230  38.308   7.166  1.00 26.88      1CCP13
+ATOM   2436  CD1 LEU A 161      -3.477  37.662   8.331  1.00 27.31      1CCP13
+ATOM   2437  CD2 LEU A 161      -3.917  39.793   7.234  1.00 26.16      1CCP13
+ATOM   2438  H   LEU A 161      -6.305  37.475   5.050  1.00 25.17      1CCP H   new
+ATOM   2439  HA  LEU A 161      -4.232  39.446   4.491  1.00 23.31      1CCP H   new
+ATOM   2440 1HB  LEU A 161      -3.961  36.696   5.805  1.00 23.26      1CCP H   new
+ATOM   2441 2HB  LEU A 161      -2.717  37.950   5.715  1.00 23.26      1CCP H   new
+ATOM   2442  HG  LEU A 161      -5.302  38.080   7.262  1.00 26.88      1CCP H   new
+ATOM   2443 1HD1 LEU A 161      -3.836  38.086   9.280  1.00 27.31      1CCP H   new
+ATOM   2444 2HD1 LEU A 161      -3.653  36.576   8.325  1.00 27.31      1CCP H   new
+ATOM   2445 3HD1 LEU A 161      -2.400  37.859   8.226  1.00 27.31      1CCP H   new
+ATOM   2446 1HD2 LEU A 161      -4.225  40.189   8.213  1.00 26.16      1CCP H   new
+ATOM   2447 2HD2 LEU A 161      -2.836  39.947   7.100  1.00 26.16      1CCP H   new
+ATOM   2448 3HD2 LEU A 161      -4.463  40.320   6.438  1.00 26.16      1CCP H   new
+ATOM   2449  N   ASN A 162      -4.975  37.149   2.552  1.00 26.25      1CCP14
+ATOM   2450  CA  ASN A 162      -4.506  36.312   1.430  1.00 28.67      1CCP14
+ATOM   2451  C   ASN A 162      -3.944  34.938   1.799  1.00 26.42      1CCP14
+ATOM   2452  O   ASN A 162      -3.068  34.463   1.010  1.00 25.04      1CCP14
+ATOM   2453  CB  ASN A 162      -3.290  37.111   0.874  1.00 36.76      1CCP14
+ATOM   2454  CG  ASN A 162      -3.541  37.116  -0.633  1.00 43.62      1CCP14
+ATOM   2455  OD1 ASN A 162      -4.686  37.502  -0.938  1.00 48.82      1CCP14
+ATOM   2456  ND2 ASN A 162      -2.557  36.649  -1.370  1.00 46.86      1CCP14
+ATOM   2457  H   ASN A 162      -5.953  37.348   2.609  1.00 26.25      1CCP H   new
+ATOM   2458  HA  ASN A 162      -5.362  36.125   0.766  1.00 28.67      1CCP H   new
+ATOM   2459 1HB  ASN A 162      -3.251  38.131   1.284  1.00 36.76      1CCP H   new
+ATOM   2460 2HB  ASN A 162      -2.335  36.627   1.126  1.00 36.76      1CCP H   new
+ATOM   2461 1HD2 ASN A 162      -2.673  36.558  -2.359  1.00 46.86      1CCP H   new
+ATOM   2462 2HD2 ASN A 162      -1.693  36.385  -0.941  1.00 46.86      1CCP H   new
+ATOM   2463  N   MET A 163      -4.368  34.366   2.907  1.00 21.01      1CCP14
+ATOM   2464  CA  MET A 163      -3.782  33.047   3.237  1.00 21.72      1CCP14
+ATOM   2465  C   MET A 163      -4.829  31.961   2.912  1.00 24.17      1CCP14
+ATOM   2466  O   MET A 163      -6.016  32.197   3.191  1.00 22.05      1CCP14
+ATOM   2467  CB  MET A 163      -3.465  33.066   4.722  1.00 24.77      1CCP14
+ATOM   2468  CG  MET A 163      -2.428  34.074   5.138  1.00 26.01      1CCP14
+ATOM   2469  SD  MET A 163      -0.778  33.641   4.511  1.00 29.94      1CCP14
+ATOM   2470  CE  MET A 163       0.067  35.119   5.189  1.00 28.88      1CCP14
+ATOM   2471  H   MET A 163      -5.044  34.732   3.546  1.00 21.01      1CCP H   new
+ATOM   2472  HA  MET A 163      -2.868  32.836   2.662  1.00 21.72      1CCP H   new
+ATOM   2473 1HB  MET A 163      -4.393  33.267   5.277  1.00 24.77      1CCP H   new
+ATOM   2474 2HB  MET A 163      -3.122  32.065   5.021  1.00 24.77      1CCP H   new
+ATOM   2475 1HG  MET A 163      -2.713  35.069   4.765  1.00 26.01      1CCP H   new
+ATOM   2476 2HG  MET A 163      -2.398  34.138   6.236  1.00 26.01      1CCP H   new
+ATOM   2477 1HE  MET A 163       1.135  35.084   4.927  1.00 28.88      1CCP H   new
+ATOM   2478 2HE  MET A 163      -0.385  36.027   4.764  1.00 28.88      1CCP H   new
+ATOM   2479 3HE  MET A 163      -0.041  35.134   6.284  1.00 28.88      1CCP H   new
+ATOM   2480  N   ASN A 164      -4.366  30.872   2.355  1.00 23.10      1CCP14
+ATOM   2481  CA  ASN A 164      -5.200  29.708   2.020  1.00 24.49      1CCP14
+ATOM   2482  C   ASN A 164      -5.119  28.726   3.207  1.00 29.90      1CCP14
+ATOM   2483  O   ASN A 164      -4.535  28.979   4.307  1.00 28.71      1CCP14
+ATOM   2484  CB  ASN A 164      -4.900  29.196   0.627  1.00 23.94      1CCP14
+ATOM   2485  CG  ASN A 164      -3.554  28.514   0.514  1.00 24.64      1CCP14
+ATOM   2486  OD1 ASN A 164      -2.905  28.321   1.565  1.00 26.35      1CCP14
+ATOM   2487  ND2 ASN A 164      -3.133  28.116  -0.676  1.00 24.39      1CCP14
+ATOM   2488  H   ASN A 164      -3.403  30.753   2.115  1.00 23.10      1CCP H   new
+ATOM   2489  HA  ASN A 164      -6.269  29.947   1.919  1.00 24.49      1CCP H   new
+ATOM   2490 1HB  ASN A 164      -5.687  28.489   0.327  1.00 23.94      1CCP H   new
+ATOM   2491 2HB  ASN A 164      -4.937  30.037  -0.081  1.00 23.94      1CCP H   new
+ATOM   2492 1HD2 ASN A 164      -2.259  27.637  -0.763  1.00 24.39      1CCP H   new
+ATOM   2493 2HD2 ASN A 164      -3.689  28.294  -1.488  1.00 24.39      1CCP H   new
+ATOM   2494  N   ASP A 165      -5.804  27.596   3.042  1.00 26.31      1CCP14
+ATOM   2495  CA  ASP A 165      -5.942  26.614   4.109  1.00 24.55      1CCP14
+ATOM   2496  C   ASP A 165      -4.595  26.159   4.646  1.00 21.85      1CCP14
+ATOM   2497  O   ASP A 165      -4.398  26.096   5.864  1.00 21.93      1CCP14
+ATOM   2498  CB  ASP A 165      -6.787  25.426   3.620  1.00 26.35      1CCP14
+ATOM   2499  CG  ASP A 165      -8.256  25.798   3.517  1.00 27.27      1CCP14
+ATOM   2500  OD1 ASP A 165      -8.713  26.913   3.808  1.00 25.67      1CCP14
+ATOM   2501  OD2 ASP A 165      -8.948  24.864   3.081  1.00 29.29      1CCP14
+ATOM   2502  H   ASP A 165      -6.264  27.344   2.191  1.00 26.31      1CCP H   new
+ATOM   2503  HA  ASP A 165      -6.463  27.094   4.951  1.00 24.55      1CCP H   new
+ATOM   2504 1HB  ASP A 165      -6.421  25.092   2.638  1.00 26.35      1CCP H   new
+ATOM   2505 2HB  ASP A 165      -6.668  24.579   4.312  1.00 26.35      1CCP H   new
+ATOM   2506  N   ARG A 166      -3.751  25.818   3.704  1.00 19.71      1CCP14
+ATOM   2507  CA  ARG A 166      -2.411  25.290   4.043  1.00 21.95      1CCP14
+ATOM   2508  C   ARG A 166      -1.628  26.288   4.894  1.00 24.07      1CCP14
+ATOM   2509  O   ARG A 166      -1.022  25.946   5.936  1.00 22.71      1CCP14
+ATOM   2510  CB  ARG A 166      -1.677  24.937   2.744  1.00 25.79      1CCP14
+ATOM   2511  CG  ARG A 166      -0.250  24.475   3.047  1.00 33.95      1CCP14
+ATOM   2512  CD  ARG A 166       0.256  23.668   1.886  1.00 39.92      1CCP14
+ATOM   2513  NE  ARG A 166      -0.511  22.444   1.720  1.00 43.81      1CCP14
+ATOM   2514  CZ  ARG A 166      -0.252  21.259   2.274  1.00 44.38      1CCP14
+ATOM   2515  NH1 ARG A 166       0.679  20.976   3.162  1.00 43.16      1CCP14
+ATOM   2516  NH2 ARG A 166      -1.035  20.231   1.882  1.00 47.38      1CCP14
+ATOM   2517  H   ARG A 166      -3.940  25.886   2.724  1.00 19.71      1CCP H   new
+ATOM   2518  HA  ARG A 166      -2.511  24.378   4.650  1.00 21.95      1CCP H   new
+ATOM   2519 1HB  ARG A 166      -2.221  24.143   2.211  1.00 25.79      1CCP H   new
+ATOM   2520 2HB  ARG A 166      -1.653  25.813   2.079  1.00 25.79      1CCP H   new
+ATOM   2521 1HG  ARG A 166       0.403  25.344   3.220  1.00 33.95      1CCP H   new
+ATOM   2522 2HG  ARG A 166      -0.233  23.871   3.966  1.00 33.95      1CCP H   new
+ATOM   2523 1HD  ARG A 166       0.198  24.268   0.966  1.00 39.92      1CCP H   new
+ATOM   2524 2HD  ARG A 166       1.316  23.421   2.042  1.00 39.92      1CCP H   new
+ATOM   2525  HE  ARG A 166      -1.316  22.496   1.129  1.00 43.81      1CCP H + new
+ATOM   2526 1HH1 ARG A 166       1.289  21.696   3.493  1.00 43.16      1CCP H + new
+ATOM   2527 2HH1 ARG A 166       0.775  20.042   3.505  1.00 43.16      1CCP H + new
+ATOM   2528 1HH2 ARG A 166      -1.761  20.383   1.211  1.00 47.38      1CCP H + new
+ATOM   2529 2HH2 ARG A 166      -0.889  19.318   2.263  1.00 47.38      1CCP H + new
+ATOM   2530  N   GLU A 167      -1.624  27.541   4.438  1.00 23.48      1CCP14
+ATOM   2531  CA  GLU A 167      -0.961  28.667   5.099  1.00 23.56      1CCP14
+ATOM   2532  C   GLU A 167      -1.526  28.873   6.495  1.00 23.07      1CCP14
+ATOM   2533  O   GLU A 167      -0.760  29.017   7.469  1.00 23.08      1CCP14
+ATOM   2534  CB  GLU A 167      -1.128  29.969   4.275  1.00 20.20      1CCP14
+ATOM   2535  CG  GLU A 167      -0.381  29.827   2.925  1.00 22.53      1CCP14
+ATOM   2536  CD  GLU A 167      -0.588  30.857   1.878  1.00 23.87      1CCP14
+ATOM   2537  OE1 GLU A 167       0.296  31.059   1.024  1.00 27.54      1CCP14
+ATOM   2538  OE2 GLU A 167      -1.660  31.493   1.911  1.00 24.30      1CCP14
+ATOM   2539  H   GLU A 167      -2.086  27.804   3.591  1.00 23.48      1CCP H   new
+ATOM   2540  HA  GLU A 167       0.110  28.429   5.173  1.00 23.56      1CCP H   new
+ATOM   2541 1HB  GLU A 167      -2.195  30.169   4.097  1.00 20.20      1CCP H   new
+ATOM   2542 2HB  GLU A 167      -0.730  30.826   4.838  1.00 20.20      1CCP H   new
+ATOM   2543 1HG  GLU A 167       0.696  29.788   3.144  1.00 22.53      1CCP H   new
+ATOM   2544 2HG  GLU A 167      -0.657  28.854   2.493  1.00 22.53      1CCP H   new
+ATOM   2545  N   VAL A 168      -2.857  28.833   6.582  1.00 22.07      1CCP14
+ATOM   2546  CA  VAL A 168      -3.495  28.985   7.908  1.00 21.22      1CCP14
+ATOM   2547  C   VAL A 168      -3.019  27.894   8.866  1.00 21.82      1CCP14
+ATOM   2548  O   VAL A 168      -2.584  28.170  10.017  1.00 23.79      1CCP14
+ATOM   2549  CB  VAL A 168      -5.029  28.989   7.729  1.00 21.82      1CCP14
+ATOM   2550  CG1 VAL A 168      -5.710  28.817   9.103  1.00 17.90      1CCP14
+ATOM   2551  CG2 VAL A 168      -5.545  30.187   6.960  1.00 15.75      1CCP14
+ATOM   2552  H   VAL A 168      -3.483  28.706   5.812  1.00 22.07      1CCP H   new
+ATOM   2553  HA  VAL A 168      -3.200  29.943   8.361  1.00 21.22      1CCP H   new
+ATOM   2554  HB  VAL A 168      -5.297  28.130   7.097  1.00 21.82      1CCP H   new
+ATOM   2555 1HG1 VAL A 168      -6.802  28.820   8.974  1.00 17.90      1CCP H   new
+ATOM   2556 2HG1 VAL A 168      -5.397  27.863   9.551  1.00 17.90      1CCP H   new
+ATOM   2557 3HG1 VAL A 168      -5.417  29.646   9.764  1.00 17.90      1CCP H   new
+ATOM   2558 1HG2 VAL A 168      -6.640  30.123   6.872  1.00 15.75      1CCP H   new
+ATOM   2559 2HG2 VAL A 168      -5.274  31.110   7.493  1.00 15.75      1CCP H   new
+ATOM   2560 3HG2 VAL A 168      -5.097  30.199   5.955  1.00 15.75      1CCP H   new
+ATOM   2561  N   VAL A 169      -3.025  26.639   8.409  1.00 20.28      1CCP14
+ATOM   2562  CA  VAL A 169      -2.610  25.559   9.363  1.00 22.43      1CCP14
+ATOM   2563  C   VAL A 169      -1.130  25.617   9.693  1.00 21.45      1CCP14
+ATOM   2564  O   VAL A 169      -0.717  25.314  10.836  1.00 22.45      1CCP14
+ATOM   2565  CB  VAL A 169      -3.075  24.189   8.828  1.00 23.39      1CCP14
+ATOM   2566  CG1 VAL A 169      -2.547  23.052   9.706  1.00 20.62      1CCP14
+ATOM   2567  CG2 VAL A 169      -4.582  24.148   8.632  1.00 23.26      1CCP14
+ATOM   2568  H   VAL A 169      -3.281  26.347   7.487  1.00 20.28      1CCP H   new
+ATOM   2569  HA  VAL A 169      -3.111  25.723  10.329  1.00 22.43      1CCP H   new
+ATOM   2570  HB  VAL A 169      -2.640  24.040   7.829  1.00 23.39      1CCP H   new
+ATOM   2571 1HG1 VAL A 169      -2.892  22.088   9.304  1.00 20.62      1CCP H   new
+ATOM   2572 2HG1 VAL A 169      -1.447  23.074   9.713  1.00 20.62      1CCP H   new
+ATOM   2573 3HG1 VAL A 169      -2.922  23.176  10.733  1.00 20.62      1CCP H   new
+ATOM   2574 1HG2 VAL A 169      -4.876  23.159   8.251  1.00 23.26      1CCP H   new
+ATOM   2575 2HG2 VAL A 169      -5.083  24.333   9.594  1.00 23.26      1CCP H   new
+ATOM   2576 3HG2 VAL A 169      -4.879  24.922   7.909  1.00 23.26      1CCP H   new
+ATOM   2577  N   ALA A 170      -0.318  25.982   8.727  1.00 20.39      1CCP14
+ATOM   2578  CA  ALA A 170       1.137  26.092   8.969  1.00 20.75      1CCP14
+ATOM   2579  C   ALA A 170       1.410  27.167  10.046  1.00 21.48      1CCP14
+ATOM   2580  O   ALA A 170       2.072  26.958  11.083  1.00 19.31      1CCP14
+ATOM   2581  CB  ALA A 170       1.861  26.369   7.662  1.00 15.19      1CCP14
+ATOM   2582  H   ALA A 170      -0.608  26.203   7.796  1.00 20.39      1CCP H   new
+ATOM   2583  HA  ALA A 170       1.529  25.140   9.357  1.00 20.75      1CCP H   new
+ATOM   2584 1HB  ALA A 170       2.942  26.449   7.851  1.00 15.19      1CCP H   new
+ATOM   2585 2HB  ALA A 170       1.673  25.546   6.956  1.00 15.19      1CCP H   new
+ATOM   2586 3HB  ALA A 170       1.493  27.312   7.231  1.00 15.19      1CCP H   new
+ATOM   2587  N   LEU A 171       0.838  28.333   9.806  1.00 20.41      1CCP14
+ATOM   2588  CA  LEU A 171       1.038  29.459  10.708  1.00 22.35      1CCP14
+ATOM   2589  C   LEU A 171       0.571  29.158  12.128  1.00 23.87      1CCP14
+ATOM   2590  O   LEU A 171       1.148  29.708  13.069  1.00 25.59      1CCP14
+ATOM   2591  CB  LEU A 171       0.325  30.675  10.104  1.00 23.91      1CCP14
+ATOM   2592  CG  LEU A 171       0.939  31.440   8.943  1.00 23.94      1CCP14
+ATOM   2593  CD1 LEU A 171       0.033  32.633   8.648  1.00 21.93      1CCP14
+ATOM   2594  CD2 LEU A 171       2.317  31.926   9.372  1.00 21.62      1CCP14
+ATOM   2595  H   LEU A 171       0.249  28.523   9.020  1.00 20.41      1CCP H   new
+ATOM   2596  HA  LEU A 171       2.113  29.669  10.805  1.00 22.35      1CCP H   new
+ATOM   2597 1HB  LEU A 171      -0.670  30.337   9.778  1.00 23.91      1CCP H   new
+ATOM   2598 2HB  LEU A 171       0.169  31.396  10.920  1.00 23.91      1CCP H   new
+ATOM   2599  HG  LEU A 171       1.036  30.811   8.046  1.00 23.94      1CCP H   new
+ATOM   2600 1HD1 LEU A 171       0.449  33.211   7.810  1.00 21.93      1CCP H   new
+ATOM   2601 2HD1 LEU A 171      -0.972  32.274   8.382  1.00 21.93      1CCP H   new
+ATOM   2602 3HD1 LEU A 171      -0.031  33.275   9.539  1.00 21.93      1CCP H   new
+ATOM   2603 1HD2 LEU A 171       2.783  32.484   8.546  1.00 21.62      1CCP H   new
+ATOM   2604 2HD2 LEU A 171       2.218  32.583  10.248  1.00 21.62      1CCP H   new
+ATOM   2605 3HD2 LEU A 171       2.947  31.062   9.631  1.00 21.62      1CCP H   new
+ATOM   2606  N   MET A 172      -0.515  28.402  12.229  1.00 23.17      1CCP14
+ATOM   2607  CA  MET A 172      -1.116  28.109  13.557  1.00 21.01      1CCP14
+ATOM   2608  C   MET A 172      -0.214  27.197  14.364  1.00 16.52      1CCP14
+ATOM   2609  O   MET A 172      -0.282  27.173  15.598  1.00 18.33      1CCP14
+ATOM   2610  CB  MET A 172      -2.524  27.516  13.420  1.00 23.73      1CCP14
+ATOM   2611  CG  MET A 172      -3.406  27.899  14.600  1.00 27.89      1CCP14
+ATOM   2612  SD  MET A 172      -3.970  29.621  14.399  1.00 31.65      1CCP14
+ATOM   2613  CE  MET A 172      -5.235  29.256  13.145  1.00 30.10      1CCP14
+ATOM   2614  H   MET A 172      -0.991  27.990  11.452  1.00 23.17      1CCP H   new
+ATOM   2615  HA  MET A 172      -1.214  29.061  14.099  1.00 21.01      1CCP H   new
+ATOM   2616 1HB  MET A 172      -2.984  27.871  12.486  1.00 23.73      1CCP H   new
+ATOM   2617 2HB  MET A 172      -2.457  26.420  13.350  1.00 23.73      1CCP H   new
+ATOM   2618 1HG  MET A 172      -4.271  27.222  14.661  1.00 27.89      1CCP H   new
+ATOM   2619 2HG  MET A 172      -2.847  27.792  15.541  1.00 27.89      1CCP H   new
+ATOM   2620 1HE  MET A 172      -5.739  30.188  12.850  1.00 30.10      1CCP H   new
+ATOM   2621 2HE  MET A 172      -4.758  28.803  12.263  1.00 30.10      1CCP H   new
+ATOM   2622 3HE  MET A 172      -5.974  28.556  13.562  1.00 30.10      1CCP H   new
+ATOM   2623  N   GLY A 173       0.665  26.468  13.659  1.00 16.92      1CCP14
+ATOM   2624  CA  GLY A 173       1.589  25.591  14.456  1.00 18.65      1CCP14
+ATOM   2625  C   GLY A 173       2.535  26.421  15.297  1.00 22.37      1CCP14
+ATOM   2626  O   GLY A 173       3.356  25.805  16.037  1.00 27.11      1CCP14
+ATOM   2627  H   GLY A 173       0.766  26.450  12.664  1.00 16.92      1CCP H   new
+ATOM   2628 1HA  GLY A 173       1.000  24.927  15.106  1.00 18.65      1CCP H   new
+ATOM   2629 2HA  GLY A 173       2.166  24.947  13.776  1.00 18.65      1CCP H   new
+ATOM   2630  N   ALA A 174       2.444  27.755  15.248  1.00 22.13      1CCP14
+ATOM   2631  CA  ALA A 174       3.300  28.624  16.086  1.00 22.68      1CCP14
+ATOM   2632  C   ALA A 174       2.793  28.564  17.539  1.00 22.63      1CCP14
+ATOM   2633  O   ALA A 174       3.471  29.010  18.484  1.00 21.37      1CCP14
+ATOM   2634  CB  ALA A 174       3.389  30.085  15.594  1.00 16.32      1CCP14
+ATOM   2635  H   ALA A 174       1.807  28.250  14.657  1.00 22.13      1CCP H   new
+ATOM   2636  HA  ALA A 174       4.327  28.237  16.015  1.00 22.68      1CCP H   new
+ATOM   2637 1HB  ALA A 174       4.040  30.660  16.268  1.00 16.32      1CCP H   new
+ATOM   2638 2HB  ALA A 174       3.806  30.105  14.576  1.00 16.32      1CCP H   new
+ATOM   2639 3HB  ALA A 174       2.384  30.532  15.587  1.00 16.32      1CCP H   new
+ATOM   2640  N   HIS A 175       1.615  27.966  17.661  1.00 21.45      1CCP14
+ATOM   2641  CA  HIS A 175       0.973  27.767  18.961  1.00 21.78      1CCP14
+ATOM   2642  C   HIS A 175       1.676  26.699  19.776  1.00 22.81      1CCP14
+ATOM   2643  O   HIS A 175       1.305  26.472  20.938  1.00 27.18      1CCP14
+ATOM   2644  CB  HIS A 175      -0.544  27.538  18.996  1.00 22.40      1CCP15
+ATOM   2645  CG  HIS A 175      -1.233  28.873  18.919  1.00 22.43      1CCP15
+ATOM   2646  ND1 HIS A 175      -2.487  29.167  18.518  1.00 20.28      1CCP15
+ATOM   2647  CD2 HIS A 175      -0.633  30.073  19.052  1.00 23.72      1CCP15
+ATOM   2648  CE1 HIS A 175      -2.706  30.470  18.570  1.00 20.58      1CCP15
+ATOM   2649  NE2 HIS A 175      -1.557  31.068  18.840  1.00 21.61      1CCP15
+ATOM   2650  H   HIS A 175       1.089  27.614  16.887  1.00 21.45      1CCP H   new
+ATOM   2651  HA  HIS A 175       1.092  28.762  19.416  1.00 21.78      1CCP H   new
+ATOM   2652 1HB  HIS A 175      -0.853  26.900  18.155  1.00 22.40      1CCP H   new
+ATOM   2653 2HB  HIS A 175      -0.830  27.014  19.920  1.00 22.40      1CCP H   new
+ATOM   2654  HD1 HIS A 175      -3.161  28.490  18.221  1.00 20.28      1CCP H   new
+ATOM   2655  HD2 HIS A 175       0.429  30.231  19.292  1.00 23.72      1CCP H   new
+ATOM   2656  HE1 HIS A 175      -3.674  30.969  18.416  1.00 20.58      1CCP H   new
+ATOM   2657  N   ALA A 176       2.720  26.080  19.221  1.00 24.33      1CCP15
+ATOM   2658  CA  ALA A 176       3.541  25.145  20.014  1.00 22.45      1CCP15
+ATOM   2659  C   ALA A 176       4.341  26.014  21.003  1.00 23.77      1CCP15
+ATOM   2660  O   ALA A 176       4.785  25.505  22.049  1.00 25.60      1CCP15
+ATOM   2661  CB  ALA A 176       4.506  24.360  19.148  1.00 21.40      1CCP15
+ATOM   2662  H   ALA A 176       3.011  26.197  18.271  1.00 24.33      1CCP H   new
+ATOM   2663  HA  ALA A 176       2.894  24.412  20.518  1.00 22.45      1CCP H   new
+ATOM   2664 1HB  ALA A 176       5.095  23.678  19.779  1.00 21.40      1CCP H   new
+ATOM   2665 2HB  ALA A 176       3.942  23.776  18.406  1.00 21.40      1CCP H   new
+ATOM   2666 3HB  ALA A 176       5.183  25.055  18.629  1.00 21.40      1CCP H   new
+ATOM   2667  N   LEU A 177       4.478  27.316  20.711  1.00 21.91      1CCP15
+ATOM   2668  CA  LEU A 177       5.280  28.214  21.557  1.00 21.43      1CCP15
+ATOM   2669  C   LEU A 177       4.547  29.014  22.611  1.00 20.22      1CCP15
+ATOM   2670  O   LEU A 177       3.474  29.582  22.345  1.00 22.86      1CCP15
+ATOM   2671  CB  LEU A 177       6.015  29.228  20.603  1.00 20.99      1CCP15
+ATOM   2672  CG  LEU A 177       6.772  28.629  19.429  1.00 22.83      1CCP15
+ATOM   2673  CD1 LEU A 177       7.207  29.709  18.440  1.00 24.26      1CCP15
+ATOM   2674  CD2 LEU A 177       7.989  27.871  19.950  1.00 23.43      1CCP15
+ATOM   2675  H   LEU A 177       4.057  27.759  19.919  1.00 21.91      1CCP H   new
+ATOM   2676  HA  LEU A 177       5.945  27.550  22.129  1.00 21.43      1CCP H   new
+ATOM   2677 1HB  LEU A 177       5.268  29.932  20.208  1.00 20.99      1CCP H   new
+ATOM   2678 2HB  LEU A 177       6.723  29.816  21.205  1.00 20.99      1CCP H   new
+ATOM   2679  HG  LEU A 177       6.103  27.938  18.895  1.00 22.83      1CCP H   new
+ATOM   2680 1HD1 LEU A 177       7.751  29.244  17.604  1.00 24.26      1CCP H   new
+ATOM   2681 2HD1 LEU A 177       6.320  30.232  18.054  1.00 24.26      1CCP H   new
+ATOM   2682 3HD1 LEU A 177       7.864  30.430  18.949  1.00 24.26      1CCP H   new
+ATOM   2683 1HD2 LEU A 177       8.540  27.435  19.104  1.00 23.43      1CCP H   new
+ATOM   2684 2HD2 LEU A 177       8.646  28.563  20.498  1.00 23.43      1CCP H   new
+ATOM   2685 3HD2 LEU A 177       7.660  27.067  20.625  1.00 23.43      1CCP H   new
+ATOM   2686  N   GLY A 178       5.177  29.168  23.772  1.00 19.23      1CCP15
+ATOM   2687  CA  GLY A 178       4.611  30.116  24.752  1.00 19.04      1CCP15
+ATOM   2688  C   GLY A 178       3.353  29.580  25.382  1.00 20.82      1CCP15
+ATOM   2689  O   GLY A 178       3.263  28.348  25.573  1.00 21.76      1CCP15
+ATOM   2690  H   GLY A 178       6.013  28.695  24.050  1.00 19.23      1CCP H   new
+ATOM   2691 1HA  GLY A 178       5.355  30.322  25.535  1.00 19.04      1CCP H   new
+ATOM   2692 2HA  GLY A 178       4.394  31.073  24.255  1.00 19.04      1CCP H   new
+ATOM   2693  N   LYS A 179       2.428  30.487  25.694  1.00 19.34      1CCP15
+ATOM   2694  CA  LYS A 179       1.196  29.958  26.354  1.00 23.40      1CCP15
+ATOM   2695  C   LYS A 179       0.222  31.110  26.437  1.00 25.19      1CCP15
+ATOM   2696  O   LYS A 179       0.675  32.220  26.097  1.00 24.38      1CCP15
+ATOM   2697  CB  LYS A 179       1.666  29.552  27.771  1.00 24.21      1CCP15
+ATOM   2698  CG  LYS A 179       2.052  30.785  28.589  1.00 27.86      1CCP15
+ATOM   2699  CD  LYS A 179       2.584  30.419  29.958  1.00 30.27      1CCP15
+ATOM   2700  CE  LYS A 179       1.489  29.845  30.878  1.00 31.49      1CCP15
+ATOM   2701  NZ  LYS A 179       0.582  30.930  31.371  1.00 28.74      1CCP15
+ATOM   2702  H   LYS A 179       2.474  31.473  25.534  1.00 19.34      1CCP H   new
+ATOM   2703  HA  LYS A 179       0.719  29.115  25.832  1.00 23.40      1CCP H   new
+ATOM   2704 1HB  LYS A 179       0.864  29.001  28.285  1.00 24.21      1CCP H   new
+ATOM   2705 2HB  LYS A 179       2.527  28.871  27.696  1.00 24.21      1CCP H   new
+ATOM   2706 1HG  LYS A 179       2.814  31.361  28.043  1.00 27.86      1CCP H   new
+ATOM   2707 2HG  LYS A 179       1.174  31.438  28.701  1.00 27.86      1CCP H   new
+ATOM   2708 1HD  LYS A 179       3.392  29.681  29.849  1.00 30.27      1CCP H   new
+ATOM   2709 2HD  LYS A 179       3.024  31.311  30.428  1.00 30.27      1CCP H   new
+ATOM   2710 1HE  LYS A 179       0.903  29.091  30.332  1.00 31.49      1CCP H   new
+ATOM   2711 2HE  LYS A 179       1.954  29.333  31.733  1.00 31.49      1CCP H   new
+ATOM   2712 1HZ  LYS A 179      -0.119  30.535  31.965  1.00 28.74      1CCP H + new
+ATOM   2713 2HZ  LYS A 179       1.114  31.602  31.886  1.00 28.74      1CCP H + new
+ATOM   2714 3HZ  LYS A 179       0.144  31.379  30.592  1.00 28.74      1CCP H + new
+ATOM   2715  N   THR A 180      -1.011  30.830  26.856  1.00 18.67      1CCP15
+ATOM   2716  CA  THR A 180      -2.003  31.878  27.073  1.00 16.95      1CCP15
+ATOM   2717  C   THR A 180      -1.838  32.290  28.532  1.00 19.52      1CCP15
+ATOM   2718  O   THR A 180      -1.357  31.483  29.364  1.00 17.83      1CCP15
+ATOM   2719  CB  THR A 180      -3.454  31.402  26.711  1.00 21.90      1CCP15
+ATOM   2720  OG1 THR A 180      -3.809  30.338  27.655  1.00 22.09      1CCP15
+ATOM   2721  CG2 THR A 180      -3.451  30.885  25.256  1.00 20.64      1CCP15
+ATOM   2722  H   THR A 180      -1.339  29.905  27.048  1.00 18.67      1CCP H   new
+ATOM   2723  HA  THR A 180      -1.846  32.741  26.410  1.00 16.95      1CCP H   new
+ATOM   2724  HB  THR A 180      -4.190  32.216  26.784  1.00 21.90      1CCP H   new
+ATOM   2725  HG1 THR A 180      -4.732  30.008  27.455  1.00 22.09      1CCP H   new
+ATOM   2726 1HG2 THR A 180      -4.462  30.547  24.985  1.00 20.64      1CCP H   new
+ATOM   2727 2HG2 THR A 180      -3.142  31.695  24.579  1.00 20.64      1CCP H   new
+ATOM   2728 3HG2 THR A 180      -2.747  30.045  25.166  1.00 20.64      1CCP H   new
+ATOM   2729  N   HIS A 181      -2.193  33.537  28.748  1.00 19.89      1CCP15
+ATOM   2730  CA  HIS A 181      -2.045  34.183  30.055  1.00 23.58      1CCP15
+ATOM   2731  C   HIS A 181      -3.425  34.786  30.342  1.00 23.95      1CCP15
+ATOM   2732  O   HIS A 181      -3.854  35.652  29.547  1.00 25.35      1CCP15
+ATOM   2733  CB  HIS A 181      -0.987  35.370  30.079  1.00 21.92      1CCP15
+ATOM   2734  CG  HIS A 181       0.369  34.882  29.633  1.00 21.17      1CCP15
+ATOM   2735  ND1 HIS A 181       0.745  34.793  28.294  1.00 20.36      1CCP15
+ATOM   2736  CD2 HIS A 181       1.458  34.523  30.355  1.00 19.12      1CCP15
+ATOM   2737  CE1 HIS A 181       1.989  34.347  28.203  1.00 22.67      1CCP15
+ATOM   2738  NE2 HIS A 181       2.460  34.177  29.458  1.00 23.41      1CCP15
+ATOM   2739  H   HIS A 181      -2.585  34.129  28.044  1.00 19.89      1CCP H   new
+ATOM   2740  HA  HIS A 181      -1.689  33.442  30.786  1.00 23.58      1CCP H   new
+ATOM   2741 1HB  HIS A 181      -1.325  36.184  29.420  1.00 21.92      1CCP H   new
+ATOM   2742 2HB  HIS A 181      -0.917  35.786  31.095  1.00 21.92      1CCP H   new
+ATOM   2743  HD1 HIS A 181       0.162  35.031  27.517  1.00 20.36      1CCP H   new
+ATOM   2744  HD2 HIS A 181       1.534  34.508  31.452  1.00 19.12      1CCP H   new
+ATOM   2745  HE1 HIS A 181       2.540  34.150  27.272  1.00 22.67      1CCP H   new
+ATOM   2746  HE2 HIS A 181       3.376  33.856  29.700  1.00 23.41      1CCP H   new
+ATOM   2747  N   LEU A 182      -3.962  34.330  31.459  1.00 25.36      1CCP15
+ATOM   2748  CA  LEU A 182      -5.311  34.814  31.794  1.00 28.19      1CCP15
+ATOM   2749  C   LEU A 182      -5.454  36.311  31.695  1.00 28.70      1CCP15
+ATOM   2750  O   LEU A 182      -6.440  36.762  31.096  1.00 28.70      1CCP15
+ATOM   2751  CB  LEU A 182      -5.745  34.247  33.152  1.00 29.23      1CCP15
+ATOM   2752  CG  LEU A 182      -7.283  34.290  33.233  1.00 34.58      1CCP15
+ATOM   2753  CD1 LEU A 182      -7.869  33.081  32.488  1.00 32.62      1CCP15
+ATOM   2754  CD2 LEU A 182      -7.652  34.256  34.711  1.00 35.58      1CCP15
+ATOM   2755  H   LEU A 182      -3.543  33.688  32.101  1.00 25.36      1CCP H   new
+ATOM   2756  HA  LEU A 182      -6.006  34.434  31.031  1.00 28.19      1CCP H   new
+ATOM   2757 1HB  LEU A 182      -5.385  33.214  33.267  1.00 29.23      1CCP H   new
+ATOM   2758 2HB  LEU A 182      -5.303  34.835  33.970  1.00 29.23      1CCP H   new
+ATOM   2759  HG  LEU A 182      -7.689  35.198  32.764  1.00 34.58      1CCP H   new
+ATOM   2760 1HD1 LEU A 182      -8.967  33.111  32.546  1.00 32.62      1CCP H   new
+ATOM   2761 2HD1 LEU A 182      -7.557  33.113  31.434  1.00 32.62      1CCP H   new
+ATOM   2762 3HD1 LEU A 182      -7.504  32.152  32.951  1.00 32.62      1CCP H   new
+ATOM   2763 1HD2 LEU A 182      -8.746  34.285  34.817  1.00 35.58      1CCP H   new
+ATOM   2764 2HD2 LEU A 182      -7.265  33.332  35.165  1.00 35.58      1CCP H   new
+ATOM   2765 3HD2 LEU A 182      -7.212  35.126  35.220  1.00 35.58      1CCP H   new
+ATOM   2766  N   LYS A 183      -4.518  37.033  32.280  1.00 32.88      1CCP15
+ATOM   2767  CA  LYS A 183      -4.512  38.486  32.334  1.00 34.31      1CCP15
+ATOM   2768  C   LYS A 183      -4.433  39.103  30.958  1.00 36.29      1CCP15
+ATOM   2769  O   LYS A 183      -5.039  40.181  30.776  1.00 40.37      1CCP15
+ATOM   2770  CB  LYS A 183      -3.305  38.997  33.098  1.00 41.54      1CCP15
+ATOM   2771  CG  LYS A 183      -3.183  38.371  34.492  1.00 47.77      1CCP15
+ATOM   2772  CD  LYS A 183      -3.993  39.201  35.508  1.00 52.23      1CCP15
+ATOM   2773  H   LYS A 183      -3.730  36.621  32.737  1.00 32.88      1CCP H   new
+ATOM   2774  HA  LYS A 183      -5.452  38.769  32.830  1.00 34.31      1CCP H   new
+ATOM   2775 1HB  LYS A 183      -2.393  38.782  32.522  1.00 41.54      1CCP H   new
+ATOM   2776 2HB  LYS A 183      -3.373  40.091  33.196  1.00 41.54      1CCP H   new
+ATOM   2777 1HG  LYS A 183      -3.552  37.335  34.473  1.00 47.77      1CCP H   new
+ATOM   2778 2HG  LYS A 183      -2.126  38.331  34.796  1.00 47.77      1CCP H   new
+ATOM   2779  N   ASN A 184      -3.711  38.455  30.059  1.00 33.76      1CCP15
+ATOM   2780  CA  ASN A 184      -3.607  39.025  28.698  1.00 32.95      1CCP15
+ATOM   2781  C   ASN A 184      -4.881  38.782  27.893  1.00 34.22      1CCP15
+ATOM   2782  O   ASN A 184      -5.509  39.737  27.398  1.00 35.48      1CCP15
+ATOM   2783  CB  ASN A 184      -2.411  38.468  27.901  1.00 30.74      1CCP15
+ATOM   2784  CG  ASN A 184      -1.079  38.909  28.500  1.00 31.05      1CCP15
+ATOM   2785  OD1 ASN A 184      -1.086  39.851  29.304  1.00 31.07      1CCP15
+ATOM   2786  ND2 ASN A 184       0.011  38.241  28.146  1.00 27.39      1CCP15
+ATOM   2787  H   ASN A 184      -3.218  37.599  30.214  1.00 33.76      1CCP H   new
+ATOM   2788  HA  ASN A 184      -3.453  40.104  28.846  1.00 32.95      1CCP H   new
+ATOM   2789 1HB  ASN A 184      -2.460  37.369  27.885  1.00 30.74      1CCP H   new
+ATOM   2790 2HB  ASN A 184      -2.475  38.809  26.857  1.00 30.74      1CCP H   new
+ATOM   2791 1HD2 ASN A 184       0.898  38.489  28.535  1.00 27.39      1CCP H   new
+ATOM   2792 2HD2 ASN A 184      -0.054  37.489  27.490  1.00 27.39      1CCP H   new
+ATOM   2793  N   SER A 185      -5.172  37.497  27.675  1.00 31.94      1CCP15
+ATOM   2794  CA  SER A 185      -6.289  37.174  26.752  1.00 31.28      1CCP15
+ATOM   2795  C   SER A 185      -7.537  36.518  27.313  1.00 31.20      1CCP15
+ATOM   2796  O   SER A 185      -8.457  36.248  26.512  1.00 30.78      1CCP15
+ATOM   2797  CB  SER A 185      -5.694  36.201  25.690  1.00 26.37      1CCP15
+ATOM   2798  OG  SER A 185      -5.231  35.084  26.490  1.00 23.91      1CCP15
+ATOM   2799  H   SER A 185      -4.700  36.715  28.082  1.00 31.94      1CCP H   new
+ATOM   2800  HA  SER A 185      -6.651  38.148  26.392  1.00 31.28      1CCP H   new
+ATOM   2801 1HB  SER A 185      -4.872  36.667  25.127  1.00 26.37      1CCP H   new
+ATOM   2802 2HB  SER A 185      -6.451  35.889  24.955  1.00 26.37      1CCP H   new
+ATOM   2803  HG  SER A 185      -4.825  34.392  25.893  1.00 23.91      1CCP H   new
+ATOM   2804  N   GLY A 186      -7.578  36.199  28.584  1.00 29.37      1CCP15
+ATOM   2805  CA  GLY A 186      -8.740  35.516  29.151  1.00 31.26      1CCP15
+ATOM   2806  C   GLY A 186      -8.619  34.013  28.833  1.00 31.45      1CCP15
+ATOM   2807  O   GLY A 186      -9.680  33.356  28.791  1.00 32.63      1CCP15
+ATOM   2808  H   GLY A 186      -6.846  36.391  29.237  1.00 29.37      1CCP H   new
+ATOM   2809 1HA  GLY A 186      -8.786  35.675  30.238  1.00 31.26      1CCP H   new
+ATOM   2810 2HA  GLY A 186      -9.669  35.924  28.727  1.00 31.26      1CCP H   new
+ATOM   2811  N   TYR A 187      -7.420  33.521  28.614  1.00 28.44      1CCP15
+ATOM   2812  CA  TYR A 187      -7.178  32.097  28.374  1.00 28.59      1CCP15
+ATOM   2813  C   TYR A 187      -5.963  31.758  29.228  1.00 28.00      1CCP15
+ATOM   2814  O   TYR A 187      -5.145  32.681  29.394  1.00 28.60      1CCP15
+ATOM   2815  CB  TYR A 187      -6.947  31.678  26.919  1.00 29.28      1CCP15
+ATOM   2816  CG  TYR A 187      -8.207  31.866  26.111  1.00 29.23      1CCP15
+ATOM   2817  CD1 TYR A 187      -9.170  30.874  25.978  1.00 30.09      1CCP15
+ATOM   2818  CD2 TYR A 187      -8.422  33.099  25.505  1.00 30.29      1CCP15
+ATOM   2819  CE1 TYR A 187     -10.329  31.092  25.228  1.00 28.13      1CCP15
+ATOM   2820  CE2 TYR A 187      -9.588  33.338  24.764  1.00 31.14      1CCP15
+ATOM   2821  CZ  TYR A 187     -10.551  32.327  24.643  1.00 30.03      1CCP15
+ATOM   2822  OH  TYR A 187     -11.648  32.628  23.890  1.00 28.20      1CCP15
+ATOM   2823  H   TYR A 187      -6.591  34.081  28.596  1.00 28.44      1CCP H   new
+ATOM   2824  HA  TYR A 187      -8.091  31.542  28.637  1.00 28.59      1CCP H   new
+ATOM   2825 1HB  TYR A 187      -6.132  32.275  26.484  1.00 29.28      1CCP H   new
+ATOM   2826 2HB  TYR A 187      -6.632  30.625  26.879  1.00 29.28      1CCP H   new
+ATOM   2827  HD1 TYR A 187      -9.018  29.902  26.470  1.00 30.09      1CCP H   new
+ATOM   2828  HD2 TYR A 187      -7.670  33.895  25.608  1.00 30.29      1CCP H   new
+ATOM   2829  HE1 TYR A 187     -11.064  30.283  25.103  1.00 28.13      1CCP H   new
+ATOM   2830  HE2 TYR A 187      -9.746  34.313  24.280  1.00 31.14      1CCP H   new
+ATOM   2831  HH  TYR A 187     -11.588  33.576  23.576  1.00 28.20      1CCP H   new
+ATOM   2832  N   GLU A 188      -5.900  30.538  29.693  1.00 27.00      1CCP15
+ATOM   2833  CA  GLU A 188      -4.757  30.180  30.541  1.00 27.47      1CCP15
+ATOM   2834  C   GLU A 188      -4.198  28.822  30.202  1.00 27.61      1CCP15
+ATOM   2835  O   GLU A 188      -5.009  27.896  30.092  1.00 28.24      1CCP15
+ATOM   2836  CB  GLU A 188      -5.172  30.131  32.020  1.00 29.21      1CCP15
+ATOM   2837  CG  GLU A 188      -4.030  30.003  33.019  1.00 31.49      1CCP15
+ATOM   2838  CD  GLU A 188      -2.782  30.805  32.851  1.00 33.00      1CCP16
+ATOM   2839  OE1 GLU A 188      -1.640  30.285  32.829  1.00 32.76      1CCP16
+ATOM   2840  OE2 GLU A 188      -2.904  32.063  32.773  1.00 36.43      1CCP16
+ATOM   2841  H   GLU A 188      -6.567  29.812  29.524  1.00 27.00      1CCP H   new
+ATOM   2842  HA  GLU A 188      -3.996  30.954  30.362  1.00 27.47      1CCP H   new
+ATOM   2843 1HB  GLU A 188      -5.739  31.044  32.254  1.00 29.21      1CCP H   new
+ATOM   2844 2HB  GLU A 188      -5.857  29.282  32.162  1.00 29.21      1CCP H   new
+ATOM   2845 1HG  GLU A 188      -4.439  30.243  34.012  1.00 31.49      1CCP H   new
+ATOM   2846 2HG  GLU A 188      -3.735  28.944  33.040  1.00 31.49      1CCP H   new
+ATOM   2847  N   GLY A 189      -2.877  28.702  30.088  1.00 25.02      1CCP16
+ATOM   2848  CA  GLY A 189      -2.244  27.408  29.836  1.00 17.56      1CCP16
+ATOM   2849  C   GLY A 189      -1.429  27.412  28.544  1.00 21.64      1CCP16
+ATOM   2850  O   GLY A 189      -1.682  28.153  27.595  1.00 22.85      1CCP16
+ATOM   2851  H   GLY A 189      -2.238  29.467  30.164  1.00 25.02      1CCP H   new
+ATOM   2852 1HA  GLY A 189      -1.589  27.150  30.681  1.00 17.56      1CCP H   new
+ATOM   2853 2HA  GLY A 189      -3.017  26.627  29.779  1.00 17.56      1CCP H   new
+ATOM   2854  N   PRO A 190      -0.470  26.508  28.527  1.00 21.92      1CCP16
+ATOM   2855  CA  PRO A 190       0.379  26.267  27.355  1.00 21.90      1CCP16
+ATOM   2856  C   PRO A 190      -0.358  25.273  26.433  1.00 26.49      1CCP16
+ATOM   2857  O   PRO A 190      -1.268  24.570  26.911  1.00 24.46      1CCP16
+ATOM   2858  CB  PRO A 190       1.562  25.530  27.981  1.00 20.93      1CCP16
+ATOM   2859  CG  PRO A 190       0.936  24.675  29.072  1.00 23.90      1CCP16
+ATOM   2860  CD  PRO A 190      -0.208  25.531  29.625  1.00 24.38      1CCP16
+ATOM   2861  HA  PRO A 190       0.643  27.168  26.783  1.00 21.90      1CCP H   new
+ATOM   2862 1HB  PRO A 190       2.088  24.912  27.239  1.00 20.93      1CCP H   new
+ATOM   2863 2HB  PRO A 190       2.300  26.233  28.395  1.00 20.93      1CCP H   new
+ATOM   2864 1HG  PRO A 190       0.564  23.722  28.669  1.00 23.90      1CCP H   new
+ATOM   2865 2HG  PRO A 190       1.667  24.429  29.856  1.00 23.90      1CCP H   new
+ATOM   2866 1HD  PRO A 190      -1.098  24.924  29.848  1.00 24.38      1CCP H   new
+ATOM   2867 2HD  PRO A 190       0.079  26.037  30.559  1.00 24.38      1CCP H   new
+ATOM   2868  N   TRP A 191       0.114  25.190  25.211  1.00 25.69      1CCP16
+ATOM   2869  CA  TRP A 191      -0.371  24.238  24.219  1.00 25.66      1CCP16
+ATOM   2870  C   TRP A 191       0.341  22.883  24.273  1.00 25.86      1CCP16
+ATOM   2871  O   TRP A 191      -0.173  21.892  23.700  1.00 31.34      1CCP16
+ATOM   2872  CB  TRP A 191      -0.188  24.882  22.850  1.00 22.61      1CCP16
+ATOM   2873  CG  TRP A 191      -1.132  26.004  22.551  1.00 23.66      1CCP16
+ATOM   2874  CD1 TRP A 191      -2.395  25.909  22.011  1.00 22.91      1CCP16
+ATOM   2875  CD2 TRP A 191      -0.891  27.408  22.706  1.00 25.04      1CCP16
+ATOM   2876  NE1 TRP A 191      -2.949  27.159  21.829  1.00 23.46      1CCP16
+ATOM   2877  CE2 TRP A 191      -2.053  28.091  22.233  1.00 23.92      1CCP16
+ATOM   2878  CE3 TRP A 191       0.211  28.133  23.177  1.00 23.75      1CCP16
+ATOM   2879  CZ2 TRP A 191      -2.156  29.477  22.233  1.00 25.75      1CCP16
+ATOM   2880  CZ3 TRP A 191       0.100  29.506  23.190  1.00 24.71      1CCP16
+ATOM   2881  CH2 TRP A 191      -1.040  30.179  22.719  1.00 26.09      1CCP16
+ATOM   2882  H   TRP A 191       0.847  25.780  24.871  1.00 25.69      1CCP H   new
+ATOM   2883  HA  TRP A 191      -1.428  24.018  24.429  1.00 25.66      1CCP H   new
+ATOM   2884 1HB  TRP A 191       0.843  25.259  22.773  1.00 22.61      1CCP H   new
+ATOM   2885 2HB  TRP A 191      -0.306  24.107  22.078  1.00 22.61      1CCP H   new
+ATOM   2886  HD1 TRP A 191      -2.895  24.963  21.758  1.00 22.91      1CCP H   new
+ATOM   2887  HE1 TRP A 191      -3.860  27.346  21.460  1.00 23.46      1CCP H   new
+ATOM   2888  HE3 TRP A 191       1.125  27.628  23.522  1.00 23.75      1CCP H   new
+ATOM   2889  HZ2 TRP A 191      -3.058  29.994  21.874  1.00 25.75      1CCP H   new
+ATOM   2890  HZ3 TRP A 191       0.938  30.099  23.585  1.00 24.71      1CCP H   new
+ATOM   2891  HH2 TRP A 191      -1.059  31.279  22.731  1.00 26.09      1CCP H   new
+ATOM   2892  N   GLY A 192       1.492  22.821  24.902  1.00 25.67      1CCP16
+ATOM   2893  CA  GLY A 192       2.340  21.615  24.944  1.00 25.15      1CCP16
+ATOM   2894  C   GLY A 192       3.415  21.750  26.038  1.00 26.02      1CCP16
+ATOM   2895  O   GLY A 192       3.309  22.639  26.911  1.00 25.86      1CCP16
+ATOM   2896  H   GLY A 192       1.879  23.596  25.402  1.00 25.67      1CCP H   new
+ATOM   2897 1HA  GLY A 192       1.718  20.729  25.139  1.00 25.15      1CCP H   new
+ATOM   2898 2HA  GLY A 192       2.820  21.462  23.966  1.00 25.15      1CCP H   new
+ATOM   2899  N   ALA A 193       4.404  20.887  25.964  1.00 21.96      1CCP16
+ATOM   2900  CA  ALA A 193       5.436  20.801  26.975  1.00 27.90      1CCP16
+ATOM   2901  C   ALA A 193       6.728  21.544  26.669  1.00 30.09      1CCP16
+ATOM   2902  O   ALA A 193       7.323  22.126  27.567  1.00 31.62      1CCP16
+ATOM   2903  CB  ALA A 193       5.758  19.302  27.178  1.00 26.26      1CCP16
+ATOM   2904  H   ALA A 193       4.514  20.235  25.213  1.00 21.96      1CCP H   new
+ATOM   2905  HA  ALA A 193       5.034  21.293  27.873  1.00 27.90      1CCP H   new
+ATOM   2906 1HB  ALA A 193       6.542  19.195  27.942  1.00 26.26      1CCP H   new
+ATOM   2907 2HB  ALA A 193       4.851  18.773  27.506  1.00 26.26      1CCP H   new
+ATOM   2908 3HB  ALA A 193       6.110  18.870  26.230  1.00 26.26      1CCP H   new
+ATOM   2909  N   ALA A 194       7.145  21.486  25.427  1.00 30.70      1CCP16
+ATOM   2910  CA  ALA A 194       8.413  22.107  24.971  1.00 29.99      1CCP16
+ATOM   2911  C   ALA A 194       8.019  23.458  24.393  1.00 32.85      1CCP16
+ATOM   2912  O   ALA A 194       8.018  23.530  23.147  1.00 36.53      1CCP16
+ATOM   2913  CB  ALA A 194       8.927  21.220  23.832  1.00 28.19      1CCP16
+ATOM   2914  H   ALA A 194       6.640  21.021  24.700  1.00 30.70      1CCP H   new
+ATOM   2915  HA  ALA A 194       9.169  22.213  25.763  1.00 29.99      1CCP H   new
+ATOM   2916 1HB  ALA A 194       9.873  21.629  23.446  1.00 28.19      1CCP H   new
+ATOM   2917 2HB  ALA A 194       9.095  20.200  24.208  1.00 28.19      1CCP H   new
+ATOM   2918 3HB  ALA A 194       8.183  21.194  23.023  1.00 28.19      1CCP H   new
+ATOM   2919  N   ASN A 195       7.627  24.389  25.240  1.00 30.14      1CCP16
+ATOM   2920  CA  ASN A 195       7.111  25.641  24.650  1.00 31.10      1CCP16
+ATOM   2921  C   ASN A 195       8.128  26.705  24.317  1.00 29.40      1CCP16
+ATOM   2922  O   ASN A 195       7.675  27.845  24.038  1.00 25.71      1CCP16
+ATOM   2923  CB  ASN A 195       5.857  26.072  25.396  1.00 36.72      1CCP16
+ATOM   2924  CG  ASN A 195       6.038  26.179  26.896  1.00 38.72      1CCP16
+ATOM   2925  OD1 ASN A 195       5.360  27.007  27.529  1.00 41.76      1CCP16
+ATOM   2926  ND2 ASN A 195       6.911  25.370  27.466  1.00 39.94      1CCP16
+ATOM   2927  H   ASN A 195       7.644  24.333  26.238  1.00 30.14      1CCP H   new
+ATOM   2928  HA  ASN A 195       6.804  25.424  23.616  1.00 31.10      1CCP H   new
+ATOM   2929 1HB  ASN A 195       5.528  27.047  25.006  1.00 36.72      1CCP H   new
+ATOM   2930 2HB  ASN A 195       5.052  25.353  25.185  1.00 36.72      1CCP H   new
+ATOM   2931 1HD2 ASN A 195       7.053  25.405  28.455  1.00 39.94      1CCP H   new
+ATOM   2932 2HD2 ASN A 195       7.430  24.722  26.909  1.00 39.94      1CCP H   new
+ATOM   2933  N   ASN A 196       9.416  26.368  24.227  1.00 25.02      1CCP16
+ATOM   2934  CA  ASN A 196      10.409  27.363  23.800  1.00 27.13      1CCP16
+ATOM   2935  C   ASN A 196      11.384  26.718  22.818  1.00 25.69      1CCP16
+ATOM   2936  O   ASN A 196      12.514  27.162  22.638  1.00 26.81      1CCP16
+ATOM   2937  CB  ASN A 196      11.019  28.199  24.905  1.00 27.28      1CCP16
+ATOM   2938  CG  ASN A 196      11.937  27.416  25.830  1.00 29.05      1CCP16
+ATOM   2939  OD1 ASN A 196      12.213  26.234  25.534  1.00 25.50      1CCP16
+ATOM   2940  ND2 ASN A 196      12.410  28.085  26.886  1.00 28.41      1CCP16
+ATOM   2941  H   ASN A 196       9.784  25.461  24.432  1.00 25.02      1CCP H   new
+ATOM   2942  HA  ASN A 196       9.879  28.157  23.253  1.00 27.13      1CCP H   new
+ATOM   2943 1HB  ASN A 196      11.587  29.027  24.455  1.00 27.28      1CCP H   new
+ATOM   2944 2HB  ASN A 196      10.211  28.649  25.500  1.00 27.28      1CCP H   new
+ATOM   2945 1HD2 ASN A 196      13.042  27.638  27.519  1.00 28.41      1CCP H   new
+ATOM   2946 2HD2 ASN A 196      12.132  29.033  27.043  1.00 28.41      1CCP H   new
+ATOM   2947  N   VAL A 197      10.897  25.689  22.190  1.00 22.57      1CCP16
+ATOM   2948  CA  VAL A 197      11.568  24.929  21.144  1.00 23.60      1CCP16
+ATOM   2949  C   VAL A 197      10.447  24.814  20.070  1.00 25.56      1CCP16
+ATOM   2950  O   VAL A 197       9.270  24.600  20.393  1.00 24.55      1CCP16
+ATOM   2951  CB  VAL A 197      12.131  23.584  21.547  1.00 27.88      1CCP16
+ATOM   2952  CG1 VAL A 197      13.065  23.018  20.462  1.00 25.92      1CCP16
+ATOM   2953  CG2 VAL A 197      12.903  23.666  22.865  1.00 27.01      1CCP16
+ATOM   2954  H   VAL A 197       9.985  25.333  22.393  1.00 22.57      1CCP H   new
+ATOM   2955  HA  VAL A 197      12.488  25.431  20.809  1.00 23.60      1CCP H   new
+ATOM   2956  HB  VAL A 197      11.269  22.913  21.675  1.00 27.88      1CCP H   new
+ATOM   2957 1HG1 VAL A 197      13.456  22.042  20.786  1.00 25.92      1CCP H   new
+ATOM   2958 2HG1 VAL A 197      12.505  22.895  19.523  1.00 25.92      1CCP H   new
+ATOM   2959 3HG1 VAL A 197      13.903  23.712  20.300  1.00 25.92      1CCP H   new
+ATOM   2960 1HG2 VAL A 197      13.295  22.671  23.123  1.00 27.01      1CCP H   new
+ATOM   2961 2HG2 VAL A 197      13.739  24.373  22.758  1.00 27.01      1CCP H   new
+ATOM   2962 3HG2 VAL A 197      12.231  24.013  23.663  1.00 27.01      1CCP H   new
+ATOM   2963  N   PHE A 198      10.858  25.042  18.864  1.00 23.37      1CCP16
+ATOM   2964  CA  PHE A 198       9.932  25.068  17.712  1.00 25.96      1CCP16
+ATOM   2965  C   PHE A 198       9.873  23.679  17.110  1.00 24.83      1CCP16
+ATOM   2966  O   PHE A 198      10.872  23.250  16.501  1.00 26.24      1CCP16
+ATOM   2967  CB  PHE A 198      10.470  26.136  16.726  1.00 27.29      1CCP16
+ATOM   2968  CG  PHE A 198       9.453  26.498  15.687  1.00 26.32      1CCP16
+ATOM   2969  CD1 PHE A 198       8.628  27.594  15.929  1.00 28.18      1CCP16
+ATOM   2970  CD2 PHE A 198       9.284  25.713  14.555  1.00 26.44      1CCP16
+ATOM   2971  CE1 PHE A 198       7.656  27.936  14.995  1.00 28.84      1CCP16
+ATOM   2972  CE2 PHE A 198       8.309  26.055  13.614  1.00 25.27      1CCP16
+ATOM   2973  CZ  PHE A 198       7.496  27.159  13.850  1.00 26.39      1CCP16
+ATOM   2974  H   PHE A 198      11.814  25.214  18.626  1.00 23.37      1CCP H   new
+ATOM   2975  HA  PHE A 198       8.903  25.338  17.992  1.00 25.96      1CCP H   new
+ATOM   2976 1HB  PHE A 198      10.760  27.038  17.285  1.00 27.29      1CCP H   new
+ATOM   2977 2HB  PHE A 198      11.378  25.757  16.234  1.00 27.29      1CCP H   new
+ATOM   2978  HD1 PHE A 198       8.744  28.184  16.850  1.00 28.18      1CCP H   new
+ATOM   2979  HD2 PHE A 198       9.915  24.825  14.399  1.00 26.44      1CCP H   new
+ATOM   2980  HE1 PHE A 198       7.017  28.816  15.160  1.00 28.84      1CCP H   new
+ATOM   2981  HE2 PHE A 198       8.186  25.459  12.698  1.00 25.27      1CCP H   new
+ATOM   2982  HZ  PHE A 198       6.715  27.422  13.121  1.00 26.39      1CCP H   new
+ATOM   2983  N   THR A 199       8.739  23.032  17.264  1.00 23.58      1CCP16
+ATOM   2984  CA  THR A 199       8.478  21.684  16.763  1.00 22.45      1CCP16
+ATOM   2985  C   THR A 199       7.026  21.576  16.278  1.00 23.89      1CCP16
+ATOM   2986  O   THR A 199       6.267  22.543  16.450  1.00 23.45      1CCP16
+ATOM   2987  CB  THR A 199       8.696  20.594  17.902  1.00 25.26      1CCP16
+ATOM   2988  OG1 THR A 199       7.476  20.551  18.723  1.00 24.34      1CCP16
+ATOM   2989  CG2 THR A 199       9.926  20.847  18.776  1.00 23.44      1CCP16
+ATOM   2990  H   THR A 199       7.957  23.427  17.747  1.00 23.58      1CCP H   new
+ATOM   2991  HA  THR A 199       9.180  21.498  15.937  1.00 22.45      1CCP H   new
+ATOM   2992  HB  THR A 199       8.887  19.627  17.415  1.00 25.26      1CCP H   new
+ATOM   2993  HG1 THR A 199       7.586  19.872  19.449  1.00 24.34      1CCP H   new
+ATOM   2994 1HG2 THR A 199      10.007  20.055  19.535  1.00 23.44      1CCP H   new
+ATOM   2995 2HG2 THR A 199      10.829  20.846  18.148  1.00 23.44      1CCP H   new
+ATOM   2996 3HG2 THR A 199       9.828  21.823  19.274  1.00 23.44      1CCP H   new
+ATOM   2997  N   ASN A 200       6.653  20.414  15.769  1.00 24.05      1CCP16
+ATOM   2998  CA  ASN A 200       5.271  20.125  15.317  1.00 23.51      1CCP16
+ATOM   2999  C   ASN A 200       4.426  19.664  16.494  1.00 25.88      1CCP16
+ATOM   3000  O   ASN A 200       3.338  19.072  16.305  1.00 27.75      1CCP16
+ATOM   3001  CB  ASN A 200       5.265  19.113  14.191  1.00 22.77      1CCP16
+ATOM   3002  CG  ASN A 200       5.697  17.731  14.667  1.00 27.27      1CCP16
+ATOM   3003  OD1 ASN A 200       5.476  16.746  13.919  1.00 31.64      1CCP16
+ATOM   3004  ND2 ASN A 200       6.260  17.578  15.860  1.00 26.26      1CCP16
+ATOM   3005  H   ASN A 200       7.280  19.644  15.652  1.00 24.05      1CCP H   new
+ATOM   3006  HA  ASN A 200       4.828  21.049  14.918  1.00 23.51      1CCP H   new
+ATOM   3007 1HB  ASN A 200       4.256  19.052  13.758  1.00 22.77      1CCP H   new
+ATOM   3008 2HB  ASN A 200       5.939  19.452  13.390  1.00 22.77      1CCP H   new
+ATOM   3009 1HD2 ASN A 200       6.517  16.665  16.178  1.00 26.26      1CCP H   new
+ATOM   3010 2HD2 ASN A 200       6.427  18.375  16.440  1.00 26.26      1CCP H   new
+ATOM   3011  N   GLU A 201       4.893  19.920  17.708  1.00 25.20      1CCP16
+ATOM   3012  CA  GLU A 201       4.164  19.486  18.903  1.00 26.48      1CCP16
+ATOM   3013  C   GLU A 201       2.697  19.885  18.862  1.00 26.45      1CCP16
+ATOM   3014  O   GLU A 201       1.833  19.130  19.345  1.00 24.56      1CCP16
+ATOM   3015  CB  GLU A 201       4.705  20.008  20.230  1.00 27.28      1CCP16
+ATOM   3016  CG  GLU A 201       4.228  19.225  21.489  1.00 28.44      1CCP16
+ATOM   3017  CD  GLU A 201       4.743  19.819  22.779  1.00 31.69      1CCP16
+ATOM   3018  OE1 GLU A 201       5.749  20.582  22.827  1.00 31.28      1CCP16
+ATOM   3019  OE2 GLU A 201       4.067  19.549  23.794  1.00 32.50      1CCP16
+ATOM   3020  H   GLU A 201       5.745  20.410  17.892  1.00 25.20      1CCP H   new
+ATOM   3021  HA  GLU A 201       4.300  18.395  18.869  1.00 26.48      1CCP H   new
+ATOM   3022 1HB  GLU A 201       5.804  19.983  20.196  1.00 27.28      1CCP H   new
+ATOM   3023 2HB  GLU A 201       4.411  21.062  20.339  1.00 27.28      1CCP H   new
+ATOM   3024 1HG  GLU A 201       3.128  19.210  21.511  1.00 28.44      1CCP H   new
+ATOM   3025 2HG  GLU A 201       4.562  18.180  21.413  1.00 28.44      1CCP H   new
+ATOM   3026  N   PHE A 202       2.398  21.070  18.362  1.00 24.25      1CCP17
+ATOM   3027  CA  PHE A 202       0.994  21.539  18.372  1.00 24.89      1CCP17
+ATOM   3028  C   PHE A 202       0.047  20.525  17.715  1.00 24.66      1CCP17
+ATOM   3029  O   PHE A 202      -1.065  20.251  18.213  1.00 22.86      1CCP17
+ATOM   3030  CB  PHE A 202       0.899  22.924  17.745  1.00 20.87      1CCP17
+ATOM   3031  CG  PHE A 202      -0.475  23.472  17.471  1.00 17.46      1CCP17
+ATOM   3032  CD1 PHE A 202      -1.134  24.153  18.479  1.00 17.51      1CCP17
+ATOM   3033  CD2 PHE A 202      -1.056  23.382  16.212  1.00 18.46      1CCP17
+ATOM   3034  CE1 PHE A 202      -2.377  24.724  18.275  1.00 18.99      1CCP17
+ATOM   3035  CE2 PHE A 202      -2.306  23.986  15.930  1.00 18.07      1CCP17
+ATOM   3036  CZ  PHE A 202      -2.964  24.666  16.993  1.00 19.83      1CCP17
+ATOM   3037  H   PHE A 202       3.058  21.705  17.961  1.00 24.25      1CCP H   new
+ATOM   3038  HA  PHE A 202       0.662  21.623  19.417  1.00 24.89      1CCP H   new
+ATOM   3039 1HB  PHE A 202       1.421  23.632  18.406  1.00 20.87      1CCP H   new
+ATOM   3040 2HB  PHE A 202       1.452  22.904  16.794  1.00 20.87      1CCP H   new
+ATOM   3041  HD1 PHE A 202      -0.658  24.242  19.467  1.00 17.51      1CCP H   new
+ATOM   3042  HD2 PHE A 202      -0.534  22.830  15.417  1.00 18.46      1CCP H   new
+ATOM   3043  HE1 PHE A 202      -2.903  25.219  19.105  1.00 18.99      1CCP H   new
+ATOM   3044  HE2 PHE A 202      -2.752  23.931  14.926  1.00 18.07      1CCP H   new
+ATOM   3045  HZ  PHE A 202      -3.936  25.149  16.814  1.00 19.83      1CCP H   new
+ATOM   3046  N   TYR A 203       0.514  20.035  16.584  1.00 24.49      1CCP17
+ATOM   3047  CA  TYR A 203      -0.323  19.111  15.780  1.00 26.84      1CCP17
+ATOM   3048  C   TYR A 203      -0.510  17.808  16.522  1.00 29.47      1CCP17
+ATOM   3049  O   TYR A 203      -1.677  17.371  16.562  1.00 30.10      1CCP17
+ATOM   3050  CB  TYR A 203       0.155  19.021  14.331  1.00 25.63      1CCP17
+ATOM   3051  CG  TYR A 203       0.398  20.374  13.662  1.00 29.70      1CCP17
+ATOM   3052  CD1 TYR A 203       1.703  20.893  13.537  1.00 28.03      1CCP17
+ATOM   3053  CD2 TYR A 203      -0.659  21.168  13.203  1.00 27.08      1CCP17
+ATOM   3054  CE1 TYR A 203       1.933  22.126  12.947  1.00 28.78      1CCP17
+ATOM   3055  CE2 TYR A 203      -0.432  22.404  12.622  1.00 27.86      1CCP17
+ATOM   3056  CZ  TYR A 203       0.865  22.893  12.471  1.00 29.39      1CCP17
+ATOM   3057  OH  TYR A 203       1.058  24.124  11.893  1.00 24.22      1CCP17
+ATOM   3058  H   TYR A 203       1.416  20.236  16.202  1.00 24.49      1CCP H   new
+ATOM   3059  HA  TYR A 203      -1.340  19.514  15.665  1.00 26.84      1CCP H   new
+ATOM   3060 1HB  TYR A 203       1.087  18.438  14.301  1.00 25.63      1CCP H   new
+ATOM   3061 2HB  TYR A 203      -0.592  18.465  13.745  1.00 25.63      1CCP H   new
+ATOM   3062  HD1 TYR A 203       2.555  20.308  13.915  1.00 28.03      1CCP H   new
+ATOM   3063  HD2 TYR A 203      -1.691  20.803  13.306  1.00 27.08      1CCP H   new
+ATOM   3064  HE1 TYR A 203       2.962  22.503  12.853  1.00 28.78      1CCP H   new
+ATOM   3065  HE2 TYR A 203      -1.284  23.007  12.276  1.00 27.86      1CCP H   new
+ATOM   3066  HH  TYR A 203       0.175  24.507  11.621  1.00 24.22      1CCP H   new
+ATOM   3067  N   LEU A 204       0.536  17.271  17.138  1.00 27.84      1CCP17
+ATOM   3068  CA  LEU A 204       0.483  16.021  17.879  1.00 28.03      1CCP17
+ATOM   3069  C   LEU A 204      -0.473  16.129  19.055  1.00 27.67      1CCP17
+ATOM   3070  O   LEU A 204      -1.343  15.268  19.239  1.00 26.44      1CCP17
+ATOM   3071  CB  LEU A 204       1.920  15.612  18.219  1.00 30.48      1CCP17
+ATOM   3072  CG  LEU A 204       2.703  15.212  16.955  1.00 33.45      1CCP17
+ATOM   3073  CD1 LEU A 204       4.197  15.137  17.263  1.00 34.58      1CCP17
+ATOM   3074  CD2 LEU A 204       2.174  13.860  16.464  1.00 34.45      1CCP17
+ATOM   3075  H   LEU A 204       1.443  17.693  17.135  1.00 27.84      1CCP H   new
+ATOM   3076  HA  LEU A 204       0.058  15.203  17.280  1.00 28.03      1CCP H   new
+ATOM   3077 1HB  LEU A 204       2.432  16.446  18.722  1.00 30.48      1CCP H   new
+ATOM   3078 2HB  LEU A 204       1.906  14.770  18.926  1.00 30.48      1CCP H   new
+ATOM   3079  HG  LEU A 204       2.563  15.966  16.166  1.00 33.45      1CCP H   new
+ATOM   3080 1HD1 LEU A 204       4.745  14.851  16.354  1.00 34.58      1CCP H   new
+ATOM   3081 2HD1 LEU A 204       4.550  16.119  17.610  1.00 34.58      1CCP H   new
+ATOM   3082 3HD1 LEU A 204       4.373  14.387  18.048  1.00 34.58      1CCP H   new
+ATOM   3083 1HD2 LEU A 204       2.723  13.557  15.560  1.00 34.45      1CCP H   new
+ATOM   3084 2HD2 LEU A 204       2.316  13.103  17.249  1.00 34.45      1CCP H   new
+ATOM   3085 3HD2 LEU A 204       1.103  13.948  16.230  1.00 34.45      1CCP H   new
+ATOM   3086  N   ASN A 205      -0.354  17.220  19.791  1.00 25.43      1CCP17
+ATOM   3087  CA  ASN A 205      -1.240  17.428  20.937  1.00 25.07      1CCP17
+ATOM   3088  C   ASN A 205      -2.676  17.433  20.417  1.00 27.22      1CCP17
+ATOM   3089  O   ASN A 205      -3.559  16.850  21.036  1.00 27.12      1CCP17
+ATOM   3090  CB  ASN A 205      -0.885  18.687  21.742  1.00 24.21      1CCP17
+ATOM   3091  CG  ASN A 205       0.400  18.472  22.532  1.00 26.61      1CCP17
+ATOM   3092  OD1 ASN A 205       0.973  17.365  22.403  1.00 26.95      1CCP17
+ATOM   3093  ND2 ASN A 205       0.896  19.415  23.313  1.00 22.06      1CCP17
+ATOM   3094  H   ASN A 205       0.313  17.947  19.631  1.00 25.43      1CCP H   new
+ATOM   3095  HA  ASN A 205      -1.115  16.608  21.659  1.00 25.07      1CCP H   new
+ATOM   3096 1HB  ASN A 205      -0.765  19.543  21.062  1.00 24.21      1CCP H   new
+ATOM   3097 2HB  ASN A 205      -1.708  18.935  22.429  1.00 24.21      1CCP H   new
+ATOM   3098 1HD2 ASN A 205       1.745  19.253  23.816  1.00 22.06      1CCP H   new
+ATOM   3099 2HD2 ASN A 205       0.422  20.291  23.401  1.00 22.06      1CCP H   new
+ATOM   3100  N   LEU A 206      -2.847  18.173  19.319  1.00 26.69      1CCP17
+ATOM   3101  CA  LEU A 206      -4.211  18.272  18.796  1.00 29.85      1CCP17
+ATOM   3102  C   LEU A 206      -4.782  16.861  18.534  1.00 28.21      1CCP17
+ATOM   3103  O   LEU A 206      -5.891  16.650  18.987  1.00 29.07      1CCP17
+ATOM   3104  CB  LEU A 206      -4.279  19.146  17.564  1.00 27.49      1CCP17
+ATOM   3105  CG  LEU A 206      -4.890  20.508  17.672  1.00 29.83      1CCP17
+ATOM   3106  CD1 LEU A 206      -4.947  21.125  16.253  1.00 29.63      1CCP17
+ATOM   3107  CD2 LEU A 206      -6.276  20.487  18.274  1.00 29.19      1CCP17
+ATOM   3108  H   LEU A 206      -2.136  18.667  18.818  1.00 26.69      1CCP H   new
+ATOM   3109  HA  LEU A 206      -4.838  18.761  19.556  1.00 29.85      1CCP H   new
+ATOM   3110 1HB  LEU A 206      -3.252  19.272  17.189  1.00 27.49      1CCP H   new
+ATOM   3111 2HB  LEU A 206      -4.837  18.592  16.795  1.00 27.49      1CCP H   new
+ATOM   3112  HG  LEU A 206      -4.265  21.110  18.348  1.00 29.83      1CCP H   new
+ATOM   3113 1HD1 LEU A 206      -5.394  22.129  16.307  1.00 29.63      1CCP H   new
+ATOM   3114 2HD1 LEU A 206      -3.929  21.199  15.843  1.00 29.63      1CCP H   new
+ATOM   3115 3HD1 LEU A 206      -5.559  20.486  15.599  1.00 29.63      1CCP H   new
+ATOM   3116 1HD2 LEU A 206      -6.669  21.513  18.326  1.00 29.19      1CCP H   new
+ATOM   3117 2HD2 LEU A 206      -6.939  19.872  17.648  1.00 29.19      1CCP H   new
+ATOM   3118 3HD2 LEU A 206      -6.230  20.060  19.287  1.00 29.19      1CCP H   new
+ATOM   3119  N   LEU A 207      -4.052  16.049  17.812  1.00 25.54      1CCP17
+ATOM   3120  CA  LEU A 207      -4.539  14.727  17.452  1.00 31.49      1CCP17
+ATOM   3121  C   LEU A 207      -4.622  13.770  18.650  1.00 35.92      1CCP17
+ATOM   3122  O   LEU A 207      -5.673  13.130  18.836  1.00 36.80      1CCP17
+ATOM   3123  CB  LEU A 207      -3.661  14.208  16.310  1.00 29.12      1CCP17
+ATOM   3124  CG  LEU A 207      -3.717  15.065  15.026  1.00 27.71      1CCP17
+ATOM   3125  CD1 LEU A 207      -2.961  14.393  13.887  1.00 27.06      1CCP17
+ATOM   3126  CD2 LEU A 207      -5.162  15.246  14.654  1.00 25.99      1CCP17
+ATOM   3127  H   LEU A 207      -3.139  16.268  17.467  1.00 25.54      1CCP H   new
+ATOM   3128  HA  LEU A 207      -5.582  14.792  17.108  1.00 31.49      1CCP H   new
+ATOM   3129 1HB  LEU A 207      -2.619  14.158  16.658  1.00 29.12      1CCP H   new
+ATOM   3130 2HB  LEU A 207      -3.968  13.181  16.065  1.00 29.12      1CCP H   new
+ATOM   3131  HG  LEU A 207      -3.240  16.039  15.208  1.00 27.71      1CCP H   new
+ATOM   3132 1HD1 LEU A 207      -3.017  15.023  12.987  1.00 27.06      1CCP H   new
+ATOM   3133 2HD1 LEU A 207      -1.908  14.258  14.175  1.00 27.06      1CCP H   new
+ATOM   3134 3HD1 LEU A 207      -3.412  13.412  13.676  1.00 27.06      1CCP H   new
+ATOM   3135 1HD2 LEU A 207      -5.233  15.854  13.740  1.00 25.99      1CCP H   new
+ATOM   3136 2HD2 LEU A 207      -5.621  14.262  14.475  1.00 25.99      1CCP H   new
+ATOM   3137 3HD2 LEU A 207      -5.691  15.754  15.474  1.00 25.99      1CCP H   new
+ATOM   3138  N   ASN A 208      -3.595  13.725  19.474  1.00 34.80      1CCP17
+ATOM   3139  CA  ASN A 208      -3.401  12.811  20.544  1.00 36.58      1CCP17
+ATOM   3140  C   ASN A 208      -3.970  13.046  21.905  1.00 37.80      1CCP17
+ATOM   3141  O   ASN A 208      -3.968  12.026  22.645  1.00 40.97      1CCP17
+ATOM   3142  CB  ASN A 208      -1.887  12.456  20.730  1.00 37.74      1CCP17
+ATOM   3143  CG  ASN A 208      -1.467  11.898  19.370  1.00 42.91      1CCP17
+ATOM   3144  OD1 ASN A 208      -0.299  12.041  18.982  1.00 48.71      1CCP17
+ATOM   3145  ND2 ASN A 208      -2.439  11.364  18.637  1.00 42.03      1CCP17
+ATOM   3146  H   ASN A 208      -2.837  14.373  19.394  1.00 34.80      1CCP H   new
+ATOM   3147  HA  ASN A 208      -4.035  12.001  20.154  1.00 36.58      1CCP H   new
+ATOM   3148 1HB  ASN A 208      -1.296  13.343  21.001  1.00 37.74      1CCP H   new
+ATOM   3149 2HB  ASN A 208      -1.742  11.716  21.531  1.00 37.74      1CCP H   new
+ATOM   3150 1HD2 ASN A 208      -2.248  11.047  17.708  1.00 42.03      1CCP H   new
+ATOM   3151 2HD2 ASN A 208      -3.361  11.279  19.015  1.00 42.03      1CCP H   new
+ATOM   3152  N   GLU A 209      -4.357  14.222  22.267  1.00 35.20      1CCP17
+ATOM   3153  CA  GLU A 209      -4.885  14.371  23.640  1.00 32.63      1CCP17
+ATOM   3154  C   GLU A 209      -6.393  14.178  23.573  1.00 34.37      1CCP17
+ATOM   3155  O   GLU A 209      -7.057  14.276  22.539  1.00 33.21      1CCP17
+ATOM   3156  CB  GLU A 209      -4.509  15.730  24.199  1.00 31.82      1CCP17
+ATOM   3157  CG  GLU A 209      -2.975  15.962  24.230  1.00 31.21      1CCP17
+ATOM   3158  CD  GLU A 209      -2.341  15.319  25.442  1.00 33.36      1CCP17
+ATOM   3159  OE1 GLU A 209      -2.739  15.572  26.613  1.00 33.10      1CCP17
+ATOM   3160  OE2 GLU A 209      -1.397  14.549  25.161  1.00 32.83      1CCP17
+ATOM   3161  H   GLU A 209      -4.335  15.049  21.706  1.00 35.20      1CCP H   new
+ATOM   3162  HA  GLU A 209      -4.452  13.621  24.318  1.00 32.63      1CCP H   new
+ATOM   3163 1HB  GLU A 209      -4.982  16.515  23.591  1.00 31.82      1CCP H   new
+ATOM   3164 2HB  GLU A 209      -4.911  15.826  25.218  1.00 31.82      1CCP H   new
+ATOM   3165 1HG  GLU A 209      -2.522  15.551  23.316  1.00 31.21      1CCP H   new
+ATOM   3166 2HG  GLU A 209      -2.766  17.042  24.235  1.00 31.21      1CCP H   new
+ATOM   3167  N   ASP A 210      -6.884  13.917  24.736  1.00 36.27      1CCP17
+ATOM   3168  CA  ASP A 210      -8.277  13.746  25.128  1.00 40.03      1CCP17
+ATOM   3169  C   ASP A 210      -8.672  15.096  25.743  1.00 37.66      1CCP17
+ATOM   3170  O   ASP A 210      -8.434  15.403  26.921  1.00 41.13      1CCP17
+ATOM   3171  CB  ASP A 210      -8.349  12.506  26.020  1.00 47.38      1CCP17
+ATOM   3172  CG  ASP A 210      -9.757  12.212  26.525  1.00 54.22      1CCP17
+ATOM   3173  OD1 ASP A 210      -9.865  11.644  27.639  1.00 56.89      1CCP17
+ATOM   3174  OD2 ASP A 210     -10.704  12.552  25.758  1.00 54.21      1CCP17
+ATOM   3175  H   ASP A 210      -6.277  13.804  25.522  1.00 36.27      1CCP H   new
+ATOM   3176  HA  ASP A 210      -9.005  13.538  24.330  1.00 40.03      1CCP H   new
+ATOM   3177 1HB  ASP A 210      -7.979  11.636  25.458  1.00 47.38      1CCP H   new
+ATOM   3178 2HB  ASP A 210      -7.678  12.642  26.881  1.00 47.38      1CCP H   new
+ATOM   3179  N   TRP A 211      -9.192  15.927  24.863  1.00 35.04      1CCP17
+ATOM   3180  CA  TRP A 211      -9.597  17.298  25.133  1.00 30.59      1CCP17
+ATOM   3181  C   TRP A 211     -10.990  17.375  25.746  1.00 31.94      1CCP17
+ATOM   3182  O   TRP A 211     -11.960  16.864  25.167  1.00 33.02      1CCP17
+ATOM   3183  CB  TRP A 211      -9.598  18.125  23.811  1.00 28.56      1CCP17
+ATOM   3184  CG  TRP A 211      -8.225  18.160  23.194  1.00 30.53      1CCP17
+ATOM   3185  CD1 TRP A 211      -7.753  17.439  22.131  1.00 30.45      1CCP17
+ATOM   3186  CD2 TRP A 211      -7.109  18.908  23.704  1.00 26.35      1CCP17
+ATOM   3187  NE1 TRP A 211      -6.417  17.698  21.933  1.00 30.28      1CCP17
+ATOM   3188  CE2 TRP A 211      -6.007  18.590  22.885  1.00 28.95      1CCP17
+ATOM   3189  CE3 TRP A 211      -6.960  19.803  24.758  1.00 27.16      1CCP17
+ATOM   3190  CZ2 TRP A 211      -4.735  19.171  23.073  1.00 28.15      1CCP17
+ATOM   3191  CZ3 TRP A 211      -5.707  20.397  24.945  1.00 25.86      1CCP17
+ATOM   3192  CH2 TRP A 211      -4.631  20.068  24.123  1.00 24.81      1CCP17
+ATOM   3193  H   TRP A 211      -9.350  15.660  23.912  1.00 35.04      1CCP H   new
+ATOM   3194  HA  TRP A 211      -8.873  17.709  25.851  1.00 30.59      1CCP H   new
+ATOM   3195 1HB  TRP A 211     -10.313  17.685  23.100  1.00 28.56      1CCP H   new
+ATOM   3196 2HB  TRP A 211      -9.938  19.151  24.016  1.00 28.56      1CCP H   new
+ATOM   3197  HD1 TRP A 211      -8.356  16.750  21.522  1.00 30.45      1CCP H   new
+ATOM   3198  HE1 TRP A 211      -5.844  17.302  21.216  1.00 30.28      1CCP H   new
+ATOM   3199  HE3 TRP A 211      -7.803  20.037  25.425  1.00 27.16      1CCP H   new
+ATOM   3200  HZ2 TRP A 211      -3.880  18.927  22.426  1.00 28.15      1CCP H   new
+ATOM   3201  HZ3 TRP A 211      -5.570  21.133  25.751  1.00 25.86      1CCP H   new
+ATOM   3202  HH2 TRP A 211      -3.657  20.541  24.316  1.00 24.81      1CCP H   new
+ATOM   3203  N   LYS A 212     -11.106  18.110  26.818  1.00 30.35      1CCP17
+ATOM   3204  CA  LYS A 212     -12.363  18.377  27.478  1.00 32.41      1CCP17
+ATOM   3205  C   LYS A 212     -12.724  19.856  27.403  1.00 30.18      1CCP17
+ATOM   3206  O   LYS A 212     -11.942  20.700  27.872  1.00 30.23      1CCP17
+ATOM   3207  CB  LYS A 212     -12.305  17.993  28.969  1.00 36.76      1CCP17
+ATOM   3208  CG  LYS A 212     -11.952  16.497  29.121  1.00 48.18      1CCP17
+ATOM   3209  CD  LYS A 212     -13.090  15.637  28.524  1.00 52.56      1CCP18
+ATOM   3210  CE  LYS A 212     -12.574  14.267  28.070  1.00 55.19      1CCP18
+ATOM   3211  NZ  LYS A 212     -12.840  14.122  26.597  1.00 56.09      1CCP18
+ATOM   3212  H   LYS A 212     -10.324  18.545  27.264  1.00 30.35      1CCP H   new
+ATOM   3213  HA  LYS A 212     -13.120  17.772  26.957  1.00 32.41      1CCP H   new
+ATOM   3214 1HB  LYS A 212     -11.554  18.609  29.485  1.00 36.76      1CCP H   new
+ATOM   3215 2HB  LYS A 212     -13.274  18.199  29.447  1.00 36.76      1CCP H   new
+ATOM   3216 1HG  LYS A 212     -11.004  16.278  28.608  1.00 48.18      1CCP H   new
+ATOM   3217 2HG  LYS A 212     -11.808  16.249  30.183  1.00 48.18      1CCP H   new
+ATOM   3218 1HD  LYS A 212     -13.883  15.503  29.274  1.00 52.56      1CCP H   new
+ATOM   3219 2HD  LYS A 212     -13.541  16.163  27.670  1.00 52.56      1CCP H   new
+ATOM   3220 1HE  LYS A 212     -11.497  14.177  28.275  1.00 55.19      1CCP H   new
+ATOM   3221 2HE  LYS A 212     -13.076  13.464  28.630  1.00 55.19      1CCP H   new
+ATOM   3222 1HZ  LYS A 212     -12.509  13.232  26.284  1.00 56.09      1CCP H + new
+ATOM   3223 2HZ  LYS A 212     -13.823  14.190  26.427  1.00 56.09      1CCP H + new
+ATOM   3224 3HZ  LYS A 212     -12.365  14.848  26.099  1.00 56.09      1CCP H + new
+ATOM   3225  N   LEU A 213     -13.918  20.129  26.896  1.00 27.00      1CCP18
+ATOM   3226  CA  LEU A 213     -14.338  21.537  26.887  1.00 26.87      1CCP18
+ATOM   3227  C   LEU A 213     -14.665  21.943  28.326  1.00 28.49      1CCP18
+ATOM   3228  O   LEU A 213     -15.452  21.279  28.992  1.00 30.62      1CCP18
+ATOM   3229  CB  LEU A 213     -15.516  21.768  25.962  1.00 26.57      1CCP18
+ATOM   3230  CG  LEU A 213     -15.906  23.257  25.876  1.00 29.58      1CCP18
+ATOM   3231  CD1 LEU A 213     -14.790  24.044  25.246  1.00 29.38      1CCP18
+ATOM   3232  CD2 LEU A 213     -17.187  23.312  25.070  1.00 29.32      1CCP18
+ATOM   3233  H   LEU A 213     -14.565  19.467  26.517  1.00 27.00      1CCP H   new
+ATOM   3234  HA  LEU A 213     -13.521  22.163  26.498  1.00 26.87      1CCP H   new
+ATOM   3235 1HB  LEU A 213     -15.269  21.397  24.956  1.00 26.57      1CCP H   new
+ATOM   3236 2HB  LEU A 213     -16.378  21.185  26.317  1.00 26.57      1CCP H   new
+ATOM   3237  HG  LEU A 213     -16.071  23.706  26.866  1.00 29.58      1CCP H   new
+ATOM   3238 1HD1 LEU A 213     -15.076  25.105  25.188  1.00 29.38      1CCP H   new
+ATOM   3239 2HD1 LEU A 213     -13.880  23.943  25.855  1.00 29.38      1CCP H   new
+ATOM   3240 3HD1 LEU A 213     -14.597  23.661  24.233  1.00 29.38      1CCP H   new
+ATOM   3241 1HD2 LEU A 213     -17.516  24.357  24.975  1.00 29.32      1CCP H   new
+ATOM   3242 2HD2 LEU A 213     -17.010  22.891  24.069  1.00 29.32      1CCP H   new
+ATOM   3243 3HD2 LEU A 213     -17.967  22.728  25.580  1.00 29.32      1CCP H   new
+ATOM   3244  N   GLU A 214     -14.093  23.044  28.754  1.00 30.08      1CCP18
+ATOM   3245  CA  GLU A 214     -14.374  23.572  30.082  1.00 31.73      1CCP18
+ATOM   3246  C   GLU A 214     -14.277  25.091  29.986  1.00 32.88      1CCP18
+ATOM   3247  O   GLU A 214     -13.702  25.597  29.023  1.00 34.61      1CCP18
+ATOM   3248  CB  GLU A 214     -13.368  23.150  31.116  1.00 34.32      1CCP18
+ATOM   3249  CG  GLU A 214     -12.530  21.897  30.810  1.00 37.47      1CCP18
+ATOM   3250  CD  GLU A 214     -11.784  21.590  32.103  1.00 38.32      1CCP18
+ATOM   3251  OE1 GLU A 214     -12.442  21.275  33.107  1.00 40.12      1CCP18
+ATOM   3252  OE2 GLU A 214     -10.567  21.774  32.074  1.00 38.18      1CCP18
+ATOM   3253  H   GLU A 214     -13.444  23.585  28.219  1.00 30.08      1CCP H   new
+ATOM   3254  HA  GLU A 214     -15.361  23.196  30.388  1.00 31.73      1CCP H   new
+ATOM   3255 1HB  GLU A 214     -12.677  23.990  31.283  1.00 34.32      1CCP H   new
+ATOM   3256 2HB  GLU A 214     -13.902  22.980  32.062  1.00 34.32      1CCP H   new
+ATOM   3257 1HG  GLU A 214     -13.170  21.054  30.511  1.00 37.47      1CCP H   new
+ATOM   3258 2HG  GLU A 214     -11.830  22.080  29.981  1.00 37.47      1CCP H   new
+ATOM   3259  N   LYS A 215     -14.836  25.717  30.984  1.00 33.57      1CCP18
+ATOM   3260  CA  LYS A 215     -14.803  27.199  31.071  1.00 37.71      1CCP18
+ATOM   3261  C   LYS A 215     -13.650  27.566  31.993  1.00 37.21      1CCP18
+ATOM   3262  O   LYS A 215     -13.416  26.791  32.961  1.00 36.95      1CCP18
+ATOM   3263  CB  LYS A 215     -16.123  27.702  31.629  1.00 40.68      1CCP18
+ATOM   3264  CG  LYS A 215     -17.112  28.078  30.520  1.00 45.01      1CCP18
+ATOM   3265  CD  LYS A 215     -18.519  28.110  31.094  1.00 48.60      1CCP18
+ATOM   3266  CE  LYS A 215     -18.812  29.444  31.761  1.00 49.72      1CCP18
+ATOM   3267  NZ  LYS A 215     -19.611  30.220  30.759  1.00 53.50      1CCP18
+ATOM   3268  H   LYS A 215     -15.311  25.264  31.738  1.00 33.57      1CCP H   new
+ATOM   3269  HA  LYS A 215     -14.659  27.659  30.082  1.00 37.71      1CCP H   new
+ATOM   3270 1HB  LYS A 215     -16.569  26.926  32.268  1.00 40.68      1CCP H   new
+ATOM   3271 2HB  LYS A 215     -15.939  28.579  32.268  1.00 40.68      1CCP H   new
+ATOM   3272 1HG  LYS A 215     -16.853  29.060  30.098  1.00 45.01      1CCP H   new
+ATOM   3273 2HG  LYS A 215     -17.055  27.349  29.698  1.00 45.01      1CCP H   new
+ATOM   3274 1HD  LYS A 215     -19.249  27.930  30.291  1.00 48.60      1CCP H   new
+ATOM   3275 2HD  LYS A 215     -18.638  27.297  31.826  1.00 48.60      1CCP H   new
+ATOM   3276 1HE  LYS A 215     -19.375  29.305  32.696  1.00 49.72      1CCP H   new
+ATOM   3277 2HE  LYS A 215     -17.882  29.971  32.021  1.00 49.72      1CCP H   new
+ATOM   3278 1HZ  LYS A 215     -19.840  31.117  31.137  1.00 53.50      1CCP H + new
+ATOM   3279 2HZ  LYS A 215     -19.074  30.338  29.923  1.00 53.50      1CCP H + new
+ATOM   3280 3HZ  LYS A 215     -20.453  29.724  30.547  1.00 53.50      1CCP H + new
+ATOM   3281  N   ASN A 216     -12.973  28.683  31.706  1.00 34.81      1CCP18
+ATOM   3282  CA  ASN A 216     -11.845  29.040  32.625  1.00 31.32      1CCP18
+ATOM   3283  C   ASN A 216     -12.345  30.120  33.582  1.00 32.52      1CCP18
+ATOM   3284  O   ASN A 216     -13.490  30.593  33.489  1.00 28.12      1CCP18
+ATOM   3285  CB  ASN A 216     -10.617  29.433  31.810  1.00 29.94      1CCP18
+ATOM   3286  CG  ASN A 216     -10.915  30.630  30.899  1.00 28.15      1CCP18
+ATOM   3287  OD1 ASN A 216     -11.751  31.484  31.266  1.00 24.79      1CCP18
+ATOM   3288  ND2 ASN A 216     -10.287  30.636  29.706  1.00 24.63      1CCP18
+ATOM   3289  H   ASN A 216     -13.144  29.303  30.940  1.00 34.81      1CCP H   new
+ATOM   3290  HA  ASN A 216     -11.521  28.186  33.238  1.00 31.32      1CCP H   new
+ATOM   3291 1HB  ASN A 216      -9.788  29.682  32.488  1.00 29.94      1CCP H   new
+ATOM   3292 2HB  ASN A 216     -10.289  28.578  31.201  1.00 29.94      1CCP H   new
+ATOM   3293 1HD2 ASN A 216     -10.479  31.360  29.043  1.00 24.63      1CCP H   new
+ATOM   3294 2HD2 ASN A 216      -9.629  29.917  29.484  1.00 24.63      1CCP H   new
+ATOM   3295  N   ASP A 217     -11.390  30.558  34.402  1.00 39.45      1CCP18
+ATOM   3296  CA  ASP A 217     -11.670  31.614  35.391  1.00 43.24      1CCP18
+ATOM   3297  C   ASP A 217     -12.019  32.919  34.706  1.00 42.31      1CCP18
+ATOM   3298  O   ASP A 217     -12.503  33.804  35.439  1.00 45.21      1CCP18
+ATOM   3299  CB  ASP A 217     -10.578  31.685  36.443  1.00 48.59      1CCP18
+ATOM   3300  CG  ASP A 217     -10.347  30.272  36.989  1.00 55.02      1CCP18
+ATOM   3301  OD1 ASP A 217     -11.332  29.556  37.251  1.00 57.66      1CCP18
+ATOM   3302  OD2 ASP A 217      -9.153  29.898  37.109  1.00 58.78      1CCP18
+ATOM   3303  H   ASP A 217     -10.450  30.217  34.407  1.00 39.45      1CCP H   new
+ATOM   3304  HA  ASP A 217     -12.574  31.359  35.964  1.00 43.24      1CCP H   new
+ATOM   3305 1HB  ASP A 217      -9.650  32.084  36.007  1.00 48.59      1CCP H   new
+ATOM   3306 2HB  ASP A 217     -10.871  32.367  37.255  1.00 48.59      1CCP H   new
+ATOM   3307  N   ALA A 218     -11.821  33.036  33.405  1.00 37.90      1CCP18
+ATOM   3308  CA  ALA A 218     -12.196  34.323  32.748  1.00 36.29      1CCP18
+ATOM   3309  C   ALA A 218     -13.605  34.098  32.203  1.00 37.87      1CCP18
+ATOM   3310  O   ALA A 218     -14.239  34.974  31.617  1.00 38.17      1CCP18
+ATOM   3311  CB  ALA A 218     -11.212  34.735  31.705  1.00 34.70      1CCP18
+ATOM   3312  H   ALA A 218     -11.437  32.333  32.807  1.00 37.90      1CCP H   new
+ATOM   3313  HA  ALA A 218     -12.183  35.165  33.455  1.00 36.29      1CCP H   new
+ATOM   3314 1HB  ALA A 218     -11.532  35.685  31.253  1.00 34.70      1CCP H   new
+ATOM   3315 2HB  ALA A 218     -10.221  34.864  32.165  1.00 34.70      1CCP H   new
+ATOM   3316 3HB  ALA A 218     -11.156  33.960  30.927  1.00 34.70      1CCP H   new
+ATOM   3317  N   ASN A 219     -14.035  32.846  32.401  1.00 41.69      1CCP18
+ATOM   3318  CA  ASN A 219     -15.399  32.476  31.987  1.00 41.43      1CCP18
+ATOM   3319  C   ASN A 219     -15.501  32.323  30.486  1.00 38.19      1CCP18
+ATOM   3320  O   ASN A 219     -16.499  32.689  29.850  1.00 37.99      1CCP18
+ATOM   3321  CB  ASN A 219     -16.296  33.604  32.528  1.00 48.85      1CCP18
+ATOM   3322  CG  ASN A 219     -17.758  33.247  32.393  1.00 57.07      1CCP18
+ATOM   3323  OD1 ASN A 219     -18.223  32.274  33.033  1.00 61.04      1CCP18
+ATOM   3324  ND2 ASN A 219     -18.445  34.034  31.559  1.00 60.50      1CCP18
+ATOM   3325  H   ASN A 219     -13.498  32.113  32.818  1.00 41.69      1CCP H   new
+ATOM   3326  HA  ASN A 219     -15.705  31.498  32.386  1.00 41.43      1CCP H   new
+ATOM   3327 1HB  ASN A 219     -16.057  33.793  33.585  1.00 48.85      1CCP H   new
+ATOM   3328 2HB  ASN A 219     -16.090  34.536  31.981  1.00 48.85      1CCP H   new
+ATOM   3329 1HD2 ASN A 219     -19.419  33.868  31.402  1.00 60.50      1CCP H   new
+ATOM   3330 2HD2 ASN A 219     -17.985  34.789  31.092  1.00 60.50      1CCP H   new
+ATOM   3331  N   ASN A 220     -14.420  31.829  29.919  1.00 35.70      1CCP18
+ATOM   3332  CA  ASN A 220     -14.320  31.566  28.488  1.00 33.39      1CCP18
+ATOM   3333  C   ASN A 220     -14.110  30.050  28.373  1.00 31.14      1CCP18
+ATOM   3334  O   ASN A 220     -13.468  29.452  29.235  1.00 30.24      1CCP18
+ATOM   3335  CB  ASN A 220     -13.142  32.258  27.788  1.00 34.46      1CCP18
+ATOM   3336  CG  ASN A 220     -13.238  33.769  27.807  1.00 38.83      1CCP18
+ATOM   3337  OD1 ASN A 220     -14.263  34.357  27.389  1.00 39.13      1CCP18
+ATOM   3338  ND2 ASN A 220     -12.151  34.400  28.284  1.00 36.85      1CCP18
+ATOM   3339  H   ASN A 220     -13.591  31.599  30.429  1.00 35.70      1CCP H   new
+ATOM   3340  HA  ASN A 220     -15.226  31.953  28.000  1.00 33.39      1CCP H   new
+ATOM   3341 1HB  ASN A 220     -12.204  31.951  28.274  1.00 34.46      1CCP H   new
+ATOM   3342 2HB  ASN A 220     -13.091  31.914  26.744  1.00 34.46      1CCP H   new
+ATOM   3343 1HD2 ASN A 220     -12.129  35.399  28.320  1.00 36.85      1CCP H   new
+ATOM   3344 2HD2 ASN A 220     -11.365  33.870  28.602  1.00 36.85      1CCP H   new
+ATOM   3345  N   GLU A 221     -14.580  29.554  27.247  1.00 31.53      1CCP18
+ATOM   3346  CA  GLU A 221     -14.344  28.101  27.043  1.00 31.38      1CCP18
+ATOM   3347  C   GLU A 221     -13.014  27.859  26.375  1.00 30.54      1CCP18
+ATOM   3348  O   GLU A 221     -12.660  28.588  25.407  1.00 29.82      1CCP18
+ATOM   3349  CB  GLU A 221     -15.419  27.587  26.082  1.00 32.17      1CCP18
+ATOM   3350  CG  GLU A 221     -16.803  27.903  26.711  1.00 37.93      1CCP18
+ATOM   3351  CD  GLU A 221     -17.847  27.087  26.001  1.00 42.86      1CCP18
+ATOM   3352  OE1 GLU A 221     -17.909  27.093  24.743  1.00 46.82      1CCP18
+ATOM   3353  OE2 GLU A 221     -18.535  26.444  26.813  1.00 45.89      1CCP18
+ATOM   3354  H   GLU A 221     -15.071  30.046  26.528  1.00 31.53      1CCP H   new
+ATOM   3355  HA  GLU A 221     -14.366  27.597  28.020  1.00 31.38      1CCP H   new
+ATOM   3356 1HB  GLU A 221     -15.322  28.071  25.099  1.00 32.17      1CCP H   new
+ATOM   3357 2HB  GLU A 221     -15.307  26.505  25.920  1.00 32.17      1CCP H   new
+ATOM   3358 1HG  GLU A 221     -16.798  27.666  27.785  1.00 37.93      1CCP H   new
+ATOM   3359 2HG  GLU A 221     -17.029  28.976  26.619  1.00 37.93      1CCP H   new
+ATOM   3360  N   GLN A 222     -12.358  26.849  26.866  1.00 25.67      1CCP18
+ATOM   3361  CA  GLN A 222     -11.123  26.342  26.263  1.00 26.03      1CCP18
+ATOM   3362  C   GLN A 222     -11.211  24.804  26.379  1.00 26.20      1CCP18
+ATOM   3363  O   GLN A 222     -11.915  24.275  27.258  1.00 27.86      1CCP18
+ATOM   3364  CB  GLN A 222      -9.829  26.885  26.871  1.00 26.07      1CCP18
+ATOM   3365  CG  GLN A 222      -9.830  27.006  28.379  1.00 21.91      1CCP18
+ATOM   3366  CD  GLN A 222      -8.513  27.560  28.860  1.00 25.59      1CCP18
+ATOM   3367  OE1 GLN A 222      -7.564  26.814  29.092  1.00 27.33      1CCP18
+ATOM   3368  NE2 GLN A 222      -8.461  28.855  28.990  1.00 22.36      1CCP18
+ATOM   3369  H   GLN A 222     -12.646  26.349  27.683  1.00 25.67      1CCP H   new
+ATOM   3370  HA  GLN A 222     -11.059  26.689  25.221  1.00 26.03      1CCP H   new
+ATOM   3371 1HB  GLN A 222      -8.998  26.229  26.572  1.00 26.07      1CCP H   new
+ATOM   3372 2HB  GLN A 222      -9.627  27.876  26.439  1.00 26.07      1CCP H   new
+ATOM   3373 1HG  GLN A 222     -10.652  27.663  28.701  1.00 21.91      1CCP H   new
+ATOM   3374 2HG  GLN A 222     -10.009  26.020  28.833  1.00 21.91      1CCP H   new
+ATOM   3375 1HE2 GLN A 222      -7.615  29.293  29.294  1.00 22.36      1CCP H   new
+ATOM   3376 2HE2 GLN A 222      -9.267  29.411  28.786  1.00 22.36      1CCP H   new
+ATOM   3377  N   TRP A 223     -10.489  24.154  25.524  1.00 24.98      1CCP18
+ATOM   3378  CA  TRP A 223     -10.257  22.714  25.497  1.00 26.14      1CCP18
+ATOM   3379  C   TRP A 223      -9.023  22.455  26.390  1.00 27.86      1CCP18
+ATOM   3380  O   TRP A 223      -7.929  23.003  26.174  1.00 27.02      1CCP18
+ATOM   3381  CB  TRP A 223     -10.087  22.233  24.071  1.00 26.77      1CCP18
+ATOM   3382  CG  TRP A 223     -11.337  22.448  23.271  1.00 31.79      1CCP18
+ATOM   3383  CD1 TRP A 223     -11.680  23.547  22.570  1.00 31.45      1CCP18
+ATOM   3384  CD2 TRP A 223     -12.442  21.519  23.112  1.00 32.22      1CCP18
+ATOM   3385  NE1 TRP A 223     -12.899  23.375  21.959  1.00 32.36      1CCP18
+ATOM   3386  CE2 TRP A 223     -13.382  22.140  22.272  1.00 32.86      1CCP18
+ATOM   3387  CE3 TRP A 223     -12.695  20.247  23.596  1.00 31.70      1CCP18
+ATOM   3388  CZ2 TRP A 223     -14.567  21.522  21.879  1.00 33.15      1CCP18
+ATOM   3389  CZ3 TRP A 223     -13.855  19.606  23.202  1.00 30.91      1CCP18
+ATOM   3390  CH2 TRP A 223     -14.772  20.241  22.373  1.00 32.29      1CCP18
+ATOM   3391  H   TRP A 223     -10.014  24.624  24.780  1.00 24.98      1CCP H   new
+ATOM   3392  HA  TRP A 223     -11.112  22.143  25.889  1.00 26.14      1CCP H   new
+ATOM   3393 1HB  TRP A 223      -9.250  22.768  23.598  1.00 26.77      1CCP H   new
+ATOM   3394 2HB  TRP A 223      -9.828  21.164  24.070  1.00 26.77      1CCP H   new
+ATOM   3395  HD1 TRP A 223     -11.067  24.458  22.497  1.00 31.45      1CCP H   new
+ATOM   3396  HE1 TRP A 223     -13.358  24.048  21.378  1.00 32.36      1CCP H   new
+ATOM   3397  HE3 TRP A 223     -11.987  19.756  24.280  1.00 31.70      1CCP H   new
+ATOM   3398  HZ2 TRP A 223     -15.294  22.018  21.219  1.00 33.15      1CCP H   new
+ATOM   3399  HZ3 TRP A 223     -14.054  18.581  23.549  1.00 30.91      1CCP H   new
+ATOM   3400  HH2 TRP A 223     -15.695  19.709  22.098  1.00 32.29      1CCP H   new
+ATOM   3401  N   ASP A 224      -9.262  21.637  27.395  1.00 26.41      1CCP18
+ATOM   3402  CA  ASP A 224      -8.294  21.221  28.418  1.00 27.01      1CCP18
+ATOM   3403  C   ASP A 224      -7.996  19.727  28.317  1.00 29.20      1CCP19
+ATOM   3404  O   ASP A 224      -8.856  18.911  28.037  1.00 26.70      1CCP19
+ATOM   3405  CB  ASP A 224      -8.778  21.642  29.807  1.00 26.09      1CCP19
+ATOM   3406  CG  ASP A 224      -8.729  23.161  29.873  1.00 28.48      1CCP19
+ATOM   3407  OD1 ASP A 224      -7.989  23.783  29.087  1.00 33.26      1CCP19
+ATOM   3408  OD2 ASP A 224      -9.468  23.758  30.660  1.00 29.90      1CCP19
+ATOM   3409  H   ASP A 224     -10.163  21.225  27.534  1.00 26.41      1CCP H   new
+ATOM   3410  HA  ASP A 224      -7.338  21.736  28.240  1.00 27.01      1CCP H   new
+ATOM   3411 1HB  ASP A 224      -9.802  21.281  29.985  1.00 26.09      1CCP H   new
+ATOM   3412 2HB  ASP A 224      -8.141  21.201  30.588  1.00 26.09      1CCP H   new
+ATOM   3413  N   SER A 225      -6.708  19.443  28.490  1.00 30.52      1CCP19
+ATOM   3414  CA  SER A 225      -6.236  18.049  28.394  1.00 30.27      1CCP19
+ATOM   3415  C   SER A 225      -5.745  17.705  29.797  1.00 31.30      1CCP19
+ATOM   3416  O   SER A 225      -5.457  18.627  30.574  1.00 33.87      1CCP19
+ATOM   3417  CB  SER A 225      -5.211  17.855  27.317  1.00 32.60      1CCP19
+ATOM   3418  OG  SER A 225      -3.974  17.505  27.922  1.00 36.39      1CCP19
+ATOM   3419  H   SER A 225      -5.998  20.119  28.688  1.00 30.52      1CCP H   new
+ATOM   3420  HA  SER A 225      -7.036  17.360  28.083  1.00 30.27      1CCP H   new
+ATOM   3421 1HB  SER A 225      -5.099  18.776  26.727  1.00 32.60      1CCP H   new
+ATOM   3422 2HB  SER A 225      -5.533  17.065  26.623  1.00 32.60      1CCP H   new
+ATOM   3423  HG  SER A 225      -3.281  17.373  27.213  1.00 36.39      1CCP H   new
+ATOM   3424  N   LYS A 226      -5.715  16.412  30.061  1.00 33.59      1CCP19
+ATOM   3425  CA  LYS A 226      -5.311  15.928  31.390  1.00 37.37      1CCP19
+ATOM   3426  C   LYS A 226      -3.827  16.077  31.592  1.00 35.93      1CCP19
+ATOM   3427  O   LYS A 226      -3.343  16.072  32.736  1.00 37.53      1CCP19
+ATOM   3428  CB  LYS A 226      -5.752  14.471  31.641  1.00 43.09      1CCP19
+ATOM   3429  CG  LYS A 226      -5.187  13.475  30.622  1.00 44.92      1CCP19
+ATOM   3430  H   LYS A 226      -5.954  15.695  29.406  1.00 33.59      1CCP H   new
+ATOM   3431  HA  LYS A 226      -5.829  16.557  32.129  1.00 37.37      1CCP H   new
+ATOM   3432 1HB  LYS A 226      -5.435  14.170  32.650  1.00 43.09      1CCP H   new
+ATOM   3433 2HB  LYS A 226      -6.851  14.421  31.620  1.00 43.09      1CCP H   new
+ATOM   3434  N   SER A 227      -3.112  16.282  30.474  1.00 37.85      1CCP19
+ATOM   3435  CA  SER A 227      -1.659  16.496  30.520  1.00 32.31      1CCP19
+ATOM   3436  C   SER A 227      -1.385  17.908  31.016  1.00 32.97      1CCP19
+ATOM   3437  O   SER A 227      -0.198  18.215  31.274  1.00 34.61      1CCP19
+ATOM   3438  CB  SER A 227      -0.954  16.288  29.215  1.00 34.18      1CCP19
+ATOM   3439  OG  SER A 227      -1.245  15.019  28.718  1.00 38.30      1CCP19
+ATOM   3440  H   SER A 227      -3.505  16.303  29.555  1.00 37.85      1CCP H   new
+ATOM   3441  HA  SER A 227      -1.258  15.733  31.204  1.00 32.31      1CCP H   new
+ATOM   3442 1HB  SER A 227       0.132  16.398  29.352  1.00 34.18      1CCP H   new
+ATOM   3443 2HB  SER A 227      -1.267  17.056  28.492  1.00 34.18      1CCP H   new
+ATOM   3444  HG  SER A 227      -0.772  14.885  27.847  1.00 38.30      1CCP H   new
+ATOM   3445  N   GLY A 228      -2.453  18.682  31.107  1.00 31.54      1CCP19
+ATOM   3446  CA  GLY A 228      -2.233  20.080  31.579  1.00 29.49      1CCP19
+ATOM   3447  C   GLY A 228      -2.106  21.027  30.387  1.00 31.37      1CCP19
+ATOM   3448  O   GLY A 228      -1.723  22.212  30.589  1.00 32.89      1CCP19
+ATOM   3449  H   GLY A 228      -3.394  18.423  30.891  1.00 31.54      1CCP H   new
+ATOM   3450 1HA  GLY A 228      -3.070  20.395  32.219  1.00 29.49      1CCP H   new
+ATOM   3451 2HA  GLY A 228      -1.322  20.128  32.194  1.00 29.49      1CCP H   new
+ATOM   3452  N   TYR A 229      -2.434  20.621  29.178  1.00 27.86      1CCP19
+ATOM   3453  CA  TYR A 229      -2.410  21.503  28.016  1.00 25.98      1CCP19
+ATOM   3454  C   TYR A 229      -3.801  22.105  27.768  1.00 28.05      1CCP19
+ATOM   3455  O   TYR A 229      -4.797  21.660  28.351  1.00 34.26      1CCP19
+ATOM   3456  CB  TYR A 229      -1.988  20.819  26.720  1.00 23.57      1CCP19
+ATOM   3457  CG  TYR A 229      -0.729  20.014  26.886  1.00 23.25      1CCP19
+ATOM   3458  CD1 TYR A 229      -0.587  18.799  26.214  1.00 23.35      1CCP19
+ATOM   3459  CD2 TYR A 229       0.240  20.431  27.801  1.00 25.43      1CCP19
+ATOM   3460  CE1 TYR A 229       0.563  18.010  26.370  1.00 25.30      1CCP19
+ATOM   3461  CE2 TYR A 229       1.401  19.664  27.980  1.00 25.39      1CCP19
+ATOM   3462  CZ  TYR A 229       1.538  18.461  27.281  1.00 26.73      1CCP19
+ATOM   3463  OH  TYR A 229       2.684  17.753  27.438  1.00 28.78      1CCP19
+ATOM   3464  H   TYR A 229      -2.721  19.686  28.971  1.00 27.86      1CCP H   new
+ATOM   3465  HA  TYR A 229      -1.662  22.270  28.265  1.00 25.98      1CCP H   new
+ATOM   3466 1HB  TYR A 229      -2.799  20.161  26.374  1.00 23.57      1CCP H   new
+ATOM   3467 2HB  TYR A 229      -1.835  21.579  25.939  1.00 23.57      1CCP H   new
+ATOM   3468  HD1 TYR A 229      -1.392  18.453  25.549  1.00 23.35      1CCP H   new
+ATOM   3469  HD2 TYR A 229       0.094  21.356  28.378  1.00 25.43      1CCP H   new
+ATOM   3470  HE1 TYR A 229       0.698  17.077  25.804  1.00 25.30      1CCP H   new
+ATOM   3471  HE2 TYR A 229       2.194  20.005  28.662  1.00 25.39      1CCP H   new
+ATOM   3472  HH  TYR A 229       3.265  18.204  28.115  1.00 28.78      1CCP H   new
+ATOM   3473  N   MET A 230      -3.829  23.098  26.900  1.00 26.90      1CCP19
+ATOM   3474  CA  MET A 230      -5.040  23.788  26.468  1.00 25.83      1CCP19
+ATOM   3475  C   MET A 230      -4.965  24.055  24.947  1.00 26.57      1CCP19
+ATOM   3476  O   MET A 230      -3.902  24.094  24.291  1.00 24.29      1CCP19
+ATOM   3477  CB  MET A 230      -5.448  25.023  27.263  1.00 24.34      1CCP19
+ATOM   3478  CG  MET A 230      -4.578  26.234  27.205  1.00 28.19      1CCP19
+ATOM   3479  SD  MET A 230      -4.678  27.117  25.651  1.00 30.62      1CCP19
+ATOM   3480  CE  MET A 230      -6.197  28.023  25.913  1.00 24.89      1CCP19
+ATOM   3481  H   MET A 230      -3.001  23.455  26.468  1.00 26.90      1CCP H   new
+ATOM   3482  HA  MET A 230      -5.867  23.098  26.693  1.00 25.83      1CCP H   new
+ATOM   3483 1HB  MET A 230      -6.453  25.318  26.927  1.00 24.34      1CCP H   new
+ATOM   3484 2HB  MET A 230      -5.536  24.726  28.318  1.00 24.34      1CCP H   new
+ATOM   3485 1HG  MET A 230      -4.858  26.915  28.022  1.00 28.19      1CCP H   new
+ATOM   3486 2HG  MET A 230      -3.534  25.934  27.379  1.00 28.19      1CCP H   new
+ATOM   3487 1HE  MET A 230      -6.416  28.637  25.027  1.00 24.89      1CCP H   new
+ATOM   3488 2HE  MET A 230      -7.022  27.315  26.081  1.00 24.89      1CCP H   new
+ATOM   3489 3HE  MET A 230      -6.089  28.674  26.793  1.00 24.89      1CCP H   new
+ATOM   3490  N   MET A 231      -6.168  24.231  24.408  1.00 22.77      1CCP19
+ATOM   3491  CA  MET A 231      -6.383  24.563  23.006  1.00 23.43      1CCP19
+ATOM   3492  C   MET A 231      -7.515  25.605  23.035  1.00 25.88      1CCP19
+ATOM   3493  O   MET A 231      -8.470  25.424  23.818  1.00 27.81      1CCP19
+ATOM   3494  CB  MET A 231      -6.822  23.443  22.073  1.00 23.71      1CCP19
+ATOM   3495  CG  MET A 231      -5.751  22.427  21.817  1.00 25.95      1CCP19
+ATOM   3496  SD  MET A 231      -4.558  23.055  20.606  1.00 24.96      1CCP19
+ATOM   3497  CE  MET A 231      -3.133  22.034  21.090  1.00 22.43      1CCP19
+ATOM   3498  H   MET A 231      -7.016  24.147  24.932  1.00 22.77      1CCP H   new
+ATOM   3499  HA  MET A 231      -5.412  24.880  22.598  1.00 23.43      1CCP H   new
+ATOM   3500 1HB  MET A 231      -7.699  22.939  22.505  1.00 23.71      1CCP H   new
+ATOM   3501 2HB  MET A 231      -7.141  23.878  21.114  1.00 23.71      1CCP H   new
+ATOM   3502 1HG  MET A 231      -5.235  22.184  22.758  1.00 25.95      1CCP H   new
+ATOM   3503 2HG  MET A 231      -6.202  21.494  21.447  1.00 25.95      1CCP H   new
+ATOM   3504 1HE  MET A 231      -2.273  22.275  20.448  1.00 22.43      1CCP H   new
+ATOM   3505 2HE  MET A 231      -2.875  22.238  22.140  1.00 22.43      1CCP H   new
+ATOM   3506 3HE  MET A 231      -3.388  20.970  20.976  1.00 22.43      1CCP H   new
+ATOM   3507  N   LEU A 232      -7.352  26.614  22.222  1.00 23.65      1CCP19
+ATOM   3508  CA  LEU A 232      -8.394  27.636  22.035  1.00 24.41      1CCP19
+ATOM   3509  C   LEU A 232      -9.414  27.038  21.031  1.00 22.49      1CCP19
+ATOM   3510  O   LEU A 232      -9.049  26.185  20.204  1.00 22.95      1CCP19
+ATOM   3511  CB  LEU A 232      -7.750  28.870  21.350  1.00 22.91      1CCP19
+ATOM   3512  CG  LEU A 232      -6.625  29.608  22.055  1.00 24.42      1CCP19
+ATOM   3513  CD1 LEU A 232      -6.029  30.641  21.074  1.00 21.55      1CCP19
+ATOM   3514  CD2 LEU A 232      -7.159  30.337  23.303  1.00 21.64      1CCP19
+ATOM   3515  H   LEU A 232      -6.526  26.764  21.679  1.00 23.65      1CCP H   new
+ATOM   3516  HA  LEU A 232      -8.857  27.919  22.992  1.00 24.41      1CCP H   new
+ATOM   3517 1HB  LEU A 232      -7.369  28.544  20.371  1.00 22.91      1CCP H   new
+ATOM   3518 2HB  LEU A 232      -8.552  29.597  21.157  1.00 22.91      1CCP H   new
+ATOM   3519  HG  LEU A 232      -5.856  28.888  22.372  1.00 24.42      1CCP H   new
+ATOM   3520 1HD1 LEU A 232      -5.211  31.187  21.567  1.00 21.55      1CCP H   new
+ATOM   3521 2HD1 LEU A 232      -5.639  30.122  20.186  1.00 21.55      1CCP H   new
+ATOM   3522 3HD1 LEU A 232      -6.811  31.352  20.769  1.00 21.55      1CCP H   new
+ATOM   3523 1HD2 LEU A 232      -6.333  30.866  23.801  1.00 21.64      1CCP H   new
+ATOM   3524 2HD2 LEU A 232      -7.930  31.062  23.003  1.00 21.64      1CCP H   new
+ATOM   3525 3HD2 LEU A 232      -7.596  29.604  23.997  1.00 21.64      1CCP H   new
+ATOM   3526  N   PRO A 233     -10.619  27.559  21.090  1.00 21.74      1CCP19
+ATOM   3527  CA  PRO A 233     -11.673  27.131  20.149  1.00 21.06      1CCP19
+ATOM   3528  C   PRO A 233     -11.146  27.171  18.723  1.00 24.29      1CCP19
+ATOM   3529  O   PRO A 233     -11.371  26.213  17.915  1.00 23.07      1CCP19
+ATOM   3530  CB  PRO A 233     -12.797  28.143  20.426  1.00 20.82      1CCP19
+ATOM   3531  CG  PRO A 233     -12.648  28.353  21.943  1.00 21.02      1CCP19
+ATOM   3532  CD  PRO A 233     -11.106  28.563  22.063  1.00 19.94      1CCP19
+ATOM   3533  HA  PRO A 233     -12.023  26.096  20.277  1.00 21.06      1CCP H   new
+ATOM   3534 1HB  PRO A 233     -12.661  29.078  19.863  1.00 20.82      1CCP H   new
+ATOM   3535 2HB  PRO A 233     -13.787  27.747  20.158  1.00 20.82      1CCP H   new
+ATOM   3536 1HG  PRO A 233     -13.216  29.225  22.301  1.00 21.02      1CCP H   new
+ATOM   3537 2HG  PRO A 233     -12.996  27.484  22.520  1.00 21.02      1CCP H   new
+ATOM   3538 1HD  PRO A 233     -10.801  29.586  21.796  1.00 19.94      1CCP H   new
+ATOM   3539 2HD  PRO A 233     -10.736  28.372  23.081  1.00 19.94      1CCP H   new
+ATOM   3540  N   THR A 234     -10.437  28.273  18.418  1.00 21.49      1CCP19
+ATOM   3541  CA  THR A 234      -9.898  28.427  17.049  1.00 20.41      1CCP19
+ATOM   3542  C   THR A 234      -8.863  27.369  16.763  1.00 20.65      1CCP19
+ATOM   3543  O   THR A 234      -8.722  26.959  15.592  1.00 22.96      1CCP19
+ATOM   3544  CB  THR A 234      -9.340  29.887  16.759  1.00 19.61      1CCP19
+ATOM   3545  OG1 THR A 234      -8.487  30.178  17.898  1.00 18.84      1CCP19
+ATOM   3546  CG2 THR A 234     -10.461  30.928  16.731  1.00 17.51      1CCP19
+ATOM   3547  H   THR A 234     -10.234  29.021  19.049  1.00 21.49      1CCP H   new
+ATOM   3548  HA  THR A 234     -10.741  28.286  16.356  1.00 20.41      1CCP H   new
+ATOM   3549  HB  THR A 234      -8.830  29.926  15.785  1.00 19.61      1CCP H   new
+ATOM   3550  HG1 THR A 234      -8.091  31.090  17.794  1.00 18.84      1CCP H   new
+ATOM   3551 1HG2 THR A 234     -10.035  31.921  16.528  1.00 17.51      1CCP H   new
+ATOM   3552 2HG2 THR A 234     -11.182  30.671  15.941  1.00 17.51      1CCP H   new
+ATOM   3553 3HG2 THR A 234     -10.974  30.941  17.704  1.00 17.51      1CCP H   new
+ATOM   3554  N   ASP A 235      -8.111  26.943  17.765  1.00 21.12      1CCP19
+ATOM   3555  CA  ASP A 235      -7.114  25.883  17.534  1.00 22.30      1CCP19
+ATOM   3556  C   ASP A 235      -7.884  24.596  17.236  1.00 23.57      1CCP19
+ATOM   3557  O   ASP A 235      -7.538  23.879  16.295  1.00 22.52      1CCP19
+ATOM   3558  CB  ASP A 235      -6.208  25.641  18.758  1.00 23.10      1CCP19
+ATOM   3559  CG  ASP A 235      -5.374  26.873  19.070  1.00 26.02      1CCP19
+ATOM   3560  OD1 ASP A 235      -4.814  27.482  18.113  1.00 24.54      1CCP19
+ATOM   3561  OD2 ASP A 235      -5.305  27.159  20.281  1.00 24.84      1CCP19
+ATOM   3562  H   ASP A 235      -8.158  27.288  18.703  1.00 21.12      1CCP H   new
+ATOM   3563  HA  ASP A 235      -6.462  26.190  16.703  1.00 22.30      1CCP H   new
+ATOM   3564 1HB  ASP A 235      -6.825  25.381  19.630  1.00 23.10      1CCP H   new
+ATOM   3565 2HB  ASP A 235      -5.546  24.784  18.565  1.00 23.10      1CCP H   new
+ATOM   3566  N   TYR A 236      -8.839  24.312  18.117  1.00 26.51      1CCP19
+ATOM   3567  CA  TYR A 236      -9.676  23.094  18.091  1.00 30.48      1CCP19
+ATOM   3568  C   TYR A 236     -10.413  22.888  16.761  1.00 28.93      1CCP19
+ATOM   3569  O   TYR A 236     -10.491  21.783  16.197  1.00 27.48      1CCP19
+ATOM   3570  CB  TYR A 236     -10.709  23.110  19.261  1.00 35.20      1CCP19
+ATOM   3571  CG  TYR A 236     -11.175  21.703  19.556  1.00 38.69      1CCP19
+ATOM   3572  CD1 TYR A 236     -12.463  21.271  19.250  1.00 41.96      1CCP19
+ATOM   3573  CD2 TYR A 236     -10.267  20.785  20.070  1.00 38.37      1CCP19
+ATOM   3574  CE1 TYR A 236     -12.870  19.959  19.524  1.00 43.08      1CCP19
+ATOM   3575  CE2 TYR A 236     -10.642  19.473  20.332  1.00 43.55      1CCP19
+ATOM   3576  CZ  TYR A 236     -11.943  19.067  20.066  1.00 45.08      1CCP19
+ATOM   3577  OH  TYR A 236     -12.263  17.753  20.338  1.00 49.33      1CCP19
+ATOM   3578  H   TYR A 236      -9.062  24.921  18.878  1.00 26.51      1CCP H   new
+ATOM   3579  HA  TYR A 236      -8.981  22.250  18.211  1.00 30.48      1CCP H   new
+ATOM   3580 1HB  TYR A 236     -10.252  23.550  20.159  1.00 35.20      1CCP H   new
+ATOM   3581 2HB  TYR A 236     -11.569  23.742  18.994  1.00 35.20      1CCP H   new
+ATOM   3582  HD1 TYR A 236     -13.172  21.972  18.785  1.00 41.96      1CCP H   new
+ATOM   3583  HD2 TYR A 236      -9.234  21.103  20.273  1.00 38.37      1CCP H   new
+ATOM   3584  HE1 TYR A 236     -13.901  19.637  19.316  1.00 43.08      1CCP H   new
+ATOM   3585  HE2 TYR A 236      -9.913  18.761  20.747  1.00 43.55      1CCP H   new
+ATOM   3586  HH  TYR A 236     -11.465  17.287  20.719  1.00 49.33      1CCP H   new
+ATOM   3587  N   SER A 237     -10.871  24.044  16.293  1.00 24.47      1CCP19
+ATOM   3588  CA  SER A 237     -11.606  24.064  15.027  1.00 24.93      1CCP19
+ATOM   3589  C   SER A 237     -10.740  23.463  13.937  1.00 22.85      1CCP20
+ATOM   3590  O   SER A 237     -11.298  23.041  12.891  1.00 23.06      1CCP20
+ATOM   3591  CB  SER A 237     -12.054  25.498  14.728  1.00 25.50      1CCP20
+ATOM   3592  OG  SER A 237     -11.119  25.978  13.742  1.00 29.38      1CCP20
+ATOM   3593  H   SER A 237     -10.757  24.932  16.739  1.00 24.47      1CCP H   new
+ATOM   3594  HA  SER A 237     -12.517  23.450  15.085  1.00 24.93      1CCP H   new
+ATOM   3595 1HB  SER A 237     -12.032  26.120  15.635  1.00 25.50      1CCP H   new
+ATOM   3596 2HB  SER A 237     -13.085  25.523  14.346  1.00 25.50      1CCP H   new
+ATOM   3597  HG  SER A 237     -11.349  26.919  13.494  1.00 29.38      1CCP H   new
+ATOM   3598  N   LEU A 238      -9.442  23.371  14.151  1.00 20.96      1CCP20
+ATOM   3599  CA  LEU A 238      -8.594  22.814  13.076  1.00 25.27      1CCP20
+ATOM   3600  C   LEU A 238      -8.886  21.333  12.847  1.00 26.94      1CCP20
+ATOM   3601  O   LEU A 238      -8.515  20.774  11.793  1.00 27.75      1CCP20
+ATOM   3602  CB  LEU A 238      -7.121  23.163  13.281  1.00 25.88      1CCP20
+ATOM   3603  CG  LEU A 238      -6.627  24.602  13.163  1.00 26.42      1CCP20
+ATOM   3604  CD1 LEU A 238      -5.071  24.621  13.160  1.00 27.23      1CCP20
+ATOM   3605  CD2 LEU A 238      -7.098  25.276  11.893  1.00 22.93      1CCP20
+ATOM   3606  H   LEU A 238      -8.967  23.647  14.987  1.00 20.96      1CCP H   new
+ATOM   3607  HA  LEU A 238      -8.860  23.301  12.126  1.00 25.27      1CCP H   new
+ATOM   3608 1HB  LEU A 238      -6.844  22.809  14.285  1.00 25.88      1CCP H   new
+ATOM   3609 2HB  LEU A 238      -6.545  22.565  12.559  1.00 25.88      1CCP H   new
+ATOM   3610  HG  LEU A 238      -7.038  25.149  14.024  1.00 26.42      1CCP H   new
+ATOM   3611 1HD1 LEU A 238      -4.717  25.659  13.075  1.00 27.23      1CCP H   new
+ATOM   3612 2HD1 LEU A 238      -4.697  24.182  14.096  1.00 27.23      1CCP H   new
+ATOM   3613 3HD1 LEU A 238      -4.698  24.036  12.306  1.00 27.23      1CCP H   new
+ATOM   3614 1HD2 LEU A 238      -6.714  26.306  11.860  1.00 22.93      1CCP H   new
+ATOM   3615 2HD2 LEU A 238      -6.725  24.718  11.021  1.00 22.93      1CCP H   new
+ATOM   3616 3HD2 LEU A 238      -8.198  25.294  11.873  1.00 22.93      1CCP H   new
+ATOM   3617  N   ILE A 239      -9.466  20.692  13.860  1.00 30.87      1CCP20
+ATOM   3618  CA  ILE A 239      -9.789  19.260  13.709  1.00 31.04      1CCP20
+ATOM   3619  C   ILE A 239     -11.274  19.088  13.416  1.00 33.98      1CCP20
+ATOM   3620  O   ILE A 239     -11.606  17.961  13.055  1.00 36.16      1CCP20
+ATOM   3621  CB  ILE A 239      -9.284  18.369  14.858  1.00 28.24      1CCP20
+ATOM   3622  CG1 ILE A 239      -9.787  18.954  16.195  1.00 30.29      1CCP20
+ATOM   3623  CG2 ILE A 239      -7.766  18.170  14.737  1.00 28.45      1CCP20
+ATOM   3624  CD1 ILE A 239      -9.323  18.077  17.408  1.00 32.96      1CCP20
+ATOM   3625  H   ILE A 239      -9.711  21.101  14.739  1.00 30.87      1CCP H   new
+ATOM   3626  HA  ILE A 239      -9.223  18.892  12.841  1.00 31.04      1CCP H   new
+ATOM   3627  HB  ILE A 239      -9.695  17.350  14.808  1.00 28.24      1CCP H   new
+ATOM   3628 1HG1 ILE A 239      -9.409  19.980  16.315  1.00 30.29      1CCP H   new
+ATOM   3629 2HG1 ILE A 239     -10.885  19.015  16.182  1.00 30.29      1CCP H   new
+ATOM   3630 1HG2 ILE A 239      -7.412  17.533  15.561  1.00 28.45      1CCP H   new
+ATOM   3631 2HG2 ILE A 239      -7.534  17.688  13.776  1.00 28.45      1CCP H   new
+ATOM   3632 3HG2 ILE A 239      -7.262  19.147  14.788  1.00 28.45      1CCP H   new
+ATOM   3633 1HD1 ILE A 239      -9.696  18.518  18.344  1.00 32.96      1CCP H   new
+ATOM   3634 2HD1 ILE A 239      -9.723  17.058  17.299  1.00 32.96      1CCP H   new
+ATOM   3635 3HD1 ILE A 239      -8.224  18.038  17.434  1.00 32.96      1CCP H   new
+ATOM   3636  N   GLN A 240     -12.042  20.160  13.521  1.00 33.76      1CCP20
+ATOM   3637  CA  GLN A 240     -13.474  20.093  13.196  1.00 34.94      1CCP20
+ATOM   3638  C   GLN A 240     -13.695  20.219  11.704  1.00 36.22      1CCP20
+ATOM   3639  O   GLN A 240     -14.655  19.663  11.149  1.00 41.65      1CCP20
+ATOM   3640  CB  GLN A 240     -14.286  21.088  14.007  1.00 37.21      1CCP20
+ATOM   3641  CG  GLN A 240     -14.007  20.869  15.515  1.00 45.42      1CCP20
+ATOM   3642  CD  GLN A 240     -14.683  21.984  16.304  1.00 51.99      1CCP20
+ATOM   3643  OE1 GLN A 240     -14.540  23.188  15.985  1.00 55.11      1CCP20
+ATOM   3644  NE2 GLN A 240     -15.463  21.568  17.309  1.00 50.95      1CCP20
+ATOM   3645  H   GLN A 240     -11.720  21.059  13.817  1.00 33.76      1CCP H   new
+ATOM   3646  HA  GLN A 240     -13.846  19.100  13.488  1.00 34.94      1CCP H   new
+ATOM   3647 1HB  GLN A 240     -14.022  22.116  13.719  1.00 37.21      1CCP H   new
+ATOM   3648 2HB  GLN A 240     -15.358  20.961  13.798  1.00 37.21      1CCP H   new
+ATOM   3649 1HG  GLN A 240     -14.390  19.889  15.835  1.00 45.42      1CCP H   new
+ATOM   3650 2HG  GLN A 240     -12.924  20.869  15.706  1.00 45.42      1CCP H   new
+ATOM   3651 1HE2 GLN A 240     -15.973  22.233  17.854  1.00 50.95      1CCP H   new
+ATOM   3652 2HE2 GLN A 240     -15.536  20.592  17.515  1.00 50.95      1CCP H   new
+ATOM   3653  N   ASP A 241     -12.861  20.935  10.994  1.00 34.46      1CCP20
+ATOM   3654  CA  ASP A 241     -12.979  21.154   9.551  1.00 27.82      1CCP20
+ATOM   3655  C   ASP A 241     -12.159  20.064   8.883  1.00 29.46      1CCP20
+ATOM   3656  O   ASP A 241     -10.995  19.831   9.221  1.00 33.64      1CCP20
+ATOM   3657  CB  ASP A 241     -12.495  22.554   9.199  1.00 29.09      1CCP20
+ATOM   3658  CG  ASP A 241     -12.552  22.819   7.718  1.00 27.78      1CCP20
+ATOM   3659  OD1 ASP A 241     -13.509  23.501   7.342  1.00 27.58      1CCP20
+ATOM   3660  OD2 ASP A 241     -11.663  22.371   6.968  1.00 31.28      1CCP20
+ATOM   3661  H   ASP A 241     -12.068  21.392  11.396  1.00 34.46      1CCP H   new
+ATOM   3662  HA  ASP A 241     -14.021  21.096   9.202  1.00 27.82      1CCP H   new
+ATOM   3663 1HB  ASP A 241     -13.111  23.297   9.727  1.00 29.09      1CCP H   new
+ATOM   3664 2HB  ASP A 241     -11.462  22.683   9.553  1.00 29.09      1CCP H   new
+ATOM   3665  N   PRO A 242     -12.804  19.417   7.926  1.00 31.01      1CCP20
+ATOM   3666  CA  PRO A 242     -12.182  18.329   7.178  1.00 29.23      1CCP20
+ATOM   3667  C   PRO A 242     -10.955  18.706   6.371  1.00 29.22      1CCP20
+ATOM   3668  O   PRO A 242     -10.014  17.910   6.200  1.00 27.50      1CCP20
+ATOM   3669  CB  PRO A 242     -13.272  17.840   6.214  1.00 29.61      1CCP20
+ATOM   3670  CG  PRO A 242     -14.458  18.717   6.409  1.00 30.35      1CCP20
+ATOM   3671  CD  PRO A 242     -14.202  19.673   7.544  1.00 29.87      1CCP20
+ATOM   3672  HA  PRO A 242     -11.819  17.579   7.897  1.00 29.23      1CCP H   new
+ATOM   3673 1HB  PRO A 242     -12.920  17.889   5.173  1.00 29.61      1CCP H   new
+ATOM   3674 2HB  PRO A 242     -13.528  16.790   6.418  1.00 29.61      1CCP H   new
+ATOM   3675 1HG  PRO A 242     -14.668  19.277   5.486  1.00 30.35      1CCP H   new
+ATOM   3676 2HG  PRO A 242     -15.347  18.106   6.625  1.00 30.35      1CCP H   new
+ATOM   3677 1HD  PRO A 242     -14.348  20.717   7.230  1.00 29.87      1CCP H   new
+ATOM   3678 2HD  PRO A 242     -14.888  19.491   8.385  1.00 29.87      1CCP H   new
+ATOM   3679  N   LYS A 243     -11.031  19.878   5.773  1.00 28.23      1CCP20
+ATOM   3680  CA  LYS A 243      -9.904  20.376   4.957  1.00 30.45      1CCP20
+ATOM   3681  C   LYS A 243      -8.747  20.632   5.929  1.00 30.61      1CCP20
+ATOM   3682  O   LYS A 243      -7.586  20.173   5.774  1.00 30.89      1CCP20
+ATOM   3683  CB  LYS A 243     -10.405  21.625   4.256  1.00 35.42      1CCP20
+ATOM   3684  CG  LYS A 243     -11.232  21.306   2.992  1.00 43.07      1CCP20
+ATOM   3685  CD  LYS A 243     -12.520  22.133   2.956  1.00 49.70      1CCP20
+ATOM   3686  CE  LYS A 243     -13.438  21.835   4.140  1.00 53.28      1CCP20
+ATOM   3687  NZ  LYS A 243     -14.250  23.014   4.569  1.00 52.64      1CCP20
+ATOM   3688  H   LYS A 243     -11.820  20.491   5.823  1.00 28.23      1CCP H   new
+ATOM   3689  HA  LYS A 243      -9.544  19.680   4.185  1.00 30.45      1CCP H   new
+ATOM   3690 1HB  LYS A 243     -11.021  22.211   4.954  1.00 35.42      1CCP H   new
+ATOM   3691 2HB  LYS A 243      -9.547  22.254   3.979  1.00 35.42      1CCP H   new
+ATOM   3692 1HG  LYS A 243     -10.632  21.515   2.094  1.00 43.07      1CCP H   new
+ATOM   3693 2HG  LYS A 243     -11.479  20.234   2.971  1.00 43.07      1CCP H   new
+ATOM   3694 1HD  LYS A 243     -12.265  23.203   2.954  1.00 49.70      1CCP H   new
+ATOM   3695 2HD  LYS A 243     -13.058  21.928   2.018  1.00 49.70      1CCP H   new
+ATOM   3696 1HE  LYS A 243     -14.115  21.010   3.872  1.00 53.28      1CCP H   new
+ATOM   3697 2HE  LYS A 243     -12.830  21.489   4.989  1.00 53.28      1CCP H   new
+ATOM   3698 1HZ  LYS A 243     -14.828  22.757   5.344  1.00 52.64      1CCP H + new
+ATOM   3699 2HZ  LYS A 243     -13.640  23.758   4.841  1.00 52.64      1CCP H + new
+ATOM   3700 3HZ  LYS A 243     -14.826  23.316   3.810  1.00 52.64      1CCP H + new
+ATOM   3701  N   TYR A 244      -9.067  21.336   7.021  1.00 26.25      1CCP20
+ATOM   3702  CA  TYR A 244      -8.008  21.628   8.006  1.00 24.49      1CCP20
+ATOM   3703  C   TYR A 244      -7.412  20.351   8.570  1.00 27.16      1CCP20
+ATOM   3704  O   TYR A 244      -6.157  20.245   8.653  1.00 29.10      1CCP20
+ATOM   3705  CB  TYR A 244      -8.395  22.609   9.105  1.00 21.00      1CCP20
+ATOM   3706  CG  TYR A 244      -8.630  24.060   8.740  1.00 22.62      1CCP20
+ATOM   3707  CD1 TYR A 244      -9.609  24.811   9.391  1.00 18.36      1CCP20
+ATOM   3708  CD2 TYR A 244      -7.894  24.684   7.706  1.00 21.62      1CCP20
+ATOM   3709  CE1 TYR A 244      -9.795  26.175   9.112  1.00 22.41      1CCP20
+ATOM   3710  CE2 TYR A 244      -8.107  26.028   7.373  1.00 21.61      1CCP20
+ATOM   3711  CZ  TYR A 244      -9.049  26.762   8.083  1.00 23.16      1CCP20
+ATOM   3712  OH  TYR A 244      -9.239  28.075   7.747  1.00 27.63      1CCP20
+ATOM   3713  H   TYR A 244      -9.976  21.691   7.238  1.00 26.25      1CCP H   new
+ATOM   3714  HA  TYR A 244      -7.231  22.158   7.435  1.00 24.49      1CCP H   new
+ATOM   3715 1HB  TYR A 244      -9.313  22.232   9.579  1.00 21.00      1CCP H   new
+ATOM   3716 2HB  TYR A 244      -7.604  22.582   9.869  1.00 21.00      1CCP H   new
+ATOM   3717  HD1 TYR A 244     -10.250  24.324  10.140  1.00 18.36      1CCP H   new
+ATOM   3718  HD2 TYR A 244      -7.141  24.104   7.153  1.00 21.62      1CCP H   new
+ATOM   3719  HE1 TYR A 244     -10.514  26.772   9.692  1.00 22.41      1CCP H   new
+ATOM   3720  HE2 TYR A 244      -7.535  26.497   6.559  1.00 21.61      1CCP H   new
+ATOM   3721  HH  TYR A 244      -8.625  28.320   6.997  1.00 27.63      1CCP H   new
+ATOM   3722  N   LEU A 245      -8.275  19.430   9.005  1.00 26.77      1CCP20
+ATOM   3723  CA  LEU A 245      -7.795  18.205   9.680  1.00 26.16      1CCP20
+ATOM   3724  C   LEU A 245      -6.813  17.393   8.872  1.00 26.18      1CCP20
+ATOM   3725  O   LEU A 245      -5.842  16.798   9.412  1.00 26.15      1CCP20
+ATOM   3726  CB  LEU A 245      -9.049  17.409  10.149  1.00 29.44      1CCP20
+ATOM   3727  CG  LEU A 245      -8.694  15.964  10.546  1.00 29.89      1CCP20
+ATOM   3728  CD1 LEU A 245      -7.837  15.980  11.804  1.00 24.97      1CCP20
+ATOM   3729  CD2 LEU A 245      -9.964  15.143  10.754  1.00 30.31      1CCP20
+ATOM   3730  H   LEU A 245      -9.268  19.497   8.911  1.00 26.77      1CCP H   new
+ATOM   3731  HA  LEU A 245      -7.189  18.484  10.554  1.00 26.16      1CCP H   new
+ATOM   3732 1HB  LEU A 245      -9.510  17.922  11.006  1.00 29.44      1CCP H   new
+ATOM   3733 2HB  LEU A 245      -9.797  17.395   9.343  1.00 29.44      1CCP H   new
+ATOM   3734  HG  LEU A 245      -8.120  15.491   9.736  1.00 29.89      1CCP H   new
+ATOM   3735 1HD1 LEU A 245      -7.583  14.948  12.088  1.00 24.97      1CCP H   new
+ATOM   3736 2HD1 LEU A 245      -6.913  16.545  11.612  1.00 24.97      1CCP H   new
+ATOM   3737 3HD1 LEU A 245      -8.395  16.458  12.622  1.00 24.97      1CCP H   new
+ATOM   3738 1HD2 LEU A 245      -9.694  14.115  11.037  1.00 30.31      1CCP H   new
+ATOM   3739 2HD2 LEU A 245     -10.567  15.596  11.554  1.00 30.31      1CCP H   new
+ATOM   3740 3HD2 LEU A 245     -10.547  15.125   9.821  1.00 30.31      1CCP H   new
+ATOM   3741  N   SER A 246      -6.999  17.362   7.552  1.00 28.19      1CCP20
+ATOM   3742  CA  SER A 246      -5.990  16.555   6.791  1.00 32.16      1CCP20
+ATOM   3743  C   SER A 246      -4.634  17.236   6.796  1.00 33.24      1CCP20
+ATOM   3744  O   SER A 246      -3.620  16.500   6.748  1.00 31.52      1CCP20
+ATOM   3745  CB  SER A 246      -6.490  16.308   5.368  1.00 34.70      1CCP20
+ATOM   3746  OG  SER A 246      -7.201  17.484   5.018  1.00 41.63      1CCP20
+ATOM   3747  H   SER A 246      -7.724  17.810   7.029  1.00 28.19      1CCP H   new
+ATOM   3748  HA  SER A 246      -5.864  15.581   7.287  1.00 32.16      1CCP H   new
+ATOM   3749 1HB  SER A 246      -7.140  15.422   5.323  1.00 34.70      1CCP H   new
+ATOM   3750 2HB  SER A 246      -5.653  16.129   4.677  1.00 34.70      1CCP H   new
+ATOM   3751  HG  SER A 246      -7.561  17.393   4.089  1.00 41.63      1CCP H   new
+ATOM   3752  N   ILE A 247      -4.600  18.583   6.874  1.00 31.13      1CCP20
+ATOM   3753  CA  ILE A 247      -3.300  19.286   6.935  1.00 25.41      1CCP20
+ATOM   3754  C   ILE A 247      -2.677  19.070   8.293  1.00 23.10      1CCP20
+ATOM   3755  O   ILE A 247      -1.480  18.712   8.399  1.00 26.24      1CCP20
+ATOM   3756  CB  ILE A 247      -3.404  20.787   6.506  1.00 25.99      1CCP20
+ATOM   3757  CG1 ILE A 247      -4.115  20.840   5.122  1.00 25.76      1CCP20
+ATOM   3758  CG2 ILE A 247      -1.989  21.442   6.442  1.00 23.44      1CCP20
+ATOM   3759  CD1 ILE A 247      -4.678  22.240   4.733  1.00 24.50      1CCP20
+ATOM   3760  H   ILE A 247      -5.406  19.175   6.895  1.00 31.13      1CCP H   new
+ATOM   3761  HA  ILE A 247      -2.619  18.850   6.189  1.00 25.41      1CCP H   new
+ATOM   3762  HB  ILE A 247      -3.986  21.357   7.245  1.00 25.99      1CCP H   new
+ATOM   3763 1HG1 ILE A 247      -3.404  20.518   4.347  1.00 25.76      1CCP H   new
+ATOM   3764 2HG1 ILE A 247      -4.942  20.114   5.122  1.00 25.76      1CCP H   new
+ATOM   3765 1HG2 ILE A 247      -2.085  22.495   6.139  1.00 23.44      1CCP H   new
+ATOM   3766 2HG2 ILE A 247      -1.514  21.388   7.433  1.00 23.44      1CCP H   new
+ATOM   3767 3HG2 ILE A 247      -1.369  20.905   5.709  1.00 23.44      1CCP H   new
+ATOM   3768 1HD1 ILE A 247      -5.160  22.181   3.746  1.00 24.50      1CCP H   new
+ATOM   3769 2HD1 ILE A 247      -5.417  22.560   5.482  1.00 24.50      1CCP H   new
+ATOM   3770 3HD1 ILE A 247      -3.855  22.969   4.696  1.00 24.50      1CCP H   new
+ATOM   3771  N   VAL A 248      -3.459  19.239   9.337  1.00 20.93      1CCP20
+ATOM   3772  CA  VAL A 248      -2.971  18.963  10.693  1.00 20.45      1CCP20
+ATOM   3773  C   VAL A 248      -2.268  17.602  10.697  1.00 26.06      1CCP20
+ATOM   3774  O   VAL A 248      -1.183  17.411  11.243  1.00 25.48      1CCP20
+ATOM   3775  CB  VAL A 248      -4.124  18.985  11.718  1.00 19.34      1CCP20
+ATOM   3776  CG1 VAL A 248      -3.646  18.411  13.087  1.00 17.05      1CCP20
+ATOM   3777  CG2 VAL A 248      -4.647  20.400  11.877  1.00 18.78      1CCP20
+ATOM   3778  H   VAL A 248      -4.406  19.555   9.288  1.00 20.93      1CCP H   new
+ATOM   3779  HA  VAL A 248      -2.260  19.749  10.988  1.00 20.45      1CCP H   new
+ATOM   3780  HB  VAL A 248      -4.943  18.349  11.350  1.00 19.34      1CCP H   new
+ATOM   3781 1HG1 VAL A 248      -4.479  18.434  13.806  1.00 17.05      1CCP H   new
+ATOM   3782 2HG1 VAL A 248      -3.307  17.373  12.952  1.00 17.05      1CCP H   new
+ATOM   3783 3HG1 VAL A 248      -2.815  19.021  13.471  1.00 17.05      1CCP H   new
+ATOM   3784 1HG2 VAL A 248      -5.468  20.408  12.609  1.00 18.78      1CCP H   new
+ATOM   3785 2HG2 VAL A 248      -3.836  21.054  12.230  1.00 18.78      1CCP H   new
+ATOM   3786 3HG2 VAL A 248      -5.017  20.766  10.908  1.00 18.78      1CCP H   new
+ATOM   3787  N   LYS A 249      -2.955  16.611  10.085  1.00 31.09      1CCP20
+ATOM   3788  CA  LYS A 249      -2.390  15.246  10.096  1.00 32.76      1CCP20
+ATOM   3789  C   LYS A 249      -1.025  15.194   9.428  1.00 31.83      1CCP20
+ATOM   3790  O   LYS A 249      -0.096  14.485   9.857  1.00 33.20      1CCP20
+ATOM   3791  CB  LYS A 249      -3.328  14.235   9.426  1.00 34.52      1CCP20
+ATOM   3792  CG  LYS A 249      -4.650  14.058  10.199  1.00 36.82      1CCP20
+ATOM   3793  CD  LYS A 249      -5.493  13.049   9.413  1.00 42.12      1CCP21
+ATOM   3794  CE  LYS A 249      -6.411  12.258  10.342  1.00 45.02      1CCP21
+ATOM   3795  NZ  LYS A 249      -7.643  11.919   9.555  1.00 45.67      1CCP21
+ATOM   3796  H   LYS A 249      -3.831  16.717   9.614  1.00 31.09      1CCP H   new
+ATOM   3797  HA  LYS A 249      -2.274  14.970  11.155  1.00 32.76      1CCP H   new
+ATOM   3798 1HB  LYS A 249      -3.548  14.567   8.400  1.00 34.52      1CCP H   new
+ATOM   3799 2HB  LYS A 249      -2.819  13.263   9.348  1.00 34.52      1CCP H   new
+ATOM   3800 1HG  LYS A 249      -4.459  13.695  11.220  1.00 36.82      1CCP H   new
+ATOM   3801 2HG  LYS A 249      -5.178  15.018  10.293  1.00 36.82      1CCP H   new
+ATOM   3802 1HD  LYS A 249      -6.095  13.577   8.659  1.00 42.12      1CCP H   new
+ATOM   3803 2HD  LYS A 249      -4.832  12.358   8.870  1.00 42.12      1CCP H   new
+ATOM   3804 1HE  LYS A 249      -5.912  11.344  10.697  1.00 45.02      1CCP H   new
+ATOM   3805 2HE  LYS A 249      -6.668  12.851  11.232  1.00 45.02      1CCP H   new
+ATOM   3806 1HZ  LYS A 249      -8.274  11.398  10.130  1.00 45.67      1CCP H + new
+ATOM   3807 2HZ  LYS A 249      -8.088  12.762   9.252  1.00 45.67      1CCP H + new
+ATOM   3808 3HZ  LYS A 249      -7.390  11.371   8.758  1.00 45.67      1CCP H + new
+ATOM   3809  N   GLU A 250      -0.941  15.893   8.306  1.00 31.86      1CCP21
+ATOM   3810  CA  GLU A 250       0.336  15.873   7.546  1.00 33.64      1CCP21
+ATOM   3811  C   GLU A 250       1.483  16.407   8.397  1.00 30.12      1CCP21
+ATOM   3812  O   GLU A 250       2.630  15.925   8.424  1.00 29.55      1CCP21
+ATOM   3813  CB  GLU A 250       0.103  16.715   6.314  1.00 38.78      1CCP21
+ATOM   3814  CG  GLU A 250       0.975  16.505   5.073  1.00 49.24      1CCP21
+ATOM   3815  CD  GLU A 250       0.519  17.499   4.002  1.00 54.35      1CCP21
+ATOM   3816  OE1 GLU A 250      -0.662  17.929   4.036  1.00 55.37      1CCP21
+ATOM   3817  OE2 GLU A 250       1.432  17.797   3.208  1.00 57.51      1CCP21
+ATOM   3818  H   GLU A 250      -1.674  16.447   7.911  1.00 31.86      1CCP H   new
+ATOM   3819  HA  GLU A 250       0.626  14.850   7.264  1.00 33.64      1CCP H   new
+ATOM   3820 1HB  GLU A 250      -0.943  16.567   6.009  1.00 38.78      1CCP H   new
+ATOM   3821 2HB  GLU A 250       0.205  17.769   6.613  1.00 38.78      1CCP H   new
+ATOM   3822 1HG  GLU A 250       2.036  16.662   5.317  1.00 49.24      1CCP H   new
+ATOM   3823 2HG  GLU A 250       0.879  15.473   4.706  1.00 49.24      1CCP H   new
+ATOM   3824  N   TYR A 251       1.144  17.466   9.148  1.00 27.46      1CCP21
+ATOM   3825  CA  TYR A 251       2.138  18.152   9.968  1.00 28.07      1CCP21
+ATOM   3826  C   TYR A 251       2.515  17.312  11.178  1.00 28.82      1CCP21
+ATOM   3827  O   TYR A 251       3.706  17.352  11.535  1.00 29.17      1CCP21
+ATOM   3828  CB  TYR A 251       1.829  19.599  10.321  1.00 24.19      1CCP21
+ATOM   3829  CG  TYR A 251       1.770  20.521   9.108  1.00 20.10      1CCP21
+ATOM   3830  CD1 TYR A 251       0.892  21.592   9.102  1.00 20.69      1CCP21
+ATOM   3831  CD2 TYR A 251       2.484  20.245   7.951  1.00 20.41      1CCP21
+ATOM   3832  CE1 TYR A 251       0.809  22.453   8.008  1.00 19.43      1CCP21
+ATOM   3833  CE2 TYR A 251       2.399  21.073   6.827  1.00 18.27      1CCP21
+ATOM   3834  CZ  TYR A 251       1.568  22.171   6.890  1.00 19.94      1CCP21
+ATOM   3835  OH  TYR A 251       1.446  23.009   5.797  1.00 22.61      1CCP21
+ATOM   3836  H   TYR A 251       0.222  17.849   9.200  1.00 27.46      1CCP H   new
+ATOM   3837  HA  TYR A 251       3.022  18.251   9.320  1.00 28.07      1CCP H   new
+ATOM   3838 1HB  TYR A 251       0.866  19.641  10.851  1.00 24.19      1CCP H   new
+ATOM   3839 2HB  TYR A 251       2.596  19.970  11.017  1.00 24.19      1CCP H   new
+ATOM   3840  HD1 TYR A 251       0.248  21.767   9.976  1.00 20.69      1CCP H   new
+ATOM   3841  HD2 TYR A 251       3.131  19.356   7.917  1.00 20.41      1CCP H   new
+ATOM   3842  HE1 TYR A 251       0.154  23.336   8.035  1.00 19.43      1CCP H   new
+ATOM   3843  HE2 TYR A 251       2.979  20.854   5.918  1.00 18.27      1CCP H   new
+ATOM   3844  HH  TYR A 251       2.047  22.691   5.064  1.00 22.61      1CCP H   new
+ATOM   3845  N   ALA A 252       1.519  16.615  11.689  1.00 30.70      1CCP21
+ATOM   3846  CA  ALA A 252       1.741  15.730  12.871  1.00 30.68      1CCP21
+ATOM   3847  C   ALA A 252       2.693  14.617  12.440  1.00 30.34      1CCP21
+ATOM   3848  O   ALA A 252       3.534  14.140  13.191  1.00 29.34      1CCP21
+ATOM   3849  CB  ALA A 252       0.411  15.235  13.358  1.00 27.43      1CCP21
+ATOM   3850  H   ALA A 252       0.582  16.625  11.340  1.00 30.70      1CCP H   new
+ATOM   3851  HA  ALA A 252       2.206  16.257  13.717  1.00 30.68      1CCP H   new
+ATOM   3852 1HB  ALA A 252       0.559  14.581  14.230  1.00 27.43      1CCP H   new
+ATOM   3853 2HB  ALA A 252      -0.217  16.091  13.645  1.00 27.43      1CCP H   new
+ATOM   3854 3HB  ALA A 252      -0.086  14.669  12.556  1.00 27.43      1CCP H   new
+ATOM   3855  N   ASN A 253       2.589  14.293  11.165  1.00 34.12      1CCP21
+ATOM   3856  CA  ASN A 253       3.401  13.235  10.560  1.00 40.38      1CCP21
+ATOM   3857  C   ASN A 253       4.751  13.612  10.002  1.00 42.17      1CCP21
+ATOM   3858  O   ASN A 253       5.619  12.727   9.845  1.00 43.38      1CCP21
+ATOM   3859  CB  ASN A 253       2.523  12.659   9.404  1.00 47.14      1CCP21
+ATOM   3860  CG  ASN A 253       1.740  11.499  10.025  1.00 57.03      1CCP21
+ATOM   3861  OD1 ASN A 253       2.364  10.416  10.077  1.00 62.78      1CCP21
+ATOM   3862  ND2 ASN A 253       0.517  11.708  10.522  1.00 57.66      1CCP21
+ATOM   3863  H   ASN A 253       1.959  14.739  10.529  1.00 34.12      1CCP H   new
+ATOM   3864  HA  ASN A 253       3.658  12.535  11.368  1.00 40.38      1CCP H   new
+ATOM   3865 1HB  ASN A 253       1.844  13.426   9.003  1.00 47.14      1CCP H   new
+ATOM   3866 2HB  ASN A 253       3.147  12.313   8.567  1.00 47.14      1CCP H   new
+ATOM   3867 1HD2 ASN A 253       0.029  10.964  10.979  1.00 57.66      1CCP H   new
+ATOM   3868 2HD2 ASN A 253       0.090  12.608  10.437  1.00 57.66      1CCP H   new
+ATOM   3869  N   ASP A 254       4.883  14.878   9.621  1.00 39.23      1CCP21
+ATOM   3870  CA  ASP A 254       6.120  15.333   8.979  1.00 37.47      1CCP21
+ATOM   3871  C   ASP A 254       6.501  16.761   9.390  1.00 36.09      1CCP21
+ATOM   3872  O   ASP A 254       5.957  17.716   8.816  1.00 30.79      1CCP21
+ATOM   3873  CB  ASP A 254       5.877  15.204   7.465  1.00 36.46      1CCP21
+ATOM   3874  CG  ASP A 254       7.174  15.486   6.735  1.00 37.72      1CCP21
+ATOM   3875  OD1 ASP A 254       8.223  15.735   7.344  1.00 38.11      1CCP21
+ATOM   3876  OD2 ASP A 254       7.076  15.474   5.493  1.00 43.85      1CCP21
+ATOM   3877  H   ASP A 254       4.183  15.582   9.737  1.00 39.23      1CCP H   new
+ATOM   3878  HA  ASP A 254       6.978  14.722   9.296  1.00 37.47      1CCP H   new
+ATOM   3879 1HB  ASP A 254       5.516  14.194   7.222  1.00 36.46      1CCP H   new
+ATOM   3880 2HB  ASP A 254       5.098  15.910   7.143  1.00 36.46      1CCP H   new
+ATOM   3881  N   GLN A 255       7.401  16.835  10.346  1.00 35.86      1CCP21
+ATOM   3882  CA  GLN A 255       7.909  18.081  10.911  1.00 36.65      1CCP21
+ATOM   3883  C   GLN A 255       8.658  18.883   9.837  1.00 35.65      1CCP21
+ATOM   3884  O   GLN A 255       8.570  20.133   9.830  1.00 33.32      1CCP21
+ATOM   3885  CB  GLN A 255       8.721  17.873  12.168  1.00 38.23      1CCP21
+ATOM   3886  CG  GLN A 255       9.427  19.127  12.665  1.00 46.38      1CCP21
+ATOM   3887  CD  GLN A 255       9.796  19.062  14.123  1.00 50.62      1CCP21
+ATOM   3888  OE1 GLN A 255       9.411  19.830  14.988  1.00 54.74      1CCP21
+ATOM   3889  NE2 GLN A 255      10.585  18.057  14.483  1.00 56.14      1CCP21
+ATOM   3890  H   GLN A 255       7.809  16.022  10.762  1.00 35.86      1CCP H   new
+ATOM   3891  HA  GLN A 255       7.045  18.680  11.236  1.00 36.65      1CCP H   new
+ATOM   3892 1HB  GLN A 255       8.058  17.499  12.962  1.00 38.23      1CCP H   new
+ATOM   3893 2HB  GLN A 255       9.472  17.092  11.981  1.00 38.23      1CCP H   new
+ATOM   3894 1HG  GLN A 255      10.338  19.287  12.070  1.00 46.38      1CCP H   new
+ATOM   3895 2HG  GLN A 255       8.776  19.997  12.497  1.00 46.38      1CCP H   new
+ATOM   3896 1HE2 GLN A 255      10.848  17.946  15.442  1.00 56.14      1CCP H   new
+ATOM   3897 2HE2 GLN A 255      10.917  17.411  13.796  1.00 56.14      1CCP H   new
+ATOM   3898  N   ASP A 256       9.319  18.202   8.932  1.00 36.07      1CCP21
+ATOM   3899  CA  ASP A 256      10.045  18.862   7.834  1.00 41.21      1CCP21
+ATOM   3900  C   ASP A 256       9.075  19.663   6.970  1.00 38.19      1CCP21
+ATOM   3901  O   ASP A 256       9.235  20.845   6.718  1.00 36.31      1CCP21
+ATOM   3902  CB  ASP A 256      10.816  17.838   6.992  1.00 53.50      1CCP21
+ATOM   3903  CG  ASP A 256      12.083  17.468   7.772  1.00 65.68      1CCP21
+ATOM   3904  OD1 ASP A 256      12.023  17.208   8.997  1.00 70.81      1CCP21
+ATOM   3905  OD2 ASP A 256      13.145  17.495   7.098  1.00 72.91      1CCP21
+ATOM   3906  H   ASP A 256       9.378  17.204   8.921  1.00 36.07      1CCP H   new
+ATOM   3907  HA  ASP A 256      10.780  19.556   8.268  1.00 41.21      1CCP H   new
+ATOM   3908 1HB  ASP A 256      10.200  16.946   6.807  1.00 53.50      1CCP H   new
+ATOM   3909 2HB  ASP A 256      11.075  18.260   6.010  1.00 53.50      1CCP H   new
+ATOM   3910  N   LYS A 257       8.053  18.961   6.547  1.00 35.39      1CCP21
+ATOM   3911  CA  LYS A 257       6.983  19.516   5.718  1.00 34.83      1CCP21
+ATOM   3912  C   LYS A 257       6.458  20.793   6.380  1.00 32.17      1CCP21
+ATOM   3913  O   LYS A 257       6.274  21.858   5.795  1.00 28.84      1CCP21
+ATOM   3914  CB  LYS A 257       5.888  18.453   5.632  1.00 37.57      1CCP21
+ATOM   3915  CG  LYS A 257       4.647  18.823   4.836  1.00 42.57      1CCP21
+ATOM   3916  CD  LYS A 257       5.033  19.255   3.417  1.00 48.01      1CCP21
+ATOM   3917  CE  LYS A 257       3.845  19.954   2.768  1.00 52.84      1CCP21
+ATOM   3918  NZ  LYS A 257       4.103  20.470   1.399  1.00 54.58      1CCP21
+ATOM   3919  H   LYS A 257       7.931  17.992   6.761  1.00 35.39      1CCP H   new
+ATOM   3920  HA  LYS A 257       7.334  19.774   4.708  1.00 34.83      1CCP H   new
+ATOM   3921 1HB  LYS A 257       6.323  17.545   5.189  1.00 37.57      1CCP H   new
+ATOM   3922 2HB  LYS A 257       5.577  18.195   6.655  1.00 37.57      1CCP H   new
+ATOM   3923 1HG  LYS A 257       3.962  17.964   4.792  1.00 42.57      1CCP H   new
+ATOM   3924 2HG  LYS A 257       4.108  19.638   5.341  1.00 42.57      1CCP H   new
+ATOM   3925 1HD  LYS A 257       5.900  19.931   3.449  1.00 48.01      1CCP H   new
+ATOM   3926 2HD  LYS A 257       5.330  18.379   2.821  1.00 48.01      1CCP H   new
+ATOM   3927 1HE  LYS A 257       3.000  19.251   2.727  1.00 52.84      1CCP H   new
+ATOM   3928 2HE  LYS A 257       3.535  20.792   3.409  1.00 52.84      1CCP H   new
+ATOM   3929 1HZ  LYS A 257       3.277  20.912   1.048  1.00 54.58      1CCP H + new
+ATOM   3930 2HZ  LYS A 257       4.850  21.135   1.428  1.00 54.58      1CCP H + new
+ATOM   3931 3HZ  LYS A 257       4.356  19.711   0.799  1.00 54.58      1CCP H + new
+ATOM   3932  N   PHE A 258       6.164  20.636   7.673  1.00 28.83      1CCP21
+ATOM   3933  CA  PHE A 258       5.610  21.738   8.459  1.00 27.15      1CCP21
+ATOM   3934  C   PHE A 258       6.566  22.941   8.488  1.00 24.94      1CCP21
+ATOM   3935  O   PHE A 258       6.029  24.050   8.382  1.00 26.32      1CCP21
+ATOM   3936  CB  PHE A 258       5.227  21.318   9.875  1.00 26.01      1CCP21
+ATOM   3937  CG  PHE A 258       5.139  22.441  10.878  1.00 25.38      1CCP21
+ATOM   3938  CD1 PHE A 258       4.252  23.506  10.667  1.00 23.09      1CCP21
+ATOM   3939  CD2 PHE A 258       5.903  22.399  12.039  1.00 24.26      1CCP21
+ATOM   3940  CE1 PHE A 258       4.158  24.532  11.590  1.00 22.87      1CCP21
+ATOM   3941  CE2 PHE A 258       5.809  23.416  12.998  1.00 23.09      1CCP21
+ATOM   3942  CZ  PHE A 258       4.906  24.483  12.770  1.00 21.11      1CCP21
+ATOM   3943  H   PHE A 258       6.296  19.785   8.181  1.00 28.83      1CCP H   new
+ATOM   3944  HA  PHE A 258       4.682  22.042   7.952  1.00 27.15      1CCP H   new
+ATOM   3945 1HB  PHE A 258       4.255  20.805   9.837  1.00 26.01      1CCP H   new
+ATOM   3946 2HB  PHE A 258       5.964  20.585  10.234  1.00 26.01      1CCP H   new
+ATOM   3947  HD1 PHE A 258       3.627  23.526   9.762  1.00 23.09      1CCP H   new
+ATOM   3948  HD2 PHE A 258       6.590  21.556  12.207  1.00 24.26      1CCP H   new
+ATOM   3949  HE1 PHE A 258       3.494  25.387  11.395  1.00 22.87      1CCP H   new
+ATOM   3950  HE2 PHE A 258       6.424  23.386  13.910  1.00 23.09      1CCP H   new
+ATOM   3951  HZ  PHE A 258       4.793  25.276  13.524  1.00 21.11      1CCP H   new
+ATOM   3952  N   PHE A 259       7.830  22.639   8.670  1.00 22.61      1CCP21
+ATOM   3953  CA  PHE A 259       8.902  23.684   8.751  1.00 26.50      1CCP21
+ATOM   3954  C   PHE A 259       8.957  24.449   7.425  1.00 28.19      1CCP21
+ATOM   3955  O   PHE A 259       9.020  25.691   7.426  1.00 28.05      1CCP21
+ATOM   3956  CB  PHE A 259      10.227  23.015   9.102  1.00 22.64      1CCP21
+ATOM   3957  CG  PHE A 259      10.560  22.878  10.552  1.00 24.25      1CCP21
+ATOM   3958  CD1 PHE A 259      11.892  22.782  10.980  1.00 25.89      1CCP21
+ATOM   3959  CD2 PHE A 259       9.564  22.928  11.518  1.00 23.79      1CCP21
+ATOM   3960  CE1 PHE A 259      12.217  22.613  12.330  1.00 26.25      1CCP21
+ATOM   3961  CE2 PHE A 259       9.880  22.751  12.878  1.00 25.76      1CCP21
+ATOM   3962  CZ  PHE A 259      11.218  22.627  13.288  1.00 24.26      1CCP21
+ATOM   3963  H   PHE A 259       8.166  21.702   8.767  1.00 22.61      1CCP H   new
+ATOM   3964  HA  PHE A 259       8.684  24.415   9.543  1.00 26.50      1CCP H   new
+ATOM   3965 1HB  PHE A 259      10.230  22.010   8.655  1.00 22.64      1CCP H   new
+ATOM   3966 2HB  PHE A 259      11.035  23.584   8.619  1.00 22.64      1CCP H   new
+ATOM   3967  HD1 PHE A 259      12.700  22.841  10.236  1.00 25.89      1CCP H   new
+ATOM   3968  HD2 PHE A 259       8.521  23.107  11.218  1.00 23.79      1CCP H   new
+ATOM   3969  HE1 PHE A 259      13.265  22.469  12.630  1.00 26.25      1CCP H   new
+ATOM   3970  HE2 PHE A 259       9.074  22.709  13.625  1.00 25.76      1CCP H   new
+ATOM   3971  HZ  PHE A 259      11.468  22.542  14.356  1.00 24.26      1CCP H   new
+ATOM   3972  N   LYS A 260       8.932  23.718   6.316  1.00 28.25      1CCP21
+ATOM   3973  CA  LYS A 260       8.958  24.320   4.988  1.00 30.09      1CCP21
+ATOM   3974  C   LYS A 260       7.714  25.184   4.785  1.00 26.19      1CCP21
+ATOM   3975  O   LYS A 260       7.807  26.300   4.270  1.00 29.25      1CCP21
+ATOM   3976  CB  LYS A 260       8.976  23.302   3.844  1.00 36.16      1CCP21
+ATOM   3977  CG  LYS A 260      10.363  22.655   3.700  1.00 45.14      1CCP21
+ATOM   3978  CD  LYS A 260      10.240  21.261   3.065  1.00 49.82      1CCP21
+ATOM   3979  H   LYS A 260       8.894  22.719   6.312  1.00 28.25      1CCP H   new
+ATOM   3980  HA  LYS A 260       9.891  24.902   4.953  1.00 30.09      1CCP H   new
+ATOM   3981 1HB  LYS A 260       8.222  22.523   4.030  1.00 36.16      1CCP H   new
+ATOM   3982 2HB  LYS A 260       8.700  23.799   2.902  1.00 36.16      1CCP H   new
+ATOM   3983 1HG  LYS A 260      11.010  23.292   3.079  1.00 45.14      1CCP H   new
+ATOM   3984 2HG  LYS A 260      10.842  22.575   4.687  1.00 45.14      1CCP H   new
+ATOM   3985  N   ASP A 261       6.580  24.657   5.164  1.00 22.51      1CCP22
+ATOM   3986  CA  ASP A 261       5.342  25.417   4.946  1.00 24.50      1CCP22
+ATOM   3987  C   ASP A 261       5.289  26.656   5.819  1.00 22.77      1CCP22
+ATOM   3988  O   ASP A 261       4.775  27.685   5.366  1.00 21.68      1CCP22
+ATOM   3989  CB  ASP A 261       4.099  24.516   5.085  1.00 26.95      1CCP22
+ATOM   3990  CG  ASP A 261       3.968  23.590   3.876  1.00 32.64      1CCP22
+ATOM   3991  OD1 ASP A 261       4.836  23.608   2.999  1.00 35.18      1CCP22
+ATOM   3992  OD2 ASP A 261       2.972  22.841   3.759  1.00 33.69      1CCP22
+ATOM   3993  H   ASP A 261       6.472  23.763   5.599  1.00 22.51      1CCP H   new
+ATOM   3994  HA  ASP A 261       5.340  25.780   3.908  1.00 24.50      1CCP H   new
+ATOM   3995 1HB  ASP A 261       4.173  23.918   6.006  1.00 26.95      1CCP H   new
+ATOM   3996 2HB  ASP A 261       3.196  25.138   5.177  1.00 26.95      1CCP H   new
+ATOM   3997  N   PHE A 262       5.748  26.493   7.065  1.00 20.54      1CCP22
+ATOM   3998  CA  PHE A 262       5.725  27.609   8.018  1.00 20.48      1CCP22
+ATOM   3999  C   PHE A 262       6.604  28.790   7.536  1.00 20.66      1CCP22
+ATOM   4000  O   PHE A 262       6.246  29.961   7.578  1.00 22.07      1CCP22
+ATOM   4001  CB  PHE A 262       6.204  27.129   9.391  1.00 18.12      1CCP22
+ATOM   4002  CG  PHE A 262       6.112  28.268  10.386  1.00 20.34      1CCP22
+ATOM   4003  CD1 PHE A 262       4.926  28.521  11.034  1.00 20.51      1CCP22
+ATOM   4004  CD2 PHE A 262       7.225  29.083  10.641  1.00 21.42      1CCP22
+ATOM   4005  CE1 PHE A 262       4.828  29.532  11.997  1.00 22.26      1CCP22
+ATOM   4006  CE2 PHE A 262       7.140  30.133  11.555  1.00 16.81      1CCP22
+ATOM   4007  CZ  PHE A 262       5.949  30.349  12.240  1.00 16.70      1CCP22
+ATOM   4008  H   PHE A 262       6.124  25.639   7.424  1.00 20.54      1CCP H   new
+ATOM   4009  HA  PHE A 262       4.688  27.969   8.092  1.00 20.48      1CCP H   new
+ATOM   4010 1HB  PHE A 262       5.590  26.281   9.730  1.00 18.12      1CCP H   new
+ATOM   4011 2HB  PHE A 262       7.241  26.769   9.324  1.00 18.12      1CCP H   new
+ATOM   4012  HD1 PHE A 262       4.038  27.918  10.791  1.00 20.51      1CCP H   new
+ATOM   4013  HD2 PHE A 262       8.173  28.892  10.116  1.00 21.42      1CCP H   new
+ATOM   4014  HE1 PHE A 262       3.892  29.686  12.554  1.00 22.26      1CCP H   new
+ATOM   4015  HE2 PHE A 262       8.008  30.785  11.733  1.00 16.81      1CCP H   new
+ATOM   4016  HZ  PHE A 262       5.882  31.163  12.976  1.00 16.70      1CCP H   new
+ATOM   4017  N   SER A 263       7.781  28.379   7.123  1.00 19.46      1CCP22
+ATOM   4018  CA  SER A 263       8.803  29.309   6.631  1.00 25.41      1CCP22
+ATOM   4019  C   SER A 263       8.150  30.178   5.560  1.00 25.36      1CCP22
+ATOM   4020  O   SER A 263       8.167  31.422   5.686  1.00 28.62      1CCP22
+ATOM   4021  CB  SER A 263       9.999  28.508   6.128  1.00 26.42      1CCP22
+ATOM   4022  OG  SER A 263      11.027  29.401   5.706  1.00 34.70      1CCP22
+ATOM   4023  H   SER A 263       8.062  27.419   7.114  1.00 19.46      1CCP H   new
+ATOM   4024  HA  SER A 263       9.187  29.975   7.417  1.00 25.41      1CCP H   new
+ATOM   4025 1HB  SER A 263       9.695  27.860   5.292  1.00 26.42      1CCP H   new
+ATOM   4026 2HB  SER A 263      10.375  27.850   6.925  1.00 26.42      1CCP H   new
+ATOM   4027  HG  SER A 263      11.811  28.875   5.376  1.00 34.70      1CCP H   new
+ATOM   4028  N   LYS A 264       7.611  29.544   4.523  1.00 24.49      1CCP22
+ATOM   4029  CA  LYS A 264       6.995  30.310   3.430  1.00 25.93      1CCP22
+ATOM   4030  C   LYS A 264       5.872  31.214   3.906  1.00 25.14      1CCP22
+ATOM   4031  O   LYS A 264       5.761  32.385   3.534  1.00 25.02      1CCP22
+ATOM   4032  CB  LYS A 264       6.422  29.407   2.347  1.00 32.81      1CCP22
+ATOM   4033  CG  LYS A 264       7.509  28.899   1.399  1.00 43.65      1CCP22
+ATOM   4034  CD  LYS A 264       6.990  27.634   0.684  1.00 51.66      1CCP22
+ATOM   4035  CE  LYS A 264       8.096  27.060  -0.198  1.00 57.79      1CCP22
+ATOM   4036  NZ  LYS A 264       8.916  26.044   0.548  1.00 60.05      1CCP22
+ATOM   4037  H   LYS A 264       7.585  28.550   4.413  1.00 24.49      1CCP H   new
+ATOM   4038  HA  LYS A 264       7.815  30.920   3.024  1.00 25.93      1CCP H   new
+ATOM   4039 1HB  LYS A 264       5.913  28.551   2.814  1.00 32.81      1CCP H   new
+ATOM   4040 2HB  LYS A 264       5.663  29.958   1.773  1.00 32.81      1CCP H   new
+ATOM   4041 1HG  LYS A 264       7.766  29.675   0.663  1.00 43.65      1CCP H   new
+ATOM   4042 2HG  LYS A 264       8.428  28.671   1.959  1.00 43.65      1CCP H   new
+ATOM   4043 1HD  LYS A 264       6.670  26.886   1.424  1.00 51.66      1CCP H   new
+ATOM   4044 2HD  LYS A 264       6.109  27.880   0.073  1.00 51.66      1CCP H   new
+ATOM   4045 1HE  LYS A 264       7.652  26.594  -1.090  1.00 57.79      1CCP H   new
+ATOM   4046 2HE  LYS A 264       8.747  27.874  -0.550  1.00 57.79      1CCP H   new
+ATOM   4047 1HZ  LYS A 264       9.631  25.686  -0.053  1.00 60.05      1CCP H + new
+ATOM   4048 2HZ  LYS A 264       9.337  26.476   1.346  1.00 60.05      1CCP H + new
+ATOM   4049 3HZ  LYS A 264       8.326  25.294   0.848  1.00 60.05      1CCP H + new
+ATOM   4050  N   ALA A 265       4.981  30.617   4.711  1.00 23.84      1CCP22
+ATOM   4051  CA  ALA A 265       3.808  31.397   5.167  1.00 23.36      1CCP22
+ATOM   4052  C   ALA A 265       4.184  32.567   6.070  1.00 23.80      1CCP22
+ATOM   4053  O   ALA A 265       3.499  33.625   6.020  1.00 25.46      1CCP22
+ATOM   4054  CB  ALA A 265       2.825  30.440   5.848  1.00 16.37      1CCP22
+ATOM   4055  H   ALA A 265       5.034  29.674   5.040  1.00 23.84      1CCP H   new
+ATOM   4056  HA  ALA A 265       3.331  31.859   4.290  1.00 23.36      1CCP H   new
+ATOM   4057 1HB  ALA A 265       1.945  31.002   6.194  1.00 16.37      1CCP H   new
+ATOM   4058 2HB  ALA A 265       2.508  29.668   5.131  1.00 16.37      1CCP H   new
+ATOM   4059 3HB  ALA A 265       3.315  29.961   6.708  1.00 16.37      1CCP H   new
+ATOM   4060  N   PHE A 266       5.214  32.338   6.874  1.00 19.84      1CCP22
+ATOM   4061  CA  PHE A 266       5.653  33.355   7.850  1.00 20.20      1CCP22
+ATOM   4062  C   PHE A 266       6.247  34.577   7.121  1.00 19.41      1CCP22
+ATOM   4063  O   PHE A 266       5.883  35.744   7.411  1.00 19.18      1CCP22
+ATOM   4064  CB  PHE A 266       6.531  32.735   8.931  1.00 18.32      1CCP22
+ATOM   4065  CG  PHE A 266       6.696  33.577  10.163  1.00 19.18      1CCP22
+ATOM   4066  CD1 PHE A 266       7.982  33.938  10.612  1.00 22.56      1CCP22
+ATOM   4067  CD2 PHE A 266       5.580  34.062  10.837  1.00 19.77      1CCP22
+ATOM   4068  CE1 PHE A 266       8.155  34.730  11.753  1.00 20.63      1CCP22
+ATOM   4069  CE2 PHE A 266       5.715  34.855  11.982  1.00 21.80      1CCP22
+ATOM   4070  CZ  PHE A 266       7.031  35.197  12.432  1.00 21.44      1CCP22
+ATOM   4071  H   PHE A 266       5.749  31.493   6.879  1.00 19.84      1CCP H   new
+ATOM   4072  HA  PHE A 266       4.788  33.750   8.403  1.00 20.20      1CCP H   new
+ATOM   4073 1HB  PHE A 266       6.102  31.765   9.221  1.00 18.32      1CCP H   new
+ATOM   4074 2HB  PHE A 266       7.525  32.533   8.506  1.00 18.32      1CCP H   new
+ATOM   4075  HD1 PHE A 266       8.866  33.591  10.056  1.00 22.56      1CCP H   new
+ATOM   4076  HD2 PHE A 266       4.574  33.818  10.464  1.00 19.77      1CCP H   new
+ATOM   4077  HE1 PHE A 266       9.165  34.981  12.109  1.00 20.63      1CCP H   new
+ATOM   4078  HE2 PHE A 266       4.827  35.209  12.526  1.00 21.80      1CCP H   new
+ATOM   4079  HZ  PHE A 266       7.156  35.833  13.321  1.00 21.44      1CCP H   new
+ATOM   4080  N   GLU A 267       7.129  34.268   6.182  1.00 18.99      1CCP22
+ATOM   4081  CA  GLU A 267       7.738  35.306   5.344  1.00 21.16      1CCP22
+ATOM   4082  C   GLU A 267       6.627  36.073   4.617  1.00 21.88      1CCP22
+ATOM   4083  O   GLU A 267       6.522  37.298   4.735  1.00 22.21      1CCP22
+ATOM   4084  CB  GLU A 267       8.695  34.763   4.282  1.00 21.24      1CCP22
+ATOM   4085  CG  GLU A 267       9.235  35.956   3.475  1.00 26.08      1CCP22
+ATOM   4086  CD  GLU A 267      10.374  35.701   2.554  1.00 29.82      1CCP22
+ATOM   4087  OE1 GLU A 267      11.042  36.653   2.080  1.00 29.97      1CCP22
+ATOM   4088  OE2 GLU A 267      10.544  34.476   2.324  1.00 26.37      1CCP22
+ATOM   4089  H   GLU A 267       7.435  33.337   5.982  1.00 18.99      1CCP H   new
+ATOM   4090  HA  GLU A 267       8.322  35.945   6.022  1.00 21.16      1CCP H   new
+ATOM   4091 1HB  GLU A 267       9.522  34.212   4.755  1.00 21.24      1CCP H   new
+ATOM   4092 2HB  GLU A 267       8.174  34.055   3.620  1.00 21.24      1CCP H   new
+ATOM   4093 1HG  GLU A 267       8.405  36.369   2.883  1.00 26.08      1CCP H   new
+ATOM   4094 2HG  GLU A 267       9.542  36.737   4.187  1.00 26.08      1CCP H   new
+ATOM   4095  N   LYS A 268       5.751  35.343   3.943  1.00 21.89      1CCP22
+ATOM   4096  CA  LYS A 268       4.600  35.955   3.257  1.00 20.75      1CCP22
+ATOM   4097  C   LYS A 268       3.815  36.905   4.154  1.00 20.21      1CCP22
+ATOM   4098  O   LYS A 268       3.411  38.027   3.809  1.00 18.85      1CCP22
+ATOM   4099  CB  LYS A 268       3.638  34.858   2.769  1.00 22.79      1CCP22
+ATOM   4100  CG  LYS A 268       2.335  35.468   2.193  1.00 24.10      1CCP22
+ATOM   4101  CD  LYS A 268       1.609  34.384   1.391  1.00 26.31      1CCP22
+ATOM   4102  CE  LYS A 268       0.250  34.886   0.925  1.00 25.85      1CCP22
+ATOM   4103  NZ  LYS A 268      -0.465  33.751   0.264  1.00 23.45      1CCP22
+ATOM   4104  H   LYS A 268       5.805  34.349   3.853  1.00 21.89      1CCP H   new
+ATOM   4105  HA  LYS A 268       5.010  36.532   2.415  1.00 20.75      1CCP H   new
+ATOM   4106 1HB  LYS A 268       4.133  34.249   1.998  1.00 22.79      1CCP H   new
+ATOM   4107 2HB  LYS A 268       3.393  34.184   3.603  1.00 22.79      1CCP H   new
+ATOM   4108 1HG  LYS A 268       1.693  35.837   3.006  1.00 24.10      1CCP H   new
+ATOM   4109 2HG  LYS A 268       2.567  36.330   1.550  1.00 24.10      1CCP H   new
+ATOM   4110 1HD  LYS A 268       2.217  34.093   0.522  1.00 26.31      1CCP H   new
+ATOM   4111 2HD  LYS A 268       1.482  33.484   2.011  1.00 26.31      1CCP H   new
+ATOM   4112 1HE  LYS A 268      -0.333  35.262   1.778  1.00 25.85      1CCP H   new
+ATOM   4113 2HE  LYS A 268       0.371  35.724   0.223  1.00 25.85      1CCP H   new
+ATOM   4114 1HZ  LYS A 268      -1.363  34.060  -0.051  1.00 23.45      1CCP H + new
+ATOM   4115 2HZ  LYS A 268       0.069  33.430  -0.518  1.00 23.45      1CCP H + new
+ATOM   4116 3HZ  LYS A 268      -0.581  33.003   0.918  1.00 23.45      1CCP H + new
+ATOM   4117  N   LEU A 269       3.518  36.419   5.339  1.00 18.72      1CCP22
+ATOM   4118  CA  LEU A 269       2.780  37.172   6.331  1.00 19.77      1CCP22
+ATOM   4119  C   LEU A 269       3.451  38.503   6.608  1.00 22.15      1CCP22
+ATOM   4120  O   LEU A 269       2.760  39.498   6.808  1.00 21.31      1CCP22
+ATOM   4121  CB  LEU A 269       2.720  36.316   7.624  1.00 18.97      1CCP22
+ATOM   4122  CG  LEU A 269       2.139  37.040   8.843  1.00 21.81      1CCP22
+ATOM   4123  CD1 LEU A 269       0.592  37.047   8.666  1.00 24.68      1CCP22
+ATOM   4124  CD2 LEU A 269       2.372  36.274  10.152  1.00 20.40      1CCP22
+ATOM   4125  H   LEU A 269       3.778  35.501   5.638  1.00 18.72      1CCP H   new
+ATOM   4126  HA  LEU A 269       1.766  37.387   5.964  1.00 19.77      1CCP H   new
+ATOM   4127 1HB  LEU A 269       2.116  35.418   7.426  1.00 18.97      1CCP H   new
+ATOM   4128 2HB  LEU A 269       3.736  35.973   7.868  1.00 18.97      1CCP H   new
+ATOM   4129  HG  LEU A 269       2.613  38.031   8.901  1.00 21.81      1CCP H   new
+ATOM   4130 1HD1 LEU A 269       0.127  37.559   9.521  1.00 24.68      1CCP H   new
+ATOM   4131 2HD1 LEU A 269       0.331  37.575   7.737  1.00 24.68      1CCP H   new
+ATOM   4132 3HD1 LEU A 269       0.224  36.012   8.614  1.00 24.68      1CCP H   new
+ATOM   4133 1HD2 LEU A 269       1.936  36.838  10.990  1.00 20.40      1CCP H   new
+ATOM   4134 2HD2 LEU A 269       1.895  35.285  10.088  1.00 20.40      1CCP H   new
+ATOM   4135 3HD2 LEU A 269       3.452  36.150  10.317  1.00 20.40      1CCP H   new
+ATOM   4136  N   LEU A 270       4.768  38.468   6.750  1.00 23.59      1CCP22
+ATOM   4137  CA  LEU A 270       5.629  39.590   7.131  1.00 23.17      1CCP22
+ATOM   4138  C   LEU A 270       5.866  40.573   5.973  1.00 26.24      1CCP22
+ATOM   4139  O   LEU A 270       6.134  41.761   6.220  1.00 25.13      1CCP22
+ATOM   4140  CB  LEU A 270       6.937  39.063   7.705  1.00 22.35      1CCP22
+ATOM   4141  CG  LEU A 270       6.947  38.373   9.052  1.00 25.07      1CCP22
+ATOM   4142  CD1 LEU A 270       8.361  38.002   9.516  1.00 22.94      1CCP22
+ATOM   4143  CD2 LEU A 270       6.288  39.242  10.114  1.00 25.93      1CCP22
+ATOM   4144  H   LEU A 270       5.288  37.628   6.598  1.00 23.59      1CCP H   new
+ATOM   4145  HA  LEU A 270       5.109  40.168   7.909  1.00 23.17      1CCP H   new
+ATOM   4146 1HB  LEU A 270       7.355  38.357   6.972  1.00 22.35      1CCP H   new
+ATOM   4147 2HB  LEU A 270       7.633  39.912   7.767  1.00 22.35      1CCP H   new
+ATOM   4148  HG  LEU A 270       6.375  37.442   8.921  1.00 25.07      1CCP H   new
+ATOM   4149 1HD1 LEU A 270       8.307  37.506  10.496  1.00 22.94      1CCP H   new
+ATOM   4150 2HD1 LEU A 270       8.820  37.320   8.785  1.00 22.94      1CCP H   new
+ATOM   4151 3HD1 LEU A 270       8.971  38.914   9.600  1.00 22.94      1CCP H   new
+ATOM   4152 1HD2 LEU A 270       6.308  38.719  11.081  1.00 25.93      1CCP H   new
+ATOM   4153 2HD2 LEU A 270       6.834  40.193  10.201  1.00 25.93      1CCP H   new
+ATOM   4154 3HD2 LEU A 270       5.245  39.443   9.828  1.00 25.93      1CCP H   new
+ATOM   4155  N   GLU A 271       5.712  40.053   4.767  1.00 23.65      1CCP22
+ATOM   4156  CA  GLU A 271       5.900  40.874   3.560  1.00 24.19      1CCP22
+ATOM   4157  C   GLU A 271       4.593  41.302   2.968  1.00 25.42      1CCP22
+ATOM   4158  O   GLU A 271       4.629  42.070   1.983  1.00 28.33      1CCP22
+ATOM   4159  CB  GLU A 271       6.742  40.086   2.558  1.00 19.68      1CCP22
+ATOM   4160  CG  GLU A 271       8.167  39.921   3.188  1.00 19.44      1CCP22
+ATOM   4161  CD  GLU A 271       9.029  39.048   2.341  1.00 22.74      1CCP22
+ATOM   4162  OE1 GLU A 271      10.191  38.736   2.660  1.00 25.77      1CCP22
+ATOM   4163  OE2 GLU A 271       8.458  38.630   1.305  1.00 21.63      1CCP22
+ATOM   4164  H   GLU A 271       5.466  39.100   4.591  1.00 23.65      1CCP H   new
+ATOM   4165  HA  GLU A 271       6.428  41.800   3.832  1.00 24.19      1CCP H   new
+ATOM   4166 1HB  GLU A 271       6.289  39.104   2.356  1.00 19.68      1CCP H   new
+ATOM   4167 2HB  GLU A 271       6.801  40.617   1.596  1.00 19.68      1CCP H   new
+ATOM   4168 1HG  GLU A 271       8.638  40.908   3.302  1.00 19.44      1CCP H   new
+ATOM   4169 2HG  GLU A 271       8.079  39.489   4.196  1.00 19.44      1CCP H   new
+ATOM   4170  N   ASN A 272       3.442  40.934   3.546  1.00 24.98      1CCP A
+ATOM   4171  CA  ASN A 272       2.188  41.396   2.919  1.00 27.43      1CCP A
+ATOM   4172  C   ASN A 272       2.123  42.942   2.899  1.00 27.54      1CCP A
+ATOM   4173  O   ASN A 272       2.396  43.575   3.938  1.00 26.12      1CCP A
+ATOM   4174  CB  ASN A 272       0.879  40.878   3.518  1.00 29.24      1CCP A
+ATOM   4175  CG  ASN A 272       0.454  39.484   3.108  1.00 28.89      1CCP A
+ATOM   4176  OD1 ASN A 272       0.765  38.974   2.014  1.00 25.14      1CCP A
+ATOM   4177  ND2 ASN A 272      -0.175  38.874   4.020  1.00 30.27      1CCP A
+ATOM   4178  H   ASN A 272       3.348  40.372   4.368  1.00 24.98      1CCP H   new
+ATOM   4179  HA  ASN A 272       2.248  40.960   1.911  1.00 27.43      1CCP H   new
+ATOM   4180 1HB  ASN A 272       0.968  40.902   4.614  1.00 29.24      1CCP H   new
+ATOM   4181 2HB  ASN A 272       0.075  41.577   3.245  1.00 29.24      1CCP H   new
+ATOM   4182 1HD2 ASN A 272      -0.454  37.923   3.885  1.00 30.27      1CCP H   new
+ATOM   4183 2HD2 ASN A 272      -0.394  39.343   4.876  1.00 30.27      1CCP H   new
+ATOM   4184  N   GLY A 273       1.645  43.437   1.757  1.00 26.20      1CCP23
+ATOM   4185  CA  GLY A 273       1.424  44.871   1.596  1.00 28.34      1CCP23
+ATOM   4186  C   GLY A 273       2.677  45.627   1.146  1.00 30.86      1CCP23
+ATOM   4187  O   GLY A 273       2.669  46.884   1.000  1.00 34.93      1CCP23
+ATOM   4188  H   GLY A 273       1.411  42.885   0.957  1.00 26.20      1CCP H   new
+ATOM   4189 1HA  GLY A 273       0.623  45.032   0.860  1.00 28.34      1CCP H   new
+ATOM   4190 2HA  GLY A 273       1.073  45.291   2.550  1.00 28.34      1CCP H   new
+ATOM   4191  N   ILE A 274       3.740  44.898   0.855  1.00 28.28      1CCP23
+ATOM   4192  CA  ILE A 274       4.984  45.553   0.490  1.00 28.05      1CCP23
+ATOM   4193  C   ILE A 274       5.375  45.221  -0.939  1.00 30.84      1CCP23
+ATOM   4194  O   ILE A 274       5.322  44.042  -1.256  1.00 29.65      1CCP23
+ATOM   4195  CB  ILE A 274       6.176  45.225   1.457  1.00 27.51      1CCP23
+ATOM   4196  CG1 ILE A 274       5.690  45.394   2.924  1.00 25.27      1CCP23
+ATOM   4197  CG2 ILE A 274       7.426  46.125   1.109  1.00 24.65      1CCP23
+ATOM   4198  CD1 ILE A 274       6.663  44.827   4.002  1.00 24.49      1CCP23
+ATOM   4199  H   ILE A 274       3.769  43.898   0.863  1.00 28.28      1CCP H   new
+ATOM   4200  HA  ILE A 274       4.787  46.631   0.581  1.00 28.05      1CCP H   new
+ATOM   4201  HB  ILE A 274       6.505  44.183   1.331  1.00 27.51      1CCP H   new
+ATOM   4202 1HG1 ILE A 274       5.529  46.464   3.122  1.00 25.27      1CCP H   new
+ATOM   4203 2HG1 ILE A 274       4.715  44.897   3.032  1.00 25.27      1CCP H   new
+ATOM   4204 1HG2 ILE A 274       8.253  45.885   1.793  1.00 24.65      1CCP H   new
+ATOM   4205 2HG2 ILE A 274       7.740  45.932   0.073  1.00 24.65      1CCP H   new
+ATOM   4206 3HG2 ILE A 274       7.156  47.186   1.218  1.00 24.65      1CCP H   new
+ATOM   4207 1HD1 ILE A 274       6.238  44.991   5.003  1.00 24.49      1CCP H   new
+ATOM   4208 2HD1 ILE A 274       6.806  43.749   3.837  1.00 24.49      1CCP H   new
+ATOM   4209 3HD1 ILE A 274       7.633  45.341   3.928  1.00 24.49      1CCP H   new
+ATOM   4210  N   THR A 275       5.725  46.298  -1.633  1.00 31.05      1CCP23
+ATOM   4211  CA  THR A 275       6.237  46.184  -3.001  1.00 31.99      1CCP23
+ATOM   4212  C   THR A 275       7.775  46.245  -2.992  1.00 28.89      1CCP23
+ATOM   4213  O   THR A 275       8.318  47.222  -2.473  1.00 28.32      1CCP23
+ATOM   4214  CB  THR A 275       5.729  47.398  -3.897  1.00 33.92      1CCP23
+ATOM   4215  OG1 THR A 275       4.271  47.304  -3.766  1.00 36.27      1CCP23
+ATOM   4216  CG2 THR A 275       6.255  47.231  -5.318  1.00 32.39      1CCP23
+ATOM   4217  H   THR A 275       5.667  47.234  -1.286  1.00 31.05      1CCP H   new
+ATOM   4218  HA  THR A 275       5.878  45.228  -3.410  1.00 31.99      1CCP H   new
+ATOM   4219  HB  THR A 275       6.081  48.397  -3.598  1.00 33.92      1CCP H   new
+ATOM   4220  HG1 THR A 275       3.840  48.033  -4.299  1.00 36.27      1CCP H   new
+ATOM   4221 1HG2 THR A 275       5.906  48.069  -5.940  1.00 32.39      1CCP H   new
+ATOM   4222 2HG2 THR A 275       7.355  47.220  -5.303  1.00 32.39      1CCP H   new
+ATOM   4223 3HG2 THR A 275       5.885  46.284  -5.738  1.00 32.39      1CCP H   new
+ATOM   4224  N   PHE A 276       8.397  45.246  -3.552  1.00 26.97      1CCP23
+ATOM   4225  CA  PHE A 276       9.860  45.177  -3.621  1.00 31.43      1CCP23
+ATOM   4226  C   PHE A 276      10.334  45.453  -5.054  1.00 33.98      1CCP23
+ATOM   4227  O   PHE A 276      10.125  44.603  -5.936  1.00 35.75      1CCP23
+ATOM   4228  CB  PHE A 276      10.336  43.807  -3.124  1.00 30.00      1CCP23
+ATOM   4229  CG  PHE A 276      10.062  43.613  -1.663  1.00 30.85      1CCP23
+ATOM   4230  CD1 PHE A 276      10.874  44.267  -0.736  1.00 31.06      1CCP23
+ATOM   4231  CD2 PHE A 276       9.028  42.774  -1.224  1.00 32.07      1CCP23
+ATOM   4232  CE1 PHE A 276      10.666  44.128   0.626  1.00 30.50      1CCP23
+ATOM   4233  CE2 PHE A 276       8.812  42.608   0.154  1.00 33.10      1CCP23
+ATOM   4234  CZ  PHE A 276       9.637  43.284   1.078  1.00 32.32      1CCP23
+ATOM   4235  H   PHE A 276       7.930  44.466  -3.969  1.00 26.97      1CCP H   new
+ATOM   4236  HA  PHE A 276      10.298  45.948  -2.970  1.00 31.43      1CCP H   new
+ATOM   4237 1HB  PHE A 276       9.834  43.015  -3.699  1.00 30.00      1CCP H   new
+ATOM   4238 2HB  PHE A 276      11.415  43.705  -3.310  1.00 30.00      1CCP H   new
+ATOM   4239  HD1 PHE A 276      11.695  44.905  -1.094  1.00 31.06      1CCP H   new
+ATOM   4240  HD2 PHE A 276       8.391  42.250  -1.952  1.00 32.07      1CCP H   new
+ATOM   4241  HE1 PHE A 276      11.298  44.671   1.345  1.00 30.50      1CCP H   new
+ATOM   4242  HE2 PHE A 276       8.003  41.954   0.511  1.00 33.10      1CCP H   new
+ATOM   4243  HZ  PHE A 276       9.474  43.150   2.158  1.00 32.32      1CCP H   new
+ATOM   4244  N   PRO A 277      10.956  46.600  -5.241  1.00 35.66      1CCP23
+ATOM   4245  CA  PRO A 277      11.496  46.984  -6.571  1.00 36.09      1CCP23
+ATOM   4246  C   PRO A 277      12.440  45.860  -6.983  1.00 39.63      1CCP23
+ATOM   4247  O   PRO A 277      12.997  45.203  -6.071  1.00 38.98      1CCP23
+ATOM   4248  CB  PRO A 277      12.289  48.248  -6.353  1.00 31.84      1CCP23
+ATOM   4249  CG  PRO A 277      11.933  48.735  -4.992  1.00 34.45      1CCP23
+ATOM   4250  CD  PRO A 277      11.259  47.614  -4.216  1.00 35.17      1CCP23
+ATOM   4251  HA  PRO A 277      10.720  47.140  -7.335  1.00 36.09      1CCP H   new
+ATOM   4252 1HB  PRO A 277      13.369  48.052  -6.430  1.00 31.84      1CCP H   new
+ATOM   4253 2HB  PRO A 277      12.044  49.002  -7.116  1.00 31.84      1CCP H   new
+ATOM   4254 1HG  PRO A 277      12.836  49.072  -4.462  1.00 34.45      1CCP H   new
+ATOM   4255 2HG  PRO A 277      11.260  49.602  -5.064  1.00 34.45      1CCP H   new
+ATOM   4256 1HD  PRO A 277      11.920  47.211  -3.435  1.00 35.17      1CCP H   new
+ATOM   4257 2HD  PRO A 277      10.345  47.965  -3.714  1.00 35.17      1CCP H   new
+ATOM   4258  N   LYS A 278      12.619  45.736  -8.277  1.00 43.81      1CCP23
+ATOM   4259  CA  LYS A 278      13.495  44.682  -8.822  1.00 47.47      1CCP23
+ATOM   4260  C   LYS A 278      14.952  44.869  -8.427  1.00 47.92      1CCP23
+ATOM   4261  O   LYS A 278      15.744  43.902  -8.550  1.00 48.99      1CCP23
+ATOM   4262  CB  LYS A 278      13.411  44.610 -10.355  1.00 51.29      1CCP23
+ATOM   4263  CG  LYS A 278      14.439  45.456 -11.148  1.00 49.27      1CCP23
+ATOM   4264  H   LYS A 278      12.192  46.323  -8.965  1.00 43.81      1CCP H   new
+ATOM   4265  HA  LYS A 278      13.127  43.742  -8.384  1.00 47.47      1CCP H   new
+ATOM   4266 1HB  LYS A 278      13.526  43.558 -10.656  1.00 51.29      1CCP H   new
+ATOM   4267 2HB  LYS A 278      12.401  44.923 -10.659  1.00 51.29      1CCP H   new
+ATOM   4268  N   ASP A 279      15.297  46.070  -7.997  1.00 48.51      1CCP23
+ATOM   4269  CA  ASP A 279      16.712  46.341  -7.659  1.00 51.83      1CCP23
+ATOM   4270  C   ASP A 279      17.012  46.037  -6.199  1.00 48.01      1CCP23
+ATOM   4271  O   ASP A 279      18.194  45.941  -5.812  1.00 47.04      1CCP23
+ATOM   4272  CB  ASP A 279      17.065  47.732  -8.180  1.00 57.24      1CCP23
+ATOM   4273  CG  ASP A 279      16.479  48.810  -7.285  1.00 62.85      1CCP23
+ATOM   4274  OD1 ASP A 279      15.268  48.922  -7.075  1.00 63.72      1CCP23
+ATOM   4275  OD2 ASP A 279      17.352  49.563  -6.774  1.00 68.55      1CCP23
+ATOM   4276  H   ASP A 279      14.670  46.839  -7.874  1.00 48.51      1CCP H   new
+ATOM   4277  HA  ASP A 279      17.401  45.651  -8.168  1.00 51.83      1CCP H   new
+ATOM   4278 1HB  ASP A 279      18.158  47.844  -8.229  1.00 57.24      1CCP H   new
+ATOM   4279 2HB  ASP A 279      16.683  47.852  -9.205  1.00 57.24      1CCP H   new
+ATOM   4280  N   ALA A 280      15.935  45.857  -5.455  1.00 44.56      1CCP23
+ATOM   4281  CA  ALA A 280      15.967  45.490  -4.035  1.00 39.48      1CCP23
+ATOM   4282  C   ALA A 280      16.799  44.219  -3.883  1.00 37.54      1CCP23
+ATOM   4283  O   ALA A 280      16.812  43.299  -4.723  1.00 39.68      1CCP23
+ATOM   4284  CB  ALA A 280      14.577  45.264  -3.449  1.00 34.90      1CCP23
+ATOM   4285  H   ALA A 280      15.008  45.960  -5.815  1.00 44.56      1CCP H   new
+ATOM   4286  HA  ALA A 280      16.412  46.328  -3.479  1.00 39.48      1CCP H   new
+ATOM   4287 1HB  ALA A 280      14.666  44.993  -2.387  1.00 34.90      1CCP H   new
+ATOM   4288 2HB  ALA A 280      13.984  46.186  -3.543  1.00 34.90      1CCP H   new
+ATOM   4289 3HB  ALA A 280      14.077  44.450  -3.994  1.00 34.90      1CCP H   new
+ATOM   4290  N   PRO A 281      17.521  44.195  -2.763  1.00 37.81      1CCP23
+ATOM   4291  CA  PRO A 281      18.341  43.024  -2.437  1.00 35.94      1CCP23
+ATOM   4292  C   PRO A 281      17.393  41.845  -2.190  1.00 36.13      1CCP23
+ATOM   4293  O   PRO A 281      16.261  42.004  -1.695  1.00 33.75      1CCP23
+ATOM   4294  CB  PRO A 281      19.062  43.416  -1.150  1.00 38.30      1CCP23
+ATOM   4295  CG  PRO A 281      18.265  44.550  -0.560  1.00 38.65      1CCP23
+ATOM   4296  CD  PRO A 281      17.561  45.220  -1.713  1.00 37.31      1CCP23
+ATOM   4297  HA  PRO A 281      19.052  42.735  -3.225  1.00 35.94      1CCP H   new
+ATOM   4298 1HB  PRO A 281      19.115  42.567  -0.453  1.00 38.30      1CCP H   new
+ATOM   4299 2HB  PRO A 281      20.097  43.727  -1.357  1.00 38.30      1CCP H   new
+ATOM   4300 1HG  PRO A 281      17.540  44.177   0.179  1.00 38.65      1CCP H   new
+ATOM   4301 2HG  PRO A 281      18.922  45.260  -0.036  1.00 38.65      1CCP H   new
+ATOM   4302 1HD  PRO A 281      16.549  45.544  -1.431  1.00 37.31      1CCP H   new
+ATOM   4303 2HD  PRO A 281      18.104  46.116  -2.048  1.00 37.31      1CCP H   new
+ATOM   4304  N   SER A 282      17.924  40.693  -2.501  1.00 36.43      1CCP23
+ATOM   4305  CA  SER A 282      17.261  39.416  -2.251  1.00 40.15      1CCP23
+ATOM   4306  C   SER A 282      17.056  39.289  -0.725  1.00 38.04      1CCP23
+ATOM   4307  O   SER A 282      17.724  39.936   0.093  1.00 37.19      1CCP23
+ATOM   4308  CB  SER A 282      18.245  38.286  -2.593  1.00 43.36      1CCP23
+ATOM   4309  OG  SER A 282      18.239  38.042  -3.967  1.00 50.46      1CCP23
+ATOM   4310  H   SER A 282      18.822  40.602  -2.932  1.00 36.43      1CCP H   new
+ATOM   4311  HA  SER A 282      16.326  39.361  -2.828  1.00 40.15      1CCP H   new
+ATOM   4312 1HB  SER A 282      17.968  37.371  -2.049  1.00 43.36      1CCP H   new
+ATOM   4313 2HB  SER A 282      19.259  38.560  -2.266  1.00 43.36      1CCP H   new
+ATOM   4314  HG  SER A 282      18.882  37.306  -4.178  1.00 50.46      1CCP H   new
+ATOM   4315  N   PRO A 283      16.142  38.404  -0.401  1.00 37.39      1CCP23
+ATOM   4316  CA  PRO A 283      15.871  38.108   1.028  1.00 36.23      1CCP23
+ATOM   4317  C   PRO A 283      17.157  37.556   1.656  1.00 33.82      1CCP23
+ATOM   4318  O   PRO A 283      17.933  36.750   1.102  1.00 32.70      1CCP23
+ATOM   4319  CB  PRO A 283      14.747  37.083   0.967  1.00 35.80      1CCP23
+ATOM   4320  CG  PRO A 283      14.091  37.329  -0.390  1.00 35.74      1CCP23
+ATOM   4321  CD  PRO A 283      15.302  37.598  -1.298  1.00 34.80      1CCP23
+ATOM   4322  HA  PRO A 283      15.578  38.972   1.643  1.00 36.23      1CCP H   new
+ATOM   4323 1HB  PRO A 283      15.134  36.056   1.046  1.00 35.80      1CCP H   new
+ATOM   4324 2HB  PRO A 283      14.031  37.221   1.791  1.00 35.80      1CCP H   new
+ATOM   4325 1HG  PRO A 283      13.510  36.458  -0.728  1.00 35.74      1CCP H   new
+ATOM   4326 2HG  PRO A 283      13.401  38.185  -0.363  1.00 35.74      1CCP H   new
+ATOM   4327 1HD  PRO A 283      15.800  36.670  -1.615  1.00 34.80      1CCP H   new
+ATOM   4328 2HD  PRO A 283      15.025  38.143  -2.213  1.00 34.80      1CCP H   new
+ATOM   4329  N   PHE A 284      17.426  38.045   2.845  1.00 33.16      1CCP23
+ATOM   4330  CA  PHE A 284      18.582  37.602   3.644  1.00 31.26      1CCP23
+ATOM   4331  C   PHE A 284      18.173  36.348   4.451  1.00 31.44      1CCP23
+ATOM   4332  O   PHE A 284      17.030  36.165   4.943  1.00 30.33      1CCP23
+ATOM   4333  CB  PHE A 284      19.037  38.677   4.591  1.00 28.59      1CCP23
+ATOM   4334  CG  PHE A 284      19.331  40.054   4.130  1.00 33.46      1CCP23
+ATOM   4335  CD1 PHE A 284      18.776  41.169   4.768  1.00 32.79      1CCP23
+ATOM   4336  CD2 PHE A 284      20.176  40.294   3.034  1.00 35.47      1CCP23
+ATOM   4337  CE1 PHE A 284      19.060  42.467   4.422  1.00 31.86      1CCP23
+ATOM   4338  CE2 PHE A 284      20.482  41.597   2.643  1.00 33.34      1CCP23
+ATOM   4339  CZ  PHE A 284      19.922  42.676   3.345  1.00 33.67      1CCP23
+ATOM   4340  H   PHE A 284      16.871  38.747   3.290  1.00 33.16      1CCP H   new
+ATOM   4341  HA  PHE A 284      19.415  37.373   2.963  1.00 31.26      1CCP H   new
+ATOM   4342 1HB  PHE A 284      18.265  38.761   5.370  1.00 28.59      1CCP H   new
+ATOM   4343 2HB  PHE A 284      19.949  38.304   5.080  1.00 28.59      1CCP H   new
+ATOM   4344  HD1 PHE A 284      18.071  40.995   5.595  1.00 32.79      1CCP H   new
+ATOM   4345  HD2 PHE A 284      20.601  39.445   2.478  1.00 35.47      1CCP H   new
+ATOM   4346  HE1 PHE A 284      18.623  43.312   4.974  1.00 31.86      1CCP H   new
+ATOM   4347  HE2 PHE A 284      21.156  41.778   1.793  1.00 33.34      1CCP H   new
+ATOM   4348  HZ  PHE A 284      20.167  43.704   3.041  1.00 33.67      1CCP H   new
+ATOM   4349  N   ILE A 285      19.167  35.511   4.659  1.00 31.14      1CCP23
+ATOM   4350  CA  ILE A 285      19.014  34.340   5.531  1.00 30.92      1CCP23
+ATOM   4351  C   ILE A 285      20.073  34.495   6.621  1.00 28.83      1CCP23
+ATOM   4352  O   ILE A 285      21.247  34.289   6.280  1.00 28.22      1CCP23
+ATOM   4353  CB  ILE A 285      19.188  32.996   4.781  1.00 34.70      1CCP23
+ATOM   4354  CG1 ILE A 285      17.893  32.739   3.981  1.00 38.73      1CCP23
+ATOM   4355  CG2 ILE A 285      19.451  31.809   5.768  1.00 35.83      1CCP23
+ATOM   4356  CD1 ILE A 285      18.199  32.409   2.500  1.00 43.63      1CCP23
+ATOM   4357  H   ILE A 285      20.075  35.608   4.250  1.00 31.14      1CCP H   new
+ATOM   4358  HA  ILE A 285      17.993  34.305   5.940  1.00 30.92      1CCP H   new
+ATOM   4359  HB  ILE A 285      20.062  33.059   4.116  1.00 34.70      1CCP H   new
+ATOM   4360 1HG1 ILE A 285      17.337  31.906   4.437  1.00 38.73      1CCP H   new
+ATOM   4361 2HG1 ILE A 285      17.245  33.626   4.035  1.00 38.73      1CCP H   new
+ATOM   4362 1HG2 ILE A 285      19.568  30.876   5.197  1.00 35.83      1CCP H   new
+ATOM   4363 2HG2 ILE A 285      20.369  32.005   6.342  1.00 35.83      1CCP H   new
+ATOM   4364 3HG2 ILE A 285      18.601  31.711   6.459  1.00 35.83      1CCP H   new
+ATOM   4365 1HD1 ILE A 285      17.257  32.232   1.961  1.00 43.63      1CCP H   new
+ATOM   4366 2HD1 ILE A 285      18.732  33.253   2.038  1.00 43.63      1CCP H   new
+ATOM   4367 3HD1 ILE A 285      18.826  31.507   2.447  1.00 43.63      1CCP H   new
+ATOM   4368  N   PHE A 286      19.673  34.858   7.822  1.00 27.22      1CCP23
+ATOM   4369  CA  PHE A 286      20.640  35.059   8.902  1.00 24.35      1CCP23
+ATOM   4370  C   PHE A 286      21.170  33.772   9.494  1.00 26.14      1CCP23
+ATOM   4371  O   PHE A 286      20.396  32.811   9.614  1.00 25.31      1CCP23
+ATOM   4372  CB  PHE A 286      20.005  35.886  10.045  1.00 26.35      1CCP24
+ATOM   4373  CG  PHE A 286      19.537  37.183   9.439  1.00 27.73      1CCP24
+ATOM   4374  CD1 PHE A 286      20.520  38.064   8.961  1.00 27.84      1CCP24
+ATOM   4375  CD2 PHE A 286      18.194  37.483   9.321  1.00 28.72      1CCP24
+ATOM   4376  CE1 PHE A 286      20.139  39.269   8.373  1.00 29.07      1CCP24
+ATOM   4377  CE2 PHE A 286      17.785  38.704   8.764  1.00 30.57      1CCP24
+ATOM   4378  CZ  PHE A 286      18.775  39.589   8.272  1.00 29.78      1CCP24
+ATOM   4379  H   PHE A 286      18.719  35.017   8.076  1.00 27.22      1CCP H   new
+ATOM   4380  HA  PHE A 286      21.486  35.591   8.442  1.00 24.35      1CCP H   new
+ATOM   4381 1HB  PHE A 286      19.164  35.342  10.499  1.00 26.35      1CCP H   new
+ATOM   4382 2HB  PHE A 286      20.737  36.071  10.845  1.00 26.35      1CCP H   new
+ATOM   4383  HD1 PHE A 286      21.585  37.805   9.050  1.00 27.84      1CCP H   new
+ATOM   4384  HD2 PHE A 286      17.440  36.760   9.666  1.00 28.72      1CCP H   new
+ATOM   4385  HE1 PHE A 286      20.901  39.964   7.991  1.00 29.07      1CCP H   new
+ATOM   4386  HE2 PHE A 286      16.719  38.968   8.711  1.00 30.57      1CCP H   new
+ATOM   4387  HZ  PHE A 286      18.472  40.538   7.805  1.00 29.78      1CCP H   new
+ATOM   4388  N   LYS A 287      22.421  33.851   9.939  1.00 25.67      1CCP24
+ATOM   4389  CA  LYS A 287      23.024  32.676  10.618  1.00 26.89      1CCP24
+ATOM   4390  C   LYS A 287      22.581  32.732  12.083  1.00 26.51      1CCP24
+ATOM   4391  O   LYS A 287      22.399  33.868  12.563  1.00 23.60      1CCP24
+ATOM   4392  CB  LYS A 287      24.547  32.745  10.637  1.00 31.19      1CCP24
+ATOM   4393  CG  LYS A 287      25.143  33.091   9.284  1.00 40.09      1CCP24
+ATOM   4394  CD  LYS A 287      26.252  32.116   8.912  1.00 49.14      1CCP24
+ATOM   4395  CE  LYS A 287      25.815  31.217   7.754  1.00 56.60      1CCP24
+ATOM   4396  NZ  LYS A 287      24.317  31.091   7.698  1.00 62.52      1CCP24
+ATOM   4397  H   LYS A 287      23.013  34.653   9.857  1.00 25.67      1CCP H   new
+ATOM   4398  HA  LYS A 287      22.708  31.767  10.085  1.00 26.89      1CCP H   new
+ATOM   4399 1HB  LYS A 287      24.865  33.497  11.374  1.00 31.19      1CCP H   new
+ATOM   4400 2HB  LYS A 287      24.948  31.777  10.971  1.00 31.19      1CCP H   new
+ATOM   4401 1HG  LYS A 287      24.356  33.068   8.516  1.00 40.09      1CCP H   new
+ATOM   4402 2HG  LYS A 287      25.542  34.116   9.306  1.00 40.09      1CCP H   new
+ATOM   4403 1HD  LYS A 287      27.158  32.673   8.630  1.00 49.14      1CCP H   new
+ATOM   4404 2HD  LYS A 287      26.513  31.499   9.784  1.00 49.14      1CCP H   new
+ATOM   4405 1HE  LYS A 287      26.187  31.630   6.805  1.00 56.60      1CCP H   new
+ATOM   4406 2HE  LYS A 287      26.266  30.220   7.870  1.00 56.60      1CCP H   new
+ATOM   4407 1HZ  LYS A 287      24.060  30.499   6.934  1.00 62.52      1CCP H + new
+ATOM   4408 2HZ  LYS A 287      23.983  30.694   8.553  1.00 62.52      1CCP H + new
+ATOM   4409 3HZ  LYS A 287      23.910  31.996   7.570  1.00 62.52      1CCP H + new
+ATOM   4410  N   THR A 288      22.508  31.580  12.742  1.00 21.73      1CCP24
+ATOM   4411  CA  THR A 288      22.130  31.673  14.176  1.00 21.55      1CCP24
+ATOM   4412  C   THR A 288      23.405  31.955  14.946  1.00 21.47      1CCP24
+ATOM   4413  O   THR A 288      24.479  31.831  14.323  1.00 19.06      1CCP24
+ATOM   4414  CB  THR A 288      21.550  30.252  14.599  1.00 24.25      1CCP24
+ATOM   4415  OG1 THR A 288      22.639  29.326  14.232  1.00 23.56      1CCP24
+ATOM   4416  CG2 THR A 288      20.267  29.878  13.860  1.00 22.26      1CCP24
+ATOM   4417  H   THR A 288      22.680  30.666  12.374  1.00 21.73      1CCP H   new
+ATOM   4418  HA  THR A 288      21.384  32.458  14.371  1.00 21.55      1CCP H   new
+ATOM   4419  HB  THR A 288      21.271  30.230  15.663  1.00 24.25      1CCP H   new
+ATOM   4420  HG1 THR A 288      22.372  28.390  14.460  1.00 23.56      1CCP H   new
+ATOM   4421 1HG2 THR A 288      19.923  28.890  14.199  1.00 22.26      1CCP H   new
+ATOM   4422 2HG2 THR A 288      19.490  30.628  14.070  1.00 22.26      1CCP H   new
+ATOM   4423 3HG2 THR A 288      20.462  29.847  12.778  1.00 22.26      1CCP H   new
+ATOM   4424  N   LEU A 289      23.257  32.222  16.229  1.00 21.89      1CCP24
+ATOM   4425  CA  LEU A 289      24.406  32.434  17.112  1.00 24.45      1CCP24
+ATOM   4426  C   LEU A 289      25.347  31.231  16.969  1.00 25.75      1CCP24
+ATOM   4427  O   LEU A 289      26.543  31.287  16.701  1.00 28.78      1CCP24
+ATOM   4428  CB  LEU A 289      23.842  32.536  18.533  1.00 21.77      1CCP24
+ATOM   4429  CG  LEU A 289      23.220  33.875  18.876  1.00 22.92      1CCP24
+ATOM   4430  CD1 LEU A 289      23.160  34.009  20.405  1.00 19.03      1CCP24
+ATOM   4431  CD2 LEU A 289      24.076  35.000  18.226  1.00 24.33      1CCP24
+ATOM   4432  H   LEU A 289      22.369  32.298  16.683  1.00 21.89      1CCP H   new
+ATOM   4433  HA  LEU A 289      24.975  33.343  16.868  1.00 24.45      1CCP H   new
+ATOM   4434 1HB  LEU A 289      23.084  31.750  18.669  1.00 21.77      1CCP H   new
+ATOM   4435 2HB  LEU A 289      24.651  32.330  19.249  1.00 21.77      1CCP H   new
+ATOM   4436  HG  LEU A 289      22.195  33.956  18.485  1.00 22.92      1CCP H   new
+ATOM   4437 1HD1 LEU A 289      22.710  34.977  20.671  1.00 19.03      1CCP H   new
+ATOM   4438 2HD1 LEU A 289      22.549  33.194  20.821  1.00 19.03      1CCP H   new
+ATOM   4439 3HD1 LEU A 289      24.178  33.952  20.819  1.00 19.03      1CCP H   new
+ATOM   4440 1HD2 LEU A 289      23.637  35.980  18.466  1.00 24.33      1CCP H   new
+ATOM   4441 2HD2 LEU A 289      25.103  34.953  18.618  1.00 24.33      1CCP H   new
+ATOM   4442 3HD2 LEU A 289      24.094  34.864  17.135  1.00 24.33      1CCP H   new
+ATOM   4443  N   GLU A 290      24.722  30.094  17.120  1.00 27.54      1CCP24
+ATOM   4444  CA  GLU A 290      25.391  28.794  17.052  1.00 30.48      1CCP24
+ATOM   4445  C   GLU A 290      26.162  28.605  15.769  1.00 28.36      1CCP24
+ATOM   4446  O   GLU A 290      27.247  27.993  15.773  1.00 27.93      1CCP24
+ATOM   4447  CB  GLU A 290      24.381  27.673  17.148  1.00 33.08      1CCP24
+ATOM   4448  CG  GLU A 290      24.865  26.261  16.864  1.00 44.26      1CCP24
+ATOM   4449  CD  GLU A 290      23.908  25.182  17.312  1.00 49.29      1CCP24
+ATOM   4450  OE1 GLU A 290      24.191  24.320  18.152  1.00 53.73      1CCP24
+ATOM   4451  OE2 GLU A 290      22.769  25.209  16.821  1.00 53.60      1CCP24
+ATOM   4452  H   GLU A 290      23.739  30.030  17.293  1.00 27.54      1CCP H   new
+ATOM   4453  HA  GLU A 290      26.093  28.769  17.898  1.00 30.48      1CCP H   new
+ATOM   4454 1HB  GLU A 290      23.955  27.687  18.162  1.00 33.08      1CCP H   new
+ATOM   4455 2HB  GLU A 290      23.560  27.896  16.451  1.00 33.08      1CCP H   new
+ATOM   4456 1HG  GLU A 290      25.041  26.155  15.783  1.00 44.26      1CCP H   new
+ATOM   4457 2HG  GLU A 290      25.833  26.109  17.364  1.00 44.26      1CCP H   new
+ATOM   4458  N   GLU A 291      25.604  29.057  14.657  1.00 28.76      1CCP24
+ATOM   4459  CA  GLU A 291      26.319  28.904  13.377  1.00 29.10      1CCP24
+ATOM   4460  C   GLU A 291      27.517  29.844  13.324  1.00 31.83      1CCP24
+ATOM   4461  O   GLU A 291      28.472  29.580  12.552  1.00 34.93      1CCP24
+ATOM   4462  CB  GLU A 291      25.451  29.175  12.153  1.00 31.71      1CCP24
+ATOM   4463  CG  GLU A 291      24.305  28.147  12.024  1.00 35.82      1CCP24
+ATOM   4464  CD  GLU A 291      23.341  28.449  10.905  1.00 37.36      1CCP24
+ATOM   4465  OE1 GLU A 291      23.104  27.584  10.035  1.00 41.18      1CCP24
+ATOM   4466  OE2 GLU A 291      22.826  29.582  10.933  1.00 35.80      1CCP24
+ATOM   4467  H   GLU A 291      24.713  29.508  14.602  1.00 28.76      1CCP H   new
+ATOM   4468  HA  GLU A 291      26.633  27.850  13.341  1.00 29.10      1CCP H   new
+ATOM   4469 1HB  GLU A 291      25.029  30.189  12.220  1.00 31.71      1CCP H   new
+ATOM   4470 2HB  GLU A 291      26.074  29.145  11.247  1.00 31.71      1CCP H   new
+ATOM   4471 1HG  GLU A 291      24.737  27.148  11.864  1.00 35.82      1CCP H   new
+ATOM   4472 2HG  GLU A 291      23.750  28.109  12.973  1.00 35.82      1CCP H   new
+ATOM   4473  N   GLN A 292      27.466  30.920  14.096  1.00 26.97      1CCP24
+ATOM   4474  CA  GLN A 292      28.594  31.878  14.083  1.00 27.49      1CCP24
+ATOM   4475  C   GLN A 292      29.618  31.558  15.170  1.00 29.56      1CCP24
+ATOM   4476  O   GLN A 292      30.642  32.254  15.282  1.00 34.23      1CCP24
+ATOM   4477  CB  GLN A 292      28.028  33.296  14.245  1.00 24.47      1CCP24
+ATOM   4478  CG  GLN A 292      27.120  33.697  13.064  1.00 20.15      1CCP24
+ATOM   4479  CD  GLN A 292      26.352  34.925  13.479  1.00 21.21      1CCP24
+ATOM   4480  OE1 GLN A 292      25.286  34.916  14.076  1.00 24.37      1CCP24
+ATOM   4481  NE2 GLN A 292      26.940  36.076  13.204  1.00 22.28      1CCP24
+ATOM   4482  H   GLN A 292      26.710  31.153  14.708  1.00 26.97      1CCP H   new
+ATOM   4483  HA  GLN A 292      29.128  31.801  13.125  1.00 27.49      1CCP H   new
+ATOM   4484 1HB  GLN A 292      27.456  33.356  15.183  1.00 24.47      1CCP H   new
+ATOM   4485 2HB  GLN A 292      28.858  34.013  14.328  1.00 24.47      1CCP H   new
+ATOM   4486 1HG  GLN A 292      27.721  33.902  12.166  1.00 20.15      1CCP H   new
+ATOM   4487 2HG  GLN A 292      26.431  32.878  12.810  1.00 20.15      1CCP H   new
+ATOM   4488 1HE2 GLN A 292      26.512  36.935  13.484  1.00 22.28      1CCP H   new
+ATOM   4489 2HE2 GLN A 292      27.813  36.088  12.716  1.00 22.28      1CCP H   new
+ATOM   4490  N   GLY A 293      29.338  30.594  16.027  1.00 29.10      1CCP24
+ATOM   4491  CA  GLY A 293      30.197  30.228  17.172  1.00 25.90      1CCP24
+ATOM   4492  C   GLY A 293      30.073  31.260  18.281  1.00 25.85      1CCP24
+ATOM   4493  O   GLY A 293      31.073  31.451  18.999  1.00 26.29      1CCP24
+ATOM   4494  H   GLY A 293      28.511  30.035  15.960  1.00 29.10      1CCP H   new
+ATOM   4495 1HA  GLY A 293      29.910  29.236  17.552  1.00 25.90      1CCP H   new
+ATOM   4496 2HA  GLY A 293      31.245  30.156  16.844  1.00 25.90      1CCP H   new
+ATOM   4497  N   LEU A 294      28.964  31.955  18.450  1.00 22.25      1CCP24
+ATOM   4498  CA  LEU A 294      28.787  32.972  19.483  1.00 24.37      1CCP24
+ATOM   4499  C   LEU A 294      27.840  32.582  20.612  1.00 26.75      1CCP24
+ATOM   4500  O   LEU A 294      27.191  31.530  20.497  1.00 28.63      1CCP24
+ATOM   4501  CB  LEU A 294      28.181  34.236  18.811  1.00 26.58      1CCP24
+ATOM   4502  CG  LEU A 294      29.102  34.977  17.834  1.00 32.17      1CCP24
+ATOM   4503  CD1 LEU A 294      29.722  33.905  16.927  1.00 36.73      1CCP24
+ATOM   4504  CD2 LEU A 294      28.288  35.912  16.939  1.00 27.80      1CCP24
+ATOM   4505  OXT LEU A 294      27.691  33.384  21.544  1.00 28.66      1CCP24
+ATOM   4506  H   LEU A 294      28.156  31.832  17.874  1.00 22.25      1CCP H   new
+ATOM   4507  HA  LEU A 294      29.781  33.127  19.929  1.00 24.37      1CCP H   new
+ATOM   4508 1HB  LEU A 294      27.268  33.940  18.273  1.00 26.58      1CCP H   new
+ATOM   4509 2HB  LEU A 294      27.875  34.938  19.601  1.00 26.58      1CCP H   new
+ATOM   4510  HG  LEU A 294      29.851  35.562  18.388  1.00 32.17      1CCP H   new
+ATOM   4511 1HD1 LEU A 294      30.396  34.383  16.201  1.00 36.73      1CCP H   new
+ATOM   4512 2HD1 LEU A 294      30.291  33.190  17.540  1.00 36.73      1CCP H   new
+ATOM   4513 3HD1 LEU A 294      28.924  33.373  16.389  1.00 36.73      1CCP H   new
+ATOM   4514 1HD2 LEU A 294      28.962  36.435  16.245  1.00 27.80      1CCP H   new
+ATOM   4515 2HD2 LEU A 294      27.555  35.325  16.365  1.00 27.80      1CCP H   new
+ATOM   4516 3HD2 LEU A 294      27.760  36.649  17.562  1.00 27.80      1CCP H   new
+HETATM 4517 FE   HEM A 296      -1.624  33.143  18.664  1.00 22.89      1CCP24
+HETATM 4518  CHA HEM A 296      -0.561  33.550  21.877  1.00 18.26      1CCP24
+HETATM 4519  CHB HEM A 296      -4.877  33.866  19.680  1.00 17.95      1CCP24
+HETATM 4520  CHC HEM A 296      -2.697  32.992  15.463  1.00 17.81      1CCP24
+HETATM 4521  CHD HEM A 296       1.589  33.063  17.611  1.00 17.56      1CCP24
+HETATM 4522  N A HEM A 296      -2.493  33.641  20.368  1.00 19.42      1CCP24
+HETATM 4523  C1A HEM A 296      -1.879  33.740  21.587  1.00 20.12      1CCP24
+HETATM 4524  C2A HEM A 296      -2.871  34.084  22.596  1.00 24.02      1CCP24
+HETATM 4525  C3A HEM A 296      -4.056  34.155  21.988  1.00 23.44      1CCP24
+HETATM 4526  C4A HEM A 296      -3.837  33.886  20.571  1.00 21.01      1CCP24
+HETATM 4527  CMA HEM A 296      -5.481  34.456  22.525  1.00 22.09      1CCP24
+HETATM 4528  CAA HEM A 296      -2.462  34.277  24.070  1.00 23.06      1CCP24
+HETATM 4529  CBA HEM A 296      -1.992  35.655  24.497  1.00 24.01      1CCP24
+HETATM 4530  CGA HEM A 296      -1.691  35.803  25.966  1.00 27.34      1CCP24
+HETATM 4531  O1A HEM A 296      -2.661  35.633  26.776  1.00 29.63      1CCP24
+HETATM 4532  O2A HEM A 296      -0.484  36.080  26.237  1.00 27.43      1CCP24
+HETATM 4533  N B HEM A 296      -3.404  33.416  17.758  1.00 18.19      1CCP24
+HETATM 4534  C1B HEM A 296      -4.636  33.564  18.370  1.00 18.88      1CCP24
+HETATM 4535  C2B HEM A 296      -5.684  33.444  17.362  1.00 21.39      1CCP24
+HETATM 4536  C3B HEM A 296      -5.073  33.222  16.193  1.00 20.85      1CCP24
+HETATM 4537  C4B HEM A 296      -3.643  33.192  16.429  1.00 17.24      1CCP24
+HETATM 4538  CMB HEM A 296      -7.191  33.589  17.649  1.00 20.65      1CCP24
+HETATM 4539  CAB HEM A 296      -5.716  32.999  14.803  1.00 20.81      1CCP24
+HETATM 4540  CBB HEM A 296      -6.931  32.500  14.763  1.00 23.55      1CCP24
+HETATM 4541  N C HEM A 296      -0.742  33.044  16.904  1.00 18.72      1CCP24
+HETATM 4542  C1C HEM A 296      -1.349  33.030  15.640  1.00 20.41      1CCP24
+HETATM 4543  C2C HEM A 296      -0.334  33.055  14.605  1.00 19.22      1CCP24
+HETATM 4544  C3C HEM A 296       0.836  33.077  15.224  1.00 19.59      1CCP24
+HETATM 4545  C4C HEM A 296       0.607  33.088  16.656  1.00 18.08      1CCP25
+HETATM 4546  CMC HEM A 296      -0.625  33.024  13.092  1.00 21.16      1CCP25
+HETATM 4547  CAC HEM A 296       2.275  33.094  14.634  1.00 19.58      1CCP25
+HETATM 4548  CBC HEM A 296       2.402  32.602  13.389  1.00 25.53      1CCP25
+HETATM 4549  N D HEM A 296       0.177  33.379  19.560  1.00 19.92      1CCP25
+HETATM 4550  C1D HEM A 296       1.402  33.098  18.964  1.00 19.34      1CCP25
+HETATM 4551  C2D HEM A 296       2.388  32.827  19.989  1.00 19.11      1CCP25
+HETATM 4552  C3D HEM A 296       1.782  32.955  21.169  1.00 18.64      1CCP25
+HETATM 4553  C4D HEM A 296       0.397  33.307  20.923  1.00 19.77      1CCP25
+HETATM 4554  CMD HEM A 296       3.846  32.420  19.704  1.00 17.12      1CCP25
+HETATM 4555  CAD HEM A 296       2.393  32.801  22.588  1.00 17.43      1CCP25
+HETATM 4556  CBD HEM A 296       2.906  34.167  23.081  1.00 20.53      1CCP25
+HETATM 4557  CGD HEM A 296       3.367  34.182  24.516  1.00 22.09      1CCP25
+HETATM 4558  O1D HEM A 296       3.354  35.348  25.001  1.00 23.83      1CCP25
+HETATM 4559  O2D HEM A 296       3.694  33.101  25.065  1.00 17.97      1CCP25
+HETATM 4560  HHA HEM A 296      -0.248  33.594  22.931  1.00 18.26      1CCP H   new
+HETATM 4561  HHB HEM A 296      -5.899  34.092  20.017  1.00 17.95      1CCP H   new
+HETATM 4562  HHC HEM A 296      -3.060  32.780  14.446  1.00 17.81      1CCP H   new
+HETATM 4563  HHD HEM A 296       2.628  33.010  17.254  1.00 17.56      1CCP H   new
+HETATM 4564 1HMA HEM A 296      -5.435  34.630  23.610  1.00 22.09      1CCP H   new
+HETATM 4565 2HMA HEM A 296      -6.139  33.599  22.319  1.00 22.09      1CCP H   new
+HETATM 4566 3HMA HEM A 296      -5.880  35.352  22.027  1.00 22.09      1CCP H   new
+HETATM 4567 1HMB HEM A 296      -7.757  33.453  16.716  1.00 20.65      1CCP H   new
+HETATM 4568 2HMB HEM A 296      -7.392  34.591  18.057  1.00 20.65      1CCP H   new
+HETATM 4569 3HMB HEM A 296      -7.501  32.827  18.379  1.00 20.65      1CCP H   new
+HETATM 4570 1HMC HEM A 296       0.323  33.053  12.535  1.00 21.16      1CCP H   new
+HETATM 4571 2HMC HEM A 296      -1.237  33.896  12.818  1.00 21.16      1CCP H   new
+HETATM 4572 3HMC HEM A 296      -1.169  32.101  12.842  1.00 21.16      1CCP H   new
+HETATM 4573 1HMD HEM A 296       4.379  32.275  20.655  1.00 17.12      1CCP H   new
+HETATM 4574 2HMD HEM A 296       4.342  33.212  19.124  1.00 17.12      1CCP H   new
+HETATM 4575 3HMD HEM A 296       3.860  31.482  19.130  1.00 17.12      1CCP H   new
+HETATM 4576  HAB HEM A 296      -5.174  33.250  13.879  1.00 20.81      1CCP H   new
+HETATM 4577 1HBB HEM A 296      -7.423  32.327  13.794  1.00 23.55      1CCP H   new
+HETATM 4578 2HBB HEM A 296      -7.456  32.256  15.698  1.00 23.55      1CCP H   new
+HETATM 4579  HAC HEM A 296       3.134  33.484  15.199  1.00 19.58      1CCP H   new
+HETATM 4580 1HBC HEM A 296       3.389  32.581  12.904  1.00 25.53      1CCP H   new
+HETATM 4581 2HBC HEM A 296       1.519  32.221  12.855  1.00 25.53      1CCP H   new
+HETATM 4582 1HBA HEM A 296      -2.763  36.390  24.221  1.00 24.01      1CCP H   new
+HETATM 4583 2HBA HEM A 296      -1.087  35.909  23.926  1.00 24.01      1CCP H   new
+HETATM 4584 1HAA HEM A 296      -1.658  33.561  24.295  1.00 23.06      1CCP H   new
+HETATM 4585 2HAA HEM A 296      -3.322  34.003  24.699  1.00 23.06      1CCP H   new
+HETATM 4586 1HBD HEM A 296       2.105  34.911  22.959  1.00 20.53      1CCP H   new
+HETATM 4587 2HBD HEM A 296       3.740  34.485  22.438  1.00 20.53      1CCP H   new
+HETATM 4588 1HAD HEM A 296       3.218  32.074  22.566  1.00 17.43      1CCP H   new
+HETATM 4589 2HAD HEM A 296       1.637  32.409  23.284  1.00 17.43      1CCP H   new
+ENDA

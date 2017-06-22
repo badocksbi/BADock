@@ -1,0 +1,1751 @@
+USER  MOD reduceV2.21 H: found=0, std=0, add=880, rem=0, adj=0
+ATOM      1  N   GLY A   1      -2.423  18.746  36.199  1.00 51.70      1HRC
+ATOM      2  CA  GLY A   1      -1.283  19.577  35.867  1.00 48.48      1HRC
+ATOM      3  C   GLY A   1      -1.452  20.948  36.466  1.00 45.71      1HRC
+ATOM      4  O   GLY A   1      -1.067  21.935  35.812  1.00 46.74      1HRC
+ATOM      5 2H   GLY A   1      -2.498  18.663  37.193  1.00 51.70      1HRC H + new
+ATOM      6 1HA  GLY A   1      -0.359  19.114  36.244  1.00 48.48      1HRC H   new
+ATOM      7 2HA  GLY A   1      -1.181  19.655  34.775  1.00 48.48      1HRC H   new
+ATOM      8  N   ASP A   2      -2.012  20.993  37.672  1.00 43.01      1HRC
+ATOM      9  CA  ASP A   2      -2.161  22.350  38.251  1.00 41.19      1HRC
+ATOM     10  C   ASP A   2      -0.803  22.716  38.867  1.00 39.97      1HRC
+ATOM     11  O   ASP A   2      -0.442  22.201  39.944  1.00 38.24      1HRC 1
+ATOM     12  CB  ASP A   2      -3.339  22.503  39.177  1.00 42.37      1HRC 1
+ATOM     13  CG  ASP A   2      -3.722  23.920  39.541  1.00 42.23      1HRC 1
+ATOM     14  OD1 ASP A   2      -4.897  24.162  39.898  1.00 44.10      1HRC 1
+ATOM     15  OD2 ASP A   2      -2.856  24.820  39.488  1.00 42.35      1HRC 1
+ATOM     16  H   ASP A   2      -2.337  20.221  38.218  1.00 43.01      1HRC H   new
+ATOM     17  HA  ASP A   2      -2.416  23.074  37.463  1.00 41.19      1HRC H   new
+ATOM     18 1HB  ASP A   2      -4.210  22.018  38.712  1.00 42.37      1HRC H   new
+ATOM     19 2HB  ASP A   2      -3.123  21.954  40.105  1.00 42.37      1HRC H   new
+ATOM     20  N   VAL A   3      -0.112  23.585  38.146  1.00 38.07      1HRC 1
+ATOM     21  CA  VAL A   3       1.209  24.043  38.588  1.00 37.97      1HRC 1
+ATOM     22  C   VAL A   3       1.085  24.834  39.888  1.00 38.95      1HRC 1
+ATOM     23  O   VAL A   3       2.097  24.790  40.626  1.00 41.61      1HRC 1
+ATOM     24  CB  VAL A   3       1.990  24.744  37.485  1.00 39.68      1HRC 1
+ATOM     25  CG1 VAL A   3       3.385  25.239  37.908  1.00 42.95      1HRC 1
+ATOM     26  CG2 VAL A   3       2.182  23.868  36.253  1.00 40.78      1HRC 1
+ATOM     27  H   VAL A   3      -0.426  23.978  37.282  1.00 38.07      1HRC H   new
+ATOM     28  HA  VAL A   3       1.828  23.164  38.818  1.00 37.97      1HRC H   new
+ATOM     29  HB  VAL A   3       1.358  25.613  37.253  1.00 39.68      1HRC H   new
+ATOM     30 1HG1 VAL A   3       3.875  25.730  37.054  1.00 42.95      1HRC H   new
+ATOM     31 2HG1 VAL A   3       3.285  25.957  38.735  1.00 42.95      1HRC H   new
+ATOM     32 3HG1 VAL A   3       3.994  24.384  38.237  1.00 42.95      1HRC H   new
+ATOM     33 1HG2 VAL A   3       2.750  24.424  35.492  1.00 40.78      1HRC H   new
+ATOM     34 2HG2 VAL A   3       2.735  22.959  36.532  1.00 40.78      1HRC H   new
+ATOM     35 3HG2 VAL A   3       1.200  23.588  35.845  1.00 40.78      1HRC H   new
+ATOM     36  N   GLU A   4       0.014  25.518  40.186  1.00 38.28      1HRC 1
+ATOM     37  CA  GLU A   4      -0.037  26.266  41.475  1.00 37.88      1HRC 1
+ATOM     38  C   GLU A   4      -0.533  25.390  42.601  1.00 36.54      1HRC 1
+ATOM     39  O   GLU A   4      -0.256  25.639  43.798  1.00 35.68      1HRC 1
+ATOM     40  CB  GLU A   4      -0.868  27.523  41.450  1.00 41.77      1HRC 1
+ATOM     41  CG  GLU A   4      -2.092  27.599  40.572  1.00 47.28      1HRC 1
+ATOM     42  CD  GLU A   4      -2.296  28.916  39.884  1.00 49.90      1HRC 1
+ATOM     43  OE1 GLU A   4      -1.390  29.563  39.382  1.00 53.55      1HRC 1
+ATOM     44  OE2 GLU A   4      -3.496  29.245  39.907  1.00 51.89      1HRC 1
+ATOM     45  H   GLU A   4      -0.802  25.590  39.613  1.00 38.28      1HRC H   new
+ATOM     46  HA  GLU A   4       1.006  26.571  41.642  1.00 37.88      1HRC H   new
+ATOM     47 1HB  GLU A   4      -1.193  27.721  42.482  1.00 41.77      1HRC H   new
+ATOM     48 2HB  GLU A   4      -0.203  28.349  41.157  1.00 41.77      1HRC H   new
+ATOM     49 1HG  GLU A   4      -2.027  26.810  39.809  1.00 47.28      1HRC H   new
+ATOM     50 2HG  GLU A   4      -2.979  27.381  41.185  1.00 47.28      1HRC H   new
+ATOM     51  N   LYS A   5      -1.287  24.358  42.242  1.00 36.48      1HRC 1
+ATOM     52  CA  LYS A   5      -1.759  23.402  43.269  1.00 35.71      1HRC 1
+ATOM     53  C   LYS A   5      -0.509  22.593  43.664  1.00 34.98      1HRC 1
+ATOM     54  O   LYS A   5      -0.285  22.254  44.832  1.00 31.89      1HRC 1
+ATOM     55  CB  LYS A   5      -2.868  22.484  42.815  1.00 39.20      1HRC 1
+ATOM     56  CG  LYS A   5      -4.249  22.973  43.241  1.00 44.24      1HRC 1
+ATOM     57  CD  LYS A   5      -5.374  22.226  42.529  1.00 47.36      1HRC 1
+ATOM     58  CE  LYS A   5      -6.669  22.998  42.725  1.00 50.75      1HRC 1
+ATOM     59  NZ  LYS A   5      -7.833  22.185  42.280  1.00 53.27      1HRC 1
+ATOM     60  H   LYS A   5      -1.577  24.159  41.306  1.00 36.48      1HRC H   new
+ATOM     61  HA  LYS A   5      -2.208  23.955  44.107  1.00 35.71      1HRC H   new
+ATOM     62 1HB  LYS A   5      -2.838  22.393  41.719  1.00 39.20      1HRC H   new
+ATOM     63 2HB  LYS A   5      -2.697  21.478  43.226  1.00 39.20      1HRC H   new
+ATOM     64 1HG  LYS A   5      -4.360  22.849  44.328  1.00 44.24      1HRC H   new
+ATOM     65 2HG  LYS A   5      -4.336  24.049  43.030  1.00 44.24      1HRC H   new
+ATOM     66 1HD  LYS A   5      -5.147  22.126  41.457  1.00 47.36      1HRC H   new
+ATOM     67 2HD  LYS A   5      -5.472  21.208  42.933  1.00 47.36      1HRC H   new
+ATOM     68 1HE  LYS A   5      -6.786  23.267  43.785  1.00 50.75      1HRC H   new
+ATOM     69 2HE  LYS A   5      -6.632  23.939  42.156  1.00 50.75      1HRC H   new
+ATOM     70 1HZ  LYS A   5      -8.676  22.706  42.415  1.00 53.27      1HRC H + new
+ATOM     71 2HZ  LYS A   5      -7.732  21.961  41.311  1.00 53.27      1HRC H + new
+ATOM     72 3HZ  LYS A   5      -7.874  21.341  42.814  1.00 53.27      1HRC H + new
+ATOM     73  N   GLY A   6       0.299  22.346  42.640  1.00 32.81      1HRC 1
+ATOM     74  CA  GLY A   6       1.551  21.616  42.719  1.00 33.80      1HRC 1
+ATOM     75  C   GLY A   6       2.511  22.344  43.665  1.00 32.04      1HRC 1
+ATOM     76  O   GLY A   6       3.083  21.684  44.543  1.00 33.87      1HRC 1
+ATOM     77  H   GLY A   6       0.092  22.657  41.713  1.00 32.81      1HRC H   new
+ATOM     78 1HA  GLY A   6       1.369  20.593  43.080  1.00 33.80      1HRC H   new
+ATOM     79 2HA  GLY A   6       2.001  21.529  41.719  1.00 33.80      1HRC H   new
+ATOM     80  N   LYS A   7       2.659  23.649  43.497  1.00 31.00      1HRC 1
+ATOM     81  CA  LYS A   7       3.570  24.435  44.360  1.00 28.65      1HRC 1
+ATOM     82  C   LYS A   7       3.233  24.294  45.831  1.00 28.18      1HRC 1
+ATOM     83  O   LYS A   7       4.188  24.212  46.648  1.00 27.62      1HRC 1
+ATOM     84  CB  LYS A   7       3.606  25.936  44.065  1.00 33.02      1HRC 1
+ATOM     85  CG  LYS A   7       4.808  26.658  44.692  1.00 33.79      1HRC 1
+ATOM     86  CD  LYS A   7       4.970  28.097  44.269  1.00 40.57      1HRC 1
+ATOM     87  CE  LYS A   7       5.667  28.914  45.347  1.00 44.17      1HRC 1
+ATOM     88  NZ  LYS A   7       5.207  30.340  45.273  1.00 51.34      1HRC 1
+ATOM     89  H   LYS A   7       2.183  24.183  42.798  1.00 31.00      1HRC H   new
+ATOM     90  HA  LYS A   7       4.554  24.003  44.124  1.00 28.65      1HRC H   new
+ATOM     91 1HB  LYS A   7       3.626  26.086  42.976  1.00 33.02      1HRC H   new
+ATOM     92 2HB  LYS A   7       2.678  26.396  44.436  1.00 33.02      1HRC H   new
+ATOM     93 1HG  LYS A   7       4.710  26.621  45.787  1.00 33.79      1HRC H   new
+ATOM     94 2HG  LYS A   7       5.725  26.108  44.432  1.00 33.79      1HRC H   new
+ATOM     95 1HD  LYS A   7       5.551  28.145  43.336  1.00 40.57      1HRC H   new
+ATOM     96 2HD  LYS A   7       3.983  28.533  44.056  1.00 40.57      1HRC H   new
+ATOM     97 1HE  LYS A   7       5.444  28.497  46.340  1.00 44.17      1HRC H   new
+ATOM     98 2HE  LYS A   7       6.758  28.862  45.214  1.00 44.17      1HRC H   new
+ATOM     99 1HZ  LYS A   7       5.666  30.876  45.982  1.00 51.34      1HRC H + new
+ATOM    100 2HZ  LYS A   7       5.430  30.717  44.374  1.00 51.34      1HRC H + new
+ATOM    101 3HZ  LYS A   7       4.218  30.379  45.414  1.00 51.34      1HRC H + new
+ATOM    102  N   LYS A   8       1.965  24.327  46.174  1.00 24.78      1HRC 1
+ATOM    103  CA  LYS A   8       1.567  24.227  47.577  1.00 26.23      1HRC 1
+ATOM    104  C   LYS A   8       2.009  22.886  48.155  1.00 26.86      1HRC 1
+ATOM    105  O   LYS A   8       2.535  22.877  49.283  1.00 32.01      1HRC 1
+ATOM    106  CB  LYS A   8       0.062  24.355  47.768  1.00 28.51      1HRC 1
+ATOM    107  CG  LYS A   8      -0.334  25.075  49.059  1.00 32.02      1HRC 1
+ATOM    108  CD  LYS A   8      -1.762  24.839  49.489  1.00 32.49      1HRC 1
+ATOM    109  CE  LYS A   8      -2.821  25.610  48.718  1.00 35.19      1HRC 1
+ATOM    110  NZ  LYS A   8      -3.778  26.236  49.678  1.00 37.82      1HRC 1
+ATOM    111  H   LYS A   8       1.207  24.419  45.528  1.00 24.78      1HRC H   new
+ATOM    112  HA  LYS A   8       2.057  25.061  48.100  1.00 26.23      1HRC H   new
+ATOM    113 1HB  LYS A   8      -0.363  24.898  46.911  1.00 28.51      1HRC H   new
+ATOM    114 2HB  LYS A   8      -0.386  23.350  47.767  1.00 28.51      1HRC H   new
+ATOM    115 1HG  LYS A   8       0.338  24.750  49.867  1.00 32.02      1HRC H   new
+ATOM    116 2HG  LYS A   8      -0.178  26.156  48.925  1.00 32.02      1HRC H   new
+ATOM    117 1HD  LYS A   8      -1.979  23.764  49.398  1.00 32.49      1HRC H   new
+ATOM    118 2HD  LYS A   8      -1.851  25.097  50.555  1.00 32.49      1HRC H   new
+ATOM    119 1HE  LYS A   8      -2.347  26.385  48.097  1.00 35.19      1HRC H   new
+ATOM    120 2HE  LYS A   8      -3.358  24.935  48.035  1.00 35.19      1HRC H   new
+ATOM    121 1HZ  LYS A   8      -4.475  26.743  49.171  1.00 37.82      1HRC H + new
+ATOM    122 2HZ  LYS A   8      -4.217  25.523  50.225  1.00 37.82      1HRC H + new
+ATOM    123 3HZ  LYS A   8      -3.284  26.862  50.282  1.00 37.82      1HRC H + new
+ATOM    124  N   ILE A   9       1.787  21.799  47.437  1.00 27.15      1HRC 1
+ATOM    125  CA  ILE A   9       2.187  20.442  47.902  1.00 22.94      1HRC 1
+ATOM    126  C   ILE A   9       3.697  20.453  48.177  1.00 23.94      1HRC 1
+ATOM    127  O   ILE A   9       4.174  19.950  49.209  1.00 23.37      1HRC 1
+ATOM    128  CB  ILE A   9       1.725  19.321  46.908  1.00 24.65      1HRC 1
+ATOM    129  CG1 ILE A   9       0.167  19.185  46.954  1.00 21.14      1HRC 1
+ATOM    130  CG2 ILE A   9       2.368  17.931  47.166  1.00 23.16      1HRC 1
+ATOM    131  CD1 ILE A   9      -0.501  18.634  45.685  1.00 24.00      1HRC 1
+ATOM    132  H   ILE A   9       1.341  21.809  46.542  1.00 27.15      1HRC H   new
+ATOM    133  HA  ILE A   9       1.672  20.193  48.842  1.00 22.94      1HRC H   new
+ATOM    134  HB  ILE A   9       2.069  19.641  45.913  1.00 24.65      1HRC H   new
+ATOM    135 1HG1 ILE A   9      -0.099  18.530  47.797  1.00 21.14      1HRC H   new
+ATOM    136 2HG1 ILE A   9      -0.261  20.175  47.168  1.00 21.14      1HRC H   new
+ATOM    137 1HG2 ILE A   9       1.990  17.209  46.427  1.00 23.16      1HRC H   new
+ATOM    138 2HG2 ILE A   9       3.461  18.010  47.075  1.00 23.16      1HRC H   new
+ATOM    139 3HG2 ILE A   9       2.108  17.589  48.179  1.00 23.16      1HRC H   new
+ATOM    140 1HD1 ILE A   9      -1.590  18.584  45.835  1.00 24.00      1HRC H   new
+ATOM    141 2HD1 ILE A   9      -0.279  19.297  44.836  1.00 24.00      1HRC H   new
+ATOM    142 3HD1 ILE A   9      -0.114  17.626  45.474  1.00 24.00      1HRC H   new
+ATOM    143  N   PHE A  10       4.412  21.050  47.246  1.00 24.98      1HRC 1
+ATOM    144  CA  PHE A  10       5.858  21.174  47.326  1.00 27.68      1HRC 1
+ATOM    145  C   PHE A  10       6.262  21.879  48.633  1.00 28.92      1HRC 1
+ATOM    146  O   PHE A  10       6.999  21.199  49.366  1.00 30.92      1HRC 1
+ATOM    147  CB  PHE A  10       6.556  21.744  46.091  1.00 29.52      1HRC 1
+ATOM    148  CG  PHE A  10       8.065  21.689  46.183  1.00 28.80      1HRC 1
+ATOM    149  CD1 PHE A  10       8.750  22.791  46.701  1.00 31.31      1HRC 1
+ATOM    150  CD2 PHE A  10       8.772  20.560  45.801  1.00 30.26      1HRC 1
+ATOM    151  CE1 PHE A  10      10.133  22.771  46.822  1.00 27.93      1HRC 1
+ATOM    152  CE2 PHE A  10      10.159  20.508  45.927  1.00 29.13      1HRC 1
+ATOM    153  CZ  PHE A  10      10.831  21.638  46.441  1.00 29.85      1HRC 1
+ATOM    154  H   PHE A  10       4.015  21.458  46.424  1.00 24.98      1HRC H   new
+ATOM    155  HA  PHE A  10       6.240  20.142  47.345  1.00 27.68      1HRC H   new
+ATOM    156 1HB  PHE A  10       6.228  21.185  45.202  1.00 29.52      1HRC H   new
+ATOM    157 2HB  PHE A  10       6.241  22.788  45.949  1.00 29.52      1HRC H   new
+ATOM    158  HD1 PHE A  10       8.188  23.683  47.016  1.00 31.31      1HRC H   new
+ATOM    159  HD2 PHE A  10       8.231  19.693  45.393  1.00 30.26      1HRC H   new
+ATOM    160  HE1 PHE A  10      10.669  23.647  47.217  1.00 27.93      1HRC H   new
+ATOM    161  HE2 PHE A  10      10.717  19.607  45.633  1.00 29.13      1HRC H   new
+ATOM    162  HZ  PHE A  10      11.926  21.618  46.540  1.00 29.85      1HRC H   new
+ATOM    163  N   VAL A  11       5.840  23.077  48.876  1.00 28.36      1HRC 1
+ATOM    164  CA  VAL A  11       6.132  23.884  50.068  1.00 29.27      1HRC 1
+ATOM    165  C   VAL A  11       5.938  23.069  51.355  1.00 29.34      1HRC 1
+ATOM    166  O   VAL A  11       6.755  23.078  52.272  1.00 28.29      1HRC 1
+ATOM    167  CB  VAL A  11       5.259  25.174  50.018  1.00 25.55      1HRC 1
+ATOM    168  CG1 VAL A  11       4.881  25.875  51.341  1.00 24.65      1HRC 1
+ATOM    169  CG2 VAL A  11       5.829  26.207  49.080  1.00 19.31      1HRC 1
+ATOM    170  H   VAL A  11       5.251  23.563  48.230  1.00 28.36      1HRC H   new
+ATOM    171  HA  VAL A  11       7.190  24.186  50.075  1.00 29.27      1HRC H   new
+ATOM    172  HB  VAL A  11       4.312  24.749  49.654  1.00 25.55      1HRC H   new
+ATOM    173 1HG1 VAL A  11       4.268  26.762  51.124  1.00 24.65      1HRC H   new
+ATOM    174 2HG1 VAL A  11       4.310  25.180  51.974  1.00 24.65      1HRC H   new
+ATOM    175 3HG1 VAL A  11       5.796  26.182  51.868  1.00 24.65      1HRC H   new
+ATOM    176 1HG2 VAL A  11       5.182  27.097  49.077  1.00 19.31      1HRC H   new
+ATOM    177 2HG2 VAL A  11       6.838  26.489  49.414  1.00 19.31      1HRC H   new
+ATOM    178 3HG2 VAL A  11       5.883  25.790  48.064  1.00 19.31      1HRC H   new
+ATOM    179  N   GLN A  12       4.790  22.450  51.345  1.00 31.40      1HRC 1
+ATOM    180  CA  GLN A  12       4.249  21.643  52.425  1.00 31.67      1HRC 1
+ATOM    181  C   GLN A  12       4.881  20.304  52.663  1.00 31.13      1HRC 1
+ATOM    182  O   GLN A  12       4.956  19.917  53.842  1.00 29.51      1HRC 1
+ATOM    183  CB  GLN A  12       2.711  21.527  52.246  1.00 34.57      1HRC 1
+ATOM    184  CG  GLN A  12       2.105  22.924  52.415  1.00 35.91      1HRC 1
+ATOM    185  CD  GLN A  12       0.614  22.969  52.526  1.00 38.95      1HRC 1
+ATOM    186  OE1 GLN A  12      -0.112  21.985  52.729  1.00 38.07      1HRC 1
+ATOM    187  NE2 GLN A  12       0.130  24.217  52.369  1.00 38.78      1HRC 1
+ATOM    188  H   GLN A  12       4.177  22.491  50.556  1.00 31.40      1HRC H   new
+ATOM    189  HA  GLN A  12       4.508  22.185  53.346  1.00 31.67      1HRC H   new
+ATOM    190 1HB  GLN A  12       2.470  21.121  51.252  1.00 34.57      1HRC H   new
+ATOM    191 2HB  GLN A  12       2.289  20.833  52.988  1.00 34.57      1HRC H   new
+ATOM    192 1HG  GLN A  12       2.536  23.385  53.316  1.00 35.91      1HRC H   new
+ATOM    193 2HG  GLN A  12       2.410  23.543  51.559  1.00 35.91      1HRC H   new
+ATOM    194 1HE2 GLN A  12      -0.856  24.380  52.414  1.00 38.78      1HRC H   new
+ATOM    195 2HE2 GLN A  12       0.756  24.980  52.207  1.00 38.78      1HRC H   new
+ATOM    196  N   LYS A  13       5.311  19.624  51.599  1.00 30.60      1HRC 1
+ATOM    197  CA  LYS A  13       5.900  18.310  51.874  1.00 28.93      1HRC 1
+ATOM    198  C   LYS A  13       7.335  18.093  51.468  1.00 28.34      1HRC 1
+ATOM    199  O   LYS A  13       7.936  17.126  52.043  1.00 30.89      1HRC 1
+ATOM    200  CB  LYS A  13       5.070  17.232  51.198  1.00 29.13      1HRC 1
+ATOM    201  CG  LYS A  13       3.687  17.075  51.819  1.00 28.41      1HRC 1
+ATOM    202  CD  LYS A  13       2.803  16.461  50.727  1.00 27.97      1HRC 1
+ATOM    203  CE  LYS A  13       1.629  15.747  51.434  1.00 31.13      1HRC 1
+ATOM    204  NZ  LYS A  13       0.629  15.391  50.349  1.00 28.17      1HRC 1
+ATOM    205  H   LYS A  13       5.273  19.916  50.643  1.00 30.60      1HRC H   new
+ATOM    206  HA  LYS A  13       5.895  18.258  52.973  1.00 28.93      1HRC H   new
+ATOM    207 1HB  LYS A  13       4.962  17.474  50.130  1.00 29.13      1HRC H   new
+ATOM    208 2HB  LYS A  13       5.605  16.273  51.258  1.00 29.13      1HRC H   new
+ATOM    209 1HG  LYS A  13       3.725  16.426  52.707  1.00 28.41      1HRC H   new
+ATOM    210 2HG  LYS A  13       3.290  18.047  52.148  1.00 28.41      1HRC H   new
+ATOM    211 1HD  LYS A  13       2.430  17.240  50.046  1.00 27.97      1HRC H   new
+ATOM    212 2HD  LYS A  13       3.379  15.750  50.117  1.00 27.97      1HRC H   new
+ATOM    213 1HE  LYS A  13       1.977  14.844  51.958  1.00 31.13      1HRC H   new
+ATOM    214 2HE  LYS A  13       1.171  16.401  52.190  1.00 31.13      1HRC H   new
+ATOM    215 1HZ  LYS A  13      -0.155  14.924  50.758  1.00 28.17      1HRC H + new
+ATOM    216 2HZ  LYS A  13       0.319  16.226  49.894  1.00 28.17      1HRC H + new
+ATOM    217 3HZ  LYS A  13       1.063  14.789  49.679  1.00 28.17      1HRC H + new
+ATOM    218  N   CYS A  14       7.859  18.898  50.589  1.00 21.93      1HRC 1
+ATOM    219  CA  CYS A  14       9.233  18.680  50.130  1.00 21.34      1HRC 1
+ATOM    220  C   CYS A  14      10.242  19.769  50.478  1.00 21.69      1HRC 1
+ATOM    221  O   CYS A  14      11.421  19.420  50.619  1.00 21.16      1HRC 1
+ATOM    222  CB  CYS A  14       9.268  18.563  48.586  1.00 20.12      1HRC 2
+ATOM    223  SG  CYS A  14       7.781  17.637  48.032  1.00 15.40      1HRC 2
+ATOM    224  H   CYS A  14       7.392  19.683  50.182  1.00 21.93      1HRC H   new
+ATOM    225  HA  CYS A  14       9.528  17.763  50.660  1.00 21.34      1HRC H   new
+ATOM    226 1HB  CYS A  14       9.287  19.563  48.128  1.00 20.12      1HRC H   new
+ATOM    227 2HB  CYS A  14      10.183  18.044  48.263  1.00 20.12      1HRC H   new
+ATOM    228  N   ALA A  15       9.762  20.989  50.586  1.00 22.55      1HRC 2
+ATOM    229  CA  ALA A  15      10.599  22.172  50.893  1.00 18.86      1HRC 2
+ATOM    230  C   ALA A  15      11.485  22.022  52.094  1.00 22.02      1HRC 2
+ATOM    231  O   ALA A  15      12.515  22.712  52.179  1.00 21.99      1HRC 2
+ATOM    232  CB  ALA A  15       9.710  23.409  50.996  1.00 22.66      1HRC 2
+ATOM    233  H   ALA A  15       8.793  21.205  50.468  1.00 22.55      1HRC H   new
+ATOM    234  HA  ALA A  15      11.304  22.284  50.056  1.00 18.86      1HRC H   new
+ATOM    235 1HB  ALA A  15      10.330  24.289  51.224  1.00 22.66      1HRC H   new
+ATOM    236 2HB  ALA A  15       9.188  23.567  50.041  1.00 22.66      1HRC H   new
+ATOM    237 3HB  ALA A  15       8.971  23.264  51.798  1.00 22.66      1HRC H   new
+ATOM    238  N   GLN A  16      11.207  21.153  53.022  1.00 22.51      1HRC 2
+ATOM    239  CA  GLN A  16      12.002  20.937  54.230  1.00 23.30      1HRC 2
+ATOM    240  C   GLN A  16      13.349  20.326  53.913  1.00 23.00      1HRC 2
+ATOM    241  O   GLN A  16      14.326  20.477  54.707  1.00 22.13      1HRC 2
+ATOM    242  CB  GLN A  16      11.158  20.081  55.186  1.00 28.40      1HRC 2
+ATOM    243  CG  GLN A  16      11.679  19.834  56.570  1.00 35.45      1HRC 2
+ATOM    244  CD  GLN A  16      11.107  18.729  57.406  1.00 37.88      1HRC 2
+ATOM    245  OE1 GLN A  16      11.164  18.704  58.645  1.00 41.50      1HRC 2
+ATOM    246  NE2 GLN A  16      10.508  17.700  56.811  1.00 38.69      1HRC 2
+ATOM    247  H   GLN A  16      10.407  20.555  52.971  1.00 22.51      1HRC H   new
+ATOM    248  HA  GLN A  16      12.241  21.894  54.716  1.00 23.30      1HRC H   new
+ATOM    249 1HB  GLN A  16      10.171  20.558  55.280  1.00 28.40      1HRC H   new
+ATOM    250 2HB  GLN A  16      10.999  19.103  54.708  1.00 28.40      1HRC H   new
+ATOM    251 1HG  GLN A  16      12.760  19.651  56.483  1.00 35.45      1HRC H   new
+ATOM    252 2HG  GLN A  16      11.555  20.769  57.136  1.00 35.45      1HRC H   new
+ATOM    253 1HE2 GLN A  16      10.130  16.955  57.361  1.00 38.69      1HRC H   new
+ATOM    254 2HE2 GLN A  16      10.436  17.672  55.814  1.00 38.69      1HRC H   new
+ATOM    255  N   CYS A  17      13.457  19.604  52.813  1.00 20.46      1HRC 2
+ATOM    256  CA  CYS A  17      14.710  18.929  52.494  1.00 18.28      1HRC 2
+ATOM    257  C   CYS A  17      15.198  19.156  51.090  1.00 18.07      1HRC 2
+ATOM    258  O   CYS A  17      16.221  18.515  50.740  1.00 18.98      1HRC 2
+ATOM    259  CB  CYS A  17      14.564  17.429  52.792  1.00 15.46      1HRC 2
+ATOM    260  SG  CYS A  17      13.810  16.788  54.263  1.00 17.64      1HRC 2
+ATOM    261  H   CYS A  17      12.723  19.471  52.147  1.00 20.46      1HRC H   new
+ATOM    262  HA  CYS A  17      15.485  19.375  53.135  1.00 18.28      1HRC H   new
+ATOM    263 1HB  CYS A  17      14.007  16.999  51.947  1.00 15.46      1HRC H   new
+ATOM    264 2HB  CYS A  17      15.579  17.007  52.756  1.00 15.46      1HRC H   new
+ATOM    265  N   HIS A  18      14.549  19.981  50.286  1.00 17.49      1HRC 2
+ATOM    266  CA  HIS A  18      14.982  20.235  48.919  1.00 17.86      1HRC 2
+ATOM    267  C   HIS A  18      14.773  21.679  48.440  1.00 19.70      1HRC 2
+ATOM    268  O   HIS A  18      13.821  22.308  48.829  1.00 21.74      1HRC 2
+ATOM    269  CB  HIS A  18      14.102  19.483  47.895  1.00 11.72      1HRC 2
+ATOM    270  CG  HIS A  18      14.280  17.990  47.963  1.00 12.02      1HRC 2
+ATOM    271  ND1 HIS A  18      15.425  17.400  47.458  1.00  8.55      1HRC 2
+ATOM    272  CD2 HIS A  18      13.520  17.025  48.431  1.00 10.28      1HRC 2
+ATOM    273  CE1 HIS A  18      15.268  16.051  47.604  1.00 13.26      1HRC 2
+ATOM    274  NE2 HIS A  18      14.137  15.812  48.211  1.00  9.54      1HRC 2
+ATOM    275  H   HIS A  18      13.726  20.483  50.554  1.00 17.49      1HRC H   new
+ATOM    276  HA  HIS A  18      16.041  19.940  48.957  1.00 17.86      1HRC H   new
+ATOM    277 1HB  HIS A  18      13.045  19.731  48.074  1.00 11.72      1HRC H   new
+ATOM    278 2HB  HIS A  18      14.347  19.832  46.881  1.00 11.72      1HRC H   new
+ATOM    279  HD1 HIS A  18      16.214  17.870  47.063  1.00  8.55      1HRC H   new
+ATOM    280  HD2 HIS A  18      12.545  17.164  48.921  1.00 10.28      1HRC H   new
+ATOM    281  HE1 HIS A  18      15.982  15.286  47.264  1.00 13.26      1HRC H   new
+ATOM    282  N   THR A  19      15.578  22.046  47.471  1.00 21.19      1HRC 2
+ATOM    283  CA  THR A  19      15.626  23.281  46.722  1.00 18.15      1HRC 2
+ATOM    284  C   THR A  19      15.321  22.924  45.249  1.00 20.94      1HRC 2
+ATOM    285  O   THR A  19      15.648  21.784  44.868  1.00 14.83      1HRC 2
+ATOM    286  CB  THR A  19      17.060  23.923  46.871  1.00 19.36      1HRC 2
+ATOM    287  OG1 THR A  19      16.941  24.553  48.209  1.00 13.45      1HRC 2
+ATOM    288  CG2 THR A  19      17.427  25.020  45.918  1.00 26.24      1HRC 2
+ATOM    289  H   THR A  19      16.290  21.419  47.156  1.00 21.19      1HRC H   new
+ATOM    290  HA  THR A  19      14.893  24.014  47.090  1.00 18.15      1HRC H   new
+ATOM    291  HB  THR A  19      17.825  23.152  46.695  1.00 19.36      1HRC H   new
+ATOM    292  HG1 THR A  19      17.800  25.010  48.441  1.00 13.45      1HRC H   new
+ATOM    293 1HG2 THR A  19      18.447  25.370  46.137  1.00 26.24      1HRC H   new
+ATOM    294 2HG2 THR A  19      17.384  24.640  44.887  1.00 26.24      1HRC H   new
+ATOM    295 3HG2 THR A  19      16.721  25.856  46.030  1.00 26.24      1HRC H   new
+ATOM    296  N   VAL A  20      14.726  23.855  44.543  1.00 20.41      1HRC 2
+ATOM    297  CA  VAL A  20      14.484  23.576  43.107  1.00 24.34      1HRC 2
+ATOM    298  C   VAL A  20      15.220  24.615  42.254  1.00 26.18      1HRC 2
+ATOM    299  O   VAL A  20      15.348  24.359  41.034  1.00 28.89      1HRC 2
+ATOM    300  CB  VAL A  20      13.003  23.450  42.713  1.00 19.41      1HRC 2
+ATOM    301  CG1 VAL A  20      12.316  22.351  43.553  1.00  9.93      1HRC 2
+ATOM    302  CG2 VAL A  20      12.212  24.737  42.736  1.00 22.39      1HRC 2
+ATOM    303  H   VAL A  20      14.416  24.744  44.882  1.00 20.41      1HRC H   new
+ATOM    304  HA  VAL A  20      14.892  22.574  42.908  1.00 24.34      1HRC H   new
+ATOM    305  HB  VAL A  20      13.010  23.161  41.652  1.00 19.41      1HRC H   new
+ATOM    306 1HG1 VAL A  20      11.259  22.272  43.260  1.00  9.93      1HRC H   new
+ATOM    307 2HG1 VAL A  20      12.817  21.388  43.377  1.00  9.93      1HRC H   new
+ATOM    308 3HG1 VAL A  20      12.382  22.609  44.620  1.00  9.93      1HRC H   new
+ATOM    309 1HG2 VAL A  20      11.172  24.534  42.440  1.00 22.39      1HRC H   new
+ATOM    310 2HG2 VAL A  20      12.228  25.160  43.752  1.00 22.39      1HRC H   new
+ATOM    311 3HG2 VAL A  20      12.659  25.456  42.034  1.00 22.39      1HRC H   new
+ATOM    312  N   GLU A  21      15.632  25.732  42.829  1.00 30.10      1HRC 2
+ATOM    313  CA  GLU A  21      16.267  26.730  41.924  1.00 29.32      1HRC 2
+ATOM    314  C   GLU A  21      17.703  26.511  41.563  1.00 30.89      1HRC 2
+ATOM    315  O   GLU A  21      18.560  25.861  42.159  1.00 28.72      1HRC 2
+ATOM    316  CB  GLU A  21      15.965  28.138  42.403  1.00 31.67      1HRC 2
+ATOM    317  CG  GLU A  21      16.364  28.679  43.747  1.00 36.03      1HRC 2
+ATOM    318  CD  GLU A  21      16.132  27.889  44.998  1.00 40.23      1HRC 2
+ATOM    319  OE1 GLU A  21      15.155  27.199  45.269  1.00 39.69      1HRC 2
+ATOM    320  OE2 GLU A  21      17.130  28.012  45.773  1.00 40.16      1HRC 2
+ATOM    321  H   GLU A  21      15.562  25.972  43.797  1.00 30.10      1HRC H   new
+ATOM    322  HA  GLU A  21      15.788  26.570  40.947  1.00 29.32      1HRC H   new
+ATOM    323 1HB  GLU A  21      16.406  28.816  41.657  1.00 31.67      1HRC H   new
+ATOM    324 2HB  GLU A  21      14.873  28.255  42.338  1.00 31.67      1HRC H   new
+ATOM    325 1HG  GLU A  21      17.441  28.897  43.699  1.00 36.03      1HRC H   new
+ATOM    326 2HG  GLU A  21      15.846  29.641  43.873  1.00 36.03      1HRC H   new
+ATOM    327  N   LYS A  22      18.061  27.123  40.426  1.00 29.73      1HRC 2
+ATOM    328  CA  LYS A  22      19.430  27.073  39.855  1.00 29.87      1HRC 2
+ATOM    329  C   LYS A  22      20.478  27.500  40.878  1.00 27.45      1HRC 2
+ATOM    330  O   LYS A  22      20.433  28.513  41.587  1.00 27.05      1HRC 2
+ATOM    331  CB  LYS A  22      19.470  27.903  38.602  1.00 29.43      1HRC 2
+ATOM    332  CG  LYS A  22      20.434  27.349  37.534  1.00 29.61      1HRC 2
+ATOM    333  CD  LYS A  22      20.667  28.449  36.480  1.00 32.29      1HRC 2
+ATOM    334  CE  LYS A  22      21.718  28.008  35.449  1.00 34.88      1HRC 2
+ATOM    335  NZ  LYS A  22      23.001  27.701  36.176  1.00 35.27      1HRC 2
+ATOM    336  H   LYS A  22      17.422  27.662  39.877  1.00 29.73      1HRC H   new
+ATOM    337  HA  LYS A  22      19.680  26.035  39.589  1.00 29.87      1HRC H   new
+ATOM    338 1HB  LYS A  22      18.457  27.961  38.177  1.00 29.43      1HRC H   new
+ATOM    339 2HB  LYS A  22      19.770  28.929  38.860  1.00 29.43      1HRC H   new
+ATOM    340 1HG  LYS A  22      21.387  27.051  37.995  1.00 29.61      1HRC H   new
+ATOM    341 2HG  LYS A  22      20.010  26.450  37.063  1.00 29.61      1HRC H   new
+ATOM    342 1HD  LYS A  22      19.720  28.680  35.969  1.00 32.29      1HRC H   new
+ATOM    343 2HD  LYS A  22      20.999  29.373  36.976  1.00 32.29      1HRC H   new
+ATOM    344 1HE  LYS A  22      21.367  27.121  34.901  1.00 34.88      1HRC H   new
+ATOM    345 2HE  LYS A  22      21.881  28.802  34.705  1.00 34.88      1HRC H   new
+ATOM    346 1HZ  LYS A  22      23.696  27.412  35.518  1.00 35.27      1HRC H + new
+ATOM    347 2HZ  LYS A  22      23.317  28.519  36.656  1.00 35.27      1HRC H + new
+ATOM    348 3HZ  LYS A  22      22.843  26.967  36.837  1.00 35.27      1HRC H + new
+ATOM    349  N   GLY A  23      21.474  26.622  41.004  1.00 25.79      1HRC 2
+ATOM    350  CA  GLY A  23      22.532  26.833  41.974  1.00 24.94      1HRC 2
+ATOM    351  C   GLY A  23      22.003  26.898  43.391  1.00 24.88      1HRC 2
+ATOM    352  O   GLY A  23      22.758  27.376  44.260  1.00 26.09      1HRC 2
+ATOM    353  H   GLY A  23      21.563  25.787  40.461  1.00 25.79      1HRC H   new
+ATOM    354 1HA  GLY A  23      23.267  26.018  41.896  1.00 24.94      1HRC H   new
+ATOM    355 2HA  GLY A  23      23.062  27.768  41.739  1.00 24.94      1HRC H   new
+ATOM    356  N   GLY A  24      20.787  26.482  43.655  1.00 22.40      1HRC 2
+ATOM    357  CA  GLY A  24      20.243  26.504  45.073  1.00 21.17      1HRC 2
+ATOM    358  C   GLY A  24      20.988  25.403  45.823  1.00 24.51      1HRC 2
+ATOM    359  O   GLY A  24      21.537  24.473  45.160  1.00 25.71      1HRC 2
+ATOM    360  H   GLY A  24      20.150  26.132  42.968  1.00 22.40      1HRC H   new
+ATOM    361 1HA  GLY A  24      20.409  27.484  45.544  1.00 21.17      1HRC H   new
+ATOM    362 2HA  GLY A  24      19.158  26.323  45.082  1.00 21.17      1HRC H   new
+ATOM    363  N   LYS A  25      21.041  25.479  47.135  1.00 26.06      1HRC 2
+ATOM    364  CA  LYS A  25      21.720  24.527  47.999  1.00 26.20      1HRC 2
+ATOM    365  C   LYS A  25      21.032  23.177  48.205  1.00 24.38      1HRC 2
+ATOM    366  O   LYS A  25      19.835  22.925  48.054  1.00 24.46      1HRC 2
+ATOM    367  CB  LYS A  25      21.921  25.151  49.392  1.00 28.22      1HRC 2
+ATOM    368  CG  LYS A  25      20.642  25.577  50.089  1.00 29.06      1HRC 2
+ATOM    369  CD  LYS A  25      20.834  26.093  51.493  1.00 30.45      1HRC 2
+ATOM    370  CE  LYS A  25      19.517  26.782  51.871  1.00 35.60      1HRC 2
+ATOM    371  NZ  LYS A  25      19.175  26.492  53.281  1.00 39.66      1HRC 2
+ATOM    372  H   LYS A  25      20.604  26.221  47.644  1.00 26.06      1HRC H   new
+ATOM    373  HA  LYS A  25      22.659  24.315  47.467  1.00 26.20      1HRC H   new
+ATOM    374 1HB  LYS A  25      22.446  24.425  50.031  1.00 28.22      1HRC H   new
+ATOM    375 2HB  LYS A  25      22.578  26.028  49.294  1.00 28.22      1HRC H   new
+ATOM    376 1HG  LYS A  25      20.156  26.360  49.488  1.00 29.06      1HRC H   new
+ATOM    377 2HG  LYS A  25      19.953  24.720  50.119  1.00 29.06      1HRC H   new
+ATOM    378 1HD  LYS A  25      21.062  25.271  52.187  1.00 30.45      1HRC H   new
+ATOM    379 2HD  LYS A  25      21.676  26.799  51.542  1.00 30.45      1HRC H   new
+ATOM    380 1HE  LYS A  25      19.607  27.868  51.723  1.00 35.60      1HRC H   new
+ATOM    381 2HE  LYS A  25      18.709  26.434  51.211  1.00 35.60      1HRC H   new
+ATOM    382 1HZ  LYS A  25      18.315  26.946  53.516  1.00 39.66      1HRC H + new
+ATOM    383 2HZ  LYS A  25      19.075  25.505  53.404  1.00 39.66      1HRC H + new
+ATOM    384 3HZ  LYS A  25      19.903  26.829  53.877  1.00 39.66      1HRC H + new
+ATOM    385  N   HIS A  26      21.896  22.267  48.645  1.00 27.32      1HRC 2
+ATOM    386  CA  HIS A  26      21.607  20.894  49.002  1.00 25.36      1HRC 2
+ATOM    387  C   HIS A  26      21.244  20.996  50.486  1.00 25.45      1HRC 2
+ATOM    388  O   HIS A  26      22.010  21.600  51.260  1.00 26.47      1HRC 2
+ATOM    389  CB  HIS A  26      22.719  19.879  48.747  1.00 27.53      1HRC 2
+ATOM    390  CG  HIS A  26      23.094  19.752  47.288  1.00 29.14      1HRC 2
+ATOM    391  ND1 HIS A  26      22.283  20.065  46.226  1.00 29.43      1HRC 2
+ATOM    392  CD2 HIS A  26      24.240  19.293  46.725  1.00 28.69      1HRC 2
+ATOM    393  CE1 HIS A  26      22.904  19.840  45.098  1.00 27.44      1HRC 2
+ATOM    394  NE2 HIS A  26      24.097  19.353  45.377  1.00 30.13      1HRC 2
+ATOM    395  H   HIS A  26      22.864  22.487  48.765  1.00 27.32      1HRC H   new
+ATOM    396  HA  HIS A  26      20.810  20.490  48.361  1.00 25.36      1HRC H   new
+ATOM    397 1HB  HIS A  26      23.610  20.170  49.323  1.00 27.53      1HRC H   new
+ATOM    398 2HB  HIS A  26      22.401  18.895  49.123  1.00 27.53      1HRC H   new
+ATOM    399  HD1 HIS A  26      21.350  20.415  46.304  1.00 29.43      1HRC H   new
+ATOM    400  HD2 HIS A  26      25.128  18.935  47.266  1.00 28.69      1HRC H   new
+ATOM    401  HE1 HIS A  26      22.501  20.025  44.091  1.00 27.44      1HRC H   new
+ATOM    402  HE2 HIS A  26      24.784  19.074  44.706  1.00 30.13      1HRC H   new
+ATOM    403  N   LYS A  27      20.074  20.483  50.796  1.00 23.69      1HRC 2
+ATOM    404  CA  LYS A  27      19.632  20.544  52.242  1.00 19.98      1HRC 2
+ATOM    405  C   LYS A  27      19.829  19.124  52.715  1.00 20.77      1HRC 2
+ATOM    406  O   LYS A  27      20.905  18.557  52.335  1.00 21.58      1HRC 2
+ATOM    407  CB  LYS A  27      18.255  21.145  52.234  1.00 14.17      1HRC 2
+ATOM    408  CG  LYS A  27      18.134  22.678  52.126  1.00 12.09      1HRC 2
+ATOM    409  CD  LYS A  27      16.683  23.072  51.926  1.00 18.30      1HRC 2
+ATOM    410  CE  LYS A  27      16.074  23.330  53.312  1.00 18.62      1HRC 2
+ATOM    411  NZ  LYS A  27      14.689  23.752  53.048  1.00 21.58      1HRC 2
+ATOM    412  H   LYS A  27      19.437  20.049  50.158  1.00 23.69      1HRC H   new
+ATOM    413  HA  LYS A  27      20.175  21.183  52.954  1.00 19.98      1HRC H   new
+ATOM    414 1HB  LYS A  27      17.700  20.703  51.393  1.00 14.17      1HRC H   new
+ATOM    415 2HB  LYS A  27      17.745  20.831  53.157  1.00 14.17      1HRC H   new
+ATOM    416 1HG  LYS A  27      18.529  23.151  53.038  1.00 12.09      1HRC H   new
+ATOM    417 2HG  LYS A  27      18.741  23.044  51.285  1.00 12.09      1HRC H   new
+ATOM    418 1HD  LYS A  27      16.611  23.973  51.299  1.00 18.30      1HRC H   new
+ATOM    419 2HD  LYS A  27      16.134  22.273  51.406  1.00 18.30      1HRC H   new
+ATOM    420 1HE  LYS A  27      16.102  22.423  53.934  1.00 18.62      1HRC H   new
+ATOM    421 2HE  LYS A  27      16.631  24.109  53.853  1.00 18.62      1HRC H   new
+ATOM    422 1HZ  LYS A  27      14.226  23.939  53.914  1.00 21.58      1HRC H + new
+ATOM    423 2HZ  LYS A  27      14.693  24.580  52.487  1.00 21.58      1HRC H + new
+ATOM    424 3HZ  LYS A  27      14.205  23.024  52.562  1.00 21.58      1HRC H + new
+ATOM    425  N   THR A  28      18.944  18.468  53.462  1.00 18.14      1HRC 3
+ATOM    426  CA  THR A  28      19.079  17.054  53.854  1.00 20.07      1HRC 3
+ATOM    427  C   THR A  28      19.090  16.281  52.501  1.00 19.76      1HRC 3
+ATOM    428  O   THR A  28      19.857  15.363  52.308  1.00 23.71      1HRC 3
+ATOM    429  CB  THR A  28      17.923  16.485  54.727  1.00 19.14      1HRC 3
+ATOM    430  OG1 THR A  28      17.797  17.296  55.927  1.00 21.06      1HRC 3
+ATOM    431  CG2 THR A  28      17.922  15.004  55.132  1.00 10.71      1HRC 3
+ATOM    432  H   THR A  28      18.112  18.897  53.815  1.00 18.14      1HRC H   new
+ATOM    433  HA  THR A  28      19.979  16.947  54.478  1.00 20.07      1HRC H   new
+ATOM    434  HB  THR A  28      17.068  16.539  54.038  1.00 19.14      1HRC H   new
+ATOM    435  HG1 THR A  28      17.056  16.938  56.495  1.00 21.06      1HRC H   new
+ATOM    436 1HG2 THR A  28      17.032  14.791  55.743  1.00 10.71      1HRC H   new
+ATOM    437 2HG2 THR A  28      17.905  14.376  54.229  1.00 10.71      1HRC H   new
+ATOM    438 3HG2 THR A  28      18.828  14.782  55.715  1.00 10.71      1HRC H   new
+ATOM    439  N   GLY A  29      18.209  16.731  51.599  1.00 20.25      1HRC 3
+ATOM    440  CA  GLY A  29      18.114  16.114  50.254  1.00 18.56      1HRC 3
+ATOM    441  C   GLY A  29      18.702  17.112  49.269  1.00 18.21      1HRC 3
+ATOM    442  O   GLY A  29      18.820  18.327  49.474  1.00 20.80      1HRC 3
+ATOM    443  H   GLY A  29      17.574  17.487  51.759  1.00 20.25      1HRC H   new
+ATOM    444 1HA  GLY A  29      18.666  15.163  50.222  1.00 18.56      1HRC H   new
+ATOM    445 2HA  GLY A  29      17.067  15.888  50.002  1.00 18.56      1HRC H   new
+ATOM    446  N   PRO A  30      19.077  16.623  48.112  1.00 19.31      1HRC 3
+ATOM    447  CA  PRO A  30      19.648  17.446  47.065  1.00 20.15      1HRC 3
+ATOM    448  C   PRO A  30      18.777  18.484  46.376  1.00 22.07      1HRC 3
+ATOM    449  O   PRO A  30      17.544  18.444  46.241  1.00 22.17      1HRC 3
+ATOM    450  CB  PRO A  30      20.068  16.416  46.008  1.00 18.67      1HRC 3
+ATOM    451  CG  PRO A  30      19.160  15.227  46.246  1.00 18.78      1HRC 3
+ATOM    452  CD  PRO A  30      18.991  15.184  47.768  1.00 18.02      1HRC 3
+ATOM    453  HA  PRO A  30      20.424  18.069  47.534  1.00 20.15      1HRC H   new
+ATOM    454 1HB  PRO A  30      19.945  16.815  44.990  1.00 18.67      1HRC H   new
+ATOM    455 2HB  PRO A  30      21.127  16.139  46.119  1.00 18.67      1HRC H   new
+ATOM    456 1HG  PRO A  30      18.193  15.351  45.737  1.00 18.78      1HRC H   new
+ATOM    457 2HG  PRO A  30      19.607  14.297  45.864  1.00 18.78      1HRC H   new
+ATOM    458 1HD  PRO A  30      18.028  14.743  48.066  1.00 18.02      1HRC H   new
+ATOM    459 2HD  PRO A  30      19.780  14.593  48.256  1.00 18.02      1HRC H   new
+ATOM    460  N   ASN A  31      19.471  19.475  45.815  1.00 19.09      1HRC 3
+ATOM    461  CA  ASN A  31      18.737  20.561  45.036  1.00 19.57      1HRC 3
+ATOM    462  C   ASN A  31      18.219  19.798  43.818  1.00 16.95      1HRC 3
+ATOM    463  O   ASN A  31      18.907  18.876  43.349  1.00 17.05      1HRC 3
+ATOM    464  CB  ASN A  31      19.624  21.696  44.672  1.00 17.55      1HRC 3
+ATOM    465  CG  ASN A  31      19.302  22.565  43.453  1.00 17.07      1HRC 3
+ATOM    466  OD1 ASN A  31      19.535  22.087  42.312  1.00 19.62      1HRC 3
+ATOM    467  ND2 ASN A  31      18.819  23.690  43.731  1.00 14.94      1HRC 3
+ATOM    468  H   ASN A  31      20.465  19.576  45.859  1.00 19.09      1HRC H   new
+ATOM    469  HA  ASN A  31      17.935  21.046  45.612  1.00 19.57      1HRC H   new
+ATOM    470 1HB  ASN A  31      19.674  22.364  45.545  1.00 17.55      1HRC H   new
+ATOM    471 2HB  ASN A  31      20.634  21.286  44.523  1.00 17.55      1HRC H   new
+ATOM    472 1HD2 ASN A  31      18.571  24.323  42.997  1.00 14.94      1HRC H   new
+ATOM    473 2HD2 ASN A  31      18.682  23.953  44.686  1.00 14.94      1HRC H   new
+ATOM    474  N   LEU A  32      17.082  20.232  43.334  1.00 18.46      1HRC 3
+ATOM    475  CA  LEU A  32      16.475  19.545  42.181  1.00 18.16      1HRC 3
+ATOM    476  C   LEU A  32      16.578  20.214  40.857  1.00 20.12      1HRC 3
+ATOM    477  O   LEU A  32      16.009  19.609  39.907  1.00 19.74      1HRC 3
+ATOM    478  CB  LEU A  32      15.017  19.366  42.624  1.00 16.42      1HRC 3
+ATOM    479  CG  LEU A  32      14.633  18.562  43.852  1.00 19.25      1HRC 3
+ATOM    480  CD1 LEU A  32      13.112  18.672  44.038  1.00 16.03      1HRC 3
+ATOM    481  CD2 LEU A  32      15.017  17.130  43.652  1.00 11.55      1HRC 3
+ATOM    482  H   LEU A  32      16.569  21.014  43.687  1.00 18.46      1HRC H   new
+ATOM    483  HA  LEU A  32      17.021  18.614  41.970  1.00 18.16      1HRC H   new
+ATOM    484 1HB  LEU A  32      14.605  20.376  42.767  1.00 16.42      1HRC H   new
+ATOM    485 2HB  LEU A  32      14.482  18.918  41.774  1.00 16.42      1HRC H   new
+ATOM    486  HG  LEU A  32      15.153  18.947  44.742  1.00 19.25      1HRC H   new
+ATOM    487 1HD1 LEU A  32      12.808  18.096  44.924  1.00 16.03      1HRC H   new
+ATOM    488 2HD1 LEU A  32      12.834  19.728  44.174  1.00 16.03      1HRC H   new
+ATOM    489 3HD1 LEU A  32      12.603  18.271  43.149  1.00 16.03      1HRC H   new
+ATOM    490 1HD2 LEU A  32      14.738  16.547  44.542  1.00 11.55      1HRC H   new
+ATOM    491 2HD2 LEU A  32      14.492  16.728  42.773  1.00 11.55      1HRC H   new
+ATOM    492 3HD2 LEU A  32      16.103  17.060  43.494  1.00 11.55      1HRC H   new
+ATOM    493  N   HIS A  33      17.250  21.354  40.675  1.00 22.38      1HRC 3
+ATOM    494  CA  HIS A  33      17.294  21.960  39.331  1.00 24.44      1HRC 3
+ATOM    495  C   HIS A  33      17.847  20.931  38.350  1.00 24.97      1HRC 3
+ATOM    496  O   HIS A  33      18.797  20.250  38.680  1.00 22.98      1HRC 3
+ATOM    497  CB  HIS A  33      18.081  23.269  39.256  1.00 27.57      1HRC 3
+ATOM    498  CG  HIS A  33      17.752  24.035  38.016  1.00 33.07      1HRC 3
+ATOM    499  ND1 HIS A  33      16.766  24.991  37.935  1.00 35.19      1HRC 3
+ATOM    500  CD2 HIS A  33      18.334  23.924  36.802  1.00 30.75      1HRC 3
+ATOM    501  CE1 HIS A  33      16.758  25.446  36.702  1.00 35.54      1HRC 3
+ATOM    502  NE2 HIS A  33      17.677  24.807  36.011  1.00 34.50      1HRC 3
+ATOM    503  H   HIS A  33      17.743  21.852  41.389  1.00 22.38      1HRC H   new
+ATOM    504  HA  HIS A  33      16.264  22.239  39.065  1.00 24.44      1HRC H   new
+ATOM    505 1HB  HIS A  33      17.857  23.885  40.140  1.00 27.57      1HRC H   new
+ATOM    506 2HB  HIS A  33      19.159  23.052  39.280  1.00 27.57      1HRC H   new
+ATOM    507  HD1 HIS A  33      16.165  25.286  38.678  1.00 35.19      1HRC H   new
+ATOM    508  HD2 HIS A  33      19.163  23.260  36.517  1.00 30.75      1HRC H   new
+ATOM    509  HE1 HIS A  33      16.093  26.231  36.312  1.00 35.54      1HRC H   new
+ATOM    510  HE2 HIS A  33      17.864  24.952  35.040  1.00 34.50      1HRC H   new
+ATOM    511  N   GLY A  34      17.171  20.819  37.209  1.00 26.50      1HRC 3
+ATOM    512  CA  GLY A  34      17.539  19.894  36.156  1.00 28.96      1HRC 3
+ATOM    513  C   GLY A  34      17.217  18.437  36.297  1.00 29.63      1HRC 3
+ATOM    514  O   GLY A  34      17.836  17.618  35.570  1.00 31.37      1HRC 3
+ATOM    515  H   GLY A  34      16.361  21.366  36.998  1.00 26.50      1HRC H   new
+ATOM    516 1HA  GLY A  34      17.064  20.247  35.229  1.00 28.96      1HRC H   new
+ATOM    517 2HA  GLY A  34      18.626  19.977  36.012  1.00 28.96      1HRC H   new
+ATOM    518  N   LEU A  35      16.280  18.047  37.128  1.00 28.63      1HRC 3
+ATOM    519  CA  LEU A  35      15.914  16.647  37.314  1.00 27.24      1HRC 3
+ATOM    520  C   LEU A  35      15.513  15.829  36.112  1.00 26.55      1HRC 3
+ATOM    521  O   LEU A  35      16.032  14.746  35.819  1.00 27.97      1HRC 3
+ATOM    522  CB  LEU A  35      14.743  16.686  38.379  1.00 20.65      1HRC 3
+ATOM    523  CG  LEU A  35      14.375  15.379  39.055  1.00 24.22      1HRC 3
+ATOM    524  CD1 LEU A  35      15.538  14.701  39.785  1.00 19.67      1HRC 3
+ATOM    525  CD2 LEU A  35      13.349  15.704  40.167  1.00 21.55      1HRC 3
+ATOM    526  H   LEU A  35      15.750  18.680  37.693  1.00 28.63      1HRC H   new
+ATOM    527  HA  LEU A  35      16.826  16.113  37.618  1.00 27.24      1HRC H   new
+ATOM    528 1HB  LEU A  35      15.018  17.408  39.161  1.00 20.65      1HRC H   new
+ATOM    529 2HB  LEU A  35      13.843  17.077  37.882  1.00 20.65      1HRC H   new
+ATOM    530  HG  LEU A  35      14.015  14.711  38.259  1.00 24.22      1HRC H   new
+ATOM    531 1HD1 LEU A  35      15.187  13.765  40.245  1.00 19.67      1HRC H   new
+ATOM    532 2HD1 LEU A  35      16.342  14.478  39.068  1.00 19.67      1HRC H   new
+ATOM    533 3HD1 LEU A  35      15.921  15.372  40.568  1.00 19.67      1HRC H   new
+ATOM    534 1HD2 LEU A  35      13.058  14.776  40.681  1.00 21.55      1HRC H   new
+ATOM    535 2HD2 LEU A  35      13.800  16.398  40.892  1.00 21.55      1HRC H   new
+ATOM    536 3HD2 LEU A  35      12.458  16.170  39.720  1.00 21.55      1HRC H   new
+ATOM    537  N   PHE A  36      14.522  16.295  35.393  1.00 26.93      1HRC 3
+ATOM    538  CA  PHE A  36      13.823  15.799  34.218  1.00 24.77      1HRC 3
+ATOM    539  C   PHE A  36      14.800  15.518  33.082  1.00 24.69      1HRC 3
+ATOM    540  O   PHE A  36      15.416  16.477  32.584  1.00 28.98      1HRC 3
+ATOM    541  CB  PHE A  36      12.734  16.816  33.826  1.00 22.79      1HRC 3
+ATOM    542  CG  PHE A  36      11.428  16.746  34.545  1.00 26.99      1HRC 3
+ATOM    543  CD1 PHE A  36      10.392  15.964  34.031  1.00 23.25      1HRC 3
+ATOM    544  CD2 PHE A  36      11.202  17.441  35.746  1.00 27.78      1HRC 3
+ATOM    545  CE1 PHE A  36       9.183  15.858  34.690  1.00 22.64      1HRC 3
+ATOM    546  CE2 PHE A  36       9.990  17.344  36.429  1.00 28.72      1HRC 3
+ATOM    547  CZ  PHE A  36       8.964  16.531  35.879  1.00 24.96      1HRC 3
+ATOM    548  H   PHE A  36      14.122  17.172  35.660  1.00 26.93      1HRC H   new
+ATOM    549  HA  PHE A  36      13.336  14.839  34.443  1.00 24.77      1HRC H   new
+ATOM    550 1HB  PHE A  36      13.146  17.826  33.970  1.00 22.79      1HRC H   new
+ATOM    551 2HB  PHE A  36      12.535  16.701  32.750  1.00 22.79      1HRC H   new
+ATOM    552  HD1 PHE A  36      10.541  15.423  33.085  1.00 23.25      1HRC H   new
+ATOM    553  HD2 PHE A  36      12.000  18.077  36.157  1.00 27.78      1HRC H   new
+ATOM    554  HE1 PHE A  36       8.385  15.231  34.265  1.00 22.64      1HRC H   new
+ATOM    555  HE2 PHE A  36       9.832  17.886  37.373  1.00 28.72      1HRC H   new
+ATOM    556  HZ  PHE A  36       7.998  16.436  36.397  1.00 24.96      1HRC H   new
+ATOM    557  N   GLY A  37      14.947  14.289  32.667  1.00 25.18      1HRC 3
+ATOM    558  CA  GLY A  37      15.828  13.849  31.578  1.00 25.33      1HRC 3
+ATOM    559  C   GLY A  37      17.178  13.318  32.020  1.00 26.31      1HRC 3
+ATOM    560  O   GLY A  37      18.040  12.760  31.295  1.00 29.47      1HRC 3
+ATOM    561  H   GLY A  37      14.446  13.530  33.082  1.00 25.18      1HRC H   new
+ATOM    562 1HA  GLY A  37      15.313  13.065  31.004  1.00 25.33      1HRC H   new
+ATOM    563 2HA  GLY A  37      15.990  14.695  30.893  1.00 25.33      1HRC H   new
+ATOM    564  N   ARG A  38      17.439  13.470  33.286  1.00 25.38      1HRC 3
+ATOM    565  CA  ARG A  38      18.645  13.067  33.984  1.00 22.34      1HRC 3
+ATOM    566  C   ARG A  38      18.399  11.773  34.735  1.00 24.88      1HRC 3
+ATOM    567  O   ARG A  38      17.259  11.477  35.138  1.00 23.37      1HRC 3
+ATOM    568  CB  ARG A  38      18.958  14.239  34.925  1.00 23.97      1HRC 3
+ATOM    569  CG  ARG A  38      20.401  14.146  35.443  1.00 27.92      1HRC 3
+ATOM    570  CD  ARG A  38      20.788  15.312  36.243  1.00 23.30      1HRC 3
+ATOM    571  NE  ARG A  38      19.998  15.614  37.409  1.00 25.64      1HRC 3
+ATOM    572  CZ  ARG A  38      19.967  16.778  38.054  1.00 29.87      1HRC 3
+ATOM    573  NH1 ARG A  38      19.200  16.972  39.128  1.00 29.20      1HRC 3
+ATOM    574  NH2 ARG A  38      20.701  17.826  37.654  1.00 28.72      1HRC 3
+ATOM    575  H   ARG A  38      16.781  13.904  33.901  1.00 25.38      1HRC H   new
+ATOM    576  HA  ARG A  38      19.492  12.866  33.312  1.00 22.34      1HRC H   new
+ATOM    577 1HB  ARG A  38      18.814  15.192  34.394  1.00 23.97      1HRC H   new
+ATOM    578 2HB  ARG A  38      18.257  14.234  35.773  1.00 23.97      1HRC H   new
+ATOM    579 1HG  ARG A  38      20.511  13.236  36.051  1.00 27.92      1HRC H   new
+ATOM    580 2HG  ARG A  38      21.088  14.047  34.589  1.00 27.92      1HRC H   new
+ATOM    581 1HD  ARG A  38      21.830  15.170  36.567  1.00 23.30      1HRC H   new
+ATOM    582 2HD  ARG A  38      20.773  16.194  35.586  1.00 23.30      1HRC H   new
+ATOM    583  HE  ARG A  38      19.419  14.881  37.767  1.00 25.64      1HRC H + new
+ATOM    584 1HH1 ARG A  38      18.625  16.230  39.472  1.00 29.20      1HRC H + new
+ATOM    585 2HH1 ARG A  38      19.201  17.859  39.589  1.00 29.20      1HRC H + new
+ATOM    586 1HH2 ARG A  38      21.292  17.745  36.851  1.00 28.72      1HRC H + new
+ATOM    587 2HH2 ARG A  38      20.658  18.688  38.158  1.00 28.72      1HRC H + new
+ATOM    588  N   LYS A  39      19.459  11.015  34.879  1.00 25.69      1HRC 3
+ATOM    589  CA  LYS A  39      19.469   9.743  35.585  1.00 28.20      1HRC 3
+ATOM    590  C   LYS A  39      19.501  10.116  37.078  1.00 25.65      1HRC 3
+ATOM    591  O   LYS A  39      19.765  11.246  37.500  1.00 25.14      1HRC 3
+ATOM    592  CB  LYS A  39      20.630   8.818  35.276  1.00 30.33      1HRC 3
+ATOM    593  CG  LYS A  39      20.744   8.218  33.893  1.00 37.16      1HRC 3
+ATOM    594  CD  LYS A  39      19.701   7.173  33.575  1.00 39.64      1HRC 3
+ATOM    595  CE  LYS A  39      19.705   6.809  32.102  1.00 45.20      1HRC 3
+ATOM    596  NZ  LYS A  39      19.401   5.349  31.964  1.00 49.57      1HRC 3
+ATOM    597  H   LYS A  39      20.353  11.264  34.506  1.00 25.69      1HRC H   new
+ATOM    598  HA  LYS A  39      18.586   9.169  35.267  1.00 28.20      1HRC H   new
+ATOM    599 1HB  LYS A  39      21.558   9.374  35.474  1.00 30.33      1HRC H   new
+ATOM    600 2HB  LYS A  39      20.593   7.987  35.996  1.00 30.33      1HRC H   new
+ATOM    601 1HG  LYS A  39      20.673   9.026  33.150  1.00 37.16      1HRC H   new
+ATOM    602 2HG  LYS A  39      21.741   7.767  33.784  1.00 37.16      1HRC H   new
+ATOM    603 1HD  LYS A  39      19.888   6.272  34.177  1.00 39.64      1HRC H   new
+ATOM    604 2HD  LYS A  39      18.706   7.548  33.858  1.00 39.64      1HRC H   new
+ATOM    605 1HE  LYS A  39      18.957   7.406  31.560  1.00 45.20      1HRC H   new
+ATOM    606 2HE  LYS A  39      20.684   7.038  31.656  1.00 45.20      1HRC H   new
+ATOM    607 1HZ  LYS A  39      19.401   5.098  30.996  1.00 49.57      1HRC H + new
+ATOM    608 2HZ  LYS A  39      20.096   4.816  32.446  1.00 49.57      1HRC H + new
+ATOM    609 3HZ  LYS A  39      18.502   5.157  32.358  1.00 49.57      1HRC H + new
+ATOM    610  N   THR A  40      19.243   9.076  37.824  1.00 26.55      1HRC 3
+ATOM    611  CA  THR A  40      19.173   9.015  39.267  1.00 25.24      1HRC 3
+ATOM    612  C   THR A  40      20.543   9.269  39.865  1.00 27.32      1HRC 3
+ATOM    613  O   THR A  40      21.563   8.869  39.292  1.00 31.86      1HRC 3
+ATOM    614  CB  THR A  40      18.468   7.682  39.733  1.00 21.21      1HRC 3
+ATOM    615  OG1 THR A  40      19.251   6.560  39.253  1.00 23.06      1HRC 3
+ATOM    616  CG2 THR A  40      17.010   7.468  39.262  1.00 13.46      1HRC 3
+ATOM    617  H   THR A  40      19.063   8.183  37.411  1.00 26.55      1HRC H   new
+ATOM    618  HA  THR A  40      18.533   9.820  39.658  1.00 25.24      1HRC H   new
+ATOM    619  HB  THR A  40      18.416   7.762  40.829  1.00 21.21      1HRC H   new
+ATOM    620  HG1 THR A  40      18.819   5.705  39.539  1.00 23.06      1HRC H   new
+ATOM    621 1HG2 THR A  40      16.635   6.510  39.651  1.00 13.46      1HRC H   new
+ATOM    622 2HG2 THR A  40      16.379   8.287  39.637  1.00 13.46      1HRC H   new
+ATOM    623 3HG2 THR A  40      16.977   7.455  38.163  1.00 13.46      1HRC H   new
+ATOM    624  N   GLY A  41      20.566   9.959  40.970  1.00 27.04      1HRC 3
+ATOM    625  CA  GLY A  41      21.752  10.289  41.738  1.00 26.59      1HRC 3
+ATOM    626  C   GLY A  41      22.802  11.118  41.028  1.00 28.26      1HRC 4
+ATOM    627  O   GLY A  41      24.014  10.825  41.211  1.00 28.11      1HRC 4
+ATOM    628  H   GLY A  41      19.731  10.324  41.381  1.00 27.04      1HRC H   new
+ATOM    629 1HA  GLY A  41      21.438  10.831  42.642  1.00 26.59      1HRC H   new
+ATOM    630 2HA  GLY A  41      22.220   9.351  42.071  1.00 26.59      1HRC H   new
+ATOM    631  N   GLN A  42      22.378  12.124  40.305  1.00 27.60      1HRC 4
+ATOM    632  CA  GLN A  42      23.172  13.024  39.481  1.00 28.04      1HRC 4
+ATOM    633  C   GLN A  42      23.247  14.495  39.813  1.00 28.05      1HRC 4
+ATOM    634  O   GLN A  42      23.654  15.360  38.985  1.00 29.55      1HRC 4
+ATOM    635  CB  GLN A  42      22.751  12.804  37.993  1.00 31.28      1HRC 4
+ATOM    636  CG  GLN A  42      23.066  11.423  37.422  1.00 32.12      1HRC 4
+ATOM    637  CD  GLN A  42      24.496  10.957  37.384  1.00 35.30      1HRC 4
+ATOM    638  OE1 GLN A  42      24.889   9.952  37.998  1.00 40.68      1HRC 4
+ATOM    639  NE2 GLN A  42      25.358  11.662  36.665  1.00 36.90      1HRC 4
+ATOM    640  H   GLN A  42      21.406  12.356  40.270  1.00 27.60      1HRC H   new
+ATOM    641  HA  GLN A  42      24.208  12.733  39.707  1.00 28.04      1HRC H   new
+ATOM    642 1HB  GLN A  42      21.669  12.980  37.906  1.00 31.28      1HRC H   new
+ATOM    643 2HB  GLN A  42      23.251  13.562  37.372  1.00 31.28      1HRC H   new
+ATOM    644 1HG  GLN A  42      22.492  10.685  38.002  1.00 32.12      1HRC H   new
+ATOM    645 2HG  GLN A  42      22.680  11.394  36.392  1.00 32.12      1HRC H   new
+ATOM    646 1HE2 GLN A  42      26.317  11.383  36.620  1.00 36.90      1HRC H   new
+ATOM    647 2HE2 GLN A  42      25.049  12.473  36.168  1.00 36.90      1HRC H   new
+ATOM    648  N   ALA A  43      22.901  14.887  41.019  1.00 25.52      1HRC 4
+ATOM    649  CA  ALA A  43      23.053  16.301  41.411  1.00 24.40      1HRC 4
+ATOM    650  C   ALA A  43      24.543  16.394  41.760  1.00 23.84      1HRC 4
+ATOM    651  O   ALA A  43      25.028  15.644  42.640  1.00 23.05      1HRC 4
+ATOM    652  CB  ALA A  43      22.295  16.643  42.681  1.00 20.72      1HRC 4
+ATOM    653  H   ALA A  43      22.527  14.288  41.727  1.00 25.52      1HRC H   new
+ATOM    654  HA  ALA A  43      22.686  16.969  40.618  1.00 24.40      1HRC H   new
+ATOM    655 1HB  ALA A  43      22.445  17.706  42.923  1.00 20.72      1HRC H   new
+ATOM    656 2HB  ALA A  43      21.223  16.449  42.532  1.00 20.72      1HRC H   new
+ATOM    657 3HB  ALA A  43      22.668  16.023  43.509  1.00 20.72      1HRC H   new
+ATOM    658  N   PRO A  44      25.276  17.274  41.120  1.00 26.54      1HRC 4
+ATOM    659  CA  PRO A  44      26.711  17.380  41.473  1.00 27.01      1HRC 4
+ATOM    660  C   PRO A  44      26.855  17.960  42.862  1.00 27.79      1HRC 4
+ATOM    661  O   PRO A  44      26.173  18.988  43.132  1.00 31.94      1HRC 4
+ATOM    662  CB  PRO A  44      27.274  18.359  40.448  1.00 27.59      1HRC 4
+ATOM    663  CG  PRO A  44      26.099  19.131  39.934  1.00 25.20      1HRC 4
+ATOM    664  CD  PRO A  44      24.874  18.203  40.066  1.00 25.97      1HRC 4
+ATOM    665  HA  PRO A  44      27.225  16.408  41.465  1.00 27.01      1HRC H   new
+ATOM    666 1HB  PRO A  44      28.016  19.029  40.908  1.00 27.59      1HRC H   new
+ATOM    667 2HB  PRO A  44      27.784  17.826  39.632  1.00 27.59      1HRC H   new
+ATOM    668 1HG  PRO A  44      25.954  20.055  40.513  1.00 25.20      1HRC H   new
+ATOM    669 2HG  PRO A  44      26.254  19.428  38.886  1.00 25.20      1HRC H   new
+ATOM    670 1HD  PRO A  44      23.967  18.762  40.340  1.00 25.97      1HRC H   new
+ATOM    671 2HD  PRO A  44      24.656  17.680  39.123  1.00 25.97      1HRC H   new
+ATOM    672  N   GLY A  45      27.711  17.433  43.683  1.00 24.96      1HRC 4
+ATOM    673  CA  GLY A  45      27.898  18.002  45.010  1.00 27.10      1HRC 4
+ATOM    674  C   GLY A  45      27.108  17.404  46.125  1.00 29.17      1HRC 4
+ATOM    675  O   GLY A  45      27.343  17.823  47.301  1.00 32.76      1HRC 4
+ATOM    676  H   GLY A  45      28.280  16.636  43.479  1.00 24.96      1HRC H   new
+ATOM    677 1HA  GLY A  45      28.965  17.924  45.267  1.00 27.10      1HRC H   new
+ATOM    678 2HA  GLY A  45      27.657  19.074  44.958  1.00 27.10      1HRC H   new
+ATOM    679  N   PHE A  46      26.201  16.486  45.810  1.00 26.28      1HRC 4
+ATOM    680  CA  PHE A  46      25.406  15.812  46.890  1.00 25.34      1HRC 4
+ATOM    681  C   PHE A  46      25.910  14.370  46.945  1.00 25.49      1HRC 4
+ATOM    682  O   PHE A  46      26.142  13.770  45.847  1.00 28.55      1HRC 4
+ATOM    683  CB  PHE A  46      23.891  15.920  46.665  1.00 19.83      1HRC 4
+ATOM    684  CG  PHE A  46      23.066  15.281  47.757  1.00 17.78      1HRC 4
+ATOM    685  CD1 PHE A  46      22.765  15.952  48.958  1.00 11.52      1HRC 4
+ATOM    686  CD2 PHE A  46      22.592  13.976  47.596  1.00 13.33      1HRC 4
+ATOM    687  CE1 PHE A  46      22.045  15.337  49.929  1.00  5.75      1HRC 4
+ATOM    688  CE2 PHE A  46      21.855  13.351  48.572  1.00 15.37      1HRC 4
+ATOM    689  CZ  PHE A  46      21.561  14.004  49.774  1.00 10.33      1HRC 4
+ATOM    690  H   PHE A  46      25.990  16.189  44.879  1.00 26.28      1HRC H   new
+ATOM    691  HA  PHE A  46      25.555  16.308  47.861  1.00 25.34      1HRC H   new
+ATOM    692 1HB  PHE A  46      23.616  16.982  46.585  1.00 19.83      1HRC H   new
+ATOM    693 2HB  PHE A  46      23.638  15.449  45.704  1.00 19.83      1HRC H   new
+ATOM    694  HD1 PHE A  46      23.117  16.983  49.110  1.00 11.52      1HRC H   new
+ATOM    695  HD2 PHE A  46      22.815  13.436  46.664  1.00 13.33      1HRC H   new
+ATOM    696  HE1 PHE A  46      21.829  15.880  50.861  1.00  5.75      1HRC H   new
+ATOM    697  HE2 PHE A  46      21.492  12.326  48.407  1.00 15.37      1HRC H   new
+ATOM    698  HZ  PHE A  46      20.980  13.510  50.567  1.00 10.33      1HRC H   new
+ATOM    699  N   THR A  47      26.047  13.812  48.119  1.00 24.46      1HRC 4
+ATOM    700  CA  THR A  47      26.466  12.409  48.298  1.00 28.38      1HRC 4
+ATOM    701  C   THR A  47      25.191  11.597  48.526  1.00 27.34      1HRC 4
+ATOM    702  O   THR A  47      24.503  11.653  49.538  1.00 27.01      1HRC 4
+ATOM    703  CB  THR A  47      27.494  12.147  49.447  1.00 30.55      1HRC 4
+ATOM    704  OG1 THR A  47      28.352  13.329  49.440  1.00 32.89      1HRC 4
+ATOM    705  CG2 THR A  47      28.356  10.887  49.332  1.00 34.41      1HRC 4
+ATOM    706  H   THR A  47      25.878  14.295  48.978  1.00 24.46      1HRC H   new
+ATOM    707  HA  THR A  47      27.013  12.109  47.392  1.00 28.38      1HRC H   new
+ATOM    708  HB  THR A  47      26.932  11.972  50.376  1.00 30.55      1HRC H   new
+ATOM    709  HG1 THR A  47      29.046  13.242  50.154  1.00 32.89      1HRC H   new
+ATOM    710 1HG2 THR A  47      29.031  10.823  50.198  1.00 34.41      1HRC H   new
+ATOM    711 2HG2 THR A  47      27.707   9.999  49.307  1.00 34.41      1HRC H   new
+ATOM    712 3HG2 THR A  47      28.950  10.932  48.408  1.00 34.41      1HRC H   new
+ATOM    713  N   TYR A  48      24.942  10.808  47.492  1.00 26.09      1HRC 4
+ATOM    714  CA  TYR A  48      23.774   9.948  47.484  1.00 25.80      1HRC 4
+ATOM    715  C   TYR A  48      24.124   8.540  47.967  1.00 25.99      1HRC 4
+ATOM    716  O   TYR A  48      25.283   8.111  47.982  1.00 24.16      1HRC 4
+ATOM    717  CB  TYR A  48      23.323   9.769  46.039  1.00 21.72      1HRC 4
+ATOM    718  CG  TYR A  48      22.715  10.897  45.295  1.00 18.59      1HRC 4
+ATOM    719  CD1 TYR A  48      21.329  11.087  45.288  1.00 20.60      1HRC 4
+ATOM    720  CD2 TYR A  48      23.531  11.777  44.571  1.00 16.68      1HRC 4
+ATOM    721  CE1 TYR A  48      20.738  12.158  44.616  1.00 14.73      1HRC 4
+ATOM    722  CE2 TYR A  48      22.951  12.826  43.872  1.00 14.83      1HRC 4
+ATOM    723  CZ  TYR A  48      21.606  12.978  43.863  1.00 16.97      1HRC 4
+ATOM    724  OH  TYR A  48      21.102  14.014  43.127  1.00 15.80      1HRC 4
+ATOM    725  H   TYR A  48      25.515  10.748  46.675  1.00 26.09      1HRC H   new
+ATOM    726  HA  TYR A  48      23.012  10.408  48.131  1.00 25.80      1HRC H   new
+ATOM    727 1HB  TYR A  48      24.200   9.436  45.464  1.00 21.72      1HRC H   new
+ATOM    728 2HB  TYR A  48      22.597   8.943  46.026  1.00 21.72      1HRC H   new
+ATOM    729  HD1 TYR A  48      20.688  10.373  45.826  1.00 20.60      1HRC H   new
+ATOM    730  HD2 TYR A  48      24.622  11.637  44.557  1.00 16.68      1HRC H   new
+ATOM    731  HE1 TYR A  48      19.657  12.352  44.670  1.00 14.73      1HRC H   new
+ATOM    732  HE2 TYR A  48      23.587  13.537  43.323  1.00 14.83      1HRC H   new
+ATOM    733  HH  TYR A  48      21.850  14.486  42.660  1.00 15.80      1HRC H   new
+ATOM    734  N   THR A  49      23.062   7.852  48.328  1.00 27.42      1HRC 4
+ATOM    735  CA  THR A  49      23.217   6.431  48.720  1.00 26.79      1HRC 4
+ATOM    736  C   THR A  49      23.607   5.708  47.412  1.00 28.78      1HRC 4
+ATOM    737  O   THR A  49      23.329   6.252  46.317  1.00 30.85      1HRC 4
+ATOM    738  CB  THR A  49      21.932   5.799  49.347  1.00 21.44      1HRC 4
+ATOM    739  OG1 THR A  49      20.854   5.853  48.372  1.00 15.08      1HRC 4
+ATOM    740  CG2 THR A  49      21.492   6.453  50.664  1.00 18.93      1HRC 4
+ATOM    741  H   THR A  49      22.129   8.210  48.364  1.00 27.42      1HRC H   new
+ATOM    742  HA  THR A  49      23.971   6.334  49.515  1.00 26.79      1HRC H   new
+ATOM    743  HB  THR A  49      22.179   4.758  49.603  1.00 21.44      1HRC H   new
+ATOM    744  HG1 THR A  49      20.028   5.450  48.765  1.00 15.08      1HRC H   new
+ATOM    745 1HG2 THR A  49      20.586   5.953  51.037  1.00 18.93      1HRC H   new
+ATOM    746 2HG2 THR A  49      22.296   6.357  51.408  1.00 18.93      1HRC H   new
+ATOM    747 3HG2 THR A  49      21.278   7.518  50.491  1.00 18.93      1HRC H   new
+ATOM    748  N   ASP A  50      24.234   4.542  47.461  1.00 29.71      1HRC 4
+ATOM    749  CA  ASP A  50      24.570   3.817  46.227  1.00 29.76      1HRC 4
+ATOM    750  C   ASP A  50      23.259   3.380  45.538  1.00 26.87      1HRC 4
+ATOM    751  O   ASP A  50      23.189   3.266  44.322  1.00 25.60      1HRC 4
+ATOM    752  CB  ASP A  50      25.338   2.515  46.447  1.00 36.19      1HRC 4
+ATOM    753  CG  ASP A  50      26.774   2.696  46.871  1.00 42.16      1HRC 4
+ATOM    754  OD1 ASP A  50      27.516   3.531  46.327  1.00 42.97      1HRC 4
+ATOM    755  OD2 ASP A  50      27.106   1.918  47.801  1.00 44.62      1HRC 4
+ATOM    756  H   ASP A  50      24.514   4.086  48.306  1.00 29.71      1HRC H   new
+ATOM    757  HA  ASP A  50      25.193   4.513  45.645  1.00 29.76      1HRC H   new
+ATOM    758 1HB  ASP A  50      24.816   1.922  47.212  1.00 36.19      1HRC H   new
+ATOM    759 2HB  ASP A  50      25.316   1.930  45.516  1.00 36.19      1HRC H   new
+ATOM    760  N   ALA A  51      22.243   3.099  46.350  1.00 25.62      1HRC 4
+ATOM    761  CA  ALA A  51      20.947   2.659  45.785  1.00 22.45      1HRC 4
+ATOM    762  C   ALA A  51      20.382   3.714  44.874  1.00 21.14      1HRC 4
+ATOM    763  O   ALA A  51      19.848   3.487  43.770  1.00 23.25      1HRC 4
+ATOM    764  CB  ALA A  51      20.002   2.353  46.947  1.00 24.23      1HRC 4
+ATOM    765  H   ALA A  51      22.275   3.160  47.348  1.00 25.62      1HRC H   new
+ATOM    766  HA  ALA A  51      21.082   1.753  45.176  1.00 22.45      1HRC H   new
+ATOM    767 1HB  ALA A  51      19.030   2.023  46.552  1.00 24.23      1HRC H   new
+ATOM    768 2HB  ALA A  51      20.433   1.556  47.571  1.00 24.23      1HRC H   new
+ATOM    769 3HB  ALA A  51      19.862   3.259  47.555  1.00 24.23      1HRC H   new
+ATOM    770  N   ASN A  52      20.534   4.977  45.310  1.00 21.01      1HRC 4
+ATOM    771  CA  ASN A  52      20.010   6.082  44.481  1.00 16.93      1HRC 4
+ATOM    772  C   ASN A  52      20.853   6.313  43.241  1.00 20.26      1HRC 4
+ATOM    773  O   ASN A  52      20.438   6.684  42.127  1.00 15.22      1HRC 4
+ATOM    774  CB  ASN A  52      19.961   7.401  45.288  1.00 15.11      1HRC 4
+ATOM    775  CG  ASN A  52      18.993   8.395  44.646  1.00 15.83      1HRC 4
+ATOM    776  OD1 ASN A  52      18.233   9.024  45.320  1.00 10.57      1HRC 4
+ATOM    777  ND2 ASN A  52      18.928   8.507  43.287  1.00 13.60      1HRC 4
+ATOM    778  H   ASN A  52      20.979   5.247  46.164  1.00 21.01      1HRC H   new
+ATOM    779  HA  ASN A  52      18.996   5.785  44.175  1.00 16.93      1HRC H   new
+ATOM    780 1HB  ASN A  52      19.648   7.193  46.322  1.00 15.11      1HRC H   new
+ATOM    781 2HB  ASN A  52      20.967   7.843  45.339  1.00 15.11      1HRC H   new
+ATOM    782 1HD2 ASN A  52      18.250   9.110  42.867  1.00 13.60      1HRC H   new
+ATOM    783 2HD2 ASN A  52      19.558   7.986  42.712  1.00 13.60      1HRC H   new
+ATOM    784  N   LYS A  53      22.139   6.158  43.448  1.00 22.01      1HRC 4
+ATOM    785  CA  LYS A  53      23.096   6.397  42.341  1.00 23.19      1HRC 4
+ATOM    786  C   LYS A  53      22.945   5.392  41.203  1.00 23.74      1HRC 4
+ATOM    787  O   LYS A  53      23.030   5.833  40.055  1.00 21.87      1HRC 4
+ATOM    788  CB  LYS A  53      24.496   6.333  42.895  1.00 28.26      1HRC 4
+ATOM    789  CG  LYS A  53      25.488   7.283  42.223  1.00 35.55      1HRC 4
+ATOM    790  CD  LYS A  53      26.849   6.969  42.865  1.00 39.48      1HRC 4
+ATOM    791  CE  LYS A  53      27.573   8.240  43.240  1.00 44.16      1HRC 4
+ATOM    792  NZ  LYS A  53      28.185   8.066  44.598  1.00 46.49      1HRC 4
+ATOM    793  H   LYS A  53      22.550   5.883  44.317  1.00 22.01      1HRC H   new
+ATOM    794  HA  LYS A  53      22.884   7.390  41.917  1.00 23.19      1HRC H   new
+ATOM    795 1HB  LYS A  53      24.462   6.560  43.971  1.00 28.26      1HRC H   new
+ATOM    796 2HB  LYS A  53      24.869   5.303  42.795  1.00 28.26      1HRC H   new
+ATOM    797 1HG  LYS A  53      25.516   7.123  41.135  1.00 35.55      1HRC H   new
+ATOM    798 2HG  LYS A  53      25.205   8.333  42.387  1.00 35.55      1HRC H   new
+ATOM    799 1HD  LYS A  53      26.702   6.347  43.761  1.00 39.48      1HRC H   new
+ATOM    800 2HD  LYS A  53      27.464   6.384  42.165  1.00 39.48      1HRC H   new
+ATOM    801 1HE  LYS A  53      28.352   8.467  42.498  1.00 44.16      1HRC H   new
+ATOM    802 2HE  LYS A  53      26.874   9.089  43.243  1.00 44.16      1HRC H   new
+ATOM    803 1HZ  LYS A  53      28.668   8.903  44.856  1.00 46.49      1HRC H + new
+ATOM    804 2HZ  LYS A  53      27.466   7.876  45.266  1.00 46.49      1HRC H + new
+ATOM    805 3HZ  LYS A  53      28.830   7.302  44.578  1.00 46.49      1HRC H + new
+ATOM    806  N   ASN A  54      22.804   4.147  41.548  1.00 23.15      1HRC 4
+ATOM    807  CA  ASN A  54      22.678   2.923  40.804  1.00 24.45      1HRC 4
+ATOM    808  C   ASN A  54      21.288   2.574  40.301  1.00 23.52      1HRC 4
+ATOM    809  O   ASN A  54      21.243   1.641  39.450  1.00 25.69      1HRC 4
+ATOM    810  CB  ASN A  54      23.172   1.754  41.678  1.00 26.84      1HRC 4
+ATOM    811  CG  ASN A  54      24.646   1.711  41.987  1.00 33.09      1HRC 4
+ATOM    812  OD1 ASN A  54      25.512   2.400  41.425  1.00 33.05      1HRC 5
+ATOM    813  ND2 ASN A  54      24.984   0.824  42.930  1.00 35.92      1HRC 5
+ATOM    814  H   ASN A  54      22.769   3.935  42.525  1.00 23.15      1HRC H   new
+ATOM    815  HA  ASN A  54      23.285   3.087  39.902  1.00 24.45      1HRC H   new
+ATOM    816 1HB  ASN A  54      22.623   1.783  42.631  1.00 26.84      1HRC H   new
+ATOM    817 2HB  ASN A  54      22.899   0.813  41.178  1.00 26.84      1HRC H   new
+ATOM    818 1HD2 ASN A  54      25.943   0.711  43.189  1.00 35.92      1HRC H   new
+ATOM    819 2HD2 ASN A  54      24.277   0.275  43.376  1.00 35.92      1HRC H   new
+ATOM    820  N   LYS A  55      20.217   3.202  40.744  1.00 23.11      1HRC 5
+ATOM    821  CA  LYS A  55      18.845   2.871  40.283  1.00 24.61      1HRC 5
+ATOM    822  C   LYS A  55      18.852   2.693  38.765  1.00 25.05      1HRC 5
+ATOM    823  O   LYS A  55      18.366   1.767  38.143  1.00 29.09      1HRC 5
+ATOM    824  CB  LYS A  55      17.772   3.839  40.740  1.00 20.62      1HRC 5
+ATOM    825  CG  LYS A  55      16.343   3.577  40.266  1.00 15.36      1HRC 5
+ATOM    826  CD  LYS A  55      15.567   2.485  40.952  1.00 16.05      1HRC 5
+ATOM    827  CE  LYS A  55      14.453   1.850  40.194  1.00 14.89      1HRC 5
+ATOM    828  NZ  LYS A  55      13.800   0.749  40.950  1.00 17.73      1HRC 5
+ATOM    829  H   LYS A  55      20.251   3.941  41.417  1.00 23.11      1HRC H   new
+ATOM    830  HA  LYS A  55      18.565   1.924  40.767  1.00 24.61      1HRC H   new
+ATOM    831 1HB  LYS A  55      17.769   3.849  41.840  1.00 20.62      1HRC H   new
+ATOM    832 2HB  LYS A  55      18.061   4.848  40.410  1.00 20.62      1HRC H   new
+ATOM    833 1HG  LYS A  55      15.775   4.513  40.371  1.00 15.36      1HRC H   new
+ATOM    834 2HG  LYS A  55      16.380   3.342  39.192  1.00 15.36      1HRC H   new
+ATOM    835 1HD  LYS A  55      16.276   1.694  41.239  1.00 16.05      1HRC H   new
+ATOM    836 2HD  LYS A  55      15.151   2.898  41.883  1.00 16.05      1HRC H   new
+ATOM    837 1HE  LYS A  55      13.702   2.614  39.945  1.00 14.89      1HRC H   new
+ATOM    838 2HE  LYS A  55      14.840   1.457  39.242  1.00 14.89      1HRC H   new
+ATOM    839 1HZ  LYS A  55      13.062   0.358  40.400  1.00 17.73      1HRC H + new
+ATOM    840 2HZ  LYS A  55      14.474   0.040  41.155  1.00 17.73      1HRC H + new
+ATOM    841 3HZ  LYS A  55      13.424   1.108  41.804  1.00 17.73      1HRC H + new
+ATOM    842  N   GLY A  56      19.491   3.680  38.149  1.00 24.37      1HRC 5
+ATOM    843  CA  GLY A  56      19.683   3.668  36.738  1.00 22.18      1HRC 5
+ATOM    844  C   GLY A  56      18.609   3.930  35.736  1.00 22.23      1HRC 5
+ATOM    845  O   GLY A  56      18.849   3.396  34.643  1.00 19.02      1HRC 5
+ATOM    846  H   GLY A  56      19.872   4.479  38.614  1.00 24.37      1HRC H   new
+ATOM    847 1HA  GLY A  56      20.477   4.401  36.532  1.00 22.18      1HRC H   new
+ATOM    848 2HA  GLY A  56      20.091   2.676  36.495  1.00 22.18      1HRC H   new
+ATOM    849  N   ILE A  57      17.561   4.600  36.099  1.00 20.69      1HRC 5
+ATOM    850  CA  ILE A  57      16.446   5.011  35.256  1.00 21.50      1HRC 5
+ATOM    851  C   ILE A  57      16.599   6.539  35.050  1.00 22.31      1HRC 5
+ATOM    852  O   ILE A  57      17.423   7.151  35.728  1.00 24.93      1HRC 5
+ATOM    853  CB  ILE A  57      15.087   4.537  35.810  1.00 24.64      1HRC 5
+ATOM    854  CG1 ILE A  57      14.685   5.222  37.135  1.00 23.79      1HRC 5
+ATOM    855  CG2 ILE A  57      15.044   2.967  35.937  1.00 24.26      1HRC 5
+ATOM    856  CD1 ILE A  57      13.844   6.514  36.953  1.00 29.75      1HRC 5
+ATOM    857  H   ILE A  57      17.441   4.899  37.046  1.00 20.69      1HRC H   new
+ATOM    858  HA  ILE A  57      16.467   4.525  34.270  1.00 21.50      1HRC H   new
+ATOM    859  HB  ILE A  57      14.332   4.849  35.074  1.00 24.64      1HRC H   new
+ATOM    860 1HG1 ILE A  57      14.112   4.508  37.745  1.00 23.79      1HRC H   new
+ATOM    861 2HG1 ILE A  57      15.597   5.468  37.699  1.00 23.79      1HRC H   new
+ATOM    862 1HG2 ILE A  57      14.066   2.657  36.334  1.00 24.26      1HRC H   new
+ATOM    863 2HG2 ILE A  57      15.198   2.514  34.946  1.00 24.26      1HRC H   new
+ATOM    864 3HG2 ILE A  57      15.839   2.632  36.620  1.00 24.26      1HRC H   new
+ATOM    865 1HD1 ILE A  57      13.601   6.936  37.939  1.00 29.75      1HRC H   new
+ATOM    866 2HD1 ILE A  57      14.421   7.249  36.372  1.00 29.75      1HRC H   new
+ATOM    867 3HD1 ILE A  57      12.913   6.274  36.419  1.00 29.75      1HRC H   new
+ATOM    868  N   THR A  58      15.864   7.130  34.164  1.00 25.03      1HRC 5
+ATOM    869  CA  THR A  58      15.752   8.508  33.731  1.00 24.94      1HRC 5
+ATOM    870  C   THR A  58      14.483   9.077  34.399  1.00 24.12      1HRC 5
+ATOM    871  O   THR A  58      13.442   8.452  34.282  1.00 23.40      1HRC 5
+ATOM    872  CB  THR A  58      15.654   8.770  32.185  1.00 27.72      1HRC 5
+ATOM    873  OG1 THR A  58      16.990   8.463  31.624  1.00 31.63      1HRC 5
+ATOM    874  CG2 THR A  58      15.259  10.186  31.704  1.00 27.03      1HRC 5
+ATOM    875  H   THR A  58      15.222   6.572  33.639  1.00 25.03      1HRC H   new
+ATOM    876  HA  THR A  58      16.694   8.993  34.025  1.00 24.94      1HRC H   new
+ATOM    877  HB  THR A  58      14.824   8.136  31.840  1.00 27.72      1HRC H   new
+ATOM    878  HG1 THR A  58      16.980   8.615  30.636  1.00 31.63      1HRC H   new
+ATOM    879 1HG2 THR A  58      15.235  10.207  30.604  1.00 27.03      1HRC H   new
+ATOM    880 2HG2 THR A  58      14.264  10.443  32.097  1.00 27.03      1HRC H   new
+ATOM    881 3HG2 THR A  58      15.997  10.916  32.068  1.00 27.03      1HRC H   new
+ATOM    882  N   TRP A  59      14.657  10.253  34.988  1.00 23.30      1HRC 5
+ATOM    883  CA  TRP A  59      13.473  10.878  35.585  1.00 26.01      1HRC 5
+ATOM    884  C   TRP A  59      12.632  11.590  34.496  1.00 27.13      1HRC 5
+ATOM    885  O   TRP A  59      13.102  12.446  33.753  1.00 27.22      1HRC 5
+ATOM    886  CB  TRP A  59      13.762  11.845  36.688  1.00 22.77      1HRC 5
+ATOM    887  CG  TRP A  59      14.365  11.378  37.973  1.00 16.66      1HRC 5
+ATOM    888  CD1 TRP A  59      15.595  11.706  38.449  1.00 13.42      1HRC 5
+ATOM    889  CD2 TRP A  59      13.838  10.471  38.928  1.00 19.53      1HRC 5
+ATOM    890  NE1 TRP A  59      15.855  11.165  39.662  1.00 12.25      1HRC 5
+ATOM    891  CE2 TRP A  59      14.792  10.350  39.974  1.00 17.21      1HRC 5
+ATOM    892  CE3 TRP A  59      12.640   9.771  39.008  1.00 20.17      1HRC 5
+ATOM    893  CZ2 TRP A  59      14.586   9.598  41.102  1.00 17.26      1HRC 5
+ATOM    894  CZ3 TRP A  59      12.440   8.974  40.109  1.00 18.91      1HRC 5
+ATOM    895  CH2 TRP A  59      13.365   8.912  41.141  1.00 18.00      1HRC 5
+ATOM    896  H   TRP A  59      15.518  10.756  35.065  1.00 23.30      1HRC H   new
+ATOM    897  HA  TRP A  59      12.913  10.047  36.040  1.00 26.01      1HRC H   new
+ATOM    898 1HB  TRP A  59      14.432  12.614  36.277  1.00 22.77      1HRC H   new
+ATOM    899 2HB  TRP A  59      12.814  12.344  36.938  1.00 22.77      1HRC H   new
+ATOM    900  HD1 TRP A  59      16.306  12.345  37.905  1.00 13.42      1HRC H   new
+ATOM    901  HE1 TRP A  59      16.666  11.327  40.224  1.00 12.25      1HRC H   new
+ATOM    902  HE3 TRP A  59      11.879   9.852  38.218  1.00 20.17      1HRC H   new
+ATOM    903  HZ2 TRP A  59      15.324   9.538  41.915  1.00 17.26      1HRC H   new
+ATOM    904  HZ3 TRP A  59      11.523   8.370  40.174  1.00 18.91      1HRC H   new
+ATOM    905  HH2 TRP A  59      13.131   8.300  42.025  1.00 18.00      1HRC H   new
+ATOM    906  N   LYS A  60      11.368  11.204  34.540  1.00 28.36      1HRC 5
+ATOM    907  CA  LYS A  60      10.314  11.754  33.637  1.00 27.45      1HRC 5
+ATOM    908  C   LYS A  60       8.983  11.703  34.358  1.00 26.00      1HRC 5
+ATOM    909  O   LYS A  60       8.947  11.258  35.510  1.00 23.84      1HRC 5
+ATOM    910  CB  LYS A  60      10.375  11.084  32.294  1.00 28.99      1HRC 5
+ATOM    911  CG  LYS A  60       9.948   9.629  32.250  1.00 26.01      1HRC 5
+ATOM    912  CD  LYS A  60      10.297   9.035  30.907  1.00 28.83      1HRC 5
+ATOM    913  CE  LYS A  60      11.524   8.149  31.059  1.00 29.87      1HRC 5
+ATOM    914  NZ  LYS A  60      11.507   7.121  29.980  1.00 27.71      1HRC 5
+ATOM    915  H   LYS A  60      11.028  10.516  35.181  1.00 28.36      1HRC H   new
+ATOM    916  HA  LYS A  60      10.480  12.816  33.403  1.00 27.45      1HRC H   new
+ATOM    917 1HB  LYS A  60       9.742  11.651  31.596  1.00 28.99      1HRC H   new
+ATOM    918 2HB  LYS A  60      11.407  11.153  31.920  1.00 28.99      1HRC H   new
+ATOM    919 1HG  LYS A  60      10.448   9.066  33.052  1.00 26.01      1HRC H   new
+ATOM    920 2HG  LYS A  60       8.865   9.549  32.427  1.00 26.01      1HRC H   new
+ATOM    921 1HD  LYS A  60       9.451   8.448  30.520  1.00 28.83      1HRC H   new
+ATOM    922 2HD  LYS A  60      10.494   9.835  30.178  1.00 28.83      1HRC H   new
+ATOM    923 1HE  LYS A  60      12.441   8.753  30.996  1.00 29.87      1HRC H   new
+ATOM    924 2HE  LYS A  60      11.525   7.665  32.047  1.00 29.87      1HRC H   new
+ATOM    925 1HZ  LYS A  60      12.310   6.531  30.068  1.00 27.71      1HRC H + new
+ATOM    926 2HZ  LYS A  60      10.677   6.568  30.058  1.00 27.71      1HRC H + new
+ATOM    927 3HZ  LYS A  60      11.523   7.573  29.088  1.00 27.71      1HRC H + new
+ATOM    928  N   GLU A  61       7.849  12.138  33.846  1.00 27.09      1HRC 5
+ATOM    929  CA  GLU A  61       6.618  12.051  34.660  1.00 30.48      1HRC 5
+ATOM    930  C   GLU A  61       6.276  10.652  35.156  1.00 29.52      1HRC 5
+ATOM    931  O   GLU A  61       5.775  10.446  36.285  1.00 27.18      1HRC 5
+ATOM    932  CB  GLU A  61       5.410  12.606  33.887  1.00 36.54      1HRC 5
+ATOM    933  CG  GLU A  61       5.619  14.051  33.437  1.00 43.52      1HRC 5
+ATOM    934  CD  GLU A  61       4.840  14.681  32.342  1.00 48.91      1HRC 5
+ATOM    935  OE1 GLU A  61       3.637  14.545  32.121  1.00 51.07      1HRC 5
+ATOM    936  OE2 GLU A  61       5.596  15.424  31.643  1.00 50.62      1HRC 5
+ATOM    937  H   GLU A  61       7.739  12.532  32.934  1.00 27.09      1HRC H   new
+ATOM    938  HA  GLU A  61       6.835  12.661  35.550  1.00 30.48      1HRC H   new
+ATOM    939 1HB  GLU A  61       5.220  11.975  33.006  1.00 36.54      1HRC H   new
+ATOM    940 2HB  GLU A  61       4.514  12.549  34.523  1.00 36.54      1HRC H   new
+ATOM    941 1HG  GLU A  61       5.469  14.679  34.327  1.00 43.52      1HRC H   new
+ATOM    942 2HG  GLU A  61       6.679  14.139  33.156  1.00 43.52      1HRC H   new
+ATOM    943  N   GLU A  62       6.565   9.685  34.300  1.00 27.22      1HRC 5
+ATOM    944  CA  GLU A  62       6.229   8.308  34.655  1.00 31.58      1HRC 5
+ATOM    945  C   GLU A  62       7.110   7.679  35.691  1.00 27.90      1HRC 5
+ATOM    946  O   GLU A  62       6.529   6.852  36.454  1.00 30.34      1HRC 5
+ATOM    947  CB  GLU A  62       6.003   7.377  33.475  1.00 37.26      1HRC 5
+ATOM    948  CG  GLU A  62       4.619   7.168  32.898  1.00 45.88      1HRC 5
+ATOM    949  CD  GLU A  62       3.340   7.378  33.656  1.00 48.06      1HRC 5
+ATOM    950  OE1 GLU A  62       2.639   8.378  33.515  1.00 49.63      1HRC 5
+ATOM    951  OE2 GLU A  62       3.065   6.455  34.461  1.00 50.73      1HRC 5
+ATOM    952  H   GLU A  62       7.003   9.810  33.410  1.00 27.22      1HRC H   new
+ATOM    953  HA  GLU A  62       5.248   8.440  35.135  1.00 31.58      1HRC H   new
+ATOM    954 1HB  GLU A  62       6.643   7.736  32.655  1.00 37.26      1HRC H   new
+ATOM    955 2HB  GLU A  62       6.382   6.387  33.769  1.00 37.26      1HRC H   new
+ATOM    956 1HG  GLU A  62       4.558   7.817  32.012  1.00 45.88      1HRC H   new
+ATOM    957 2HG  GLU A  62       4.593   6.129  32.539  1.00 45.88      1HRC H   new
+ATOM    958  N   THR A  63       8.388   7.991  35.732  1.00 25.42      1HRC 5
+ATOM    959  CA  THR A  63       9.193   7.334  36.802  1.00 22.56      1HRC 5
+ATOM    960  C   THR A  63       8.914   8.077  38.102  1.00 21.50      1HRC 5
+ATOM    961  O   THR A  63       8.840   7.474  39.166  1.00 22.81      1HRC 5
+ATOM    962  CB  THR A  63      10.672   7.147  36.356  1.00 18.75      1HRC 5
+ATOM    963  OG1 THR A  63      11.117   8.432  35.838  1.00 22.32      1HRC 5
+ATOM    964  CG2 THR A  63      10.852   6.032  35.309  1.00 21.57      1HRC 5
+ATOM    965  H   THR A  63       8.870   8.620  35.122  1.00 25.42      1HRC H   new
+ATOM    966  HA  THR A  63       8.900   6.292  36.996  1.00 22.56      1HRC H   new
+ATOM    967  HB  THR A  63      11.278   6.826  37.216  1.00 18.75      1HRC H   new
+ATOM    968  HG1 THR A  63      12.068   8.360  35.538  1.00 22.32      1HRC H   new
+ATOM    969 1HG2 THR A  63      11.915   5.951  35.037  1.00 21.57      1HRC H   new
+ATOM    970 2HG2 THR A  63      10.508   5.075  35.729  1.00 21.57      1HRC H   new
+ATOM    971 3HG2 THR A  63      10.262   6.272  34.412  1.00 21.57      1HRC H   new
+ATOM    972  N   LEU A  64       8.680   9.397  38.012  1.00 23.01      1HRC 5
+ATOM    973  CA  LEU A  64       8.360  10.215  39.181  1.00 23.42      1HRC 5
+ATOM    974  C   LEU A  64       7.010   9.780  39.758  1.00 20.78      1HRC 5
+ATOM    975  O   LEU A  64       6.869   9.688  40.985  1.00 18.55      1HRC 5
+ATOM    976  CB  LEU A  64       8.404  11.704  38.850  1.00 25.03      1HRC 5
+ATOM    977  CG  LEU A  64       9.695  12.487  38.804  1.00 26.08      1HRC 5
+ATOM    978  CD1 LEU A  64       9.450  13.950  38.346  1.00 28.10      1HRC 5
+ATOM    979  CD2 LEU A  64      10.420  12.489  40.126  1.00 22.27      1HRC 5
+ATOM    980  H   LEU A  64       8.708   9.907  37.152  1.00 23.01      1HRC H   new
+ATOM    981  HA  LEU A  64       9.126  10.055  39.954  1.00 23.42      1HRC H   new
+ATOM    982 1HB  LEU A  64       7.929  11.822  37.865  1.00 25.03      1HRC H   new
+ATOM    983 2HB  LEU A  64       7.756  12.208  39.582  1.00 25.03      1HRC H   new
+ATOM    984  HG  LEU A  64      10.334  11.976  38.068  1.00 26.08      1HRC H   new
+ATOM    985 1HD1 LEU A  64      10.407  14.493  38.323  1.00 28.10      1HRC H   new
+ATOM    986 2HD1 LEU A  64       9.004  13.950  37.340  1.00 28.10      1HRC H   new
+ATOM    987 3HD1 LEU A  64       8.765  14.445  39.050  1.00 28.10      1HRC H   new
+ATOM    988 1HD2 LEU A  64      11.349  13.071  40.035  1.00 22.27      1HRC H   new
+ATOM    989 2HD2 LEU A  64       9.778  12.942  40.896  1.00 22.27      1HRC H   new
+ATOM    990 3HD2 LEU A  64      10.663  11.455  40.413  1.00 22.27      1HRC H   new
+ATOM    991  N   MET A  65       6.043   9.532  38.892  1.00 20.30      1HRC 5
+ATOM    992  CA  MET A  65       4.714   9.119  39.375  1.00 23.19      1HRC 5
+ATOM    993  C   MET A  65       4.778   7.862  40.255  1.00 21.10      1HRC 5
+ATOM    994  O   MET A  65       4.074   7.839  41.272  1.00 25.97      1HRC 5
+ATOM    995  CB  MET A  65       3.690   8.862  38.268  1.00 23.90      1HRC 5
+ATOM    996  CG  MET A  65       3.050  10.058  37.665  1.00 25.12      1HRC 5
+ATOM    997  SD  MET A  65       1.742  10.818  38.678  1.00 29.23      1HRC 5
+ATOM    998  CE  MET A  65       0.519   9.500  38.861  1.00 23.12      1HRC 5
+ATOM    999  H   MET A  65       6.133   9.602  37.899  1.00 20.30      1HRC H   new
+ATOM   1000  HA  MET A  65       4.377   9.986  39.962  1.00 23.19      1HRC H   new
+ATOM   1001 1HB  MET A  65       4.186   8.296  37.466  1.00 23.90      1HRC H   new
+ATOM   1002 2HB  MET A  65       2.898   8.216  38.675  1.00 23.90      1HRC H   new
+ATOM   1003 1HG  MET A  65       3.827  10.812  37.469  1.00 25.12      1HRC H   new
+ATOM   1004 2HG  MET A  65       2.623   9.776  36.692  1.00 25.12      1HRC H   new
+ATOM   1005 1HE  MET A  65      -0.324   9.863  39.466  1.00 23.12      1HRC H   new
+ATOM   1006 2HE  MET A  65       0.154   9.198  37.868  1.00 23.12      1HRC H   new
+ATOM   1007 3HE  MET A  65       0.982   8.636  39.360  1.00 23.12      1HRC H   new
+ATOM   1008  N   GLU A  66       5.529   6.861  39.872  1.00 21.02      1HRC 5
+ATOM   1009  CA  GLU A  66       5.643   5.574  40.644  1.00 20.33      1HRC 5
+ATOM   1010  C   GLU A  66       6.470   5.767  41.894  1.00 19.69      1HRC 5
+ATOM   1011  O   GLU A  66       6.130   5.323  43.016  1.00 22.60      1HRC 5
+ATOM   1012  CB  GLU A  66       6.204   4.529  39.720  1.00 23.35      1HRC 5
+ATOM   1013  CG  GLU A  66       6.814   3.246  40.027  1.00 25.03      1HRC 5
+ATOM   1014  CD  GLU A  66       7.067   2.130  39.084  1.00 30.88      1HRC 6
+ATOM   1015  OE1 GLU A  66       7.217   2.141  37.857  1.00 34.26      1HRC 6
+ATOM   1016  OE2 GLU A  66       7.138   1.041  39.738  1.00 34.15      1HRC 6
+ATOM   1017  H   GLU A  66       6.081   6.879  39.039  1.00 21.02      1HRC H   new
+ATOM   1018  HA  GLU A  66       4.656   5.238  40.995  1.00 20.33      1HRC H   new
+ATOM   1019 1HB  GLU A  66       5.374   4.286  39.040  1.00 23.35      1HRC H   new
+ATOM   1020 2HB  GLU A  66       6.962   5.061  39.126  1.00 23.35      1HRC H   new
+ATOM   1021 1HG  GLU A  66       7.794   3.486  40.465  1.00 25.03      1HRC H   new
+ATOM   1022 2HG  GLU A  66       6.199   2.815  40.831  1.00 25.03      1HRC H   new
+ATOM   1023  N   TYR A  67       7.561   6.484  41.792  1.00 18.24      1HRC 6
+ATOM   1024  CA  TYR A  67       8.451   6.818  42.919  1.00 17.71      1HRC 6
+ATOM   1025  C   TYR A  67       7.768   7.525  44.069  1.00 17.62      1HRC 6
+ATOM   1026  O   TYR A  67       7.837   7.074  45.258  1.00 16.91      1HRC 6
+ATOM   1027  CB  TYR A  67       9.625   7.623  42.336  1.00 14.48      1HRC 6
+ATOM   1028  CG  TYR A  67      10.619   8.212  43.310  1.00 18.50      1HRC 6
+ATOM   1029  CD1 TYR A  67      10.583   9.596  43.539  1.00 12.32      1HRC 6
+ATOM   1030  CD2 TYR A  67      11.560   7.472  44.009  1.00 15.62      1HRC 6
+ATOM   1031  CE1 TYR A  67      11.449  10.210  44.386  1.00 15.56      1HRC 6
+ATOM   1032  CE2 TYR A  67      12.450   8.068  44.889  1.00 15.14      1HRC 6
+ATOM   1033  CZ  TYR A  67      12.407   9.446  45.063  1.00 12.15      1HRC 6
+ATOM   1034  OH  TYR A  67      13.222  10.081  45.907  1.00 15.13      1HRC 6
+ATOM   1035  H   TYR A  67       7.874   6.864  40.921  1.00 18.24      1HRC H   new
+ATOM   1036  HA  TYR A  67       8.806   5.888  43.386  1.00 17.71      1HRC H   new
+ATOM   1037 1HB  TYR A  67      10.175   6.968  41.644  1.00 14.48      1HRC H   new
+ATOM   1038 2HB  TYR A  67       9.208   8.446  41.737  1.00 14.48      1HRC H   new
+ATOM   1039  HD1 TYR A  67       9.829  10.203  43.016  1.00 12.32      1HRC H   new
+ATOM   1040  HD2 TYR A  67      11.602   6.383  43.861  1.00 15.62      1HRC H   new
+ATOM   1041  HE1 TYR A  67      11.398  11.298  44.539  1.00 15.56      1HRC H   new
+ATOM   1042  HE2 TYR A  67      13.180   7.459  45.442  1.00 15.14      1HRC H   new
+ATOM   1043  HH  TYR A  67      13.852   9.424  46.320  1.00 15.13      1HRC H   new
+ATOM   1044  N   LEU A  68       7.202   8.687  43.749  1.00 19.93      1HRC 6
+ATOM   1045  CA  LEU A  68       6.509   9.555  44.674  1.00 15.66      1HRC 6
+ATOM   1046  C   LEU A  68       5.402   8.858  45.400  1.00 17.46      1HRC 6
+ATOM   1047  O   LEU A  68       5.052   9.354  46.479  1.00 18.33      1HRC 6
+ATOM   1048  CB  LEU A  68       6.048  10.910  44.084  1.00 14.04      1HRC 6
+ATOM   1049  CG  LEU A  68       7.125  11.861  43.639  1.00 18.10      1HRC 6
+ATOM   1050  CD1 LEU A  68       6.470  13.026  42.887  1.00 18.75      1HRC 6
+ATOM   1051  CD2 LEU A  68       7.869  12.376  44.869  1.00 13.89      1HRC 6
+ATOM   1052  H   LEU A  68       7.219   9.049  42.817  1.00 19.93      1HRC H   new
+ATOM   1053  HA  LEU A  68       7.279   9.819  45.413  1.00 15.66      1HRC H   new
+ATOM   1054 1HB  LEU A  68       5.396  10.704  43.222  1.00 14.04      1HRC H   new
+ATOM   1055 2HB  LEU A  68       5.432  11.420  44.839  1.00 14.04      1HRC H   new
+ATOM   1056  HG  LEU A  68       7.840  11.355  42.973  1.00 18.10      1HRC H   new
+ATOM   1057 1HD1 LEU A  68       7.246  13.731  42.555  1.00 18.75      1HRC H   new
+ATOM   1058 2HD1 LEU A  68       5.928  12.639  42.012  1.00 18.75      1HRC H   new
+ATOM   1059 3HD1 LEU A  68       5.766  13.544  43.555  1.00 18.75      1HRC H   new
+ATOM   1060 1HD2 LEU A  68       8.660  13.073  44.555  1.00 13.89      1HRC H   new
+ATOM   1061 2HD2 LEU A  68       7.164  12.897  45.533  1.00 13.89      1HRC H   new
+ATOM   1062 3HD2 LEU A  68       8.320  11.529  45.407  1.00 13.89      1HRC H   new
+ATOM   1063  N   GLU A  69       4.928   7.726  44.825  1.00 16.31      1HRC 6
+ATOM   1064  CA  GLU A  69       3.869   7.037  45.610  1.00 19.82      1HRC 6
+ATOM   1065  C   GLU A  69       4.535   6.273  46.733  1.00 19.49      1HRC 6
+ATOM   1066  O   GLU A  69       3.977   6.149  47.845  1.00 18.82      1HRC 6
+ATOM   1067  CB  GLU A  69       3.084   6.087  44.757  1.00 19.61      1HRC 6
+ATOM   1068  CG  GLU A  69       1.916   5.303  45.394  1.00 31.74      1HRC 6
+ATOM   1069  CD  GLU A  69       1.488   4.200  44.455  1.00 38.12      1HRC 6
+ATOM   1070  OE1 GLU A  69       2.293   3.397  43.991  1.00 42.34      1HRC 6
+ATOM   1071  OE2 GLU A  69       0.267   4.243  44.222  1.00 41.42      1HRC 6
+ATOM   1072  H   GLU A  69       5.207   7.318  43.956  1.00 16.31      1HRC H   new
+ATOM   1073  HA  GLU A  69       3.170   7.789  46.005  1.00 19.82      1HRC H   new
+ATOM   1074 1HB  GLU A  69       2.678   6.659  43.910  1.00 19.61      1HRC H   new
+ATOM   1075 2HB  GLU A  69       3.790   5.353  44.341  1.00 19.61      1HRC H   new
+ATOM   1076 1HG  GLU A  69       2.226   4.879  46.360  1.00 31.74      1HRC H   new
+ATOM   1077 2HG  GLU A  69       1.071   5.978  45.596  1.00 31.74      1HRC H   new
+ATOM   1078  N   ASN A  70       5.713   5.705  46.452  1.00 19.87      1HRC 6
+ATOM   1079  CA  ASN A  70       6.337   4.973  47.632  1.00 21.47      1HRC 6
+ATOM   1080  C   ASN A  70       7.842   4.948  47.398  1.00 19.31      1HRC 6
+ATOM   1081  O   ASN A  70       8.382   3.974  46.838  1.00 20.33      1HRC 6
+ATOM   1082  CB  ASN A  70       5.672   3.616  47.792  1.00 23.51      1HRC 6
+ATOM   1083  CG  ASN A  70       6.229   2.801  48.941  1.00 26.27      1HRC 6
+ATOM   1084  OD1 ASN A  70       7.312   3.069  49.498  1.00 29.16      1HRC 6
+ATOM   1085  ND2 ASN A  70       5.493   1.770  49.317  1.00 29.92      1HRC 6
+ATOM   1086  H   ASN A  70       6.208   5.710  45.583  1.00 19.87      1HRC H   new
+ATOM   1087  HA  ASN A  70       6.172   5.475  48.597  1.00 21.47      1HRC H   new
+ATOM   1088 1HB  ASN A  70       4.593   3.762  47.946  1.00 23.51      1HRC H   new
+ATOM   1089 2HB  ASN A  70       5.790   3.047  46.858  1.00 23.51      1HRC H   new
+ATOM   1090 1HD2 ASN A  70       5.801   1.182  50.065  1.00 29.92      1HRC H   new
+ATOM   1091 2HD2 ASN A  70       4.628   1.577  48.853  1.00 29.92      1HRC H   new
+ATOM   1092  N   PRO A  71       8.503   6.016  47.778  1.00 21.77      1HRC 6
+ATOM   1093  CA  PRO A  71       9.944   6.193  47.537  1.00 22.11      1HRC 6
+ATOM   1094  C   PRO A  71      10.838   5.018  47.936  1.00 23.68      1HRC 6
+ATOM   1095  O   PRO A  71      11.730   4.633  47.139  1.00 21.59      1HRC 6
+ATOM   1096  CB  PRO A  71      10.294   7.497  48.239  1.00 22.01      1HRC 6
+ATOM   1097  CG  PRO A  71       9.098   7.936  49.006  1.00 21.87      1HRC 6
+ATOM   1098  CD  PRO A  71       7.909   7.233  48.381  1.00 19.48      1HRC 6
+ATOM   1099  HA  PRO A  71      10.145   6.232  46.456  1.00 22.11      1HRC H   new
+ATOM   1100 1HB  PRO A  71      11.152   7.354  48.912  1.00 22.01      1HRC H   new
+ATOM   1101 2HB  PRO A  71      10.584   8.264  47.506  1.00 22.01      1HRC H   new
+ATOM   1102 1HG  PRO A  71       9.195   7.672  50.069  1.00 21.87      1HRC H   new
+ATOM   1103 2HG  PRO A  71       8.979   9.028  48.955  1.00 21.87      1HRC H   new
+ATOM   1104 1HD  PRO A  71       7.146   6.981  49.133  1.00 19.48      1HRC H   new
+ATOM   1105 2HD  PRO A  71       7.419   7.862  47.624  1.00 19.48      1HRC H   new
+ATOM   1106  N   LYS A  72      10.648   4.459  49.115  1.00 24.85      1HRC 6
+ATOM   1107  CA  LYS A  72      11.456   3.348  49.612  1.00 25.91      1HRC 6
+ATOM   1108  C   LYS A  72      11.211   2.069  48.833  1.00 25.02      1HRC 6
+ATOM   1109  O   LYS A  72      12.058   1.170  48.813  1.00 27.23      1HRC 6
+ATOM   1110  CB  LYS A  72      11.263   2.943  51.052  1.00 28.67      1HRC 6
+ATOM   1111  CG  LYS A  72      11.123   3.918  52.149  1.00 34.45      1HRC 6
+ATOM   1112  CD  LYS A  72      12.085   5.099  52.273  1.00 35.88      1HRC 6
+ATOM   1113  CE  LYS A  72      11.644   5.888  53.489  1.00 34.80      1HRC 6
+ATOM   1114  NZ  LYS A  72      10.633   6.899  53.180  1.00 33.34      1HRC 6
+ATOM   1115  H   LYS A  72       9.937   4.756  49.753  1.00 24.85      1HRC H   new
+ATOM   1116  HA  LYS A  72      12.465   3.768  49.491  1.00 25.91      1HRC H   new
+ATOM   1117 1HB  LYS A  72      10.364   2.310  51.080  1.00 28.67      1HRC H   new
+ATOM   1118 2HB  LYS A  72      12.117   2.300  51.313  1.00 28.67      1HRC H   new
+ATOM   1119 1HG  LYS A  72      10.107   4.334  52.084  1.00 34.45      1HRC H   new
+ATOM   1120 2HG  LYS A  72      11.180   3.354  53.092  1.00 34.45      1HRC H   new
+ATOM   1121 1HD  LYS A  72      13.121   4.749  52.388  1.00 35.88      1HRC H   new
+ATOM   1122 2HD  LYS A  72      12.055   5.725  51.369  1.00 35.88      1HRC H   new
+ATOM   1123 1HE  LYS A  72      11.243   5.195  54.243  1.00 34.80      1HRC H   new
+ATOM   1124 2HE  LYS A  72      12.520   6.379  53.938  1.00 34.80      1HRC H   new
+ATOM   1125 1HZ  LYS A  72      10.381   7.386  54.016  1.00 33.34      1HRC H + new
+ATOM   1126 2HZ  LYS A  72      11.002   7.548  52.515  1.00 33.34      1HRC H + new
+ATOM   1127 3HZ  LYS A  72       9.823   6.455  52.797  1.00 33.34      1HRC H + new
+ATOM   1128  N   LYS A  73      10.042   1.977  48.237  1.00 26.64      1HRC 6
+ATOM   1129  CA  LYS A  73       9.720   0.782  47.441  1.00 25.12      1HRC 6
+ATOM   1130  C   LYS A  73      10.493   0.870  46.122  1.00 23.60      1HRC 6
+ATOM   1131  O   LYS A  73      10.994  -0.161  45.650  1.00 25.11      1HRC 6
+ATOM   1132  CB  LYS A  73       8.255   0.656  47.157  1.00 27.24      1HRC 6
+ATOM   1133  CG  LYS A  73       7.633  -0.479  46.412  1.00 30.24      1HRC 6
+ATOM   1134  CD  LYS A  73       7.944  -1.862  46.875  1.00 32.36      1HRC 6
+ATOM   1135  CE  LYS A  73       6.819  -2.855  46.966  1.00 36.99      1HRC 6
+ATOM   1136  NZ  LYS A  73       7.340  -4.168  47.503  1.00 39.07      1HRC 6
+ATOM   1137  H   LYS A  73       9.323   2.671  48.276  1.00 26.64      1HRC H   new
+ATOM   1138  HA  LYS A  73      10.009  -0.108  48.019  1.00 25.12      1HRC H   new
+ATOM   1139 1HB  LYS A  73       7.751   0.692  48.134  1.00 27.24      1HRC H   new
+ATOM   1140 2HB  LYS A  73       7.970   1.569  46.614  1.00 27.24      1HRC H   new
+ATOM   1141 1HG  LYS A  73       6.541  -0.348  46.445  1.00 30.24      1HRC H   new
+ATOM   1142 2HG  LYS A  73       7.935  -0.399  45.357  1.00 30.24      1HRC H   new
+ATOM   1143 1HD  LYS A  73       8.705  -2.279  46.199  1.00 32.36      1HRC H   new
+ATOM   1144 2HD  LYS A  73       8.405  -1.786  47.871  1.00 32.36      1HRC H   new
+ATOM   1145 1HE  LYS A  73       6.027  -2.467  47.623  1.00 36.99      1HRC H   new
+ATOM   1146 2HE  LYS A  73       6.369  -3.006  45.974  1.00 36.99      1HRC H   new
+ATOM   1147 1HZ  LYS A  73       6.589  -4.826  47.562  1.00 39.07      1HRC H + new
+ATOM   1148 2HZ  LYS A  73       8.046  -4.523  46.890  1.00 39.07      1HRC H + new
+ATOM   1149 3HZ  LYS A  73       7.730  -4.025  48.413  1.00 39.07      1HRC H + new
+ATOM   1150  N   TYR A  74      10.532   2.056  45.550  1.00 17.86      1HRC 6
+ATOM   1151  CA  TYR A  74      11.243   2.242  44.279  1.00 19.57      1HRC 6
+ATOM   1152  C   TYR A  74      12.750   2.256  44.437  1.00 19.09      1HRC 6
+ATOM   1153  O   TYR A  74      13.384   1.714  43.510  1.00 17.81      1HRC 6
+ATOM   1154  CB  TYR A  74      10.759   3.508  43.554  1.00 12.03      1HRC 6
+ATOM   1155  CG  TYR A  74      10.889   3.595  42.074  1.00 15.34      1HRC 6
+ATOM   1156  CD1 TYR A  74      10.196   2.747  41.201  1.00 13.27      1HRC 6
+ATOM   1157  CD2 TYR A  74      11.684   4.600  41.488  1.00 14.05      1HRC 6
+ATOM   1158  CE1 TYR A  74      10.285   2.839  39.833  1.00 16.43      1HRC 6
+ATOM   1159  CE2 TYR A  74      11.805   4.711  40.089  1.00 17.75      1HRC 6
+ATOM   1160  CZ  TYR A  74      11.094   3.826  39.280  1.00 19.93      1HRC 6
+ATOM   1161  OH  TYR A  74      11.193   3.940  37.926  1.00 20.78      1HRC 6
+ATOM   1162  H   TYR A  74      10.102   2.880  45.919  1.00 17.86      1HRC H   new
+ATOM   1163  HA  TYR A  74      11.000   1.365  43.660  1.00 19.57      1HRC H   new
+ATOM   1164 1HB  TYR A  74       9.696   3.644  43.801  1.00 12.03      1HRC H   new
+ATOM   1165 2HB  TYR A  74      11.301   4.363  43.984  1.00 12.03      1HRC H   new
+ATOM   1166  HD1 TYR A  74       9.549   1.969  41.632  1.00 13.27      1HRC H   new
+ATOM   1167  HD2 TYR A  74      12.220   5.311  42.135  1.00 14.05      1HRC H   new
+ATOM   1168  HE1 TYR A  74       9.727   2.145  39.187  1.00 16.43      1HRC H   new
+ATOM   1169  HE2 TYR A  74      12.449   5.483  39.643  1.00 17.75      1HRC H   new
+ATOM   1170  HH  TYR A  74      11.810   4.694  37.699  1.00 20.78      1HRC H   new
+ATOM   1171  N   ILE A  75      13.249   2.855  45.486  1.00 17.56      1HRC 6
+ATOM   1172  CA  ILE A  75      14.702   3.001  45.784  1.00 15.34      1HRC 6
+ATOM   1173  C   ILE A  75      15.004   2.527  47.194  1.00 17.56      1HRC 6
+ATOM   1174  O   ILE A  75      15.177   3.294  48.131  1.00 19.48      1HRC 6
+ATOM   1175  CB  ILE A  75      15.277   4.416  45.413  1.00 12.24      1HRC 6
+ATOM   1176  CG1 ILE A  75      15.140   4.710  43.929  1.00  7.86      1HRC 6
+ATOM   1177  CG2 ILE A  75      16.823   4.563  45.765  1.00 11.85      1HRC 6
+ATOM   1178  CD1 ILE A  75      15.370   6.211  43.498  1.00 14.76      1HRC 6
+ATOM   1179  H   ILE A  75      12.668   3.271  46.186  1.00 17.56      1HRC H   new
+ATOM   1180  HA  ILE A  75      15.261   2.333  45.112  1.00 15.34      1HRC H   new
+ATOM   1181  HB  ILE A  75      14.684   5.123  46.012  1.00 12.24      1HRC H   new
+ATOM   1182 1HG1 ILE A  75      15.856   4.079  43.383  1.00  7.86      1HRC H   new
+ATOM   1183 2HG1 ILE A  75      14.133   4.407  43.607  1.00  7.86      1HRC H   new
+ATOM   1184 1HG2 ILE A  75      17.169   5.569  45.485  1.00 11.85      1HRC H   new
+ATOM   1185 2HG2 ILE A  75      16.970   4.413  46.845  1.00 11.85      1HRC H   new
+ATOM   1186 3HG2 ILE A  75      17.400   3.809  45.209  1.00 11.85      1HRC H   new
+ATOM   1187 1HD1 ILE A  75      15.246   6.303  42.409  1.00 14.76      1HRC H   new
+ATOM   1188 2HD1 ILE A  75      14.637   6.855  44.006  1.00 14.76      1HRC H   new
+ATOM   1189 3HD1 ILE A  75      16.387   6.522  43.778  1.00 14.76      1HRC H   new
+ATOM   1190  N   PRO A  76      15.083   1.216  47.272  1.00 16.03      1HRC 6
+ATOM   1191  CA  PRO A  76      15.388   0.365  48.420  1.00 16.26      1HRC 6
+ATOM   1192  C   PRO A  76      16.767   0.711  48.929  1.00 18.20      1HRC 6
+ATOM   1193  O   PRO A  76      17.776   0.578  48.226  1.00 19.95      1HRC 6
+ATOM   1194  CB  PRO A  76      15.257  -1.069  47.888  1.00 17.51      1HRC 6
+ATOM   1195  CG  PRO A  76      14.450  -0.942  46.610  1.00 12.66      1HRC 6
+ATOM   1196  CD  PRO A  76      14.878   0.381  46.041  1.00 15.67      1HRC 6
+ATOM   1197  HA  PRO A  76      14.717   0.498  49.282  1.00 16.26      1HRC H   new
+ATOM   1198 1HB  PRO A  76      16.244  -1.513  47.693  1.00 17.51      1HRC H   new
+ATOM   1199 2HB  PRO A  76      14.750  -1.719  48.616  1.00 17.51      1HRC H   new
+ATOM   1200 1HG  PRO A  76      14.663  -1.768  45.915  1.00 12.66      1HRC H   new
+ATOM   1201 2HG  PRO A  76      13.369  -0.963  46.812  1.00 12.66      1HRC H   new
+ATOM   1202 1HD  PRO A  76      15.801   0.292  45.449  1.00 15.67      1HRC H   new
+ATOM   1203 2HD  PRO A  76      14.111   0.809  45.379  1.00 15.67      1HRC H   new
+ATOM   1204  N   GLY A  77      16.734   1.229  50.143  1.00 15.16      1HRC 6
+ATOM   1205  CA  GLY A  77      17.949   1.702  50.798  1.00 18.03      1HRC 6
+ATOM   1206  C   GLY A  77      18.067   3.202  50.612  1.00 17.08      1HRC 6
+ATOM   1207  O   GLY A  77      19.103   3.743  51.030  1.00 19.49      1HRC 6
+ATOM   1208  H   GLY A  77      15.901   1.332  50.687  1.00 15.16      1HRC H   new
+ATOM   1209 1HA  GLY A  77      17.922   1.454  51.869  1.00 18.03      1HRC H   new
+ATOM   1210 2HA  GLY A  77      18.829   1.197  50.373  1.00 18.03      1HRC H   new
+ATOM   1211  N   THR A  78      17.080   3.879  50.034  1.00 18.94      1HRC 6
+ATOM   1212  CA  THR A  78      17.183   5.347  49.897  1.00 14.81      1HRC 6
+ATOM   1213  C   THR A  78      17.276   5.993  51.273  1.00 17.60      1HRC 6
+ATOM   1214  O   THR A  78      16.806   5.467  52.297  1.00 17.80      1HRC 6
+ATOM   1215  CB  THR A  78      16.045   5.984  49.044  1.00 14.74      1HRC 7
+ATOM   1216  OG1 THR A  78      16.341   7.424  49.032  1.00 10.70      1HRC 7
+ATOM   1217  CG2 THR A  78      14.555   5.798  49.384  1.00  8.39      1HRC 7
+ATOM   1218  H   THR A  78      16.242   3.472  49.669  1.00 18.94      1HRC H   new
+ATOM   1219  HA  THR A  78      18.107   5.548  49.335  1.00 14.81      1HRC H   new
+ATOM   1220  HB  THR A  78      16.090   5.424  48.098  1.00 14.74      1HRC H   new
+ATOM   1221  HG1 THR A  78      15.645   7.903  48.497  1.00 10.70      1HRC H   new
+ATOM   1222 1HG2 THR A  78      13.940   6.336  48.647  1.00  8.39      1HRC H   new
+ATOM   1223 2HG2 THR A  78      14.304   4.727  49.359  1.00  8.39      1HRC H   new
+ATOM   1224 3HG2 THR A  78      14.355   6.198  50.389  1.00  8.39      1HRC H   new
+ATOM   1225  N   LYS A  79      17.881   7.180  51.335  1.00 17.14      1HRC 7
+ATOM   1226  CA  LYS A  79      17.955   7.797  52.693  1.00 15.45      1HRC 7
+ATOM   1227  C   LYS A  79      16.892   8.882  52.809  1.00 17.62      1HRC 7
+ATOM   1228  O   LYS A  79      16.872   9.591  53.838  1.00 14.81      1HRC 7
+ATOM   1229  CB  LYS A  79      19.346   8.280  52.930  1.00 17.71      1HRC 7
+ATOM   1230  CG  LYS A  79      19.892   9.339  51.979  1.00 21.76      1HRC 7
+ATOM   1231  CD  LYS A  79      21.235   9.845  52.527  1.00 24.87      1HRC 7
+ATOM   1232  CE  LYS A  79      21.857  10.909  51.628  1.00 25.57      1HRC 7
+ATOM   1233  NZ  LYS A  79      23.323  10.786  51.851  1.00 29.38      1HRC 7
+ATOM   1234  H   LYS A  79      18.284   7.692  50.576  1.00 17.14      1HRC H   new
+ATOM   1235  HA  LYS A  79      17.737   7.065  53.485  1.00 15.45      1HRC H   new
+ATOM   1236 1HB  LYS A  79      19.397   8.683  53.952  1.00 17.71      1HRC H   new
+ATOM   1237 2HB  LYS A  79      20.019   7.411  52.893  1.00 17.71      1HRC H   new
+ATOM   1238 1HG  LYS A  79      20.026   8.916  50.973  1.00 21.76      1HRC H   new
+ATOM   1239 2HG  LYS A  79      19.180  10.172  51.886  1.00 21.76      1HRC H   new
+ATOM   1240 1HD  LYS A  79      21.086  10.260  53.535  1.00 24.87      1HRC H   new
+ATOM   1241 2HD  LYS A  79      21.931   8.999  52.627  1.00 24.87      1HRC H   new
+ATOM   1242 1HE  LYS A  79      21.598  10.740  50.572  1.00 25.57      1HRC H   new
+ATOM   1243 2HE  LYS A  79      21.496  11.914  51.891  1.00 25.57      1HRC H   new
+ATOM   1244 1HZ  LYS A  79      23.804  11.459  51.289  1.00 29.38      1HRC H + new
+ATOM   1245 2HZ  LYS A  79      23.529  10.950  52.816  1.00 29.38      1HRC H + new
+ATOM   1246 3HZ  LYS A  79      23.623   9.866  51.598  1.00 29.38      1HRC H + new
+ATOM   1247  N   MET A  80      16.052   8.970  51.793  1.00 13.06      1HRC 7
+ATOM   1248  CA  MET A  80      14.904   9.917  51.689  1.00 15.27      1HRC 7
+ATOM   1249  C   MET A  80      13.791   9.263  52.524  1.00 15.10      1HRC 7
+ATOM   1250  O   MET A  80      13.270   8.277  52.046  1.00 18.31      1HRC 7
+ATOM   1251  CB  MET A  80      14.519  10.190  50.252  1.00 12.33      1HRC 7
+ATOM   1252  CG  MET A  80      13.211  11.047  50.193  1.00 15.76      1HRC 7
+ATOM   1253  SD  MET A  80      12.832  11.669  48.556  1.00 18.96      1HRC 7
+ATOM   1254  CE  MET A  80      11.040  11.449  48.468  1.00 13.91      1HRC 7
+ATOM   1255  H   MET A  80      16.134   8.380  50.989  1.00 13.06      1HRC H   new
+ATOM   1256  HA  MET A  80      15.142  10.920  52.073  1.00 15.27      1HRC H   new
+ATOM   1257 1HB  MET A  80      15.336  10.720  49.740  1.00 12.33      1HRC H   new
+ATOM   1258 2HB  MET A  80      14.368   9.240  49.719  1.00 12.33      1HRC H   new
+ATOM   1259 1HG  MET A  80      12.367  10.437  50.548  1.00 15.76      1HRC H   new
+ATOM   1260 2HG  MET A  80      13.308  11.896  50.885  1.00 15.76      1HRC H   new
+ATOM   1261 1HE  MET A  80      10.674  11.800  47.492  1.00 13.91      1HRC H   new
+ATOM   1262 2HE  MET A  80      10.794  10.384  48.590  1.00 13.91      1HRC H   new
+ATOM   1263 3HE  MET A  80      10.559  12.029  49.269  1.00 13.91      1HRC H   new
+ATOM   1264  N   ILE A  81      13.495   9.839  53.682  1.00 18.52      1HRC 7
+ATOM   1265  CA  ILE A  81      12.429   9.184  54.575  1.00 16.27      1HRC 7
+ATOM   1266  C   ILE A  81      11.246  10.113  54.416  1.00 19.97      1HRC 7
+ATOM   1267  O   ILE A  81      11.272  11.268  54.874  1.00 17.89      1HRC 7
+ATOM   1268  CB  ILE A  81      13.099   8.936  55.962  1.00 11.58      1HRC 7
+ATOM   1269  CG1 ILE A  81      14.392   8.034  55.848  1.00  9.08      1HRC 7
+ATOM   1270  CG2 ILE A  81      12.185   8.377  57.105  1.00  7.40      1HRC 7
+ATOM   1271  CD1 ILE A  81      14.237   6.551  55.357  1.00  9.80      1HRC 7
+ATOM   1272  H   ILE A  81      13.908  10.677  54.038  1.00 18.52      1HRC H   new
+ATOM   1273  HA  ILE A  81      12.041   8.181  54.344  1.00 16.27      1HRC H   new
+ATOM   1274  HB  ILE A  81      13.358   9.960  56.270  1.00 11.58      1HRC H   new
+ATOM   1275 1HG1 ILE A  81      15.092   8.539  55.166  1.00  9.08      1HRC H   new
+ATOM   1276 2HG1 ILE A  81      14.869   8.009  56.839  1.00  9.08      1HRC H   new
+ATOM   1277 1HG2 ILE A  81      12.780   8.250  58.022  1.00  7.40      1HRC H   new
+ATOM   1278 2HG2 ILE A  81      11.363   9.083  57.297  1.00  7.40      1HRC H   new
+ATOM   1279 3HG2 ILE A  81      11.769   7.405  56.801  1.00  7.40      1HRC H   new
+ATOM   1280 1HD1 ILE A  81      15.224   6.067  55.335  1.00  9.80      1HRC H   new
+ATOM   1281 2HD1 ILE A  81      13.576   6.004  56.045  1.00  9.80      1HRC H   new
+ATOM   1282 3HD1 ILE A  81      13.802   6.542  54.347  1.00  9.80      1HRC H   new
+ATOM   1283  N   PHE A  82      10.280   9.609  53.643  1.00 17.11      1HRC 7
+ATOM   1284  CA  PHE A  82       9.060  10.319  53.282  1.00 19.85      1HRC 7
+ATOM   1285  C   PHE A  82       8.103   9.180  52.881  1.00 20.39      1HRC 7
+ATOM   1286  O   PHE A  82       8.528   8.295  52.139  1.00 20.68      1HRC 7
+ATOM   1287  CB  PHE A  82       9.308  11.369  52.214  1.00 17.52      1HRC 7
+ATOM   1288  CG  PHE A  82       8.098  12.029  51.622  1.00 20.65      1HRC 7
+ATOM   1289  CD1 PHE A  82       7.592  11.489  50.417  1.00 20.49      1HRC 7
+ATOM   1290  CD2 PHE A  82       7.470  13.092  52.270  1.00 21.15      1HRC 7
+ATOM   1291  CE1 PHE A  82       6.457  12.023  49.858  1.00 14.71      1HRC 7
+ATOM   1292  CE2 PHE A  82       6.341  13.644  51.683  1.00 22.63      1HRC 7
+ATOM   1293  CZ  PHE A  82       5.859  13.121  50.472  1.00 22.31      1HRC 7
+ATOM   1294  H   PHE A  82      10.330   8.690  53.251  1.00 17.11      1HRC H   new
+ATOM   1295  HA  PHE A  82       8.630  10.925  54.093  1.00 19.85      1HRC H   new
+ATOM   1296 1HB  PHE A  82       9.949  12.152  52.645  1.00 17.52      1HRC H   new
+ATOM   1297 2HB  PHE A  82       9.877  10.900  51.398  1.00 17.52      1HRC H   new
+ATOM   1298  HD1 PHE A  82       8.105  10.646  49.930  1.00 20.49      1HRC H   new
+ATOM   1299  HD2 PHE A  82       7.860  13.483  53.222  1.00 21.15      1HRC H   new
+ATOM   1300  HE1 PHE A  82       6.028  11.591  48.942  1.00 14.71      1HRC H   new
+ATOM   1301  HE2 PHE A  82       5.825  14.488  52.164  1.00 22.63      1HRC H   new
+ATOM   1302  HZ  PHE A  82       4.986  13.591  49.996  1.00 22.31      1HRC H   new
+ATOM   1303  N   ALA A  83       6.913   9.271  53.390  1.00 23.17      1HRC 7
+ATOM   1304  CA  ALA A  83       5.898   8.229  53.155  1.00 25.31      1HRC 7
+ATOM   1305  C   ALA A  83       5.371   8.169  51.727  1.00 25.41      1HRC 7
+ATOM   1306  O   ALA A  83       5.019   7.059  51.321  1.00 28.33      1HRC 7
+ATOM   1307  CB  ALA A  83       4.774   8.422  54.169  1.00 27.48      1HRC 7
+ATOM   1308  H   ALA A  83       6.604  10.031  53.962  1.00 23.17      1HRC H   new
+ATOM   1309  HA  ALA A  83       6.383   7.251  53.295  1.00 25.31      1HRC H   new
+ATOM   1310 1HB  ALA A  83       4.003   7.654  54.013  1.00 27.48      1HRC H   new
+ATOM   1311 2HB  ALA A  83       5.179   8.332  55.188  1.00 27.48      1HRC H   new
+ATOM   1312 3HB  ALA A  83       4.329   9.419  54.038  1.00 27.48      1HRC H   new
+ATOM   1313  N   GLY A  84       5.301   9.240  50.989  1.00 23.41      1HRC 7
+ATOM   1314  CA  GLY A  84       4.817   9.217  49.608  1.00 27.60      1HRC 7
+ATOM   1315  C   GLY A  84       3.516  10.032  49.516  1.00 27.19      1HRC 7
+ATOM   1316  O   GLY A  84       3.038  10.521  50.545  1.00 30.02      1HRC 7
+ATOM   1317  H   GLY A  84       5.570  10.148  51.309  1.00 23.41      1HRC H   new
+ATOM   1318 1HA  GLY A  84       5.577   9.638  48.933  1.00 27.60      1HRC H   new
+ATOM   1319 2HA  GLY A  84       4.639   8.180  49.286  1.00 27.60      1HRC H   new
+ATOM   1320  N   ILE A  85       3.016  10.130  48.300  1.00 28.10      1HRC 7
+ATOM   1321  CA  ILE A  85       1.734  10.882  48.064  1.00 28.38      1HRC 7
+ATOM   1322  C   ILE A  85       0.764   9.815  47.577  1.00 32.59      1HRC 7
+ATOM   1323  O   ILE A  85       0.986   9.292  46.456  1.00 32.25      1HRC 7
+ATOM   1324  CB  ILE A  85       1.992  12.083  47.134  1.00 29.34      1HRC 7
+ATOM   1325  CG1 ILE A  85       2.893  13.132  47.845  1.00 29.19      1HRC 7
+ATOM   1326  CG2 ILE A  85       0.720  12.826  46.611  1.00 30.70      1HRC 7
+ATOM   1327  CD1 ILE A  85       3.889  13.732  46.795  1.00 29.49      1HRC 7
+ATOM   1328  H   ILE A  85       3.430   9.732  47.481  1.00 28.10      1HRC H   new
+ATOM   1329  HA  ILE A  85       1.294  11.367  48.948  1.00 28.38      1HRC H   new
+ATOM   1330  HB  ILE A  85       2.478  11.635  46.255  1.00 29.34      1HRC H   new
+ATOM   1331 1HG1 ILE A  85       2.276  13.930  48.284  1.00 29.19      1HRC H   new
+ATOM   1332 2HG1 ILE A  85       3.447  12.662  48.671  1.00 29.19      1HRC H   new
+ATOM   1333 1HG2 ILE A  85       1.023  13.660  45.961  1.00 30.70      1HRC H   new
+ATOM   1334 2HG2 ILE A  85       0.094  12.125  46.039  1.00 30.70      1HRC H   new
+ATOM   1335 3HG2 ILE A  85       0.146  13.217  47.464  1.00 30.70      1HRC H   new
+ATOM   1336 1HD1 ILE A  85       4.534  14.477  47.284  1.00 29.49      1HRC H   new
+ATOM   1337 2HD1 ILE A  85       4.511  12.927  46.377  1.00 29.49      1HRC H   new
+ATOM   1338 3HD1 ILE A  85       3.322  14.214  45.985  1.00 29.49      1HRC H   new
+ATOM   1339  N   LYS A  86      -0.236   9.481  48.385  1.00 33.03      1HRC 7
+ATOM   1340  CA  LYS A  86      -1.228   8.454  48.052  1.00 34.62      1HRC 7
+ATOM   1341  C   LYS A  86      -2.028   8.672  46.771  1.00 33.65      1HRC 7
+ATOM   1342  O   LYS A  86      -1.991   7.792  45.883  1.00 33.07      1HRC 7
+ATOM   1343  CB  LYS A  86      -2.154   8.222  49.232  1.00 39.72      1HRC 7
+ATOM   1344  CG  LYS A  86      -3.351   9.092  49.556  1.00 47.29      1HRC 7
+ATOM   1345  CD  LYS A  86      -3.824   8.919  51.003  1.00 50.32      1HRC 7
+ATOM   1346  CE  LYS A  86      -3.090   9.837  51.978  1.00 53.49      1HRC 7
+ATOM   1347  NZ  LYS A  86      -4.060  10.720  52.685  1.00 54.46      1HRC 7
+ATOM   1348  H   LYS A  86      -0.383   9.907  49.278  1.00 33.03      1HRC H   new
+ATOM   1349  HA  LYS A  86      -0.632   7.555  47.837  1.00 34.62      1HRC H   new
+ATOM   1350 1HB  LYS A  86      -2.540   7.198  49.122  1.00 39.72      1HRC H   new
+ATOM   1351 2HB  LYS A  86      -1.517   8.231  50.128  1.00 39.72      1HRC H   new
+ATOM   1352 1HG  LYS A  86      -3.092  10.147  49.381  1.00 47.29      1HRC H   new
+ATOM   1353 2HG  LYS A  86      -4.176   8.846  48.871  1.00 47.29      1HRC H   new
+ATOM   1354 1HD  LYS A  86      -4.904   9.121  51.058  1.00 50.32      1HRC H   new
+ATOM   1355 2HD  LYS A  86      -3.677   7.873  51.310  1.00 50.32      1HRC H   new
+ATOM   1356 1HE  LYS A  86      -2.530   9.235  52.709  1.00 53.49      1HRC H   new
+ATOM   1357 2HE  LYS A  86      -2.355  10.449  51.435  1.00 53.49      1HRC H   new
+ATOM   1358 1HZ  LYS A  86      -3.568  11.316  53.320  1.00 54.46      1HRC H + new
+ATOM   1359 2HZ  LYS A  86      -4.551  11.279  52.017  1.00 54.46      1HRC H + new
+ATOM   1360 3HZ  LYS A  86      -4.713  10.159  53.194  1.00 54.46      1HRC H + new
+ATOM   1361  N   LYS A  87      -2.705   9.802  46.687  1.00 32.18      1HRC 7
+ATOM   1362  CA  LYS A  87      -3.585  10.273  45.627  1.00 32.06      1HRC 7
+ATOM   1363  C   LYS A  87      -2.851  10.554  44.328  1.00 30.45      1HRC 7
+ATOM   1364  O   LYS A  87      -1.820  11.213  44.267  1.00 27.98      1HRC 7
+ATOM   1365  CB  LYS A  87      -4.352  11.563  45.941  1.00 34.10      1HRC 7
+ATOM   1366  CG  LYS A  87      -4.888  11.737  47.359  1.00 40.86      1HRC 7
+ATOM   1367  CD  LYS A  87      -6.286  11.156  47.552  1.00 44.78      1HRC 7
+ATOM   1368  CE  LYS A  87      -6.817  11.521  48.934  1.00 48.64      1HRC 7
+ATOM   1369  NZ  LYS A  87      -6.201  10.674  49.999  1.00 48.81      1HRC 7
+ATOM   1370  H   LYS A  87      -2.648  10.474  47.425  1.00 32.18      1HRC H   new
+ATOM   1371  HA  LYS A  87      -4.288   9.432  45.535  1.00 32.06      1HRC H   new
+ATOM   1372 1HB  LYS A  87      -3.690  12.413  45.722  1.00 34.10      1HRC H   new
+ATOM   1373 2HB  LYS A  87      -5.202  11.630  45.246  1.00 34.10      1HRC H   new
+ATOM   1374 1HG  LYS A  87      -4.197  11.255  48.066  1.00 40.86      1HRC H   new
+ATOM   1375 2HG  LYS A  87      -4.906  12.808  47.608  1.00 40.86      1HRC H   new
+ATOM   1376 1HD  LYS A  87      -6.963  11.542  46.776  1.00 44.78      1HRC H   new
+ATOM   1377 2HD  LYS A  87      -6.257  10.062  47.438  1.00 44.78      1HRC H   new
+ATOM   1378 1HE  LYS A  87      -6.608  12.581  49.140  1.00 48.64      1HRC H   new
+ATOM   1379 2HE  LYS A  87      -7.910  11.399  48.953  1.00 48.64      1HRC H   new
+ATOM   1380 1HZ  LYS A  87      -6.569  10.938  50.890  1.00 48.81      1HRC H + new
+ATOM   1381 2HZ  LYS A  87      -6.411   9.712  49.824  1.00 48.81      1HRC H + new
+ATOM   1382 3HZ  LYS A  87      -5.209  10.804  49.997  1.00 48.81      1HRC H + new
+ATOM   1383  N   LYS A  88      -3.439  10.087  43.238  1.00 31.14      1HRC 7
+ATOM   1384  CA  LYS A  88      -2.837  10.286  41.907  1.00 31.24      1HRC 7
+ATOM   1385  C   LYS A  88      -2.804  11.748  41.523  1.00 32.33      1HRC 7
+ATOM   1386  O   LYS A  88      -1.730  12.232  41.083  1.00 33.86      1HRC 7
+ATOM   1387  CB  LYS A  88      -3.566   9.448  40.885  1.00 34.00      1HRC 7
+ATOM   1388  CG  LYS A  88      -3.045   9.416  39.461  1.00 39.17      1HRC 7
+ATOM   1389  CD  LYS A  88      -3.761   8.343  38.653  1.00 42.05      1HRC 7
+ATOM   1390  CE  LYS A  88      -3.725   8.609  37.152  1.00 43.62      1HRC 7
+ATOM   1391  NZ  LYS A  88      -3.756   7.283  36.440  1.00 45.11      1HRC 7
+ATOM   1392  H   LYS A  88      -4.303   9.583  43.235  1.00 31.14      1HRC H   new
+ATOM   1393  HA  LYS A  88      -1.789   9.952  41.941  1.00 31.24      1HRC H   new
+ATOM   1394 1HB  LYS A  88      -3.585   8.413  41.256  1.00 34.00      1HRC H   new
+ATOM   1395 2HB  LYS A  88      -4.609   9.797  40.851  1.00 34.00      1HRC H   new
+ATOM   1396 1HG  LYS A  88      -3.192  10.398  38.988  1.00 39.17      1HRC H   new
+ATOM   1397 2HG  LYS A  88      -1.963   9.219  39.465  1.00 39.17      1HRC H   new
+ATOM   1398 1HD  LYS A  88      -3.298   7.366  38.859  1.00 42.05      1HRC H   new
+ATOM   1399 2HD  LYS A  88      -4.808   8.279  38.984  1.00 42.05      1HRC H   new
+ATOM   1400 1HE  LYS A  88      -4.584   9.227  36.851  1.00 43.62      1HRC H   new
+ATOM   1401 2HE  LYS A  88      -2.817   9.168  36.883  1.00 43.62      1HRC H   new
+ATOM   1402 1HZ  LYS A  88      -3.733   7.434  35.452  1.00 45.11      1HRC H + new
+ATOM   1403 2HZ  LYS A  88      -2.962   6.739  36.712  1.00 45.11      1HRC H + new
+ATOM   1404 3HZ  LYS A  88      -4.594   6.793  36.683  1.00 45.11      1HRC H + new
+ATOM   1405  N   THR A  89      -3.918  12.447  41.656  1.00 31.00      1HRC 7
+ATOM   1406  CA  THR A  89      -3.943  13.875  41.249  1.00 32.98      1HRC 7
+ATOM   1407  C   THR A  89      -2.950  14.742  41.962  1.00 33.13      1HRC 7
+ATOM   1408  O   THR A  89      -2.396  15.722  41.412  1.00 32.07      1HRC 7
+ATOM   1409  CB  THR A  89      -5.430  14.419  41.282  1.00 34.27      1HRC 7
+ATOM   1410  OG1 THR A  89      -5.855  14.303  42.645  1.00 29.54      1HRC 7
+ATOM   1411  CG2 THR A  89      -6.320  13.610  40.313  1.00 34.62      1HRC 7
+ATOM   1412  H   THR A  89      -4.779  12.090  42.019  1.00 31.00      1HRC H   new
+ATOM   1413  HA  THR A  89      -3.592  13.928  40.208  1.00 32.98      1HRC H   new
+ATOM   1414  HB  THR A  89      -5.503  15.464  40.948  1.00 34.27      1HRC H   new
+ATOM   1415  HG1 THR A  89      -6.795  14.634  42.731  1.00 29.54      1HRC H   new
+ATOM   1416 1HG2 THR A  89      -7.348  13.999  40.347  1.00 34.62      1HRC H   new
+ATOM   1417 2HG2 THR A  89      -5.927  13.703  39.290  1.00 34.62      1HRC H   new
+ATOM   1418 3HG2 THR A  89      -6.319  12.551  40.611  1.00 34.62      1HRC H   new
+ATOM   1419  N   GLU A  90      -2.679  14.382  43.207  1.00 34.13      1HRC 7
+ATOM   1420  CA  GLU A  90      -1.685  15.157  43.996  1.00 35.12      1HRC 7
+ATOM   1421  C   GLU A  90      -0.313  14.927  43.389  1.00 31.78      1HRC 7
+ATOM   1422  O   GLU A  90       0.521  15.843  43.209  1.00 29.51      1HRC 7
+ATOM   1423  CB  GLU A  90      -1.737  14.828  45.458  1.00 36.30      1HRC 7
+ATOM   1424  CG  GLU A  90      -3.031  15.101  46.252  1.00 42.23      1HRC 7
+ATOM   1425  CD  GLU A  90      -2.803  15.016  47.749  1.00 46.46      1HRC 7
+ATOM   1426  OE1 GLU A  90      -2.026  15.706  48.394  1.00 48.09      1HRC 7
+ATOM   1427  OE2 GLU A  90      -3.482  14.123  48.307  1.00 49.02      1HRC 7
+ATOM   1428  H   GLU A  90      -3.096  13.608  43.684  1.00 34.13      1HRC H   new
+ATOM   1429  HA  GLU A  90      -1.926  16.229  43.943  1.00 35.12      1HRC H   new
+ATOM   1430 1HB  GLU A  90      -1.505  13.758  45.564  1.00 36.30      1HRC H   new
+ATOM   1431 2HB  GLU A  90      -0.925  15.383  45.950  1.00 36.30      1HRC H   new
+ATOM   1432 1HG  GLU A  90      -3.415  16.100  45.996  1.00 42.23      1HRC H   new
+ATOM   1433 2HG  GLU A  90      -3.802  14.375  45.957  1.00 42.23      1HRC H   new
+ATOM   1434  N   ARG A  91      -0.029  13.675  43.013  1.00 31.13      1HRC 7
+ATOM   1435  CA  ARG A  91       1.271  13.396  42.383  1.00 27.32      1HRC 8
+ATOM   1436  C   ARG A  91       1.330  14.124  41.050  1.00 28.40      1HRC 8
+ATOM   1437  O   ARG A  91       2.388  14.680  40.704  1.00 29.70      1HRC 8
+ATOM   1438  CB  ARG A  91       1.523  11.908  42.206  1.00 26.30      1HRC 8
+ATOM   1439  CG  ARG A  91       1.954  11.252  43.505  1.00 21.55      1HRC 8
+ATOM   1440  CD  ARG A  91       2.233   9.798  43.314  1.00 15.55      1HRC 8
+ATOM   1441  NE  ARG A  91       1.000   9.048  43.416  1.00 21.71      1HRC 8
+ATOM   1442  CZ  ARG A  91       0.653   8.007  42.697  1.00 25.05      1HRC 8
+ATOM   1443  NH1 ARG A  91       1.402   7.417  41.767  1.00 28.72      1HRC 8
+ATOM   1444  NH2 ARG A  91      -0.559   7.463  42.937  1.00 28.50      1HRC 8
+ATOM   1445  H   ARG A  91      -0.635  12.887  43.123  1.00 31.13      1HRC H   new
+ATOM   1446  HA  ARG A  91       2.068  13.761  43.047  1.00 27.32      1HRC H   new
+ATOM   1447 1HB  ARG A  91       0.608  11.422  41.835  1.00 26.30      1HRC H   new
+ATOM   1448 2HB  ARG A  91       2.300  11.756  41.442  1.00 26.30      1HRC H   new
+ATOM   1449 1HG  ARG A  91       2.855  11.753  43.890  1.00 21.55      1HRC H   new
+ATOM   1450 2HG  ARG A  91       1.166  11.380  44.262  1.00 21.55      1HRC H   new
+ATOM   1451 1HD  ARG A  91       2.696   9.629  42.331  1.00 15.55      1HRC H   new
+ATOM   1452 2HD  ARG A  91       2.950   9.449  44.072  1.00 15.55      1HRC H   new
+ATOM   1453  HE  ARG A  91       0.344   9.355  44.106  1.00 21.71      1HRC H + new
+ATOM   1454 1HH1 ARG A  91       2.317   7.766  41.567  1.00 28.72      1HRC H + new
+ATOM   1455 2HH1 ARG A  91       1.049   6.625  41.269  1.00 28.72      1HRC H + new
+ATOM   1456 1HH2 ARG A  91      -1.153   7.855  43.640  1.00 28.50      1HRC H + new
+ATOM   1457 2HH2 ARG A  91      -0.863   6.668  42.412  1.00 28.50      1HRC H + new
+ATOM   1458  N   GLU A  92       0.213  14.178  40.338  1.00 29.58      1HRC 8
+ATOM   1459  CA  GLU A  92       0.192  14.850  39.023  1.00 28.19      1HRC 8
+ATOM   1460  C   GLU A  92       0.425  16.336  39.120  1.00 25.96      1HRC 8
+ATOM   1461  O   GLU A  92       1.175  16.933  38.323  1.00 20.99      1HRC 8
+ATOM   1462  CB  GLU A  92      -1.085  14.583  38.228  1.00 30.56      1HRC 8
+ATOM   1463  CG  GLU A  92      -1.422  13.135  37.872  1.00 35.93      1HRC 8
+ATOM   1464  CD  GLU A  92      -2.641  12.779  37.092  1.00 38.76      1HRC 8
+ATOM   1465  OE1 GLU A  92      -2.787  11.804  36.348  1.00 38.37      1HRC 8
+ATOM   1466  OE2 GLU A  92      -3.589  13.577  37.256  1.00 40.65      1HRC 8
+ATOM   1467  H   GLU A  92      -0.661  13.785  40.625  1.00 29.58      1HRC H   new
+ATOM   1468  HA  GLU A  92       1.033  14.401  38.475  1.00 28.19      1HRC H   new
+ATOM   1469 1HB  GLU A  92      -1.930  14.994  38.800  1.00 30.56      1HRC H   new
+ATOM   1470 2HB  GLU A  92      -1.023  15.154  37.290  1.00 30.56      1HRC H   new
+ATOM   1471 1HG  GLU A  92      -0.561  12.736  37.316  1.00 35.93      1HRC H   new
+ATOM   1472 2HG  GLU A  92      -1.478  12.580  38.820  1.00 35.93      1HRC H   new
+ATOM   1473  N   ASP A  93      -0.180  16.936  40.115  1.00 26.25      1HRC 8
+ATOM   1474  CA  ASP A  93      -0.053  18.386  40.376  1.00 28.31      1HRC 8
+ATOM   1475  C   ASP A  93       1.412  18.666  40.706  1.00 27.34      1HRC 8
+ATOM   1476  O   ASP A  93       1.981  19.521  40.032  1.00 27.10      1HRC 8
+ATOM   1477  CB  ASP A  93      -1.063  18.817  41.413  1.00 29.24      1HRC 8
+ATOM   1478  CG  ASP A  93      -2.506  18.786  40.968  1.00 31.76      1HRC 8
+ATOM   1479  OD1 ASP A  93      -2.924  18.336  39.908  1.00 34.67      1HRC 8
+ATOM   1480  OD2 ASP A  93      -3.332  19.290  41.765  1.00 35.90      1HRC 8
+ATOM   1481  H   ASP A  93      -0.769  16.459  40.767  1.00 26.25      1HRC H   new
+ATOM   1482  HA  ASP A  93      -0.300  19.004  39.500  1.00 28.31      1HRC H   new
+ATOM   1483 1HB  ASP A  93      -0.956  18.169  42.295  1.00 29.24      1HRC H   new
+ATOM   1484 2HB  ASP A  93      -0.819  19.840  41.734  1.00 29.24      1HRC H   new
+ATOM   1485  N   LEU A  94       1.948  17.941  41.691  1.00 26.42      1HRC 8
+ATOM   1486  CA  LEU A  94       3.386  18.145  42.034  1.00 26.46      1HRC 8
+ATOM   1487  C   LEU A  94       4.310  17.956  40.840  1.00 27.13      1HRC 8
+ATOM   1488  O   LEU A  94       5.264  18.761  40.664  1.00 28.23      1HRC 8
+ATOM   1489  CB  LEU A  94       3.675  17.291  43.267  1.00 22.15      1HRC 8
+ATOM   1490  CG  LEU A  94       5.064  17.235  43.850  1.00 17.85      1HRC 8
+ATOM   1491  CD1 LEU A  94       5.490  18.500  44.561  1.00 18.09      1HRC 8
+ATOM   1492  CD2 LEU A  94       5.058  16.116  44.923  1.00 16.99      1HRC 8
+ATOM   1493  H   LEU A  94       1.464  17.256  42.235  1.00 26.42      1HRC H   new
+ATOM   1494  HA  LEU A  94       3.599  19.191  42.299  1.00 26.46      1HRC H   new
+ATOM   1495 1HB  LEU A  94       3.001  17.635  44.066  1.00 22.15      1HRC H   new
+ATOM   1496 2HB  LEU A  94       3.383  16.259  43.023  1.00 22.15      1HRC H   new
+ATOM   1497  HG  LEU A  94       5.759  17.071  43.013  1.00 17.85      1HRC H   new
+ATOM   1498 1HD1 LEU A  94       6.510  18.375  44.954  1.00 18.09      1HRC H   new
+ATOM   1499 2HD1 LEU A  94       5.471  19.343  43.854  1.00 18.09      1HRC H   new
+ATOM   1500 3HD1 LEU A  94       4.800  18.704  45.393  1.00 18.09      1HRC H   new
+ATOM   1501 1HD2 LEU A  94       6.056  16.038  45.378  1.00 16.99      1HRC H   new
+ATOM   1502 2HD2 LEU A  94       4.319  16.357  45.701  1.00 16.99      1HRC H   new
+ATOM   1503 3HD2 LEU A  94       4.795  15.157  44.452  1.00 16.99      1HRC H   new
+ATOM   1504  N   ILE A  95       4.124  16.968  39.966  1.00 28.50      1HRC 8
+ATOM   1505  CA  ILE A  95       5.027  16.818  38.790  1.00 25.28      1HRC 8
+ATOM   1506  C   ILE A  95       4.912  18.012  37.872  1.00 25.64      1HRC 8
+ATOM   1507  O   ILE A  95       5.902  18.506  37.313  1.00 25.00      1HRC 8
+ATOM   1508  CB  ILE A  95       4.880  15.451  38.050  1.00 26.12      1HRC 8
+ATOM   1509  CG1 ILE A  95       5.196  14.342  39.067  1.00 25.34      1HRC 8
+ATOM   1510  CG2 ILE A  95       5.728  15.317  36.748  1.00 25.59      1HRC 8
+ATOM   1511  CD1 ILE A  95       4.993  12.879  38.676  1.00 23.67      1HRC 8
+ATOM   1512  H   ILE A  95       3.398  16.284  40.030  1.00 28.50      1HRC H   new
+ATOM   1513  HA  ILE A  95       6.056  16.797  39.178  1.00 25.28      1HRC H   new
+ATOM   1514  HB  ILE A  95       3.847  15.367  37.682  1.00 26.12      1HRC H   new
+ATOM   1515 1HG1 ILE A  95       6.248  14.460  39.366  1.00 25.34      1HRC H   new
+ATOM   1516 2HG1 ILE A  95       4.584  14.532  39.961  1.00 25.34      1HRC H   new
+ATOM   1517 1HG2 ILE A  95       5.559  14.326  36.300  1.00 25.59      1HRC H   new
+ATOM   1518 2HG2 ILE A  95       5.429  16.098  36.033  1.00 25.59      1HRC H   new
+ATOM   1519 3HG2 ILE A  95       6.795  15.432  36.991  1.00 25.59      1HRC H   new
+ATOM   1520 1HD1 ILE A  95       5.268  12.231  39.522  1.00 23.67      1HRC H   new
+ATOM   1521 2HD1 ILE A  95       3.938  12.712  38.414  1.00 23.67      1HRC H   new
+ATOM   1522 3HD1 ILE A  95       5.627  12.639  37.810  1.00 23.67      1HRC H   new
+ATOM   1523  N   ALA A  96       3.686  18.504  37.645  1.00 26.41      1HRC 8
+ATOM   1524  CA  ALA A  96       3.567  19.677  36.739  1.00 20.70      1HRC 8
+ATOM   1525  C   ALA A  96       4.291  20.837  37.388  1.00 20.99      1HRC 8
+ATOM   1526  O   ALA A  96       5.008  21.537  36.606  1.00 24.47      1HRC 8
+ATOM   1527  CB  ALA A  96       2.112  19.885  36.376  1.00 17.24      1HRC 8
+ATOM   1528  H   ALA A  96       2.832  18.154  38.031  1.00 26.41      1HRC H   new
+ATOM   1529  HA  ALA A  96       4.058  19.537  35.765  1.00 20.70      1HRC H   new
+ATOM   1530 1HB  ALA A  96       2.021  20.752  35.706  1.00 17.24      1HRC H   new
+ATOM   1531 2HB  ALA A  96       1.728  18.988  35.868  1.00 17.24      1HRC H   new
+ATOM   1532 3HB  ALA A  96       1.528  20.066  37.290  1.00 17.24      1HRC H   new
+ATOM   1533  N   TYR A  97       4.231  21.031  38.691  1.00 21.02      1HRC 8
+ATOM   1534  CA  TYR A  97       5.004  22.168  39.310  1.00 22.09      1HRC 8
+ATOM   1535  C   TYR A  97       6.504  21.931  39.133  1.00 23.76      1HRC 8
+ATOM   1536  O   TYR A  97       7.236  22.913  38.794  1.00 22.41      1HRC 8
+ATOM   1537  CB  TYR A  97       4.600  22.524  40.761  1.00 18.06      1HRC 8
+ATOM   1538  CG  TYR A  97       5.615  23.351  41.549  1.00 21.69      1HRC 8
+ATOM   1539  CD1 TYR A  97       5.727  24.716  41.274  1.00 23.06      1HRC 8
+ATOM   1540  CD2 TYR A  97       6.535  22.769  42.428  1.00 21.89      1HRC 8
+ATOM   1541  CE1 TYR A  97       6.655  25.479  41.934  1.00 21.56      1HRC 8
+ATOM   1542  CE2 TYR A  97       7.498  23.561  43.124  1.00 22.28      1HRC 8
+ATOM   1543  CZ  TYR A  97       7.527  24.904  42.850  1.00 24.27      1HRC 8
+ATOM   1544  OH  TYR A  97       8.428  25.737  43.454  1.00 28.62      1HRC 8
+ATOM   1545  H   TYR A  97       3.701  20.474  39.331  1.00 21.02      1HRC H   new
+ATOM   1546  HA  TYR A  97       4.726  23.078  38.759  1.00 22.09      1HRC H   new
+ATOM   1547 1HB  TYR A  97       3.649  23.076  40.732  1.00 18.06      1HRC H   new
+ATOM   1548 2HB  TYR A  97       4.412  21.589  41.309  1.00 18.06      1HRC H   new
+ATOM   1549  HD1 TYR A  97       5.068  25.180  40.525  1.00 23.06      1HRC H   new
+ATOM   1550  HD2 TYR A  97       6.516  21.681  42.586  1.00 21.89      1HRC H   new
+ATOM   1551  HE1 TYR A  97       6.710  26.560  41.736  1.00 21.56      1HRC H   new
+ATOM   1552  HE2 TYR A  97       8.190  23.111  43.852  1.00 22.28      1HRC H   new
+ATOM   1553  HH  TYR A  97       8.996  25.211  44.087  1.00 28.62      1HRC H   new
+ATOM   1554  N   LEU A  98       6.969  20.740  39.459  1.00 23.52      1HRC 8
+ATOM   1555  CA  LEU A  98       8.397  20.409  39.340  1.00 26.83      1HRC 8
+ATOM   1556  C   LEU A  98       8.995  20.609  37.947  1.00 29.12      1HRC 8
+ATOM   1557  O   LEU A  98      10.124  21.098  37.831  1.00 29.78      1HRC 8
+ATOM   1558  CB  LEU A  98       8.632  18.959  39.773  1.00 23.36      1HRC 8
+ATOM   1559  CG  LEU A  98       8.682  18.658  41.243  1.00 21.15      1HRC 8
+ATOM   1560  CD1 LEU A  98       8.452  17.160  41.420  1.00 18.77      1HRC 8
+ATOM   1561  CD2 LEU A  98      10.060  19.037  41.804  1.00 22.49      1HRC 8
+ATOM   1562  H   LEU A  98       6.399  19.993  39.802  1.00 23.52      1HRC H   new
+ATOM   1563  HA  LEU A  98       8.912  21.122  40.001  1.00 26.83      1HRC H   new
+ATOM   1564 1HB  LEU A  98       7.836  18.343  39.330  1.00 23.36      1HRC H   new
+ATOM   1565 2HB  LEU A  98       9.581  18.625  39.329  1.00 23.36      1HRC H   new
+ATOM   1566  HG  LEU A  98       7.913  19.234  41.779  1.00 21.15      1HRC H   new
+ATOM   1567 1HD1 LEU A  98       8.483  16.908  42.490  1.00 18.77      1HRC H   new
+ATOM   1568 2HD1 LEU A  98       7.469  16.888  41.008  1.00 18.77      1HRC H   new
+ATOM   1569 3HD1 LEU A  98       9.238  16.603  40.889  1.00 18.77      1HRC H   new
+ATOM   1570 1HD2 LEU A  98      10.092  18.815  42.881  1.00 22.49      1HRC H   new
+ATOM   1571 2HD2 LEU A  98      10.839  18.457  41.287  1.00 22.49      1HRC H   new
+ATOM   1572 3HD2 LEU A  98      10.238  20.111  41.646  1.00 22.49      1HRC H   new
+ATOM   1573  N   LYS A  99       8.303  20.207  36.907  1.00 31.09      1HRC 8
+ATOM   1574  CA  LYS A  99       8.775  20.345  35.518  1.00 31.38      1HRC 8
+ATOM   1575  C   LYS A  99       9.068  21.807  35.180  1.00 32.89      1HRC 8
+ATOM   1576  O   LYS A  99      10.039  22.183  34.509  1.00 28.31      1HRC 8
+ATOM   1577  CB  LYS A  99       7.681  19.807  34.602  1.00 35.50      1HRC 8
+ATOM   1578  CG  LYS A  99       8.149  19.321  33.246  1.00 39.36      1HRC 8
+ATOM   1579  CD  LYS A  99       7.027  18.525  32.579  1.00 40.92      1HRC 8
+ATOM   1580  CE  LYS A  99       7.594  17.705  31.428  1.00 44.06      1HRC 8
+ATOM   1581  NZ  LYS A  99       6.588  17.640  30.341  1.00 46.74      1HRC 8
+ATOM   1582  H   LYS A  99       7.403  19.777  36.983  1.00 31.09      1HRC H   new
+ATOM   1583  HA  LYS A  99       9.710  19.782  35.384  1.00 31.38      1HRC H   new
+ATOM   1584 1HB  LYS A  99       7.173  18.977  35.115  1.00 35.50      1HRC H   new
+ATOM   1585 2HB  LYS A  99       6.932  20.598  34.450  1.00 35.50      1HRC H   new
+ATOM   1586 1HG  LYS A  99       8.433  20.176  32.615  1.00 39.36      1HRC H   new
+ATOM   1587 2HG  LYS A  99       9.044  18.692  33.358  1.00 39.36      1HRC H   new
+ATOM   1588 1HD  LYS A  99       6.548  17.862  33.314  1.00 40.92      1HRC H   new
+ATOM   1589 2HD  LYS A  99       6.250  19.209  32.207  1.00 40.92      1HRC H   new
+ATOM   1590 1HE  LYS A  99       8.524  18.161  31.058  1.00 44.06      1HRC H   new
+ATOM   1591 2HE  LYS A  99       7.848  16.691  31.772  1.00 44.06      1HRC H   new
+ATOM   1592 1HZ  LYS A  99       6.953  17.103  29.580  1.00 46.74      1HRC H + new
+ATOM   1593 2HZ  LYS A  99       5.754  17.208  30.684  1.00 46.74      1HRC H + new
+ATOM   1594 3HZ  LYS A  99       6.378  18.565  30.025  1.00 46.74      1HRC H + new
+ATOM   1595  N   LYS A 100       8.178  22.632  35.681  1.00 33.42      1HRC 8
+ATOM   1596  CA  LYS A 100       8.168  24.077  35.556  1.00 35.55      1HRC 8
+ATOM   1597  C   LYS A 100       9.338  24.664  36.311  1.00 34.70      1HRC 8
+ATOM   1598  O   LYS A 100      10.229  25.291  35.707  1.00 36.40      1HRC 8
+ATOM   1599  CB  LYS A 100       6.840  24.618  36.124  1.00 39.82      1HRC 8
+ATOM   1600  CG  LYS A 100       6.355  25.923  35.569  1.00 45.26      1HRC 8
+ATOM   1601  CD  LYS A 100       6.764  27.173  36.284  1.00 51.11      1HRC 8
+ATOM   1602  CE  LYS A 100       5.772  27.591  37.361  1.00 54.86      1HRC 8
+ATOM   1603  NZ  LYS A 100       5.969  29.038  37.677  1.00 55.86      1HRC 8
+ATOM   1604  H   LYS A 100       7.401  22.297  36.214  1.00 33.42      1HRC H   new
+ATOM   1605  HA  LYS A 100       8.257  24.362  34.497  1.00 35.55      1HRC H   new
+ATOM   1606 1HB  LYS A 100       6.060  23.861  35.955  1.00 39.82      1HRC H   new
+ATOM   1607 2HB  LYS A 100       6.951  24.727  37.213  1.00 39.82      1HRC H   new
+ATOM   1608 1HG  LYS A 100       6.702  25.999  34.528  1.00 45.26      1HRC H   new
+ATOM   1609 2HG  LYS A 100       5.256  25.892  35.541  1.00 45.26      1HRC H   new
+ATOM   1610 1HD  LYS A 100       7.752  27.021  36.742  1.00 51.11      1HRC H   new
+ATOM   1611 2HD  LYS A 100       6.870  27.989  35.554  1.00 51.11      1HRC H   new
+ATOM   1612 1HE  LYS A 100       4.742  27.415  37.016  1.00 54.86      1HRC H   new
+ATOM   1613 2HE  LYS A 100       5.917  26.983  38.266  1.00 54.86      1HRC H   new
+ATOM   1614 1HZ  LYS A 100       5.319  29.317  38.384  1.00 55.86      1HRC H + new
+ATOM   1615 2HZ  LYS A 100       6.902  29.184  38.006  1.00 55.86      1HRC H + new
+ATOM   1616 3HZ  LYS A 100       5.818  29.583  36.853  1.00 55.86      1HRC H + new
+ATOM   1617  N   ALA A 101       9.349  24.453  37.619  1.00 33.12      1HRC 8
+ATOM   1618  CA  ALA A 101      10.377  24.991  38.496  1.00 29.61      1HRC 8
+ATOM   1619  C   ALA A 101      11.751  24.401  38.370  1.00 30.09      1HRC 8
+ATOM   1620  O   ALA A 101      12.764  25.092  38.593  1.00 29.86      1HRC 8
+ATOM   1621  CB  ALA A 101       9.823  24.865  39.923  1.00 29.44      1HRC 8
+ATOM   1622  H   ALA A 101       8.655  23.912  38.094  1.00 33.12      1HRC H   new
+ATOM   1623  HA  ALA A 101      10.564  26.033  38.197  1.00 29.61      1HRC H   new
+ATOM   1624 1HB  ALA A 101      10.560  25.258  40.639  1.00 29.44      1HRC H   new
+ATOM   1625 2HB  ALA A 101       8.889  25.440  40.006  1.00 29.44      1HRC H   new
+ATOM   1626 3HB  ALA A 101       9.623  23.807  40.147  1.00 29.44      1HRC H   new
+ATOM   1627  N   THR A 102      11.868  23.121  38.057  1.00 30.79      1HRC 8
+ATOM   1628  CA  THR A 102      13.205  22.500  37.970  1.00 35.10      1HRC 8
+ATOM   1629  C   THR A 102      13.890  22.780  36.644  1.00 37.31      1HRC 8
+ATOM   1630  O   THR A 102      15.089  22.504  36.521  1.00 38.82      1HRC 8
+ATOM   1631  CB  THR A 102      13.171  20.958  38.323  1.00 33.42      1HRC 8
+ATOM   1632  OG1 THR A 102      12.525  20.338  37.152  1.00 32.83      1HRC 8
+ATOM   1633  CG2 THR A 102      12.461  20.599  39.635  1.00 32.15      1HRC 8
+ATOM   1634  H   THR A 102      11.101  22.508  37.866  1.00 30.79      1HRC H   new
+ATOM   1635  HA  THR A 102      13.825  22.982  38.740  1.00 35.10      1HRC H   new
+ATOM   1636  HB  THR A 102      14.189  20.587  38.511  1.00 33.42      1HRC H   new
+ATOM   1637  HG1 THR A 102      12.461  19.350  37.290  1.00 32.83      1HRC H   new
+ATOM   1638 1HG2 THR A 102      12.494  19.510  39.784  1.00 32.15      1HRC H   new
+ATOM   1639 2HG2 THR A 102      12.966  21.099  40.475  1.00 32.15      1HRC H   new
+ATOM   1640 3HG2 THR A 102      11.413  20.930  39.588  1.00 32.15      1HRC H   new
+ATOM   1641  N   ASN A 103      13.246  23.311  35.634  1.00 43.65      1HRC 8
+ATOM   1642  CA  ASN A 103      13.984  23.575  34.367  1.00 49.75      1HRC 8
+ATOM   1643  C   ASN A 103      14.162  25.084  34.166  1.00 54.29      1HRC 9
+ATOM   1644  O   ASN A 103      14.832  25.467  33.181  1.00 55.24      1HRC 9
+ATOM   1645  CB  ASN A 103      13.344  22.876  33.198  1.00 51.33      1HRC 9
+ATOM   1646  CG  ASN A 103      12.083  23.428  32.598  1.00 55.81      1HRC 9
+ATOM   1647  OD1 ASN A 103      11.773  23.167  31.415  1.00 59.18      1HRC 9
+ATOM   1648  ND2 ASN A 103      11.287  24.227  33.318  1.00 56.98      1HRC 9
+ATOM   1649  H   ASN A 103      12.278  23.563  35.633  1.00 43.65      1HRC H   new
+ATOM   1650  HA  ASN A 103      14.994  23.145  34.439  1.00 49.75      1HRC H   new
+ATOM   1651 1HB  ASN A 103      14.094  22.825  32.395  1.00 51.33      1HRC H   new
+ATOM   1652 2HB  ASN A 103      13.134  21.842  33.509  1.00 51.33      1HRC H   new
+ATOM   1653 1HD2 ASN A 103      10.457  24.606  32.909  1.00 56.98      1HRC H   new
+ATOM   1654 2HD2 ASN A 103      11.522  24.445  34.265  1.00 56.98      1HRC H   new
+ATOM   1655  N   GLU A 104      13.586  25.877  35.019  1.00 58.35      1HRC 9
+ATOM   1656  CA  GLU A 104      13.512  27.315  35.151  1.00 63.45      1HRC 9
+ATOM   1657  C   GLU A 104      12.204  27.885  34.571  1.00 65.02      1HRC 9
+ATOM   1658  O   GLU A 104      11.592  27.255  33.671  1.00 66.36      1HRC 9
+ATOM   1659  CB  GLU A 104      14.664  28.129  34.556  1.00 66.38      1HRC 9
+ATOM   1660  CG  GLU A 104      15.876  28.383  35.439  1.00 70.70      1HRC 9
+ATOM   1661  CD  GLU A 104      17.225  28.267  34.787  1.00 74.42      1HRC 9
+ATOM   1662  OE1 GLU A 104      17.585  27.334  34.074  1.00 75.21      1HRC 9
+ATOM   1663  OE2 GLU A 104      17.975  29.244  35.056  1.00 76.27      1HRC 9
+ATOM   1664  OXT GLU A 104      11.792  28.961  35.048  1.00 66.08      1HRC 9
+ATOM   1665  H   GLU A 104      13.069  25.460  35.766  1.00 58.35      1HRC H   new
+ATOM   1666  HA  GLU A 104      13.570  27.433  36.243  1.00 63.45      1HRC H   new
+ATOM   1667 1HB  GLU A 104      15.009  27.614  33.647  1.00 66.38      1HRC H   new
+ATOM   1668 2HB  GLU A 104      14.263  29.104  34.241  1.00 66.38      1HRC H   new
+ATOM   1669 1HG  GLU A 104      15.786  29.394  35.863  1.00 70.70      1HRC H   new
+ATOM   1670 2HG  GLU A 104      15.840  27.677  36.282  1.00 70.70      1HRC H   new
+HETATM 1671 FE   HEM A 105      13.485  13.897  48.453  1.00 15.26      1HRC 9
+HETATM 1672  CHA HEM A 105      16.126  12.206  46.942  1.00 14.76      1HRC 9
+HETATM 1673  CHB HEM A 105      12.193  14.554  45.459  1.00 18.27      1HRC 9
+HETATM 1674  CHC HEM A 105      10.597  14.823  50.014  1.00 15.08      1HRC 9
+HETATM 1675  CHD HEM A 105      15.138  13.964  51.389  1.00 12.57      1HRC 9
+HETATM 1676  N A HEM A 105      14.106  13.487  46.586  1.00 13.92      1HRC 9
+HETATM 1677  C1A HEM A 105      15.158  12.740  46.124  1.00 14.25      1HRC 9
+HETATM 1678  C2A HEM A 105      14.973  12.556  44.686  1.00 13.02      1HRC 9
+HETATM 1679  C3A HEM A 105      13.905  13.175  44.298  1.00 10.84      1HRC 9
+HETATM 1680  C4A HEM A 105      13.309  13.782  45.474  1.00 12.01      1HRC 9
+HETATM 1681  CMA HEM A 105      13.107  13.448  42.970  1.00  6.24      1HRC 9
+HETATM 1682  CAA HEM A 105      15.992  11.737  43.828  1.00 12.87      1HRC 9
+HETATM 1683  CBA HEM A 105      16.936  12.777  43.094  1.00 13.19      1HRC 9
+HETATM 1684  CGA HEM A 105      17.924  12.183  42.139  1.00 15.70      1HRC 9
+HETATM 1685  O1A HEM A 105      18.968  12.892  41.933  1.00 19.90      1HRC 9
+HETATM 1686  O2A HEM A 105      17.661  11.068  41.625  1.00 11.10      1HRC 9
+HETATM 1687  N B HEM A 105      11.755  14.553  47.843  1.00 15.12      1HRC 9
+HETATM 1688  C1B HEM A 105      11.387  14.833  46.535  1.00 17.59      1HRC 9
+HETATM 1689  C2B HEM A 105      10.082  15.401  46.492  1.00 17.42      1HRC 9
+HETATM 1690  C3B HEM A 105       9.621  15.462  47.742  1.00 14.51      1HRC 9
+HETATM 1691  C4B HEM A 105      10.677  14.961  48.641  1.00 16.86      1HRC 9
+HETATM 1692  CMB HEM A 105       9.333  15.842  45.191  1.00 18.73      1HRC 9
+HETATM 1693  CAB HEM A 105       8.270  15.968  48.259  1.00 16.71      1HRC 9
+HETATM 1694  CBB HEM A 105       7.016  15.109  48.094  1.00 12.08      1HRC 9
+HETATM 1695  N C HEM A 105      12.952  14.293  50.377  1.00 11.90      1HRC 9
+HETATM 1696  C1C HEM A 105      11.699  14.673  50.841  1.00 11.41      1HRC 9
+HETATM 1697  C2C HEM A 105      11.785  14.949  52.238  1.00 17.75      1HRC 9
+HETATM 1698  C3C HEM A 105      13.054  14.694  52.658  1.00 12.51      1HRC 9
+HETATM 1699  C4C HEM A 105      13.807  14.328  51.463  1.00 13.42      1HRC 9
+HETATM 1700  CMC HEM A 105      10.608  15.430  53.129  1.00 20.66      1HRC 9
+HETATM 1701  CAC HEM A 105      13.682  14.941  54.045  1.00 13.51      1HRC 9
+HETATM 1702  CBC HEM A 105      12.892  14.500  55.297  1.00  8.94      1HRC 9
+HETATM 1703  N D HEM A 105      15.261  13.261  49.061  1.00 13.91      1HRC 9
+HETATM 1704  C1D HEM A 105      15.777  13.379  50.322  1.00 12.07      1HRC 9
+HETATM 1705  C2D HEM A 105      17.080  12.728  50.343  1.00 14.72      1HRC 9
+HETATM 1706  C3D HEM A 105      17.329  12.254  49.150  1.00 13.65      1HRC 9
+HETATM 1707  C4D HEM A 105      16.198  12.541  48.291  1.00 17.25      1HRC 9
+HETATM 1708  CMD HEM A 105      17.965  12.675  51.615  1.00 10.76      1HRC 9
+HETATM 1709  CAD HEM A 105      18.595  11.483  48.665  1.00 14.25      1HRC 9
+HETATM 1710  CBD HEM A 105      18.409  10.000  49.020  1.00 15.19      1HRC 9
+HETATM 1711  CGD HEM A 105      19.542   9.069  48.712  1.00 14.64      1HRC 9
+HETATM 1712  O1D HEM A 105      20.558   9.435  48.119  1.00 13.38      1HRC 9
+HETATM 1713  O2D HEM A 105      19.283   7.909  49.105  1.00 15.70      1HRC 9
+HETATM 1714  HHA HEM A 105      16.858  11.500  46.522  1.00 14.76      1HRC H   new
+HETATM 1715  HHB HEM A 105      11.907  14.998  44.494  1.00 18.27      1HRC H   new
+HETATM 1716  HHC HEM A 105       9.600  14.833  50.478  1.00 15.08      1HRC H   new
+HETATM 1717  HHD HEM A 105      15.752  14.164  52.280  1.00 12.57      1HRC H   new
+HETATM 1718 1HMA HEM A 105      13.618  12.959  42.128  1.00  6.24      1HRC H   new
+HETATM 1719 2HMA HEM A 105      13.057  14.532  42.788  1.00  6.24      1HRC H   new
+HETATM 1720 3HMA HEM A 105      12.088  13.045  43.065  1.00  6.24      1HRC H   new
+HETATM 1721 1HMB HEM A 105       8.344  16.246  45.455  1.00 18.73      1HRC H   new
+HETATM 1722 2HMB HEM A 105       9.209  14.974  44.527  1.00 18.73      1HRC H   new
+HETATM 1723 3HMB HEM A 105       9.919  16.617  44.675  1.00 18.73      1HRC H   new
+HETATM 1724 1HMC HEM A 105      10.960  15.563  54.163  1.00 20.66      1HRC H   new
+HETATM 1725 2HMC HEM A 105       9.803  14.681  53.110  1.00 20.66      1HRC H   new
+HETATM 1726 3HMC HEM A 105      10.226  16.388  52.747  1.00 20.66      1HRC H   new
+HETATM 1727 1HMD HEM A 105      18.897  12.135  51.392  1.00 10.76      1HRC H   new
+HETATM 1728 2HMD HEM A 105      17.423  12.153  52.418  1.00 10.76      1HRC H   new
+HETATM 1729 3HMD HEM A 105      18.203  13.699  51.940  1.00 10.76      1HRC H   new
+HETATM 1730  HAB HEM A 105       8.202  16.950  48.749  1.00 16.71      1HRC H   new
+HETATM 1731 1HBB HEM A 105       6.047  15.473  48.466  1.00 12.08      1HRC H   new
+HETATM 1732 2HBB HEM A 105       7.083  14.127  47.604  1.00 12.08      1HRC H   new
+HETATM 1733  HAC HEM A 105      14.668  15.419  54.140  1.00 13.51      1HRC H   new
+HETATM 1734 1HBC HEM A 105      13.314  14.663  56.300  1.00  8.94      1HRC H   new
+HETATM 1735 2HBC HEM A 105      11.907  14.023  55.186  1.00  8.94      1HRC H   new
+HETATM 1736 1HBA HEM A 105      17.486  13.349  43.856  1.00 13.19      1HRC H   new
+HETATM 1737 2HBA HEM A 105      16.307  13.494  42.546  1.00 13.19      1HRC H   new
+HETATM 1738 1HAA HEM A 105      15.465  11.108  43.095  1.00 12.87      1HRC H   new
+HETATM 1739 2HAA HEM A 105      16.581  11.062  44.466  1.00 12.87      1HRC H   new
+HETATM 1740 1HBD HEM A 105      17.516   9.634  48.493  1.00 15.19      1HRC H   new
+HETATM 1741 2HBD HEM A 105      18.197   9.933  50.097  1.00 15.19      1HRC H   new
+HETATM 1742 1HAD HEM A 105      19.499  11.884  49.147  1.00 14.25      1HRC H   new
+HETATM 1743 2HAD HEM A 105      18.728  11.605  47.580  1.00 14.25      1HRC H   new
+HETATM 1744  C   ACE A   0      -2.430  17.523  35.667  1.00 56.80      1HRC
+HETATM 1745  O   ACE A   0      -1.433  17.175  35.003  1.00 58.93      1HRC
+HETATM 1746  CH3 ACE A   0      -3.642  16.690  35.930  1.00 60.08      1HRC
+HETATM 1747 1HH3 ACE A   0      -3.763  16.550  37.014  1.00 60.08      1HRC H   new
+HETATM 1748 2HH3 ACE A   0      -4.530  17.196  35.524  1.00 60.08      1HRC H   new
+HETATM 1749 3HH3 ACE A   0      -3.526  15.709  35.445  1.00 60.08      1HRC H   new
+ENDA

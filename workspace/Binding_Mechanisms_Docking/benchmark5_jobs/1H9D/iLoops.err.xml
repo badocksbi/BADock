@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml>
+  <protein>
+    <name>1H9D_l_b</name>
+    <error_id>P_NO_FEATURE</error_id>
+    <error>Unable to assign the requested structural features by sequence homology</error>
+  </protein>
+  <interaction>
+    <P1ID>1H9D_r_b</P1ID>
+    <P2ID>1H9D_l_b</P2ID>
+    <error_id>I_NO_PROT_FEATURE</error_id>
+    <error>Due to the inhability to assign structural features to one or both participants</error>
+  </interaction>
+</xml>

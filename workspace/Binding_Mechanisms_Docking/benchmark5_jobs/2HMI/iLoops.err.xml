@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml>
+  <interaction>
+    <P1ID>2HMI_l_b</P1ID>
+    <P2ID>2HMI_r_b</P2ID>
+    <error_id>I_BIGMEM</error_id>
+    <error>Due to the higher number of possible combinations</error>
+  </interaction>
+</xml>
