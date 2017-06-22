@@ -4,4 +4,8 @@ Prediction of protein interactions binding affinity from unbound tertiary struct
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+**db**: Contains the two datasets used in the analysis, Affinity Benchmark 2 and Docking Benchmark 5
+**src**: Contains the source code
+**workspace**: Contains the results of the analysis
+**BADock_quim**: Contains the analysis of the revision
+
