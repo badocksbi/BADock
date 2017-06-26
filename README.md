@@ -13,7 +13,7 @@ Prediction of protein interactions binding affinity from unbound tertiary struct
 
 ### BADock/src
 
-#### __Binding Affinity Docking__
+#### Binding Affinity Docking
 
 Prediction of binding affinities using all the docking poses from the unbound protein structures.
 
@@ -39,7 +39,7 @@ Prediction of binding affinities using all the docking poses from the unbound pr
 * **CCharPPI_affinityparse.py**: Performs the prediction of binding affinities using the CCharPPI server results.
 
 
-#### __Binding Mechanism Docking__
+#### Binding Mechanisms Docking
 
 Analysis of the conformational space of the encounter complexes in four classes (Near-Native, Face-Face, Face-Back and Back-Back).
 
@@ -62,4 +62,45 @@ Analysis of the conformational space of the encounter complexes in four classes 
 * **plot_method_example.py**: Plot the figures of the examples of decoy classification by location (Supplementary Figure S1).
 
 * **show_byprotein.py**: Print the score distributions of each location for each PPI.
+
+
+#### BioLib
+
+Python library used for the analyses of BADock.
+
+
+
+### BADock/workspace
+
+#### Binding Affinity Docking
+
+* **ba_jobs**: Folder containing the Affinity results of all the protein-protein interactions in Affinity Benchmark 2.
+* **img**: Folder containing the resulting images.
+* **CCharPPI_AffinityBenchmark.csv**: File containing the scores from the CCharPPI server
+* **scores_native.txt**: File containing the scores of the native decoys
+
+#### Binding Mechanisms Docking
+
+* **benchmark5_jobs**: Folder containing the Mechanisms results of all the protein-protein interactions in Docking Benchmark 5.
+* **figures**: Folder containing the resulting images.
+* **figure_method.csv**: File containing the images of the examples of location (from *plot_method_example.py*).
+* **scores_locations_E+OX.txt**: File containing the scores of the protein-protein interactions
+
+
+
+### BADock/revision
+
+#### BADock/revision/workspace
+
+This folder contains all the results asked in the revision and includes a report of these changes explaining them and how to obtain them.
+
+* **revision_questions_report.pdf**: Report explaining the major changes in the review
+* **Figures**: Folder containing the figures included in the review
+* **Tables**: Folder containing the tables included in the review
+
+#### BADock/revision/src
+
+This folder contains all the source code to obtain the changes of the review and includes a README explaining how to execute the scripts. 
+
+* **README**: Report explaining how to execute the scripts of the changes in the revision
 
