@@ -13,7 +13,7 @@ Prediction of protein interactions binding affinity from unbound tertiary struct
 
 ### BADock/src
 
-#### Binding Affinity Docking
+#### __Binding Affinity Docking__
 
 Prediction of binding affinities using all the docking poses from the unbound protein structures.
 
@@ -39,7 +39,7 @@ Prediction of binding affinities using all the docking poses from the unbound pr
 * **CCharPPI_affinityparse.py**: Performs the prediction of binding affinities using the CCharPPI server results.
 
 
-#### Binding Mechanism Docking
+#### __Binding Mechanism Docking__
 
 Analysis of the conformational space of the encounter complexes in four classes (Near-Native, Face-Face, Face-Back and Back-Back).
 
