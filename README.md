@@ -55,4 +55,11 @@ Analysis of the conformational space of the encounter complexes in four classes 
 
   ***Until here, it is not necessary to run the scripts because the results are already in BADock/workspace)***
 
+* **analyze_scores.py**: Get the scores of each decoy for each protein-protein interaction and analyze the different locations (Near-Native, Face-Face, Face-Back and Back-Back)
+.
+* **print_score_results.py**: Plot the boxplots of scores depending on the location (Near-Native, Face-Face, Face-Back and Back-Back) (Figure 1, Supplementary Figures S2, S3, S4).
+
+* **plot_method_example.py**: Plot the figures of the examples of decoy classification by location (Supplementary Figure S1).
+
+* **show_byprotein.py**: Print the score distributions of each location for each PPI.
 
