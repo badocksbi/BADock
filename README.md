@@ -104,3 +104,14 @@ This folder contains all the source code to obtain the changes of the review and
 
 * **README**: Report explaining how to execute the scripts of the changes in the revision
 
+
+## Authors
+
+* **Manuel Alejandro Marín-López**
+* **Joan Planas-Iglesias**
+* **Joaquim Aguirre-Plans**
+* **Jaume Bonet**
+* **Javier Garcia-Garcia**
+* **Narcís Fernandez-Fuentes**
+* **Baldo Oliva**
+
