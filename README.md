@@ -30,7 +30,7 @@ Prediction of binding affinities using all the docking poses from the unbound pr
 
 * **setup_score.py**: Scores the decoys using statistical potentials.
 
-***Until here, it is not necessary to run the scripts because the results are already in BADock/workspace)***
+  ***Until here, it is not necessary to run the scripts because the results are already in BADock/workspace)***
 
 * **score_nativecomplex.py**: Scores the native complexes of the dataset.
 
@@ -53,7 +53,7 @@ Analysis of the conformational space of the encounter complexes in four classes 
 
 * **setup_score.py**: Scores the decoys using statistical potentials.
 
-***Until here, it is not necessary to run the scripts because the results are already in BADock/workspace)***
+  ***Until here, it is not necessary to run the scripts because the results are already in BADock/workspace)***
 
 * **analyze_scores.py**: Get the scores of each decoy for each protein-protein interaction and analyze the different locations (Near-Native, Face-Face, Face-Back and Back-Back)
 .
