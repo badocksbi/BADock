@@ -30,7 +30,7 @@ Prediction of binding affinities using all the docking poses from the unbound pr
 
 * **setup_score.py**: Scores the decoys using statistical potentials *(not necessary, the results are already in BADock/workspace)*.
 
-  * Until here, it is not necessary to run the scripts because the results are already in BADock/workspace)*
+  *Until here, it is not necessary to run the scripts because the results are already in BADock/workspace)*
 
 * **score_nativecomplex.py**: Scores the native complexes of the dataset.
 
